@@ -1,0 +1,84 @@
+{
+    "name": "Sumo BBQ - Lê Lai - Buffet Nướng & Lẩu",
+    "link": "https://www.foody.vn/ho-chi-minh/sumo-bbq-le-lai-buffet-nuong-lau",
+    "address": "134 - 136 Lê Lai, P. Bến Thành,  Quận 1, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "100.000đ - 600.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/buffet-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sumo-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "140"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Xuân Thơ Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/tho.nguyenxuan.ag",
+            "score": "9.2",
+            "comment": "Mình và nhỏ bạn đến ăn hôm thứ tư - 27/09. Các nhận xét khác cũng rất đầy đủ rồi nên mình ko bình loạn gì thêm. Tụi mình chọn suất 299k. Ăn thì no căng luôn nè. Nhân viên thay vỉ và thêm than liên tục nhé. Gọi món lên cũng rất nhanh. Riêng quầy tự chọn mình thấy hơi ít món thôi à. Còn lại cả về chất lượng, phục vụ lẫn vị trí đều ổn nè. 2 đứa mình thích ăn hải sản nên đa phần chọn gọi hải sản thôi ạ. :3Khi thanh toán còn được tặng thêm cái coupon 15% sử dụng đến hết tháng 10 nữa nhé."
+        },
+        {
+            "user": "Bích Huỳnh Thị Hồng",
+            "link": "https://www.foody.vn/thanh-vien/bichhuynh2905",
+            "score": "8.2",
+            "comment": "Nói chung nói về thịt nướng thì mình thích ở đây nhất, chất lượng nhất, mà giá có phần cao hơn so với các thương hiệu khác, nhưng rất xứng đáng á. Buffet 339k chưa bao gồm vat và nước, đầy đủ tất cả từ thịt heo, bò, hài sản, bò là tuyệt nhất, ướp ngon, nước chấm ngon lun. Gọi đồ nướng khí thế nên ko còn bụng ăn lẩu luôn. Không gian kiểu riêng tư, ko ồn ào, mát mẻ.Nhân viên nhiệt tình, chuyên nghiệp.Sumo nổi tiếng thì khỏi bàn rồi, nay mới có dịp thử, rất hài lòng."
+        },
+        {
+            "user": "Thanh Vân",
+            "link": "https://www.foody.vn/thanh-vien/dinhphamthanhvan",
+            "score": "8.6",
+            "comment": "Phải nói là muốn ăn thịt bò thì vào sumo :3Không gian rộng, thoáng, nhân viên nhanh nhẹn nhiệt tình, chu đáo. Đồ ăn thì rất nhiều loại thịt, cá và hải sản, đặc biệt thịt bò rất tươi, ngon, dày và mềm, các món hải sản cũng rất tươi. Các món ăn khác như sushi, bánh xèo, mỳ xào ăn vừa miệng. Tuy chỉ có cái tempura rất là nhiều dầu, cực kỳ ko thích xíu nào 😒 chi nhánh nào cũng vậy. À trong menu chỉ có lẩu chanko thôi nhưng mình hỏi có lẩu miso kimchi ko thì vẫn có nhé, lẩu kim chi ăn với rau, nấm, hải sản và mỳ Hàn Quốc ăn rất ngon miệng, chua chua đã lắm.Tráng miệng ở đây có chè, trái cây, kem, tha hồ mà lựa.Giá tối là 339k/nguoi chưa VAT và nước nhé"
+        },
+        {
+            "user": "Hùng Trần",
+            "link": "https://www.foody.vn/thanh-vien/hungtran1",
+            "score": "8.4",
+            "comment": "+ Không gian: thoáng mát, rộng rãi. Nhìn bên ngoài nhỏ nhưng vô trong hoành tráng lắm, có cả trên lầu.+Giá cả: mình chọn giá 339k ( chưa VAT và nước ) là đầy đủ thịt, hải sản rồi, chỉ ko có 5 loại bò đặc biệt, ăn no nê đi ko nổi luôn, ăn nương xong tụi mình order lẩu húp cho đỡ ngán. Nước lẩu thanh ngọt, vừa miệng. Quầy buffet line rất phong phú và nhiều màu sắc, nhìn là muốn ăn liền :))+Phục vụ: nhiệt tình, chu đáo, thay vỉ liên tục. , nói chuyện lễ phép dạ thưa đàng hoàng. Bàn mình hay ghẹo mấy chị nhân viên rồi hỏi tùm lum mà mấy chị cũng cười xong trả lời chứ ko có khó chịu j hết. Like mạnh nè. Chứ đa số những nhà hàng đông mình từng đi mà giỡn vậy nhân viên hay quạo lắm :)) Cuối giờ có chị quản lý mặc áo xám ra hỏi bàn mình dùng bữa có ngon miệng ko và có điều gì làm tụi mình ko vừa lòng trong khi dùng bữa không, mình rất thích điểm này.+ Đồ ăn ướp hơi nhạt nhưng khi chấm với nước chấm rất vừa miệng. Đồ ăn xuống hơi chậm nhưng nhà hàng đông nên chấp nhận được, trong lúc đó thì ăn sushi, bánh xèo cũng khá ngon. Thịt và hải sản ở đây  khá tươi+Không khí ở đây rất tấp nập, khách thì ra vô liên tục, mấy chị nhân viên di chuyển liên tục ( mình thấy hầu như mấy chị k hề nghỉ tay).  Nhưng do đông quá nên đôi lúc mình thấy rất ồn ào.Mình high recommend cho các bạn địa điểm này nếu thèm bbq và ăn nhiều nha. Phù hợp cho gia đình hay tụ tập bạn nè luôn. Vote 4/5, trừ 1 điểm wc ở trên lầu, mỗi lần đi phải leo lên leo xuống hơi mất sức :)"
+        },
+        {
+            "user": "Thuỷ Cao",
+            "link": "https://www.foody.vn/thanh-vien/louloutht",
+            "score": "7.6",
+            "comment": "Vị trí: ko biết sao chứ mình đi thấy nó hơi chìm nên phải để ý kĩ mắc công chạy qua mấtChất lượng thức ăn: thức ăn mỗi phần hơi ít, nêm nếm vừa miệng.Chất lượng phục vụ: phục vụ nhanh nhẹn, vui vẻ. Nhưng nên chú ý hơn vì hay đưa nhầm món, thiếu món phải nhắc lại mới đưa đúng món và đủ.Không gian: rộng rãi tuy nhiên máy hút trên lầu quá tệ nên làm khói bay đầy người."
+        }
+    ]
+}

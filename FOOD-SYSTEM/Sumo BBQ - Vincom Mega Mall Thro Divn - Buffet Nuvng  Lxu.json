@@ -1,0 +1,80 @@
+{
+    "name": "Sumo BBQ - Vincom Mega Mall Thảo Điền - Buffet Nướng & Lẩu",
+    "link": "https://www.foody.vn/ho-chi-minh/sumo-bbq-vincom-mega-mall-thao-dien-buffet-nuong-lau",
+    "address": "Tầng 4, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền,  Quận 2, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "300.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sumo-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "42"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hoàng Thị Quỳnh Anh",
+            "link": "https://www.foody.vn/thanh-vien/quynh_anh329",
+            "score": "7.8",
+            "comment": "3 đứa đi ăn hết gần 1tr3 (không nhớ rõ lắm, nhưng tầm đó). Mỗi đứa hình như 350k , chưa tính tiền nước. Phải nói ăn phủ phê, thịt mềm, ướp đậm đà, thích nhất xúc xích ở đây : to và dài =))) Cơ mà sinh nhật được tặng bia tươi nữa nhé, bao nhiêu tuổi được bấy nhiêu ly thì phải. À nhớ phải mang theo CMND để ngta biết là sinh nhật mình nhé. Hôm đó quên mang CMND, khong là uống bia thoải mái rồi 😩😩😩"
+        },
+        {
+            "user": "feedfeed321",
+            "link": "https://www.foody.vn/thanh-vien/feedfeed321",
+            "score": "8.4",
+            "comment": "Đến vào tối cuối tuần nên khá đông. Gia đình mình phải gọi đặt trước thì mới có chỗ.- Chất lượng: đồ ăn ở đây đa dạng, thịt, cá mình thấy đều tươi cả. Có quầy salad để gắp ăn kèm cho đỡ ngán. Quầy chè, kem để tráng miệng sau khi ăn nữa.- Giá cả: giá ok nhưng do ăn đồ nướng no quá rồi nên nhà mình ko ai ăn thêm được lẩu cả, tính ra vậy thì hơi thiệt xíu.- Phục vụ: mấy bạn nhân viên phục vụ rất tận tình, thay vỉ nướng liên tục, thấy trên bàn vơi đồ ăn thì chạy ra hỏi có cần order thêm không liền.Tổng hợp lại là rất đáng để quay lại, nhưng bữa sau phải dành bụng để ăn lẩu :))"
+        },
+        {
+            "user": "Tuấn Phạm",
+            "link": "https://www.foody.vn/thanh-vien/tommy311244",
+            "score": 0,
+            "comment": "Đó giờ ăn ở sumo chưa bao giờ bị gì, đặc biệt là ăn tại đây.  Nhưng dạo này khi tới ăn mỗi lần kêu phần combo thịt canada gì,thì ra thịt cứ có cái màu xanh xanh ở tâm và rìa, nhưng mình vẫn không để ý lắm. Nay gia đình rủ nhau đi ăn sumo kêu cũng 1 phần combo như vậy thấy thịt cũng như vậy và cũng không để ý luôn :)) ai ngờ về nhà bị tào tháo rượt, bụng thì cứ có cảm giác khó chịu. Chắc từ nay bỏ ăn sumo luôn quá."
+        },
+        {
+            "user": "Quỳnh Trúc",
+            "link": "https://www.foody.vn/thanh-vien/no0ns2s0me0ne.2k11",
+            "score": "8.0",
+            "comment": "Sumo luôn là lựa chọn hàng đầu của mình khi thèm ăn thịt nướng. Menu đa dạng, nhiều loại sốt đi kèm nên ăn không bị mau ngán. Ngoài thịt ra thì mình thích ăn ốc tỏi, nầm heo, mực nang nhất. Set sushi ăn cũng rất ngon. Nhân viên ở đây phục vụ rất tốt, vui vẻ với khách hàng, thay vỉ thường xuyên. Không gian ổn, thoáng mát."
+        },
+        {
+            "user": "Triều Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/npht.96",
+            "score": "7.8",
+            "comment": "Lâu lâu thèm ăn đồ nướng với đuọc thêm voucher khuyến mãi combo phần ăn nên mình ghé ở đây. - Vị trí:  Quán có vị trí rất thuận lợi vì nằm trong trung tâm mua sắm nên số lượng khách cũng đông khách. Cách bài trí của các quán sumo BBQ thì tương tự nhau, luôn tạo được không gian thân mật và riêng tư.- Phục vụ: Nhân viện phục vụ nhanh nhẹn và rất nhiệt tình. Thay vỉ liên tục, thấy đồ ăn trên bàn vơi dần là đến hỏi mình cần order gì thêm luôn không chứ không đợi mình gọi. Chị quản lý thì năng động, xử lý tình huống rất linh hoạt (vì voucher của mình không có chữ ký của quản lý tại đơn vị tặng voucher nhưng quản lý bên này cũng giải quyết trong vòng 1 nốt nhạc).- Đồ ăn: theo mình thì đồ ăn của các chi nhánh sumo đều không quá khác biệt. Rau củ thì tươi, đồ ăn chế biến sẵn cũng dễ dùng. Thịt miếng cắt vừa phải, tươi, ướp vừa đủ nên ăn vào có trải nghiệm rất tốt.- Dịch vụ: quán có bình nước trái cây (mình quên tên) giá 98k cho 2 người uống rất hợp lý, vừa đủ cho bữa ăn. Ngoài ra quán cũng có kem, chè và trái cây tráng miệng (tuy nhiên không ngon lắm).Sẽ quay lại!"
+        }
+    ]
+}

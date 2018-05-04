@@ -1,0 +1,74 @@
+{
+    "name": "Bunny Garden Grill - Vườn Nướng Chú Thỏ",
+    "link": "https://www.foody.vn/ho-chi-minh/bunny-garden-grill-vuon-nuong-chu-tho",
+    "address": "Mũi Tàu Quốc Lộ 22 - Hương Lộ 2,  Củ Chi, TP. HCM",
+    "open_time": "09:00 AM - 11:00 PM",
+    "price_range": "45.000đ - 250.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Beer club",
+            "link": "https://www.foody.vn/ho-chi-minh/food/beer-club"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "4"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Thao Trinh",
+            "link": "https://www.foody.vn/thanh-vien/thao.trinhmh",
+            "score": "7.0",
+            "comment": "Mình ghé quán buổi trưa để ăn trưa. Oà oà nóng nóng nóng. Mình biết quán này vì đi ngang đường thấy và đúng giờ ăn trưa luôn nên ghé. Mình nói với phục vụ là mình muốn gọi cơmăn trưa cho 4 người và nhờ tư vấn, vì mình biết ở đây là quán nhậu. Mình gọi rau luộc kho  quẹt, canh chua cá diêu hồng, đậu hũ chiên xả và gà kho gừng. Wow wow, sau một thời gian chờ đợi, thức ăn đưa ra món nào món đoa bự chà bá lửa, 4 người nhìn vào chừng đó no luôn huhuhu. Ăn không hết phải gói về luôn nè. Đồ ăn chế biến cũng ngon nhưng nóng quá nên ăn no thôi. Với lại nếu như phục vụ tư vấn tốt hơn thì không đến nỗi nhìn thức ăn nhiều thấy ngán, mất ngon.Trước ở khu này kiếm quán ăn được được khó, toàn đi ăn bò tơ, giờ thêm lựa chọn cũng tốt."
+        },
+        {
+            "user": "Quân Chủ",
+            "link": "https://www.foody.vn/thanh-vien/qunch",
+            "score": "9.2",
+            "comment": "🏚 Quán này gần nhà mình. Nằm ngay mặt đường Quốc lộ 22 dễ thấy. Không gian trang trí đẹp lắm. Đa dạng có phòng có chồi ngồi chung ở trong nữa.🍴 Đồ ăn ngon nhưng giá hơi cao xí.    🍲🍗 Lẩu gà tiềm ớt hiểm ở đây là số 1 lung. Gà là gà tre nhỏ chứ k phải gà công nghiệp. Nồi lẩu chừng 2 người ăn à. Mắc ít nhưng chất lượng vô cùng. Vị ngon, nấu chung đậu phộng, củ mì , rau cần ô và salad xoong nhí.      🍀 Món yêu thích thứ 2 và lúc nào ăn cũng kêu là salad trộn. Rất thích món này ở đây ngon lắm lung.      🌯 Hình như ở đây chỉ có 1 món chả giò. Cũng ngon lắm lung.      🍆 Đồ nướng ăn cũng ngon lắm.🎎 Nhân viên nhiệt tình. Có giữ xe miễn phí.⭕️ Hơi đắt k biết s chứ trung bình 2 đứa ăn khoảng 500. Nhưng mà ưng nhắm. Đồ ăn ngon không gian lại thoải mái."
+        },
+        {
+            "user": "Quân Chủ",
+            "link": "https://www.foody.vn/thanh-vien/qunch",
+            "score": "9.2",
+            "comment": "🏚 Quán này gần nhà mình. Nằm ngay mặt đường Quốc lộ 22 dễ thấy. Không gian trang trí đẹp lắm. Đa dạng có phòng có chồi ngồi chung ở trong nữa.🍴 Đồ ăn ngon nhưng giá hơi cao xí.    🍲🍗 Lẩu gà tiềm ớt hiểm ở đây là số 1 lung. Gà là gà tre nhỏ chứ k phải gà công nghiệp. Nồi lẩu chừng 2 người ăn à. Mắc ít nhưng chất lượng vô cùng. Vị ngon, nấu chung đậu phộng, củ mì , rau cần ô và salad xoong nhí.      🍀 Món yêu thích thứ 2 và lúc nào ăn cũng kêu là salad trộn. Rất thích món này ở đây ngon lắm lung.      🌯 Hình như ở đây chỉ có 1 món chả giò. Cũng ngon lắm lung.      🍆 Đồ nướng ăn cũng ngon lắm.🎎 Nhân viên nhiệt tình. Có giữ xe miễn phí.⭕️ Hơi đắt k biết s chứ trung bình 2 đứa ăn khoảng 500. Nhưng mà ưng nhắm. Đồ ăn ngon không gian lại thoải mái."
+        },
+        {
+            "user": "Miu Dorae",
+            "link": "https://www.foody.vn/thanh-vien/marry_mai9",
+            "score": "7.2",
+            "comment": "Mẹ mình ăn ở đây rồi thấy ngon nên hôm qua có dịp về quê nên ghé vô ăn1. Món ăn:• Gầu bò mỹ sốt tương đỏ: mình có hỏi nhân viên gầu với dẻ sườn cái nào mềm hơn,nhân viên bảo dẻ sườn giống chẳng dừng,gầu mềm hơn nên mình gọi gầu,đem ra thấy nguyên cục thịt hơi bị..nhiều mỡ,thất vọng dã man. Thịt nướng lên ăn bị cứng,dai,mẹ với mình nhai không nổi luôn -.- Nói chung rút kinh nghiệm không kêu món này• Thác lác bách hoa: mẹ mình ăn rồi khen ngon nên kêu mà ai dè nhà hàng hết làm rồi :(• Bạch tuột sốt sate: must try nè,vị sate thơm không cay lắm đâu,đem ra là nguyên con chưa cắt,nhân viên nướng giùm xong hết mới cắt ra cho khách ăn,bạch tuột giòn giòn,món này ngon 👍• Mực tam tơ: dành cho mấy bạn muốn nhậu, mực xé sợi nhỏ chiên hay nướng gì đó với gia vị cho đậm đà,giòn trộn chung với khoai cắt sợi cũng chiên giòn luôn,có thêm rau xà lách cho đỡ ngán nữa, món này nhâm nhi bắt bia cực :3• Chẳng dừng sốt sate: món must try thứ 2, đậm đà vị sate hơn món bạch tuột 1 chút, nướng lên giòn giòn cay cay và thịt khá ngọt, đỡ mỡ hơn món gầu,lo ăn nên quên chụp mất tiêu 😭ĐẶC BIỆT: là ở 2 chén nước chấm thần thánh 😂• Sốt xanh: mùi khá giống mù tạc xanh,pha với muối với chanh với ớt xanh nữa hay sao í, vị khá nồng hợp cho chấm hải sản• Sốt đỏ: thơm vị rượu hoặc bia,vị không nồng rất dễ ăn,mình thích sốt này hơn :32. Không gian: rộng rãi,bàn ghế kiểu ngồi cao thoải mái,mát mẻ,hôm qua mưa nên ngồi gần ở ngoài lạnh muốn chết T.T Có khu vực 4 ghế cho gia đình nhỏ nhỏ nè3. Giá cảTheo mình thấy không rẻ cũng không quá mắc, chấp nhận được,đi đông thì mỗi người tầm 100 mấy,ăn no phình bụng 😂Buổi trưa có bán cơm thố,món ăn giá riêng còn thố cơm là 20k/thốMenu khá đa dạng các món nướng như thịt, mực,bạch tuột,món mì món cơm món xào này nọ,có tôm,hào,sò nữaBia riêng lẻ từ 14-19k,tháp bia có 2 loại là Saporo 165k & Tiger 185k4. Phục vụ: tận tình lắm,liên tục thay vỉ nướng, chủ quán đào tạo nhân viên là phải nướng và phục vụ tận tình cho khách,mình bảo anh nhân viên là cắt sẵn ra cho mình tự nướng vẫn vui vẻ đồng ý :3 Nói chuyện cũng vui vẻ nữa nè có điều mình order thêm cơm chiên nhưng anh phục vụ quên ord dưới bếp T.TĐiểm thiếu sót: mở nhạc chưa được hay lắm, có thêm nhạc hay là quá tuyệt, lâu lâu có ban nhạc lại chơi nữa nghenNếu có dịp về Củ Chi mà đi đông thì các bạn nên ghé quán ăn thử,ngồi ăn nướng nói chuyện uống bia với bạn bè,tám chuyện,chill là hết ý :3"
+        }
+    ]
+}

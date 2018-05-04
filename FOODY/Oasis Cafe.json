@@ -1,0 +1,491 @@
+{
+    "name": "Oasis Cafe",
+    "link": "https://www.foody.vn/ho-chi-minh/oasis-cafe",
+    "address": "303 Lê Lợi, P. 3,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "15.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-tay-au"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "198"
+    },
+    "foods": [
+        {
+            "name": "Cafe",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe Oasis",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc xỉu",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc xỉu sữa tươi",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa",
+            "price": "31,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa Oasis",
+            "price": "34,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa 3 tầng",
+            "price": "34,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa tươi",
+            "price": "31,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa cacao",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe rhum",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa rhum",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe Bailey",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa Bailey",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lip sữa",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lip bạc hà",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lip Hawaii",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lip rock n roll",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lip blue sea",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa dâu",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa khoai môn",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà gừng nóng",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sâm dứa sữa",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt đá",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt cà rốt",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt việt quất",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt cam",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt trái cây",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "White cloud",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Redbull",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước suối",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước yến",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh muối",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda xí muội",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh muối + xí muội",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda cam nha đam",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "7up",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca light",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sting",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heineken",
+            "price": "34,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "333",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Corona",
+            "price": "54,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Spy",
+            "price": "54,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái cây nhỏ",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái cây lớn",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố mãng cầu",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố mãng cầu + việt quất",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố khoai môn",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố sapoche",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dừa",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dừa Oasis",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ Oasis",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ dừa",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ việt quất",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố vải",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố vải Oasis",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu, mãng cầu",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố đặc biệt",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tắc sữa xay",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm sườn cây nướng",
+            "price": "49,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cơm gà nướng Tây Ban Nha",
+            "price": "42,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cơm thêm",
+            "price": "5,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mì ý sốt bò bằm",
+            "price": "42,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Canh sườn heo rong biển",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Khoai tây chiên (lớn)",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bún bò Huế",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu hải sản chua cay 1 người",
+            "price": "46,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên cá mặn",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên (nhỏ)",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh khoai môn",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả giò hải sản",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá mai chiên giòn",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gà nướng Tây Ban Nha",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì chay",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Trang Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/trang.nguyen2016",
+            "score": "6.2",
+            "comment": "Mình thấy nước uống cũng bình thường , k có gì đặc biệt , nhưng mình thích không gian ở đây , có ng iu hay cần tâm sự thì đây là nơi lí tượng , có nước , có lối đi ghề đá , rất đặc trưng , hòa hợp với thiện nhiên , cảm thấy tươi mát  và thoải mái , khách tương đối đông nên phục vụ hơi lâu , đợi nước mỏi mòn , chỗ này mình thấy đi buổi tối thì ok hơn , đẹp hơn ban ngày , nên cuối tuần hẹn hò bạn, thì nên ghé đến đây 1 lần"
+        },
+        {
+            "user": "Putin Phùng",
+            "link": "https://www.foody.vn/thanh-vien/tam.phung",
+            "score": "6.8",
+            "comment": "Bữa mình có ghé uống cafe, ăn trưa ở đây. Đầu tiên không gian ở đây khá rộng rãi mát mẻ, chị em tha hồ chụp hình. Phục vụ thì hơi chậm làm mình không thoải mái, đổi lại đồ uống và đồ ăn thì khá được. Ngày nghỉ ra đây uống cafe thì hết sảy."
+        },
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "6.0",
+            "comment": "Quán view đẹp, thoáng 😍 nhìn là thấy muốn chụp hình rồi 📷📷📷 quán rộng, nhiều view để sống ảo, mình đi lần 2,lần đầu tiên đi buổi tối nên k thấy gì nhưng mà vẫn thấy được no đẹp kì đó leo tuốt lên trên cùng luôn 😛 được tỏ tình 😂😂Mà thôi nước ngon,chỗ để ngồi 8 vs bạn bè hết sảy luôn hehe Quán đẹp, giá ok,nhân viên nói chuyện lịch sự, dễ thương mà kì đó đi quán đông quá nhân viên phục vụ ko kịp nên đợi nước lâu quá trời @@ bàn lúc đó cũng chưa được dọn sạch sẽ nữa :( trong quán cũng có nhiều đồ ăn lắm, để bữa nào vô ăn 🍔"
+        },
+        {
+            "user": "Virgo Virgo",
+            "link": "https://www.foody.vn/thanh-vien/sanny_sanhy",
+            "score": 0,
+            "comment": "Quán thức ăn và uống rất ngon, phong cảnh đẹp, nhưng phục vụ thì tệ nhất mà mình từng được biết, nhân viên ngơ ngơ và đứng 1 góc tám chuyện quên hết trời trăng mây gió, cảm giác như sợ khách gọi, gọi 15p mới mang được trà đá, thêm 5p nữa mới mang cuốn menu ra quăng cái đùng xuống bàn như muốn đuổi khách ( mặc dù đang là 20h tối thứ 2 ), không biết để ý hay cố tình k quan tâm đến cái bàn của khách, nhờ lau dùm cái bàn cũng phải năn nỉ 2,3 lượt nhân viên và nhận được những cái ánh mắt thiếu thiện cảm, nói tóm lại cách phục vụ ở đây là tệ nhất mà mình được biết( thậm chí tệ hơn rất nhiều so với Du Miên ),Tiếc cho 1 quán view đẹp và thức ăn ngon."
+        },
+        {
+            "user": "Mây Đan",
+            "link": "https://www.foody.vn/thanh-vien/Huuai2612",
+            "score": "8.0",
+            "comment": "Cơm chiên cá mặn và canh rong biển sườn non của quán ngonKhông gian có vẻ bí ẩn vì đi bao nhiêu lần vẫn ko biết hết lối đi. Nhìn chung là đẹp và mát mẻCó ghê riêng dành cho các cặp đôi. Nhưng phục vụ lâu. Có hôm gọi kem 3 viên thì chảy hết 1 viên, ca cao nóng thì gần nguội. 🤣🤣🤣"
+        }
+    ]
+}

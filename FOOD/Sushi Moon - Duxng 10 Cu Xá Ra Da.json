@@ -1,0 +1,342 @@
+{
+    "name": "Sushi Moon - Đường 10 Cư Xá Ra Đa",
+    "link": "https://www.foody.vn/ho-chi-minh/sushi-moon-duong-10-cu-xa-ra-da",
+    "address": "107 Đường 10 Cư Xá Rada, P. 13,  Quận 6, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 90.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "52"
+    },
+    "foods": [
+        {
+            "name": "Sake Sushi",
+            "price": "19,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Kani Sushi",
+            "price": "15,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Sushi Combo",
+            "price": "70,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Unagi Sushi",
+            "price": "32,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Tamago Sushi",
+            "price": "9,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Ebi Tem Sushi",
+            "price": "25,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Hokkigai Sushi",
+            "price": "35,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Tako Sushi",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Maguro Sushi",
+            "price": "17,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nishin Sushi",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Ebi Sushi",
+            "price": "19,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Dai Sake Gunkan",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Dai Ebi Gunkan",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Tobiko Gunkan",
+            "price": "48,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Black Ebiko Gunkan",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ebiko Gunkan",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ikura Gunkan",
+            "price": "78,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Dai Tuna Gunkan",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cheese Maki",
+            "price": "42,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Kastu Cheese Maki",
+            "price": "37,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Sake Kawa Maki",
+            "price": "30,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sake Tataki Maki",
+            "price": "48,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Shitake Maki",
+            "price": "15,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Abokado Maki",
+            "price": "15,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Dragon Eyes Maki",
+            "price": "48,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Dragon Maki",
+            "price": "50,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Rainbow Maki",
+            "price": "47,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Kani Maki",
+            "price": "20,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cali Maki",
+            "price": "33,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sake Negi Tem Maki",
+            "price": "38,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Saki Maki",
+            "price": "29,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Tamago Maki",
+            "price": "15,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Doki Maki",
+            "price": "75,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ebi Tem Maki",
+            "price": "38,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Maguro Negi Tem Maki",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Futo Maki",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Yuki Maki",
+            "price": "60,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Hana Maki",
+            "price": "40,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Tekka Maki",
+            "price": "27,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Kappa Maki",
+            "price": "11,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sake Abokado Maki",
+            "price": "38,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Dai Tuna Maki",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Dai Sake Maki",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Geisha Maki",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Maki Moon",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Maguro Abokado Maki",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi Tem Temaki",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sake Abokado Temaki",
+            "price": "28,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Unagi Temaki",
+            "price": "37,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ebiko Temaki",
+            "price": "32,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tobiko Temaki",
+            "price": "55,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cali Temaki",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Maguro Abokado Temaki",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Khanh Wilshere From-Arsenal",
+            "link": "https://www.foody.vn/thanh-vien/pink_angel_216",
+            "score": "9.0",
+            "comment": "Thường mình hay lười đi ra tiệm ăn nên có tiệm sushi gần nhà mà còn giao tận nơi thì quá tuyệt. Lúc đầu đọc menu còn nghĩ không biết rẻ vậy thì ăn có ngon không nhưng sau khi gọi thử thì ghiền luôn. Nhà mình thích nhất là Maki Moon (lươn bơ) và Cheese maki (tôm chiên dòn phô mai). Hai món không bao giờ làm mình thất vọng, lần nào gọi Sushi Moon cũng phải có 2 món này! Gọi giao tận nhà cũng được tặng canh súp miso miễn phí nhe.Quán cũng dễ tìm, đi thẳng đường số 10 là thấy bên tay trái."
+        },
+        {
+            "user": "Dolphin Max",
+            "link": "https://www.foody.vn/thanh-vien/funnydolphin26",
+            "score": 0,
+            "comment": "Có một hôm mình với bạn mình đi xem phim ở Galaxy xong chạy qua khu này kiếm đồ ăn thì tình cờ thấy quán này nên vô ăn thử. Tổng cộng hôm đó kêu 5 món, hầu hết ăn khá ổn chỉ trừ những món có sốt cam bên trên. Thường mình ăn ở những quán sushi khác thì sốt cam là do tương ớt và mayonaise trộn lại nên có màu cam, còn ở đây hình như xài nước ép cam hay gì đó vì lúc ăn sushi mình toàn nghe mùi cam không. Mà sushi là món mặn, tự dưng có mùi cam, ăn vô nghe toàn mùi cam mà không hề nghe mùi cá hay bất cứ thứ gì nữa, nói thiệt trong đời mình chưa từng ăn món nào vô duyên tới vậy, sự kết hợp khó hiểu nhất từ trước tới giờ mình được thấy. Mà bị 2 món roll đều như vậy, mình với bạn mình phải ráng dữ lắm, tới mức đùn đẩy cho nhau ăn mới ăn hết được vì quá ghê và quá ngán. Món gonza quán tặng ăn thấy ngon hơn, cũng may có món này vớt vát lại mới nuốt trôi 2 món kia. Có điều bị ám ảnh quá nên 2 đứa mình không dám ghé quán lần 2."
+        },
+        {
+            "user": "Hung Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hungevil99",
+            "score": "8.2",
+            "comment": "do đọc review toàn tốt nên đến ăn thử mèn ơi từ khi ăn là nghiện, sushi ngon lắm, giá ok, còn khuyến mãi mỗi người 1 chén canh, 1 món ăn kèm. Mấy anh chị phục vụ quán rất dth, quán thì sạch sẽ, view đẹp. Phần của mình là 1 phần 150k, còn 1 phần 50k đem về. Còn có free ship trong quận 6 nữa nên chắc là mình sẽ còn ăn dài dài :)))))"
+        },
+        {
+            "user": "Jin Mint",
+            "link": "https://www.foody.vn/thanh-vien/jsyutada",
+            "score": "7.6",
+            "comment": "Mình kiểu fan cứng ở đây. Ăn vừa rẻ, vừa ngon lại gần nhà. Có điều phục vụ chậm, có lần mình chờ tầm 45p nhưng giờ hình như khắc phục được rồi. Ở chỗ trang sushi maki ấy, đa số có khá nhiều món na ná nhau, kêu ra ăn như nhau cả không có sự khác biệt gì, không có điểm nhấn. Giá của đồ nướng và hàu cũng rẻ và ngon."
+        },
+        {
+            "user": "Lệ Lin",
+            "link": "https://www.foody.vn/thanh-vien/rainie.lin0901",
+            "score": "7.6",
+            "comment": "Quán có menu đa dạng, có xôi chiên và mấy món xiên que nữa.Takoyaki không quá nhiều bột, lúc nào cũng tặng free canh + cho 1 món bất kì, phục vụ nhiệt tình dù có lúc tụi mình đi đã trễ rồi 😊"
+        }
+    ]
+}

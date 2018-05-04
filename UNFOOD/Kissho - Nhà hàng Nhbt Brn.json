@@ -1,0 +1,80 @@
+{
+    "name": "Kissho - Nhà hàng Nhật Bản",
+    "link": "https://www.foody.vn/ho-chi-minh/kissho",
+    "address": "14 Nguyễn Huệ, P. Bến Nghé,  Quận 1, TP. HCM",
+    "open_time": "11:00 AM - 11:00 PM",
+    "price_range": "300.000đ - 1.100.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "61"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Heli Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nakoruru91",
+            "score": "8.0",
+            "comment": "Được bạn dẫn đi, món ăn rất thích miệng, ngon, không gian thuần nhật, đẹpnhân viên phục vụ rất chuyên nghiệp, lịch sựmón tính ra ko mắc so với chất lượng, mình gọi 8 món hết khoảng 2trgiá tính ra bình thường so với vị trí nằm ngay trung tâm nguyễn huệ của qán, 1 số món trong menu thấy giá hơi cao :)tụi mình chọn chỗ ngồi ngay tại bàn đầu bếp biểu diễn nghệ thuật trực tiếp, cực kỳ điệu nghệ và đẹp mắtmenu khá phong phú, nhiều sự lựa chọn cho mọi người"
+        },
+        {
+            "user": "Heli Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nakoruru91",
+            "score": "8.0",
+            "comment": "Biểu diễn đẹp"
+        },
+        {
+            "user": "Heli Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nakoruru91",
+            "score": "8.0",
+            "comment": "Biểu diễn đẹp"
+        },
+        {
+            "user": "Heli Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nakoruru91",
+            "score": "8.0",
+            "comment": "Biểu diễn đẹp"
+        },
+        {
+            "user": "Judy Miu",
+            "link": "https://www.foody.vn/thanh-vien/mimeo4002",
+            "score": "8.4",
+            "comment": "Không gian sang trọng và lịch sự, mình đi 2 người chọn gói combo ngồi ngay tại bàn được xem đầu bếp biểu diễn tài nghệ trông rất đẹp mắt, đồ ăn vừa miệng có dịp sẽ ghé lại tiếp ;)"
+        }
+    ]
+}

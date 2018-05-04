@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Nguyễn Thái Sơn",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-thai-son",
+    "address": "41 Nguyễn Thái Sơn,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:30 AM - 10:00 PM",
+    "price_range": "30.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "43"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Kiko  Chan",
+            "link": "https://www.foody.vn/thanh-vien/nguynnhi5617",
+            "score": "7.0",
+            "comment": "Bước vào quán thấy không gian sang trọng và hơi chảnh :/ . Bạn dưới Thủ Đức lên chơi 2 đứa chỉ muốn đi gần nhà thôi nên lựa chọn ở đây, không biết uống gì nên cứ chọn đại trà đào sả, sinh tố việt quốcKhông gian đẹp, rộng rãi chứ không quá ồn àoThức uống bình thường không có gì xuất sắcNhân viên chuyên nghiệp dễ thươngBác bảo vệ dẫn xe giúp tụi mình thấy ân cần lắmNgồi gần 3 tiếng mà không bị ai nói gì haha Nói chung lâu lâu đi chứ cũng không thích, có lẻ không hợp với mình"
+        },
+        {
+            "user": "Vương Thị Dạ Thảo",
+            "link": "https://www.foody.vn/thanh-vien/vuongthidathao",
+            "score": "8.2",
+            "comment": "Trong các chi nhánh ở Gò Vấp thì mình thích chi nhánh Nguyễn Thái Sơn nhất. Vì không gian rộng, nhiều bàn nhưng giữa các bàn có khoảng cách riêng và nhân viên đều dễ thương và lịch sự, pha chế đều tay. Hôm mình đi trời mưa, người bị ướt, còn ít giấy cuối cùng thì nhân viên liền nói chờ xíu mình đi lấy giấy liền. Cảm động dễ sợ. Bác giữ xe nhiệt tình và lịch sự."
+        },
+        {
+            "user": "Hoàng Trúc",
+            "link": "https://www.foody.vn/thanh-vien/2542003",
+            "score": "9.2",
+            "comment": "Đồ uống ngon :) bánh còn ngon cực :) bữa mình dùng thử pudding, tiramisu, cookie matcha với cái ly choco blender hay sao á, ghiền lắm luôn các cậu ạ :) giờ mà tả thì k tả nổi đâu :) phải nói cực chuộng, nhà gần nữa :) mà giá cả hơi ... Một tí :) bác nào kinh tế khá giả thì đây là lựa chọn tuyệt vời cho những hôm thèm gì ngọt ngọt nhé ;)"
+        },
+        {
+            "user": "Châu Tiny",
+            "link": "https://www.foody.vn/thanh-vien/chautiny96",
+            "score": 0,
+            "comment": "Mình là fan của machiato nên lần trước thử black machiato của tch mình rất thất vọng lần này ra loại mới m liền đến thử và mong đợi nhưng m vẫn không ưng được 😭😭Chắc do m k thích vị đắng của matcha nhưng bù lại không gian rất thoải mái 😉"
+        },
+        {
+            "user": "thupham97",
+            "link": "https://www.foody.vn/thanh-vien/thupham97",
+            "score": "9.0",
+            "comment": "TCH là nơi mà mỗi khi không biết đi đâu mình sẽ ghé vào, hôm qua mình có đi thử chi nhánh ở Nguyễn Thái Sơn buổi sáng. Nước uống thì loại nào cũng ngon và bánh cũng vậy tuy nhiên bánh croissant hơi gắt dầu 1 chút. Còn lại tất cả đều hài lòng nhất là nhân viên và bác giữ xe vô cùng lịch sự và dễ thương"
+        }
+    ]
+}

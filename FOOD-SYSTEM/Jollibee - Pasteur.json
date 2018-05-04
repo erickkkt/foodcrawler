@@ -1,0 +1,80 @@
+{
+    "name": "Jollibee - Pasteur",
+    "link": "https://www.foody.vn/ho-chi-minh/jollibee-pasteur",
+    "address": "194D Pasteur,  P. 6,  Quận 3, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "15.000đ - 44.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Philippines",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-philippines"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/jollibee-thanh-pho-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "80"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tiểu Gu",
+            "link": "https://www.foody.vn/thanh-vien/tatdatmagi",
+            "score": "7.2",
+            "comment": "- Chất lượng: hệ thống đồng bộ nên chất lượng ngon đều. Đặc biệt là cơm cá phi lê ngon tuyệt- Giá cả: khá hợp lí và thấp so với các hệ thống khác. Gọi 1 phần cơm cá phi lê 35k mà ngon căng- Vị trí địa lý: gần Hồ Con Rùa nên dễ tìm kiếm, đôi khi học tuốt ở Nhân Văn cũng ráng lết bộ tới ăn- Phục vụ: lúc vắng khách thì thân thiện, dễ thương; lúc đông khách thì hơi thấy ghét. Đợt trước sinh nhật mình, đem thẻ thành viên ra mà lại bảo không có giảm gì đâu- Chỗ giữ xe nhỏ quá"
+        },
+        {
+            "user": "Khánh Vân",
+            "link": "https://www.foody.vn/thanh-vien/vankh.le19",
+            "score": 0,
+            "comment": "Mình đến mua gà rán bảo lấy đùi và nhân viên nói rằng hết đùi rồi. Sau mình có 1 nhóm 5,6 người vào order đùi và nhân viên nói có Nhưng mẹ mình cũng đã nchuyen với nhân viên rồiMình thấy ở đây rất nhiều lần order đùi cánh thì kêu ok r đưa má hoặc ức gà. Kể cả lúc giao hàng cũng vậy. Phục vụ tệ"
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.8",
+            "comment": "Trưa cuối tuần rồi nhà không có nấu cơm thế là gọi điện thoại rủ rê bạn đi ăn . Dạo một vòng chợt nó thèm mì Ý nên ghé Jollibee luôn do gần đó , đi nắng noi mệt nữa . Đường rộng mà quán cũng dễ tìm lắm , đi ngang hoài mà . Món mình yêu thích ở Jollibee ngoài mì Ý còn có gà rán nữa , lâu lâu thay đổi ăn có sốt cho đỡ ngán . Dĩa mì Ý nhỏ mà bạn mình bảo cũng no lắm . Một dĩa mì nhỏ chỉ có 30k , cũng vừa túi . 2 người 1 mâm như hình là ngất ngây ."
+        },
+        {
+            "user": "Bich Tran",
+            "link": "https://www.foody.vn/thanh-vien/ngocbichtran11",
+            "score": "8.0",
+            "comment": "Trưa cuối tuần nhà không có nấu cơm thế là dắt xe ra khỏi nhà và đi ăn. Dạo một vòng các địa điểm quen thuộc mà trong lòng dâng lên một sự chán ngán đến tận cổ. Chợt nhớ ra lâu rồi không ghé Jollibee trên đường Pasteur mà lại đang tiện đường tới đó. Thế là liền một mạch, phóng xe chạy thẳng ra Jollibee Pasteur.Món mình yêu thích ở Jollibee đó chính là mì Ý. Mình chỉ ăn một dĩa nhỏ thôi. Dĩa nhỏ mà có võ ăn vô là vừa no. Đối với mình, mình không thích ăn no lắm, Ăn ít ít vậy mà khỏe người. Một dĩa mì nhỏ chỉ có 30 ngàn đồng à. Mì được chế biến rất ngon, rất hấp dẫn. Mọi người nên thử một lần cho biết nhé."
+        },
+        {
+            "user": "tien dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dang4305",
+            "score": "8.0",
+            "comment": "Nếu mà jollibee thì ở đây là ổn nhất không gian hơi nhỏ, nhưng được cái nhân viên dễ thương và phục vụ nhanh nó nhỏ vậy thôi chứ cũng được 3 lầu hẳn hoi, về phần đồ ăn thì mình thấy ổn về giá so với KFC vs Lotte thì jollibee vẫn thuộc hạng rẻ nhất nhé"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Top Of The Town - Nhà Hàng & Bar - Windsor Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/top-of-the-town-nha-hang-bar-windsor-plaza",
+    "address": "Tầng 25 Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",
+    "open_time": "Nhà hàng  06:00 PM - 11:00 PM",
+    "price_range": "100.000đ - 660.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "17"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Minhmmm",
+            "link": "https://www.foody.vn/thanh-vien/minhmmm",
+            "score": "9.8",
+            "comment": "Vk ck mình đi 1 tuần rồi nhưng hnay mới có tg viết bài. Hôm đó vk ck mình đi sớm nên k cần đặt bàn. Tới nơi thì đc nv nhiệt tình tiếp đón xếp cho bàn ngoài trời sát với ban công nên có view nhìn cực đẹp cộng thêm lúc đó còn sớm nên nhà hàng mở nhạc nhẹ lãng mạng vô cùng. Về phần thức ăn thì vk ck mình gọi 6 món và 1 chai rượu vang. Thức ăn ngon khá vừa miệng, phụ vụ chu đáo, vui vẻ. Kết thúc bữa ăn tính tiền 1,72tr (đã bao gồm phí phục vụ 5%) theo mình thì giá này k cao vừa phải so với những nhà hàng tương tự. Khuyết điểm duy nhất là thực đơn hơi ít món nhưng nếu bạn là ng không quá khó khăn cho việc chọn món thì đây là lựa chọn tuyệt với cho bữa ăn lãng mạng 2 ng đó ☺️☺️☺️P/s: sẽ quay lại trong thời gian tới"
+        },
+        {
+            "user": "Gia Bảo Pham",
+            "link": "https://www.foody.vn/thanh-vien/giabao.pham.nt",
+            "score": "9.2",
+            "comment": "Lần đầu đến thật bất ngờ với không gian thoáng mát lãng mạn thơ mộng nhưng không kém phần sang trọng ở nơi đây.Nên khá thích, không gian ở đây rộng rãi, ban đêm ngồi lạnh ngắt luôn hì, nhìn xung quanh ngắm cả thành phố thiệt thích. Sài gòn về đêm thật đẹp.Phục vụ rất chuyên nghiệp chu đáo, khách chỉ ngồi ăn thôi, sau khi lên món sẽ có phục vụ chia ra từng chén/ đĩa cho từng người, hì, phục vụ theo phong cách khách hàng là thượng đế, nhân viên khá tinh ý, hết nước là châm thêm ngay.Món ăn: ngon vị chuẩn âu. Mỗi phần vừa đủ ăn chứ không nhiều. Thực đơn đa dạng phong phú. Khách quan mà nói món ăn rất chất lượng, như món lagu bò bánh mì, nguyên 1 tô toàn thịt bò mềm ngon, ăn no nê. Sườn cây nướng thịt dai ngon, cơm chiên hải sản ngon."
+        },
+        {
+            "user": "Nghi Tran",
+            "link": "https://www.foody.vn/thanh-vien/jennylam",
+            "score": "8.0",
+            "comment": "Hôm mình đi ngày 23/12 nên khách ko đông lắm. Nhà hàng thiết kế đẹp, sang trọng. Mình có đặt bàn trước khi đến nên được ngồi gần cửa sổ ngắm cảnh view đẹp, bạn có thể ngồi ngoài trời, phòng lạnh cũng được. Nhân viên phục vụ nhiệt tình, Tuy mình sử dụng voucher nhưng vẫn phục vụ chu đáo. Mình gọi món Tây ăn ngon, nhà hàng có free bánh mì trước khi ăn. Bánh mì nóng giòn ăn rất ngon. Menu thức ăn ít món. Theo mình giá cả hợp lý, ko cao lắm. Menu nước uống thì nhiều nhưng giá hơi cao. Điểm cộng là nhà hàng free nước lọc nên có thể ko cần gọi nước uống."
+        },
+        {
+            "user": "Kat",
+            "link": "https://www.foody.vn/thanh-vien/ngocthao.vo2112",
+            "score": "9.2",
+            "comment": "Lần đầu trải nghiệm thưởng thức trà bánh trên cao ngắm pháo hoa, thật tuyệt vời.Tiramisu ngon, nhưng lava cake thất bại rồi, cảm giác giống bánh chocolate bình thường hơn, bánh bị cứng nữa."
+        },
+        {
+            "user": "L TT",
+            "link": "https://www.foody.vn/thanh-vien/luc.truongthanh",
+            "score": "7.0",
+            "comment": "Nhà hàng quán bar sang trong nhưng chủ yếu ngồi nhìn và ngắm lung tung thì được, đa số dành cho Tây và Hoa Kiều, dân địa phương ít vào đây, nếu có cũng thỉnh thoảng. Nhân viên phục vụ tận tình chu đáo, niềm nở và tươi cười với khách nhưng nụ cười đôi lúc không được tự nhiên cho lắm. Thức ăn ở đây không nhiều, chủ yếu nếm thử là chủ đạo còn lại là cưỡi ngựa xem hoa là chính. Nước uống cũng vậy nhưng được cái giá tính giá không thấp so với thương hiệu"
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "name": "Texas Chicken - Hậu Giang",
+    "link": "https://www.foody.vn/ho-chi-minh/texas-chicken-hau-giang",
+    "address": "176C-176D Hậu Giang, P. 6,  Quận 6, TP. HCM",
+    "open_time": "09:00 AM - 09:00 PM",
+    "price_range": "50.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/ga-ran-texas-chicken?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "82"
+    },
+    "foods": [
+        {
+            "name": "Gà có xương (1 miếng)",
+            "price": "36,000(đ)",
+            "total_orders": "503"
+        },
+        {
+            "name": "Cánh gà cay (3 miếng)",
+            "price": "55,000(đ)",
+            "total_orders": "306"
+        },
+        {
+            "name": "Cánh gà cay (6 miếng)",
+            "price": "105,000(đ)",
+            "total_orders": "255"
+        },
+        {
+            "name": "Gà không xương (3 miếng)",
+            "price": "55,000(đ)",
+            "total_orders": "250"
+        },
+        {
+            "name": "Khuỷu cánh gà cay (1 miếng)",
+            "price": "20,000(đ)",
+            "total_orders": "211"
+        },
+        {
+            "name": "Gà không xương (6 miếng)",
+            "price": "105,000(đ)",
+            "total_orders": "197"
+        },
+        {
+            "name": "Gà giòn cay",
+            "price": "82,000(đ)",
+            "total_orders": "160"
+        },
+        {
+            "name": "Gà không xương (1 miếng)",
+            "price": "20,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Bánh cuộn tex",
+            "price": "53,000(đ)",
+            "total_orders": "461"
+        },
+        {
+            "name": "Burger tôm (a la carte)",
+            "price": "38,000(đ)",
+            "total_orders": "282"
+        },
+        {
+            "name": "Burger mexicana (a la carte)",
+            "price": "63,000(đ)",
+            "total_orders": "166"
+        },
+        {
+            "name": "Burger tex supreme (a la carte)",
+            "price": "53,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Burger gà sốt cay",
+            "price": "38,000(đ)",
+            "total_orders": "86"
+        },
+        {
+            "name": "Burger mexicana (combo)",
+            "price": "88,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Burger tôm (combo)",
+            "price": "63,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Burger tex supreme (combo)",
+            "price": "78,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Khoai tây chiên (cỡ vừa)",
+            "price": "19,000(đ)",
+            "total_orders": "607"
+        },
+        {
+            "name": "Bắp cải (cỡ vừa)",
+            "price": "19,000(đ)",
+            "total_orders": "264"
+        },
+        {
+            "name": "Khoai tây chiên (cỡ lớn)",
+            "price": "39,000(đ)",
+            "total_orders": "211"
+        },
+        {
+            "name": "Bánh quy bơ mật ong (1 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "197"
+        },
+        {
+            "name": "Bánh quy bơ mật ong (2 cái)",
+            "price": "25,000(đ)",
+            "total_orders": "177"
+        },
+        {
+            "name": "Khoai tây nghiền (cỡ lớn)",
+            "price": "39,000(đ)",
+            "total_orders": "171"
+        },
+        {
+            "name": "Cơm trắng (1 hộp)",
+            "price": "10,000(đ)",
+            "total_orders": "163"
+        },
+        {
+            "name": "Bánh quy bơ mật ong (4 cái)",
+            "price": "45,000(đ)",
+            "total_orders": "132"
+        },
+        {
+            "name": "Bắp cải (cỡ lớn)",
+            "price": "39,000(đ)",
+            "total_orders": "119"
+        },
+        {
+            "name": "Khoai tây nghiền (cỡ vừa)",
+            "price": "19,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "Sốt mù tạt mật ong",
+            "price": "10,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Combo 3 miếng gà",
+            "price": "110,000(đ)",
+            "total_orders": "1685"
+        },
+        {
+            "name": "Combo 2 miếng gà",
+            "price": "82,000(đ)",
+            "total_orders": "1238"
+        },
+        {
+            "name": "Combo 6 miếng gà",
+            "price": "195,000(đ)",
+            "total_orders": "1052"
+        },
+        {
+            "name": "Combo 8 miếng gà",
+            "price": "295,000(đ)",
+            "total_orders": "517"
+        },
+        {
+            "name": "Combo tex sample",
+            "price": "82,000(đ)",
+            "total_orders": "298"
+        },
+        {
+            "name": "Combo 3 miếng gà không xương",
+            "price": "68,000(đ)",
+            "total_orders": "232"
+        },
+        {
+            "name": "Combo 1 miếng gà",
+            "price": "38,000(đ)",
+            "total_orders": "214"
+        },
+        {
+            "name": "Combo 3 cánh gà",
+            "price": "68,000(đ)",
+            "total_orders": "181"
+        },
+        {
+            "name": "Combo gà viên",
+            "price": "38,000(đ)",
+            "total_orders": "108"
+        },
+        {
+            "name": "Combo buger cổ điển",
+            "price": "38,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Coca (cỡ lớn)",
+            "price": "25,000(đ)",
+            "total_orders": "233"
+        },
+        {
+            "name": "Coca (cỡ vừa)",
+            "price": "20,000(đ)",
+            "total_orders": "190"
+        },
+        {
+            "name": "Sprite  (cỡ vừa)",
+            "price": "20,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Sprite (cỡ lớn)",
+            "price": "25,000(đ)",
+            "total_orders": "51"
+        },
+        {
+            "name": "Bánh quy bơ mật ong sốt dâu tây",
+            "price": "25,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Milo (cỡ lớn)",
+            "price": "27,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Nestea (cỡ lớn)",
+            "price": "27,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Bánh quy bơ sốt soocola",
+            "price": "25,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Milo (cỡ vừa)",
+            "price": "22,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Nestea (cỡ vừa)",
+            "price": "22,000(đ)",
+            "total_orders": "8"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Cẩm Thu 💕",
+            "link": "https://www.foody.vn/thanh-vien/pukem57",
+            "score": 0,
+            "comment": "Mình tới ăn tầm 1h chiều, thật sự thì mình rất thích ăn gà ở Texas vì thịt ẩm mềm, không khô như những thương hiệu khác. Nhưng mình đã rất rất thất vọng về gà và cách phục vụ ở chi nhánh này. Gà hôm đấy 4 miếng thì ỉu cả 4 miếng, không nóng, da không giòn. Bỏ qua chuyện thức ăn, cái mình khó chịu nhất là cách phục vụ, rất không tôn trọng khách, nói chuyện thì cộc lốc, thái độ khinh khỉnh, hình như do mình là sinh viên hay sao ấy nên thái độ cứ kinh ra mặt, đặc biệt là chị đeo mắt kính, cực kì khinh thường khách. Một thương hiệu lớn xây dựng nên từ những yếu tố nhỏ, nhân viên là 1 trong những yếu tố đó, làm ngành dịch vụ mà những thứ cơ bản như tôn trọng khách còn không làm được thì còn muốn làm cái gì lớn hơn?"
+        },
+        {
+            "user": "Tako",
+            "link": "https://www.foody.vn/thanh-vien/tako.chan70000676",
+            "score": 0,
+            "comment": "Mình đi cùng bạn vào ngày cuối tuần, quán phục vụ bình thường, đồ ăn cũng bình thường, wifi không dùng được (vào quán lớn mà phải bật 3G để dùng thì ôi thôi...), máy lạnh trên lầu không mở mặc dù chị nhân viên có lên check và than nóng (ơ thế không thấy tụi em là khách đang ngồi mà mồ hôi ròng ròng sao :'( ), lúc đó tầm 1G trưa nên ngoài trời nóng, vào trong càng muốn bốc hỏa. Lần đầu đến thì cũng không bật máy lạnh y như thế, nhưng lần này em mới viết review, nghĩ lại vẫn bực mình và không quay lại đâu ạ."
+        },
+        {
+            "user": "Khoa Tran",
+            "link": "https://www.foody.vn/thanh-vien/swatcher_tran",
+            "score": "8.4",
+            "comment": "Mình hài lòng với thái độ các bạn nhân viên ở đây. Dễ thương cực, kêu mình chờ mà cứ nói chuyện để mình quên thời gian. Đi 2 người gọi phần combo 1 82k với phần combo mới 89k 1/4 con. Mùi vị mới gần giống mùi gà quay, thấm vào từng miếng thịt, rất ngon. Đáng để thử"
+        },
+        {
+            "user": "SUNNY ĐOÀN",
+            "link": "https://www.foody.vn/thanh-vien/foodee_3nnfcdeb",
+            "score": "6.0",
+            "comment": "Texas là một thương hiệu gà cũng nổi tiếng trên nhiều quốc gia. Đầu tiên là nhận xét về gà trước, gà ở đây mềm, giòn, thịt có vị ngọt tự nhiên, ăn không bị ngán. Khoai tây thì giòn, nóng hổi, có vị mằn mặn rất ngon. Nước thì cũng là các loại nước ngọt phổ biến thôi nhưng được uống thoải mái. Điều thứ hai là về không gian, ở đây không gian rộng rãi, phù hợp cho những nhóm bạn hoặc gia đình vào dịp cuối tuần hay lễ. Giá cả cũng ổn nếu đi đông người thì share tiền ra cũng được. Cuối cùng là nhân viên phục vụ. Nhân viên ở đây thì không vui vẻ cho mấy. Không nói rõ chi tiết về  các chương trình khuyến mãi. Mong là Texas sẽ khắc phục."
+        },
+        {
+            "user": "Ngnguyen8798",
+            "link": "https://www.foody.vn/thanh-vien/ngnguyen8798",
+            "score": 0,
+            "comment": "1 điểm cho phục vụ. Không nói nhiều. Muốn gì thì trc tiên phục vụ phải ok đã. Đằng này coi thuong khách hàng quá muc."
+        }
+    ]
+}

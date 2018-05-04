@@ -1,0 +1,1036 @@
+{
+    "name": "Ba Con Sóc - BBQ & Sushi - Lê Quang Định",
+    "link": "https://www.foody.vn/ho-chi-minh/ba-con-soc-bbq-sushi",
+    "address": "82 - 84 Lê Quang Định, P. 14,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "",
+    "price_range": "30.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-ba-con-soc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "450"
+    },
+    "foods": [
+        {
+            "name": "Súp miso",
+            "price": "15,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Đậu nành nhật",
+            "price": "20,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Trứng cuộn nhật",
+            "price": "30,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Xà lách cá ngừ",
+            "price": "45,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Xà lách khoai tây nghiền",
+            "price": "45,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Rong Biển Khô",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Xà lách cá hồi sống",
+            "price": "89,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Xà lách cải bó xôi",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Xà lách cá sống",
+            "price": "75,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cải thảo ngâm chua",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Đậu Hũ Sốt Teriyaki",
+            "price": "48,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sashimi cá hồi sống",
+            "price": "78,000(đ)",
+            "total_orders": "186"
+        },
+        {
+            "name": "Sashimi bụng cá hồi",
+            "price": "85,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Sashimi trứng cá chuồn",
+            "price": "55,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Sahimi cá ngừ sống",
+            "price": "68,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Cá hồi thái mỏng sốt cay",
+            "price": "85,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Sashimi Bụng Cá Hồi Sống",
+            "price": "85,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sashimi cá hồng sống",
+            "price": "80,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sahimi bạch tuộc",
+            "price": "55,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sashimi sò đỏ",
+            "price": "118,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sashimi trứng cá hồi",
+            "price": "95,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sashimi mực sống",
+            "price": "85,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sashimi Hàu Sống",
+            "price": "110,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm cá thập cẩm nướng tái",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh xèo nhật",
+            "price": "55,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Bánh Bạch Tuộc",
+            "price": "38,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Gà nướng sốt teri yaki",
+            "price": "55,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Cơm Chiên Cá Hồi Cay",
+            "price": "88,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cá hồi nướng sốt teri yaki",
+            "price": "80,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Mực nướng sốt teri yaki",
+            "price": "98,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Gà viên sốt teri yaki",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Thịt heo kim chi",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Lươn nhật nướng",
+            "price": "160,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cá Hồi Phủ Trứng Cá Tuyết",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sushi set b",
+            "price": "180,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Sushi set a",
+            "price": "110,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Nigiri Set",
+            "price": "88,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Gunkan set",
+            "price": "88,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Sake gomi",
+            "price": "100,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sashimi Deluxe B",
+            "price": "250,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sashimi Deluxe C",
+            "price": "350,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sashimi Deluxe A",
+            "price": "200,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Miến nhật trộn bò mỹ vị cay",
+            "price": "60,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Miến nhật trộn bò mỹ",
+            "price": "65,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Mì Soba Xào Bò Mỹ",
+            "price": "75,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Udon thịt heo chiên",
+            "price": "70,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Udon Bò",
+            "price": "70,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Mì Soba Xào Hải Sản",
+            "price": "75,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Udon Xào Hải Sản",
+            "price": "98,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Miến nhật hầm bò mỹ",
+            "price": "65,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì Soba Gà Sốt Teri Yaki",
+            "price": "75,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì Ramen Hải Sản",
+            "price": "78,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Miến trộn bò Mỹ vị không cay",
+            "price": "60,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Udon Gà Teriyaki",
+            "price": "70,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Lươn Nhật Cuộn Phô Mai",
+            "price": "88,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Sushi Bơ Với Lươn Nhật",
+            "price": "98,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Da Cá Hồi Sốt Tôm Mayo",
+            "price": "88,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Sushi Tôm Chiên Tempurra",
+            "price": "78,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sushi Cầu Vồng",
+            "price": "88,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sushi Cá Hồi Sống Với Trứng Ikura",
+            "price": "88,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Cá Hồi Sốt Cay",
+            "price": "70,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sushi Bò Sốt Teriyaki",
+            "price": "68,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sushi Da Cá Phủ Cá Hồi",
+            "price": "98,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sushi Lươn Nhật Nướng",
+            "price": "110,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sushi Cuốn Rồng Xanh",
+            "price": "88,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Da Cá Hồi Sốt Cay",
+            "price": "70,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cá Hồi Phủ Mè Đen Và Trứng Tôm",
+            "price": "88,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sushi Topping Cá Hồi Tái Vị Cay",
+            "price": "88,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sushi Tôm Và Trứng Ikura",
+            "price": "88,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sushi cuốn rồng đỏ",
+            "price": "98,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cá Hồi Nướng vị Cay",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cuốn Cá Loại Cá Sống Đặc Biệt",
+            "price": "120,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tôm Chiên, Cá Hồi Sốt Trứng",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi Thiên Thạch",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi Trái Tim",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sushi Đậu Hũ Với Trứng Nhật",
+            "price": "68,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá Hồi Nướng Bọc Trứng Mỏng",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Temaki lươn nhật nướng",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Temaki cá hồi, bơ",
+            "price": "35,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Temaki cuốn kiểu california",
+            "price": "35,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Temaki cá ngừ, bơ",
+            "price": "35,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Temaki cá hồi, hành lá",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Temaki tôm chiên tampura",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nigiri bụng cá hồi",
+            "price": "35,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Nigiri cá hồi",
+            "price": "30,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Nigiri lươn nhật",
+            "price": "35,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Nigiri cá hồi, phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nigiri thanh cua",
+            "price": "20,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Nigiri cá hồi nướng sốt tỏi",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Nigiri Cá Trích",
+            "price": "20,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Nigiri cá hồng sống",
+            "price": "20,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Nigiri trứng cá trích",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nigiri bạch tuộc sống",
+            "price": "20,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nigiri cá ngừ",
+            "price": "28,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nigiri sò đỏ",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nigiri trứng cuộn",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nigiri mực sống",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nigiri bơ trái",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nigiri Sò Lông",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nigiri tôm",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nigiri cá hồng",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cá Hồi Nướng Trứng Cá Tuyết",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò tepan kiểu Nhật",
+            "price": "118,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp hải sản và trứng",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Súp bò và trứng, đậu hũ",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Canh kim chi đầu cá hồi",
+            "price": "78,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm chiên tempura",
+            "price": "88,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cá trứng Nhật chiên giòn",
+            "price": "55,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Thịt heo chiên giòn",
+            "price": "55,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Vây cá hồi chiên giòn",
+            "price": "68,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mực chiên giòn",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bánh khoai tây Nhật",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cá hồi chiên",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hàu chiên giòn",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc chiên",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gà chiên giòn",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gunkan  cá hồi và bơ",
+            "price": "40,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trứng cá chuồn",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Gunkan hoa cá hồi với 3 loại trứng",
+            "price": "88,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tôm trộn sốt mayo",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Gunkan bạch tuộc vị cay",
+            "price": "28,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gunkan trứng cá hồi",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gunkan trứng cá đen",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gunkan trứng sốt mayo",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Gunkan cá ngừ vị cay",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Salad thanh cua",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Gunkan hoa cá hồi với trứng tobiko",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gunkan hoa cá hồi với trứng ikura",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gunkan cá hồi vị cay",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cuộn kiểu California",
+            "price": "40,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Cuộn cá hồi và bơ",
+            "price": "58,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sushi gà phô mai",
+            "price": "68,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cuộn cá hồi sống",
+            "price": "38,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sushi cá hồi chiên",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cuộn cá ngừ cay",
+            "price": "55,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Heo chiên phô mai",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi cuộn bơ",
+            "price": "28,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi cuốn lớn",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cuộn thanh cua",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cuộn trứng kiểu Nhật",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cuộn cá ngừ và bơ",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cuộn cá ngừ sống",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá hồi nướng",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Chiên Tempura",
+            "price": "88,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cá Trứng Nhật Chiên Giòn",
+            "price": "48,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cá Hồi Chiên",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Hàu Chiên Giòn",
+            "price": "108,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mực Chiên Giòn",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà Chiên Giòn",
+            "price": "55,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Thịt Heo Chiên Giòn",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh Khoai Tây Nhật",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bạch Tuộc chiên",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Tempura Nhân Bò Mỹ",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Da cá hồi cay",
+            "price": "70,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Bò mỹ sốt teriyaki",
+            "price": "68,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Da cá hồi sốt tôm",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cá hồi nướng cuộn trứng",
+            "price": "75,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Thiên thạch",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cua lột chiên",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm chiên tempura",
+            "price": "88,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Thịt heo chiên giòn",
+            "price": "50,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh tempura bò Mỹ",
+            "price": "55,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cá hồi tẩm bột chiên",
+            "price": "65,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bạch tuộc chiên giòn",
+            "price": "55,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh khoai tây nhật",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà chiên giòn",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực tẩm bột chiên",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sushi cuốn california",
+            "price": "40,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Sushi heo chiên phô mai",
+            "price": "45,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Sushi trứng cuộn",
+            "price": "15,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Sushi cá hồi nướng",
+            "price": "55,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Sushi chiên",
+            "price": "50,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Sushi thanh cua",
+            "price": "22,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Sushi cá hồi vị cay",
+            "price": "70,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Sushi cá hồi sống",
+            "price": "38,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Sushi cầu vồng",
+            "price": "70,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Sushi bơ",
+            "price": "28,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Sushi cá hồi, bơ",
+            "price": "58,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sushi tôm chiên",
+            "price": "78,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Sushi tôm, cá hồi sốt trứng",
+            "price": "70,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sushi cá ngừ cay",
+            "price": "55,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sushi Cá Hồi Chiên",
+            "price": "50,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sushi cuốn rồng",
+            "price": "70,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sushi cá ngừ sống",
+            "price": "30,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sushi cá ngừ, bơ",
+            "price": "58,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sushi cuốn lớn",
+            "price": "55,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sushi tôm chiên phủ cá hồi",
+            "price": "60,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sushi cá hồi đặc biệt, trứng caviar",
+            "price": "110,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sushi Cá Hồi",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi tôm cuôn ikura",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sushi cá ngừ và tempura",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Trang Trang",
+            "link": "https://www.foody.vn/thanh-vien/pink.tt94",
+            "score": "8.0",
+            "comment": "Rất hài lòng về cách phục vụ của các bạn nhân viên và món ăn ở đây.Mình gọi 1 hana cheese roll, 1 katsu cheese, 1 baked sake, 1 mì yakisoba, 1 bánh xèo nhật, 1 đậu nành và 4 chai nứơc suối ..\r\r- Hana cheese roll: Đáng thử, vị phomai nhìêu và béo... bạn nào thích ăn béo nhu mình sẽ rất thích  :x\r- Katsu cheese: Món tủ của mình  \r- Baked sake: cũng k đặc biệt lắm, không khác nhiêù so với các loại khác \r- Yakisoba hải sản: ngon nhưng hơi ít, hải sản gồm tôm, mực..\r- Bánh xèo nhật: Rất ngon nhưng mau ngán, khi mang ra còn nóng và giòn\r- Đậu nành: Ngon: xxxx...mà lại còn rẻ hơn sushi bar\r\rHôm đó mình đi khoảng 7h nên đông -> món ăn lên lâu, ăn mà chờ dài cổ luôn-_-... Nhưng bù lai thái độ của các bạn nhân viên rất niềm nở :) \rTổng cho 6 món và 4 chai nước suối hình như khoảng hơn 350k...4 người no căng  :P"
+        },
+        {
+            "user": "Nguyễn Thuý Bắc",
+            "link": "https://www.foody.vn/thanh-vien/bacnguyen2806",
+            "score": "6.2",
+            "comment": "trời quơi chưa bao giờ ăn sushi mà dở như ở đây, sushi ngọt, sashimi cảm giác không tươi lắm, món khác cũng ngọt với nhiều dầu mỡ quá, đúng kiểu ăn đồ nhật vị việt nam.phục vụ cũng tạm ổn, ko nhanh lắm, ra món phải nhắc lên nhắc xuống"
+        },
+        {
+            "user": "Tina Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/tina.papy",
+            "score": "7.2",
+            "comment": "Cũng lâu rồi mới ghé lại quán thì nay qán lên toà nhà chỗ ngồi nhìn lịch sự hơn nhưng hơi hẹp. Các bàn ngồi cũng khá sát nhau. Chất lượng đồ ăn thì vẫn khá tốt. Cá hồi thì có mấy miếng còn dính máu hơi ớn xíu vì đó h mình ăn nhữn chỗ khác chưa gặp tình trạng này :) giá cả thì vẫn khá ổn hơn nhiều nơi. Sẽ còn ghé lại :) hi vọng không gian sẽ được cải thiện hơn để khách có chỗ ngồi thoải mái hơn."
+        },
+        {
+            "user": "guangre",
+            "link": "https://www.foody.vn/thanh-vien/guangre",
+            "score": "7.2",
+            "comment": "Mình có dịp ăn ở cả bên Trương Định và ở đây. Nhìn chung chất lượng sushi và sashimi như nhau, phục vụ tốt, nhanh nhẹn. Tuy nhiên chi nhánh ở Lê Quang Định có một vài điểm trừ sau đây:- Giữ xe không thân thiện, mình đi buổi trưa, vừa chạy xe vào thì bị giữ xe hỏi \"Đi đâu\" (??)- Không có nước trà xanh gạo rang như bên Trương Định."
+        },
+        {
+            "user": "Food Adventure",
+            "link": "https://www.foody.vn/thanh-vien/tramanh_9591",
+            "score": "6.2",
+            "comment": "Đi ăn khoảng 20h, ko biết là trễ rồi nên quán không còn nguyên liệu hay tiêu chuẩn phần ăn là thế. Có cảm giác sai lầm khi phần bụng cá hồi ( như hình, 6 lát, 85k) như chơi đồ hàng. Nhỏ tí ti! Thấy bàn kế bên kêu set combo sashimi cũng có chút éc thiệt tình là ngạc nhiênNói tiền nào của nấy thì không đúng,mỗi món giá rẻ hơn so với tokyo deli chừng 15-20k nhưng sashimi ít quá ít, miếng cá tí xíu ( to hơn chiếc đũa một tí ). Tươi cũng ko hẳn là tươi. Đã tưng ăn bên Trương Định thấy bên đó đồ ăn làm nhiều hơn, miếng cá cũng to hơn! + nigiri và maki làm ngon, vừa ăn nhưng cũng bé tí ti :)+ bánh bạch tuột ngon+ giá trung bình vừa phải để ai cũng có thể thưởng thức món Nhật+ phục vụ có cải thiện, nhân viên lịch sự"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "name": "KFC - Phạm Ngọc Thạch",
+    "link": "https://www.foody.vn/ho-chi-minh/kfc-pham-ngoc-thach",
+    "address": "14 Phạm Ngọc Thạch, P. 6,  Quận 3, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/kfc-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "37"
+    },
+    "foods": [
+        {
+            "name": "Gà Giòn Cay",
+            "price": "34,000(đ)",
+            "total_orders": "1144"
+        },
+        {
+            "name": "Cánh Gà Giòn Cay",
+            "price": "47,000(đ)",
+            "total_orders": "790"
+        },
+        {
+            "name": "Gà Truyền Thống",
+            "price": "34,000(đ)",
+            "total_orders": "619"
+        },
+        {
+            "name": "Gà Quay Tiêu",
+            "price": "64,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Đùi Gà Quay Tiêu",
+            "price": "39,000(đ)",
+            "total_orders": "944"
+        },
+        {
+            "name": "Burger Zinger",
+            "price": "49,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Gà Truyền Thống KFC",
+            "price": "39,000(đ)",
+            "total_orders": "480"
+        },
+        {
+            "name": "Cơm Phi Lê Gà Quay Flava",
+            "price": "39,000(đ)",
+            "total_orders": "467"
+        },
+        {
+            "name": "Burger Gà Quay Flava",
+            "price": "45,000(đ)",
+            "total_orders": "414"
+        },
+        {
+            "name": "Khoai Tây Chiên",
+            "price": "12,000(đ)",
+            "total_orders": "1169"
+        },
+        {
+            "name": "Gà Viên",
+            "price": "35,000(đ)",
+            "total_orders": "813"
+        },
+        {
+            "name": "Bắp Cải Trộn",
+            "price": "12,000(đ)",
+            "total_orders": "766"
+        },
+        {
+            "name": "Cá Thanh 3 Miếng",
+            "price": "40,000(đ)",
+            "total_orders": "465"
+        },
+        {
+            "name": "Khoai Tây Nghiền",
+            "price": "10,000(đ)",
+            "total_orders": "459"
+        },
+        {
+            "name": "Xà Lách Gà",
+            "price": "19,000(đ)",
+            "total_orders": "407"
+        },
+        {
+            "name": "Bánh Trứng Nướng (4 Cái)",
+            "price": "45,000(đ)",
+            "total_orders": "1575"
+        },
+        {
+            "name": "Bánh Trứng Nướng",
+            "price": "15,000(đ)",
+            "total_orders": "898"
+        },
+        {
+            "name": "Gà Rán Giòn Cay",
+            "price": "79,000(đ)",
+            "total_orders": "1242"
+        },
+        {
+            "name": "Gà Rán Truyền Thống",
+            "price": "79,000(đ)",
+            "total_orders": "713"
+        },
+        {
+            "name": "Phần Ăn Family Meal 3",
+            "price": "245,000(đ)",
+            "total_orders": "521"
+        },
+        {
+            "name": "Phần Ăn Double Meal",
+            "price": "175,000(đ)",
+            "total_orders": "515"
+        },
+        {
+            "name": "Phần Ăn XL",
+            "price": "99,000(đ)",
+            "total_orders": "382"
+        },
+        {
+            "name": "Phần Ăn Gia Đình B",
+            "price": "158,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Phần Ăn Teen Choice",
+            "price": "63,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Combo Gà",
+            "price": "79,000(đ)",
+            "total_orders": "290"
+        },
+        {
+            "name": "Phần Ăn Gia Đình A",
+            "price": "242,000(đ)",
+            "total_orders": "138"
+        },
+        {
+            "name": "Phần Ăn Trẻ Em",
+            "price": "56,000(đ)",
+            "total_orders": "130"
+        },
+        {
+            "name": "Trà sữa Milkfoam Kacchiato",
+            "price": "29,000(đ)",
+            "total_orders": "119"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Hôm qua, trên đường đi công chuyện, mình ghé vô đây ăn trưa luôn, mình gọi 1 cơm gà giòn cay (35k) và 1 Kacchiato uống thử cho biết (17k). Phần ăn như ảnh, miếng gà to, bự, nước sốt cực kì ngon, mình thích lắm, Kacchiato uống ổn, giá rẻ chất lượng vậy là ok rồi. Nhân viên ở đây rất dễ thương, chỉ hơi bất tiện là không có wifi thôi. ^^"
+        },
+        {
+            "user": "Vicky Le",
+            "link": "https://www.foody.vn/thanh-vien/toanhang0401",
+            "score": "7.2",
+            "comment": "Mình hay ăn KFC ở đây. Gà với khoai tây chiên giòn, vị nêm rất vừa ăn. Không gian ko rộng lắm, muốn đi wc thì phải lên lầu 1, cầu thang lên rất là hẹp."
+        },
+        {
+            "user": "Thy Hn",
+            "link": "https://www.foody.vn/thanh-vien/thyhn121",
+            "score": "8.0",
+            "comment": "Mình hay ăn chỗ này tại quán rộng, không quá đông khách. Nay có combo 99K nên đi ăn cho đã hihi. Combo có 3 cục gà giòn cay, 1 bịch gà viên vs 1 hambuger. Tụi mình kêu thêm nước nữa để không chết khát. Mình thích ăn tương cà nên ăn chủ yếu là tương. Phần này 2 đứa ăn mạnh thì đc, ăn như mèo thì chắc phải 3 đứa. Mình nghĩ KFC cũng tuỳ chi nhánh, ở đây mình thấy gà chiên giòn, nóng, ngon! Thấy đang chạy combo cho sinh viên, đc tặng bình nước vs balo."
+        },
+        {
+            "user": "Miu Miu",
+            "link": "https://www.foody.vn/thanh-vien/meocondangyeuxinhxan",
+            "score": "8.6",
+            "comment": "Đồ ăn ngonThái độ nhân viên ko tốt lắmHay ăn ở đây vì dễ điCó bữa tính ăn sáng mà quên 9h mới mở cửa 😭 thành ra tới nơi quán chưa mở,đành đi lòng vòng hồ con rùa View nhìn ra đường,cũng được"
+        },
+        {
+            "user": "Sky Ice",
+            "link": "https://www.foody.vn/thanh-vien/diemchau.ng",
+            "score": "7.4",
+            "comment": "KFC chỗ này nằm ngay góc đường Nguyễn Đình Chiểu - Phạm Ngọc Thạch, gần hồ con rùa .. Không gian ở đây nhỏ thui, lần trước ghé vào giờ trưa là ko có chỗ ngồi luôn .. Nay may mắn lúc mình vào thì quán khá vắng nên chỗ ngồi vô tư luôn ..Lúc vào được bạn nhân viên giới thiệu cho rất nhiều phần combo ưu đãi, phân vân 1 hồi thì mình gọi 1 combo giá 149k gồm 1 kem cây, 2 miếng gà, 2 ly nước & 1 hộp gà viên nhỏ .. Và kêu thêm 1 cái hamburger tôm 39k .. Mình & nhỏ bạn ăn vậy là no nê luôn rồi .. Chất lượng món ăn KFC vẫn rất ổn, dịch vụ tốt, nhân viên dễ thương nên mỗi lần thèm gà rán mình hay lựa chọn KFC .. heheh"
+        }
+    ]
+}

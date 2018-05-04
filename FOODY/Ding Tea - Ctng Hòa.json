@@ -1,0 +1,447 @@
+{
+    "name": "Ding Tea - Cộng Hòa",
+    "link": "https://www.foody.vn/ho-chi-minh/ding-tea-cong-hoa",
+    "address": "47 Cộng Hòa,  Quận Tân Bình, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Đài Loan",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-dai-loan"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "345"
+    },
+    "foods": [
+        {
+            "name": "Trà đen vị đào",
+            "price": "32,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Trà xanh vị mật ong",
+            "price": "32,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Trà đen vị nho",
+            "price": "32,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Trà đen vị mật ong",
+            "price": "32,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Trà xanh vị kiwi",
+            "price": "32,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Trà xanh vị đào",
+            "price": "32,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Trà xanh vị nho",
+            "price": "32,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà xanh vị chanh leo",
+            "price": "32,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà chanh quất",
+            "price": "39,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà xanh vị dứa",
+            "price": "32,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà xanh vị dâu",
+            "price": "32,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà mật ong",
+            "price": "32,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà đen vị dâu",
+            "price": "32,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà đen vị xoài",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà đen vị chanh leo",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà đen vị ô mai",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà xanh vị mận",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà đen vị dứa",
+            "price": "32,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà xanh vị xoài",
+            "price": "32,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà đen vị mận",
+            "price": "32,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà xanh vị ô mai",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà vị quất",
+            "price": "32,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước nho lô hội",
+            "price": "39,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Nước chanh mật ong",
+            "price": "32,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Nước bưởi",
+            "price": "32,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Nước chanh mận",
+            "price": "32,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nước mật ong lô hội",
+            "price": "39,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Nước kiwi lô hội",
+            "price": "39,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Nước đào",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nước chanh leo",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng trà",
+            "price": "25,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Trà ô long đường đen",
+            "price": "32,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Trà xanh vị hoa nhài",
+            "price": "25,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Hồng trà đường đen",
+            "price": "32,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Trà ôlong",
+            "price": "25,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà xanh",
+            "price": "25,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà sữa trân châu",
+            "price": "37,000(đ)",
+            "total_orders": "282"
+        },
+        {
+            "name": "Trà sữa hokkaido",
+            "price": "39,000(đ)",
+            "total_orders": "185"
+        },
+        {
+            "name": "Trà ô long sữa",
+            "price": "32,000(đ)",
+            "total_orders": "158"
+        },
+        {
+            "name": "Hồng trà sữa",
+            "price": "32,000(đ)",
+            "total_orders": "126"
+        },
+        {
+            "name": "Trà sữa chocolate",
+            "price": "32,000(đ)",
+            "total_orders": "106"
+        },
+        {
+            "name": "Trà sữa vị hoa nhài",
+            "price": "32,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Trà sữa khoai môn",
+            "price": "32,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Trà xanh Nhật Bản đậu đỏ",
+            "price": "40,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Trà sữa thạch pudding",
+            "price": "37,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Trà sữa hạt dẻ",
+            "price": "39,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Trà sữa xoài",
+            "price": "39,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Trà xanh nhật bản",
+            "price": "32,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Trà sữa đường đen",
+            "price": "39,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Trà xanh sữa",
+            "price": "32,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Trà sữa mật ong",
+            "price": "32,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Trà sữa thạch dừa",
+            "price": "37,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Trà sữa thạch rau câu",
+            "price": "37,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Trà sữa vanilla",
+            "price": "39,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "39,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà sữa dâu",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà sữa chanh leo",
+            "price": "39,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà sữa nho",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà sữa dứa",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sữa chua uống vị dâu",
+            "price": "39,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sữa chua uống vị chanh leo",
+            "price": "39,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sữa chua uống vị trà xanh",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sữa chua uống vị chanh",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sữa chua uống vị bưởi",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sữa chua uống vị dứa",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sữa chua uống vị nho",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê hokkaido",
+            "price": "39,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cà phê hạt dẻ",
+            "price": "39,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cà phê vanilla",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà long nhãn",
+            "price": "32,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà sữa long nhãn",
+            "price": "32,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà gừng",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà gừng - long nhãn",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà sữa gừng",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Bi Trần",
+            "link": "https://www.foody.vn/thanh-vien/bitrn2054",
+            "score": "9.4",
+            "comment": "Đồ ăn và uống rất ngon."
+        },
+        {
+            "user": "Hp Mọi",
+            "link": "https://www.foody.vn/thanh-vien/hpmi",
+            "score": "7.2",
+            "comment": "Trà sữa ở đây ngon, các bạn phục vụ lại dễ thương lắm lắm luôn"
+        },
+        {
+            "user": "phuong053",
+            "link": "https://www.foody.vn/thanh-vien/phuong053",
+            "score": 0,
+            "comment": "Không gian ấm cúng. Matcha vị ổn"
+        },
+        {
+            "user": "katilyn.ph",
+            "link": "https://www.foody.vn/thanh-vien/phuongthaoanhphan",
+            "score": "8.6",
+            "comment": "Hôm nay mình đặt deli giao vào buổi sáng. Mình đặt trà sữa hokkaido và trà sữa hương lài, cả hai đều thêm trân châu trắng và đen. Hokkaido có cream, cream ngon nhưng hơi ngọt, trân châu trắng và đen ngon. Trà sữa thì ngon nhưng hơi ngọt. Trà sữa hương lài để 1/2 đường thì ngon, vị thanh mát. Sau này sẽ thử lại hương lài."
+        },
+        {
+            "user": "Tramy Pham",
+            "link": "https://www.foody.vn/thanh-vien/ostrich_9",
+            "score": "10",
+            "comment": "Ding Tea Cộng Hoà có một điểm đặc biệt mà không một nơi nào khác có được, đó là nơi giao lưu, thưởng thức nghệ thuật kịch cà phê do Nhóm Tía Lia tổ chức hàng tuần. Nếu đã từng đến thưởng thức nghệ thuật kịch cà phê, nhâm nhi ly trà sữa và khóc cười cùng các nhân vật của vở kịch do các diễn viên tài năng Huỳnh Lập, Quang Trung, Trà Ngọc, Quỳnh Lý... thể hiện, bảo đảm bạn sẽ không bao giờ quên và thậm chí muốn đăng kí đi coi hoài mà không chán. Với giá nước cộng phụ thu vào khoảng 130-150k/ người + 3 tiếng coi kịch, một số tiền quá rẻ cho một vở diễn của các nghệ sỹ trẻ đầy đam mê nhiệt huyết vời nghề! Cảm ơn DingTea Cộng Hoà và nhóm Tía Lia đã mang đến cho giới trẻ Sài Gòn một điểm giải trí cuối tuần thú vị!"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Rosemary Acoustic",
+    "link": "https://www.foody.vn/ho-chi-minh/rosemary-garden-steak-cafe",
+    "address": "30 Đường 7A, KDC Nhân Phú, P. Tăng Nhơn Phú B,  Quận 9, TP. HCM",
+    "open_time": "",
+    "price_range": "19.000đ - 79.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "9.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "21"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "An Nguyen Van",
+            "link": "https://www.foody.vn/thanh-vien/abc_abc",
+            "score": "9.0",
+            "comment": "- Mới vào quán là đã thấy rất thích với không gian quán rồi - Mọi thứ ở đây thật lãng mạn . A chị chủ quán rất hòa đồng và vui tính :D- Đồ uống ở đây thì khỏi bàn . rất là ngon luôn- Vì quá thích quán nên tính làm bài này để mọi người cùng biết và ghé quán- Đảm bảo ghé là sẽ thích liền :* :*"
+        },
+        {
+            "user": "An Nguyen Van",
+            "link": "https://www.foody.vn/thanh-vien/abc_abc",
+            "score": "8.8",
+            "comment": "Không gian ấn tượng ngay từ cổng vào, ấn tưởng nhất dàn hoa hồng trước vườn\r* Nơi đây cực thích hợp cho mọi người yêu thích âm nhac, nhạc công với vẻ phong lưu cực chất . Nhâm nhi đồ uống  rồi nghe tiếng Guitar nhẹ nhàng, cảm giác thật thoải mái khi tới đây. Phòng trà rất thân thiện , không gian lãng mạn theo phong cách cổ điển. \r* Anh chị chủ cực vui luôn.Chúc AC thành công với phòng trà nhé!\r* Đồ uống rất hợp khẩu vị, mình đã được thử nhiều món ở đây, Hương vị hài hòa, Và có khá nhiều sự lựa chọn , thích nhất là món Cam Rum chút cam, chút rum vị tê tê đầu lưỡi rất thú vị."
+        },
+        {
+            "user": "Phương Anh Lê",
+            "link": "https://www.foody.vn/thanh-vien/dkanhkun",
+            "score": "8.8",
+            "comment": "Không gian siêu lãng mạn, ghế ngồi đẹp, thoải mái nên thích hợp cho cả việc học tập, làm việc. Anh chị chủ nhiệt tình, cute. Đi tới câu lạc bộ phong phú gì đó có hẻm 48 quẹo dô là thấy."
+        },
+        {
+            "user": "Tuyên Bùi",
+            "link": "https://www.foody.vn/thanh-vien/builongtuyen",
+            "score": "8.8",
+            "comment": "Không gian của quán thật sự rất đẹp và vô cùng lãng mạn , mọi thứ ở đây được sắp xếp rất hợp lý và vô cùng thoáng mát , không quá chật chội .Đồ ăn và thức uống ở đây cũng rất ngon và rất vừa miệng ."
+        },
+        {
+            "user": "Hoang Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hoangnguye20102",
+            "score": "8.8",
+            "comment": "Không gian quán thật sự rất lãng mạn ,rất đẹp , mọi thứ được sắp xếp rất hợp lý và thoải mái , không quá chật chội m ang theo một phong cách của Pháp cổ điển . Món ăn ở đây cũng vậy , rất ngon và nhìn rất hấp dẫn kèm theo thức uống nhiệt đới mang hương vị rất đậm đà không kém phần sảng khoái . Chủ quán và nhân viên ở đây rất thân thiện và hiếu khách nếu có thời gian sẽ ghé thăm quán thường xuyên :)"
+        }
+    ]
+}

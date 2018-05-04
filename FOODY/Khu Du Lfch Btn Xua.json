@@ -1,0 +1,80 @@
+{
+    "name": "Khu Du Lịch Bến Xưa",
+    "link": "https://www.foody.vn/ho-chi-minh/khu-du-lich-ben-xua",
+    "address": "39A Hà Huy Giáp, P. Thành Lộc,  Quận 12, TP. HCM",
+    "open_time": "10:00 AM - 11:00 PM",
+    "price_range": "50.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tiệc cưới/Hội nghị",
+            "link": "https://www.foody.vn/ho-chi-minh/wedding/tiec-cuoi-hoi-nghi"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "30"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Quỳnh Khánh",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthihuynhanh1972",
+            "score": "6.0",
+            "comment": "Khu Du Lịch Bến Xưa gần nhà mình nên mình tới đây rất nhiều lần.Có lần mình đi sinh nhật bạn mình, có lần đi cùng gia đình và bạn bè.Không gian rất thoáng mát, cây cối mát mẻ, diện tích rộng lớn, có hồ bơi,quán cafe, nhà hàng.Thức ăn cũng khá ngon, giá tiền thì cũng không cao lắm, vừa túi tiền vì đây là khu du lịch nên phải cao hơn các quán ăn,nhà hàng khác.Nhân viên lịch sự,tận tình,vui vê với khách hàng.Các lễ ở đây còn có giao lưu với các ca sĩ, diễn viên,... rất thú vị.Mình rất hài lòng nên sẽ ghé tiếp những lần sau."
+        },
+        {
+            "user": "Khánh Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthihuynhanh1982",
+            "score": "8.4",
+            "comment": "Khu Du Lịch Bến Xưa gần nhà mình nên mình tới đây rất nhiều lần.Có lần mình đi sinh nhật bạn mình, có lần đi cùng gia đình và bạn bè.Không gian rất thoáng mát, cây cối mát mẻ, diện tích rộng lớn, có hồ bơi,quán cafe, nhà hàng.Thức ăn cũng khá ngon, giá tiền thì cũng không cao lắm, vừa túi tiền vì đây là khu du lịch nên phải cao hơn các quán ăn,nhà hàng khác.Nhân viên lịch sự,tận tình,vui vê với khách hàng.Các lễ ở đây còn có giao lưu với các ca sĩ, diễn viên,... rất thú vị.Mình rất hài lòng nên sẽ ghé tiếp những lần sau."
+        },
+        {
+            "user": "Huynh Van Thien",
+            "link": "https://www.foody.vn/thanh-vien/huynhvanthien945169",
+            "score": "7.0",
+            "comment": "Hôm nay có dịp đi chơi theo đoàn ở quận Gò Vấp, vào Bến xưa, dọc theo bờ sông nhỏ. Khu này khá rộng, vẫn còn đang trong quá trình thi công khá nhiều công trình. Mình chỉ ghé qua khu điểm tâm, cà phê buổi sáng. Phải nói dọc bờ sông của quán có rất là nhiều cây, cây che phủ kín cà bờ sông, và ngồi thường thức bữa sáng dưới tán cây cũng rất mát mẻ và thú vị. Thất vọng là thức uống quá tệ, đồ uống nào cũng quá ngọt, ngọt đậm, nhưng mùi vị thì nghe toàn sữa.  menu ko đa dạng lắmNhân viên phục vụ ok."
+        },
+        {
+            "user": "Na Le",
+            "link": "https://www.foody.vn/thanh-vien/orchidmaiphong",
+            "score": "7.2",
+            "comment": "Chỗ này gần nhà mình, cũng khá được ưa chuộng cho mấy dịp họp mặt gia đình, sinh nhật. Ưu điểm lớn nhất là có không gian rộng được thiết kể theo kiến trúc truyền thống khá đẹp, có hồ bơi và chỗ chơi cho trẻ em.Về phần món ăn thì cũng tùy hôm, có khi ngon khi dở. Cũng có nhiều món lạ hay hay. Tuy nhiên về khâu phục vụ còn khá nhiều vấn đề, một phần là do thiếu nhân viên nên không thể nhìn bao quát hết khách, thành ra ngày khách đông lên món chậm và hơi lộn xộn.Bên cà phê thiết kế như một gian nhà cổ cực kì đẹp. Thức uống pha vừa miệng, giá ổn hơn hẳn so với đồ ăn."
+        },
+        {
+            "user": "Khoa Lê Văn",
+            "link": "https://www.foody.vn/thanh-vien/soiham.ftu",
+            "score": "8.8",
+            "comment": "Khu du lịch Bến Xưa kết hợp đầy đủ không gian ăn uống, nhà hàng, hồ bơi. Mình ghé qua đi ăn với công ty có hỗ trợ khu vực phòng riêng ngồi được tầm 20 người. Không gian trang trí cổ kính với nội thất gỗ, trông rất đẹp mắt. Tuy nhiên phục vụ hơi chậm chạp, các món order từ trước thì lên nhanh nhưng order thêm tại bàn mãi mà không thấy. Các món ăn khá ngon miệng, gia vị ổn, bày trí tương đối đẹp mắt so với các nhà hàng khác. Nhìn chung đánh giá khá ổn để đi ăn với gia đình hay công việc tại Quận 12."
+        }
+    ]
+}

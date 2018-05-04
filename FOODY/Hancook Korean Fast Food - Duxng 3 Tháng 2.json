@@ -1,0 +1,80 @@
+{
+    "name": "Hancook Korean Fast Food - Đường 3 Tháng 2",
+    "link": "https://www.foody.vn/ho-chi-minh/hancook-korean-fast-food",
+    "address": "181/2 Đường 3 Tháng 2,  Quận 10, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "60.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hancook-korean-fast-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "621"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Anna Trương",
+            "link": "https://www.foody.vn/thanh-vien/nhy.pher",
+            "score": "8.0",
+            "comment": "Giá quá rẻ Ngon, nhưng lúc cần thì nhân viên cứ chạy đi đâu í"
+        },
+        {
+            "user": "Khánh Vy Trần",
+            "link": "https://www.foody.vn/thanh-vien/gauhts1997",
+            "score": 0,
+            "comment": "Hôm qua mình có đến Hancook ănLâu rồi không ghé qua đây ăn nữa nên cũng không biết thế nàoVà hôm qua đến ăn thì... thấy cũng không ngon lắm.Không gian quán thì không thay đổi gì mấy so với lần gần nhất mình đi, nhưng thức ăn thì có chút khác. Với mình thì mình thấy tệ hơn trước, cảm thấy không ngon như hồi trước. Tuy vậy cũng có món ăn được như mỳ Kim Chi =))Teokbokki thì ngọt quá, nên giảm vị ngọt lại huhu dù màu sắc đã được cải thiện và đẹp hơn trước, teok cũng khác, không nhiều cũng không to như ngày trước nhưng ăn được hơn chút.Quay lại có thể ^_^"
+        },
+        {
+            "user": "Ngoc Le",
+            "link": "https://www.foody.vn/thanh-vien/katrina11906",
+            "score": "7.0",
+            "comment": "-Tokboki ngon hơn bên hanuri, bột dẻo, nước sốt sệt, vị đậm và cay cay => ngon-Mì japche cay: hơi nhiều dầu màu, hoi cay cay, vị khá ổn ăn ok-Trứng cuộn nhạt và vị rau củ nhiều quá át hết các vị khác, chấm kèm sốt mayo béo béo. Không thích lắm, ăn 1-2 miếng là thấy ngan ngán.-Lẩu kim chi 1 người: thức ăn khá nhiều có xúc xích, nấm, rau, thịt nhiều. Kèm theo là trứng và 1 chén muối, đập thêm trứng vào lẩu ăn ngon hơn. Mình thấy nhiều review bảo nhạt nên fai nêm thêm muối vào, nhưng mình và bạn mình ăn hôm nay thì thấy vừa miệng rồi nên k cần nêm thêm j hếtCá khô và kim chi có thể kêu thêm nếu hết. Kim chi cay cay ăn rất thíchQuán đông nên hơi lâu, giá cả mềm, nhìn chung ăn được"
+        },
+        {
+            "user": "Châu Tiny",
+            "link": "https://www.foody.vn/thanh-vien/chautiny96",
+            "score": 0,
+            "comment": "Lâu rồi mình mới ghé lại Hancook 🐽Bọn mình đi 4 người gọi 5 món: thịt nướng, tokpoki, miến, cơm trộn và lẩu nấmMình ưng nhất là món thịt nướg, lẩu nấmRecommend cho các bạn là nên gọi thêm trứng vào lẩu là siêu ngon luôn nhaTổng chi phí 345k/4 người siêu hợp lý luôn nè"
+        },
+        {
+            "user": "Minhthuu Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguyenminhthu0109",
+            "score": 0,
+            "comment": "Không biết diễn tả ntn chứ vị nhạt nhoà vô đối ấy. Ko để lại ấn tượng gì. 😕😕😕"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Làng Nướng Nam Bộ - Tô Hiến Thành",
+    "link": "https://www.foody.vn/ho-chi-minh/lang-nuong-nam-bo-to-hien-thanh",
+    "address": "302A Tô Hiến Thành, P. 15,  Quận 10, TP. HCM",
+    "open_time": "10:00 AM - 11:30 PM",
+    "price_range": "80.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/lang-nuong-nam-bo?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "284"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "khoa",
+            "link": "https://www.foody.vn/thanh-vien/khoa.post1990",
+            "score": "9.4",
+            "comment": "Mình vừa đãi sn ở đây. Phìng vip 4 bàn. Đồ aen rất ngon và rẽ nhìu nữa. Nhân viên quá ư là chu đáo nhanh nhẹn. Lịch sự thân thiện. Nói chung tiệc thành công tốt đẹp nen thích lắm . Nhà hàng xây đẹp lắm, sang trọng nữa."
+        },
+        {
+            "user": "Trân Bảo",
+            "link": "https://www.foody.vn/thanh-vien/tranbao3110",
+            "score": "10",
+            "comment": "Mình mới đi ăn ở đây về. Phải nói là hoàn hảo từ món ăn, không gian, chất lượng và cách phục vụ. Nhân viên cực kì thân thiện và dễ thươngMón ăn thì khỏi bàn rồi. Mình đi 10 người gọi 3 gỏi dừa, 1 con heo sữa, 3 lẩu cua đồng, 3 ốc móng tay rim, tính luôn nước ngọt, bia và khăn các thứ mà chưa tới 3 triệuThúch hợp cho những ngày hội họp gia đình hay bạn bè, đãi sinh nhật là ok luônnn ."
+        },
+        {
+            "user": "Bichtram bui thi",
+            "link": "https://www.foody.vn/thanh-vien/trambui2012",
+            "score": "8.4",
+            "comment": "Mình đặt tiệc 5 bàn ở đây, phục vụ và món ăn rất tốt rất ngon. Không gian mới đẹp. Chắc chắn sẽ quay lại khi có dịp hội họp."
+        },
+        {
+            "user": "Mum Mu",
+            "link": "https://www.foody.vn/thanh-vien/thunguyen.sg1202",
+            "score": "7.8",
+            "comment": "Quán này đông lắm nà, tầm chiều tối là đông full bàn luôn. Menu đa dạng các món, món này nêm nếm cũng vừa vị hết, không chê vào đâu được. Chỉ có điều khách đông nên phục vụ khá chânhững, nhưng vẫn nhiệt tình"
+        },
+        {
+            "user": "Tứ Văn",
+            "link": "https://www.foody.vn/thanh-vien/vanmtt",
+            "score": "7.6",
+            "comment": "Làng nướng Nam Bộ góc Tô Hiến Thành + Thành Thái (gần Thế giới di động). Đây là địa điểm  chuyển từ CMT8 về. Bề ngang quán rộng rãi, trang trí đẹp , đặc biệt khu sảnh được trang trí theo mùa rất đặc biệt ,  ấn tượng nhất đối với mình là dịp tết và noel, cây thông, cây mai to đùng đùng, nhìn muố xỉu ^^. Giá cá cự hợp lý, khẩu vị rất vừa miện với mình nên có tiệc là đến đây hơi bị nhiều."
+        }
+    ]
+}

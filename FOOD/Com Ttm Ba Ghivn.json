@@ -1,0 +1,207 @@
+{
+    "name": "Cơm Tấm Ba Ghiền",
+    "link": "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien",
+    "address": "84 Đặng Văn Ngữ, P. 10,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "08:00 AM - 09:00 PM",
+    "price_range": "40.000đ - 66.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.4",
+        "total_review": "301"
+    },
+    "foods": [
+        {
+            "name": "Cơm tấm sườn",
+            "price": "46,000(đ)",
+            "total_orders": "4742"
+        },
+        {
+            "name": "Cơm tấm sườn opla",
+            "price": "56,000(đ)",
+            "total_orders": "2842"
+        },
+        {
+            "name": "Cơm tấm sườn chả",
+            "price": "56,000(đ)",
+            "total_orders": "2103"
+        },
+        {
+            "name": "Cơm tấm sườn bì chả",
+            "price": "66,000(đ)",
+            "total_orders": "2100"
+        },
+        {
+            "name": "Cơm tấm sườn bì",
+            "price": "58,000(đ)",
+            "total_orders": "1584"
+        },
+        {
+            "name": "Cơm tấm sườn bì chả opla",
+            "price": "77,000(đ)",
+            "total_orders": "1512"
+        },
+        {
+            "name": "Cơm tấm sườn opla chả",
+            "price": "66,000(đ)",
+            "total_orders": "1016"
+        },
+        {
+            "name": "Cơm tấm đùi gà",
+            "price": "42,000(đ)",
+            "total_orders": "655"
+        },
+        {
+            "name": "Cơm tấm bì chả",
+            "price": "42,000(đ)",
+            "total_orders": "481"
+        },
+        {
+            "name": "Cơm thịt kho trứng",
+            "price": "42,000(đ)",
+            "total_orders": "232"
+        },
+        {
+            "name": "Cơm tấm gà opla",
+            "price": "54,000(đ)",
+            "total_orders": "188"
+        },
+        {
+            "name": "Cơm tấm trứng kho (2 trứng)",
+            "price": "29,000(đ)",
+            "total_orders": "120"
+        },
+        {
+            "name": "Cơm tấm trứng kho (1 trứng)",
+            "price": "19,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Canh Súp",
+            "price": "18,000(đ)",
+            "total_orders": "2039"
+        },
+        {
+            "name": "Canh cải chua",
+            "price": "18,000(đ)",
+            "total_orders": "1491"
+        },
+        {
+            "name": "Cơm thêm",
+            "price": "6,000(đ)",
+            "total_orders": "1414"
+        },
+        {
+            "name": "Cơm thêm (lớn)",
+            "price": "10,000(đ)",
+            "total_orders": "1101"
+        },
+        {
+            "name": "Canh khổ qua",
+            "price": "18,000(đ)",
+            "total_orders": "881"
+        },
+        {
+            "name": "Chả Thêm",
+            "price": "10,000(đ)",
+            "total_orders": "809"
+        },
+        {
+            "name": "Trứng opla",
+            "price": "10,000(đ)",
+            "total_orders": "730"
+        },
+        {
+            "name": "Trứng kho",
+            "price": "10,000(đ)",
+            "total_orders": "679"
+        },
+        {
+            "name": "Sườn",
+            "price": "42,000(đ)",
+            "total_orders": "579"
+        },
+        {
+            "name": "Bì thêm",
+            "price": "20,000(đ)",
+            "total_orders": "394"
+        },
+        {
+            "name": "Đùi gà",
+            "price": "37,000(đ)",
+            "total_orders": "350"
+        },
+        {
+            "name": "Bắp cải xào",
+            "price": "10,000(đ)",
+            "total_orders": "344"
+        },
+        {
+            "name": "Đậu que xào",
+            "price": "10,000(đ)",
+            "total_orders": "250"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Phuong Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/rosykitty28",
+            "score": 0,
+            "comment": "Giá khá cao, suờn to. Các món khác thì không có gì đặc biệt lắm. 2 người nữ chắc chỉ nên ăn 1 dĩa rồi kêu cơm thêm.Suờn uớp đậm vị, nhưng không cho mình cảm giác quá ngon để bị ghiền.Thái độ mấy em phục vụ thì chắc kiểu lề đường, tùy tính cách của mỗi nguời, thích thì cuời, không thích thì chảnh, hoặc kêu nhiều thì vui, kêu ít thì khó chịu.Nói chung là quán đã có tiếng, nên giống rất nhiều quán ở Sài Gòn, khách cần quán hơn là quán cần khách."
+        },
+        {
+            "user": "Danh Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/uranuss91",
+            "score": 0,
+            "comment": "Lâu rồi mới ghé lại ăn. Không khí như xưaKêu 2 đĩa sườn bì và sườn lạp xưởng.+ Cơm thì chất lượng 👌- Thịt to chà bá.+ Thịt nguội lạnh (Dù bỏ lên đĩa cơm rất nóng) - kiểu nướng như sơ sơ rồi nướng lại cho xém cạnh - Ướp không thấm 😝. + Nước mắm quá tệ như đổ nước lọc cho tí màu với ớt vô đưa ra.Thấy vậy không dám kêu nón canh luôn. Về phục vụ lưu ý lại chứ, đĩa dù có sạch tới mấy mà để 2 đĩa cơm chồng lên nhau nhìn gớm lắm. Tủ thịt cắt thịt bị cháy văng tùm lum xong lấy cái khăn lau xong quơ cái xuống đất. Còn thái độ kêu món xong không kêu nước rất láo. Nói chung quán thay đổi nhiều quá"
+        },
+        {
+            "user": "Trang Cao",
+            "link": "https://www.foody.vn/thanh-vien/haiconcao03",
+            "score": "8.2",
+            "comment": "Ngủ dậy là phải xách xe đi lên đây ăn một dĩa cơm tấm rồi về, đúng chắc bị ghiền, hix..."
+        },
+        {
+            "user": "mykyhoang",
+            "link": "https://www.foody.vn/thanh-vien/mykyhoang",
+            "score": 0,
+            "comment": "Cơm tấm ngon nhưng nhân viên ko lịch sự và thân thiện, mong chủ khắc phục để ngày một phát đạt, khách đến ăn trả tiền chứ ko phải đi xin, vì vậy khách cần được đối xử tốt và chu đáo!"
+        },
+        {
+            "user": "Tâm Nhi",
+            "link": "https://www.foody.vn/thanh-vien/cloneanlyver1.42",
+            "score": 0,
+            "comment": "Mình thấy dĩa cơm cũng bình thường, không có gì đặc biệt mà giá cao quá. Tính tiền nhân viên toàn nói tổng cộng không nói rõ giá, mình hỏi lại thì lơ lơ ko trả lời luôn. Miếng thịt to dày nhưng ngọt quá, ăn không đậm đà. Mình sẽ không quAy lại đâu"
+        }
+    ]
+}

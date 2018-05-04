@@ -1,0 +1,84 @@
+{
+    "name": "Pizza Hut - Crescent Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-crescent-mall-ton-dat-tien",
+    "address": "Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "07:00 AM - 11:00 PM",
+    "price_range": "200.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "92"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "min rin",
+            "link": "https://www.foody.vn/thanh-vien/minrin2212",
+            "score": "8.8",
+            "comment": "Pizza của pizza hut thì khỏi chê rồi, mình rất thích pizza ở đây, salad làm ăn ngon lắm, ăn mà ghiền luôn"
+        },
+        {
+            "user": "Vivian 89",
+            "link": "https://www.foody.vn/thanh-vien/vanvan8899",
+            "score": "9.0",
+            "comment": "Quán nằm trên tầng 5 đối diện khu Food Court của Cresent Mall quận 7.Không gian quán tương đối rộng rãi, thoáng mát thích hợp cho gia đình có trẻ nhỏ, cặp đôi, hội bạn đến ăn uống.Menu đa dạng nhiều món đặc sắc: bột pizza cuộn phô mai, salad gà hoặc sò điệp, tôm cuộn khoai tây, pizza thập cẩm, pizza sốt pesto, pizza hải sản, pizza phô mai cao cấp, các loại mì Ý, cơm chiên, các loại súp...Chất lượng ăn khá ổn, nhân viên phục vụ nhiệt tình, không có gì để phàn nàn."
+        },
+        {
+            "user": "Trí Dũng Mai",
+            "link": "https://www.foody.vn/thanh-vien/trdngmai",
+            "score": "9.4",
+            "comment": ":((( mình tới Cresent Mall nhiều lần lắm rồi... ăn Pizza Hut ở đấy cũng nhiều lắm rồi :(( nhưng chưa lần nào như lần đó ahuhu :(( bữa đó mình với chị họ định ăn xong xem phim :3 cũng cả năm rồi chứ k ít :(( giờ mới sực nhớ ra. Vừa vào thì còn tầm 25p nữa là chiếu phim nên chị waitress năng nổ hối bếp làm nhanh giùm nên mình cảm kích lắm lắm :v nhưng nhiêu đó chưa hết :(( cái quan trognj nhất ngày hôm đó là anh nhân viên đz vcl :(( mình nhớ rõ luôn là bữa đó mình ăn pizza half vet half seafood mà mình đọc hơi nhanh (quíu do có trai đẹp :(() nên ảnh nghe sao cái ảnh tính ra 2 cái xong mình nói anh lộn rồi cái ảnh cười -_- dm tươi quá tr huhu :((AhuhuhuÀ review đồ ăn thì vẫn ngon như mọi lần nha hihi :>"
+        },
+        {
+            "user": "JennyJask",
+            "link": "https://www.foody.vn/thanh-vien/JennyJask",
+            "score": "7.0",
+            "comment": "Mới ăn hqua với bạn. Kêu thịt xông khói phomai vs xúc xích nướng phomai, 2 vị mới size M, mỗi cái 29k, thêm 2 ly coca, mỗi ly 19k. Chỉ áp dụng từ 10h-16h th nha mọi người. Vị ăn thấy cũng đc, topping hơi ít, mà 29k thì ko đòi hỏi đc, xông khói ngon hơn xúc xích, nv cũng tận tình. Bên đây phục vụ tốt hơn Lotte mart :) Ah trên bill có khuyến mãi, lên làm khảo sát sẽ được tặng bánh pizza hawaiin/pepperoni khi mua món bất kì. Không biết size nào quên hỏi mất tiêu, cũng ko biết 2 vị đó có ngon ko nữa:3 Nchung vs ctrinh km này thì ăn khá ok."
+        },
+        {
+            "user": "Charles H Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nguoidep.picaso",
+            "score": "8.0",
+            "comment": "Pizza Hut này nằm ớ tận tầng 5 của trung tâm thưong mại Cresent Mall. Mình vào buổi sáng nên quán còn khá vắng, tầm 10 giờ thì phải nhưng một lúc sau thì khách bắt đầu đông lên một cách không tuởng. Mình nghĩ là sau khi đi dạo khắp trung tâm thuơng mại này thì cũng đã đến giờ trưa và mọi nguời đến đây để dùng bữa.Điểm trừ ở chi nhánh này là chén dĩa không đuợc sạch. Mình đổi đến tận lần thứ 3 luôn mà vẫn còn dính vết dầu mỡ. Vì quá tam ba bận nên mình cũng chẳng muốn đổi thêm làm gì nữa. Hu hu hu."
+        }
+    ]
+}

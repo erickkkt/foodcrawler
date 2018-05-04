@@ -1,0 +1,84 @@
+{
+    "name": "Pizza Hut - Parkson CT Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-food-court-parkson-ct-plaza",
+    "address": "Tầng Hầm B1 Parkson CT Plaza, 60A Trường Sơn, p. 2,  Quận Tân Bình, TP. HCM",
+    "open_time": "08:30 AM - 09:30 PM",
+    "price_range": "200.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "30"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "foodee_79e36522",
+            "link": "https://www.foody.vn/thanh-vien/Thanh%20T%C3%BA",
+            "score": "9.4",
+            "comment": "Do nhà hàng gần nhà nên mình đi ăn cùng gia đình hoài à! Tóm gọn lại trong 1 từ là Tuyệt! Bánh ngon, khai vị lên món nhanh, cơm với mì ý thì đậm đà! Nhân viên phục vụ không những dễ thương mà còn nhiệt tình lắm! Gửi khăn giấy rồi hỏi ý kiến khách có vừa miệng không nữa! Dạo này mình bận nên cũng chẳng ít có thời gian rãnh đi ăn! Nên mình gọi điện để giao bánh! Khoảng 30p là có bánh giao tới nhà nóng hổi! Và người giao bánh cũng là em trai phục vụ mình trước đó! 6h45 tối, trời thì mưa + kẹt xe mà vẫn giao bánh đúng giờ! Yêu thêm câu cuối: \"Em chúc chị ngon miệng và hi vọng lần sau được phục vụ chị ạ!\" ..."
+        },
+        {
+            "user": "Minh Nghĩa Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/NguyenThanhMinhNghia1988",
+            "score": "8.0",
+            "comment": "Không gian sang trọng, đan xen màu nâu của gỗ, màu đỏ của ghế salon, đèn tròn được trang trí họa tiết chữ tinh nghịch.Nhân viên ở đây phục vụ không được nhiệt tình, chuyên nghiệp như nhưng chỗ @[#pizza Hut khác. Ăn thử món pizza vị mới nhất, cách trình bày lạ mặt, vị phô mai rất béo, ăn với từng vị cũng là sự thưởng thức thú vị, vỏ bánh giòn giòn.](0:0)"
+        },
+        {
+            "user": "Trâm anh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/Tramanh0402",
+            "score": "6.0",
+            "comment": "Chỗ thì ở tận tầng hầm toà nhà , khá âm u , đi ăn 12h trưa thì máy lạnh k có 1 tí gì là mát cả . Phục vụ tạm thân thiện , đối với mình thì quán pizza đầu tiên làm pizza ra nhanh :))) chắc cũng do quán lúc đấy vắng . Gọi combo ăn 1 mình , soup tạm thanh đạm , pizza bình thường , salad gà chỉ có gà ngon , không hiểu sao mình ăn salad ở đây lại có vị đắng . Nói chung tạm thôi , khẩu vị cũng không vừa ý lắm 👍"
+        },
+        {
+            "user": "Hee Heo",
+            "link": "https://www.foody.vn/thanh-vien/annietae.2012",
+            "score": "6.0",
+            "comment": "Cũng ngon, lần thứ 5 ăn pizza hut nhưng vẫn k thích , chắc k hợp khẩu vị . :)"
+        },
+        {
+            "user": "Phương Bảo",
+            "link": "https://www.foody.vn/thanh-vien/foodee_pitmz6bx",
+            "score": "7.0",
+            "comment": "Không gian: khá nhỏ, may là tụi mình đi trưa nên không đông. Quán để đèn vàng, mình không thích lắmNhân viên: thân thiệnPhục vụ: hơi lâu. Mình thấy có dĩa bị đen (chắc là do chà rửa làm trầy), nên bỏ đi vì mình nghĩ đây là nhà hàng màQuán lúc đó đang có khuyến mãi mua 1 pizza và 1 chai nước ngọt được tặng 1 pizza cùng cỡ. Tụi mình gọi hải sản với pizza phô mai. Pizza ngon nhưng ít phô mai với topping hơn trướcTụi mình còn gọi khoai tây chiên có phủ lớp phô mai: cái này siêu ngon luôn!!! Salad cá ngừ với bánh mì bơ tỏi ăn cũng bình thường"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Cowboy Jack's - American Dining - Vincom Lê Văn Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/cowboy-jack-s-american-dining-vincom-le-van-viet",
+    "address": "Tầng L4 - 02, TTTM Vincom Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",
+    "open_time": "9:00 AM - 10:00 PM",
+    "price_range": "150.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/cowboy-jack-s-american-dining?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "31"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Híu",
+            "link": "https://www.foody.vn/thanh-vien/duhieu",
+            "score": "7.0",
+            "comment": "Mình được voucher 100k từ Timo nên quyết định cùng bạn ăn ở Cowboy Jack's vincom quận 9. Tụi mình chọn pizza nhân nhồi là ham extra topping seafood size medium. Tổng là 190k (chưa tính VAT 10%) nhưng 2 đứa no kinh khủng 😂 Ở đây nhân viên rất thiện nói là đợi pizza cỡ 30-35 phút nhưng cỡ 20 phút là đã có pizza rồi. Lúc tụi mình đi là cỡ 3h mấy nên cũng rất vắng quán chỉ có bọn mình. À đặc biệt chỗ rửa tay ở đây còn rất thú vị nữa. Nếu có cơ hội sẽ quay lại."
+        },
+        {
+            "user": "Thanh Thuỳ",
+            "link": "https://www.foody.vn/thanh-vien/purple1997",
+            "score": "9.8",
+            "comment": "Pizza ở đây phải nói là rất rất ngon. Chỉ cần nhìn cái pizza vừa được đem là đã thấy no luôn rồi vì 1 cái của nó rất lớn. Pizza rất thơm và vừa miệng. Nhân viên ở đây phục vụ rất chu đáo, thân thiện, đặc biệt người quản lý rất rốt. Mình đến đây để ăn thử thì đã muốn nộp hồ sơ làm việc ở đây luôn rồi, dù không phải lúc cần tuyển nhân viên nhưng người quản lý vẫn nhận hồ sơ và còn nói thêm nếu ở cowboy jack's không tuyển nhân viên nữa thì sẽ đưa hồ sơ qua các quán khác cần nhân viên giúp mình luôn. Thực sự cách quản lý và chăm sóc khách hàng ở đây khá tốt, rất nhiệt tình."
+        },
+        {
+            "user": "Gia Như",
+            "link": "https://www.foody.vn/thanh-vien/gia.nhu",
+            "score": "9.4",
+            "comment": "Đi ăn ở chi nhánh này lâu rồi, thấy khá ok Mấy chi nhánh khác đông đúc và không có cảm giác thoải mái như ở vincom Q9 Đồ ăn ngon, có các combo, pizza size nhỏ là vừa 3 người ăn, thêm món là đủ"
+        },
+        {
+            "user": "trầnhàchi29",
+            "link": "https://www.foody.vn/thanh-vien/chiimiiu2906",
+            "score": "7.4",
+            "comment": ". không những có pizza nhồi nỗi tiếng😁 Cowboy Jack's còn có cả món GÀ rất đặc biệt cùng với những ly sinh tố mát lạnh😍"
+        },
+        {
+            "user": "trầnhàchi29",
+            "link": "https://www.foody.vn/thanh-vien/chiimiiu2906",
+            "score": "7.0",
+            "comment": ". so với các quán khác như Pizza Hut, H2T, Domino, ..mình vẫn thấy Cowboy Jack's là ngon nhất☺)) pizza nhồi ở đây phải nói là xuất xắc😉"
+        }
+    ]
+}

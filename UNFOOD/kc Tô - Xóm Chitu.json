@@ -1,0 +1,76 @@
+{
+    "name": "Ốc Tô - Xóm Chiếu",
+    "link": "https://www.foody.vn/ho-chi-minh/oc-to-xom-chieu",
+    "address": "C218 Xóm Chiếu, P. 15,  Quận 4, TP. HCM",
+    "open_time": "12:00 PM - 11:00 PM",
+    "price_range": "30.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.2"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.6",
+        "total_review": "269"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Trang Thanh",
+            "link": "https://www.foody.vn/thanh-vien/trangthanhnguyen6",
+            "score": 0,
+            "comment": "Quán khá dơ, chật chội, đồng giá 50k chứ thật ra ốc nào óc nấy nhỏ xíu xiu nà còn ít nữa, nước mắm bình thường không hiểu sao lúc nào cũng đông nghẹt mặc dù chẳng có gì đặc biệt"
+        },
+        {
+            "user": "Thy Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhathy2008",
+            "score": "7.8",
+            "comment": "Mỗi lần ăn ốc thì đây là địa điểm đầu tiên mình nghĩ tới. Quán lúc nào cũng đông, chật chội, bàn thấp và trên lầu khá ọp ẹp. Bù lại mỗi tô ốc cũng nhiều, tươi, đồng giá 50k là vừa phải. Đi 2 người ăn 3 món, tương đương 3 tô là vừa no luôn! Mình hay kêu: 1 nướng mỡ hành, 1 xào me và 1 hấp. Nướng mỡ hành, thích nhất là rất nhiều đậu phộng. Các loại ốc nướng mỡ hành ngon tại quán nên ăn là: Sò sữa, sò dẹo hoặc sò lông. Tuỳ theo thời giá mà quán thay đổi luân phiên để luôn đảm bảo tô ốc vẫn giữ giá 50k mà vẫn đầy đặn. Nên ăn các món nướng mỡ hành!Xào me thì có sò huyết, ốc mỡ hoặc ốc hương. Tuỳ bạn thích loài ốc nào, mình thì thích ốc mỡ! Ốc hoặc sò xào me có kích thước thường nhỏ, có thời gian vừa ngồi ăn vừa trò chuyện luôn! Nước xào me mua thêm ổ bánh mì chấm vào cũng rất ngon. Về hấp thì mình hay gọi nghêu hấp sả hoặc hấp Thái. Mình thích hấp sả, thơm thơm mùi sả, nước nghêu ngọt vì nghêu thường rất tươi. Nếu may mắn thích vị chua cay thì bạn nên gọi hấp Thái. Tuỳ lúc, quán còn có ốc bươu hấp sả cũng ngon! Ngoài ra còn có các món rang muối, xào tỏi, xào rau muống. Tính ra menu của quán khá cơ bản với dưới 10 loại ốc như sò sữa, móng tay, nghêu, ốc mỡ, sò huyết, càng ghẹ, ốc bươu, ốc hương... thay đổi tuỳ lúc, cách chế biến cũng không cầu kỳ nhưng với mình như vậy là đã quá đủ. Quán phục vụ nhanh trừ tối cuối tuần thường đông và hết bàn, phải chờ. Thêm nữa là nước mắm chấm ốc khá đặc biệt, kẹo kẹo rất ngon! Quán thích hợp với sinh viên, học sinh hoặc người thích ăn bụi. Bạn nào ngại ồn hay sợ cảnh chen chúc đông người thì không nên ghé."
+        },
+        {
+            "user": "Rena Lê",
+            "link": "https://www.foody.vn/thanh-vien/kimdung1296",
+            "score": "9.0",
+            "comment": "Ốc ngon, cay, ốc khá mập. Phục vụ rất nhanh"
+        },
+        {
+            "user": "Sandy Tran",
+            "link": "https://www.foody.vn/thanh-vien/sandytran",
+            "score": "6.6",
+            "comment": "Quán đông kinh luôn ý, mà vừa gọi xong là lên món luôn. Nhanh kinh khủng, chấm quán ở điểm này hihiTô ốc nhiều, nhưng ốc hơi nhỏ. Nước của Ốc xào tỏi ngon. Sò j đó nướng mỡ hành cũng ngon lắm. Nhưng ăn xog r mình lại bị đau bụng kả ngày hôm sau. Đang suy nghĩ có nên quay lại hay k"
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": "6.4",
+            "comment": "Quán có đa dạng các loại ốc để lựa chọn, ốc nào cũng mập và tươi hết, lại còn chế biến đủ kiểu nữa . Quán nêm gia vị rất vừa miệng, nước chấm cũng ngon nữa, nói chung là hài lòng về chất lượng của quán.Phúc vụ bình thường, không thân thiện lắm, món ăn ra hơi chậm do quán đông khách quá. Không gian thì bình thường, quán ốc thì không thể đòi hỏi phải trang trí này nọ như các quán ăn được. Giá cả hơi mắc so với mặt bằng chung các quán khác"
+        }
+    ]
+}

@@ -1,0 +1,427 @@
+{
+    "name": "Chè Khúc Bạch Đỗ Ngọc",
+    "link": "https://www.foody.vn/ho-chi-minh/che-khuc-bach-do-ngoc",
+    "address": "666 Sư Vạn Hạnh,  Quận 10, TP. HCM",
+    "open_time": "11:00 AM - 10:30 PM",
+    "price_range": "18.000đ - 28.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "464"
+    },
+    "foods": [
+        {
+            "name": "Chè khúc bạch truyền thống",
+            "price": "24,000(đ)",
+            "total_orders": "2265"
+        },
+        {
+            "name": "Chè khúc bạch thập cẩm",
+            "price": "34,000(đ)",
+            "total_orders": "1307"
+        },
+        {
+            "name": "Chè khúc bạch thập cẩm trái cây",
+            "price": "40,000(đ)",
+            "total_orders": "696"
+        },
+        {
+            "name": "Chè khúc bạch trà xanh",
+            "price": "32,000(đ)",
+            "total_orders": "509"
+        },
+        {
+            "name": "Chè khúc bạch truyền thống + trà xanh + socola",
+            "price": "32,000(đ)",
+            "total_orders": "405"
+        },
+        {
+            "name": "Chè khúc bạch truyền thống sữa bắp",
+            "price": "30,000(đ)",
+            "total_orders": "279"
+        },
+        {
+            "name": "Chè khúc bạch tiramisu",
+            "price": "30,000(đ)",
+            "total_orders": "221"
+        },
+        {
+            "name": "Chè khúc bạch việt quất",
+            "price": "32,000(đ)",
+            "total_orders": "220"
+        },
+        {
+            "name": "Chè khúc bạch phúc bồn tử",
+            "price": "32,000(đ)",
+            "total_orders": "186"
+        },
+        {
+            "name": "Chè khúc bạch đào",
+            "price": "30,000(đ)",
+            "total_orders": "152"
+        },
+        {
+            "name": "Chè khúc bạch dâu",
+            "price": "27,000(đ)",
+            "total_orders": "149"
+        },
+        {
+            "name": "Chè khúc bạch cà phê",
+            "price": "32,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "Chè khúc bạch rượu",
+            "price": "32,000(đ)",
+            "total_orders": "105"
+        },
+        {
+            "name": "Chè khúc bạch summer",
+            "price": "37,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "Chè khúc bạch matisu",
+            "price": "34,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Chè khúc bạch nho",
+            "price": "27,000(đ)",
+            "total_orders": "82"
+        },
+        {
+            "name": "Chè khúc bạch chanh dây",
+            "price": "32,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "11,000(đ)",
+            "total_orders": "237"
+        },
+        {
+            "name": "Xúc xích Đức",
+            "price": "16,000(đ)",
+            "total_orders": "190"
+        },
+        {
+            "name": "Khoai tây lắc phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "134"
+        },
+        {
+            "name": "Cá viên",
+            "price": "22,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Sò điệp surimi",
+            "price": "33,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Chả cá nhân trứng cá hồi",
+            "price": "33,000(đ)",
+            "total_orders": "83"
+        },
+        {
+            "name": "Mì trộn thập cẩm",
+            "price": "27,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Rong biển cháy tỏi (túi 100g)",
+            "price": "55,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Rong biển cháy tỏi (hủ 50g)",
+            "price": "37,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Tôm hùm viên",
+            "price": "33,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Hải sản viên chiên xù",
+            "price": "33,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Cơm cháy",
+            "price": "15,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Mì trứng xúc xích",
+            "price": "19,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Mì chả lụa trứng cút",
+            "price": "18,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Mực cắt khoanh",
+            "price": "33,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Mì trứng",
+            "price": "16,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rong Biển Chà Bông(50gr)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Combo 1",
+            "price": "45,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Combo 3",
+            "price": "36,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Combo 4",
+            "price": "36,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Combo 2",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Panna Cotta Chanh Dây",
+            "price": "16,000(đ)",
+            "total_orders": "140"
+        },
+        {
+            "name": "Bánh flan",
+            "price": "10,000(đ)",
+            "total_orders": "117"
+        },
+        {
+            "name": "Panna Cotta Việt Quất",
+            "price": "16,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Panna Cotta Phúc Bồn Tử",
+            "price": "16,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Trà sữa trân châu",
+            "price": "18,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Trà sữa khúc bạch",
+            "price": "25,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Trà sữa bánh flan",
+            "price": "25,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Trà xanh sữa thái bánh flan",
+            "price": "30,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Trà xanh sữa thái khúc bạch",
+            "price": "30,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà xanh sữa thái",
+            "price": "25,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà sữa bạc hà",
+            "price": "20,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "25,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Hồng trà trân châu",
+            "price": "13,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Hồng trà đào",
+            "price": "20,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Hồng trà chanh",
+            "price": "16,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Hồng trà dưa lưới",
+            "price": "16,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Hồng trà bạc hà",
+            "price": "16,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Hồng trà chanh dây",
+            "price": "16,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hồng trà kiwi",
+            "price": "16,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hồng trà nho",
+            "price": "16,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng trà dâu",
+            "price": "16,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Đào",
+            "price": "20,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Soda Blueberry",
+            "price": "18,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soda Chanh",
+            "price": "18,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda Blue",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda Nho",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda Raspberry",
+            "price": "18,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chia Mật Ong",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda Dâu",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Chanh Trái Cây",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Bạc Hà",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Tắc",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Mio Phan",
+            "link": "https://www.foody.vn/thanh-vien/trucmai1107",
+            "score": "8.6",
+            "comment": "Hôm đó mình với em mình đi mua đồ bên quận 10 nên sẵn tiện đang thèm chè khúc bạch nên ghé ăn luôn ☺️Chè ở đây giá dao động tầm 20-45k tuỳ loại còn đồ ăn vặt kèm thì giá cũng vừa phảiTụi mình gọi 2 chè khúc bạch thập cẩm trái cây vì để xem coi là mùi vị của mấy viên khúc bạch khác nhau như thế nàoChén chè cũng khoảng cở 1 chén ăn cơm, to hơn tí, có khúc bạch, trái cây tươi, hạnh nhân bào lát, nước đường... Mình thấy viên khúc bạch trà xanh khá ngon nha, thơm mùi matcha cực luôn, ngọt vừa phảiTiếp theo là viên tiramisu, phúc bồn tử, matsu và blueberry khá ngon và thơm. Nếu muốn ăn phần lẻ từng mùi thì mình gợi ý các bạn nên thử 5 vị trên, khá ngonCác vị còn lại thì mình không thích lắm, kiểu mùi không rỏ ràng mấy cứ giống như khúc bạch truyền thống bình thường  thôi nên là mình nghĩ các bạn nên cân nhắc khi lựa mấy mùi này :3Không gian quán cũng nhỏ, nhưng không có ngộp ngạt, chen lấn nhiều, nhân viên order nhanh, làm món cũng khá nhanh ^^ Giá cả thì mình thấy cũng khá hợp lý chứ không quá caoCó dịp thèm khúc bạch mình sẽ quay lại 😘"
+        },
+        {
+            "user": "Dung Dang",
+            "link": "https://www.foody.vn/thanh-vien/dangngocphuongdung",
+            "score": 0,
+            "comment": "Mình ăn ở đây cũng 3 4 lần rồi, chủ yếu mua mang về, thấy cũng k ngon lắm hồi mới mở thì ngon hơn nhiều, bây h lại ít hơn. Quán k có bài trí bắt mắt nưza. Mng quán xem lại và đầu tư hơn 1 là về chè 2 là về không gian."
+        },
+        {
+            "user": "Foodee_kkieuloan",
+            "link": "https://www.foody.vn/thanh-vien/foodee_kkieuloan",
+            "score": 0,
+            "comment": "Quá mắc và ít. Hôm bữa mình đặt 4 phần giao tận nhà mở bọc ra chỉ có vài miếng khúc bạch vào 3 miếng vải tí xíu còn miếng pudding socola gọi thêm có 1 lát mỏng. Thề rằng sẽ không mua lần nào nữa."
+        },
+        {
+            "user": "Minhthuu Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguyenminhthu0109",
+            "score": "7.8",
+            "comment": "Trời nóng nóng là ghé về nơi này ăn. Nước lá dứa khá thơm nha. Khúc bạch truyền thống hoặc đặc biệt có tất cả các vị là okie nhất 😌Khúc bạch ở đây béo vừa đủ, ko bở, săn vừa phải ko cứng, nước kiểu ngọt thanh ko hề gắt nên thích lắm, kiểu mát mát thế nào í 💏Không cần chờ lâu nha vì món ra cực nhanhGiá cả cũng okie ko quá đắt 👌Nhanh viên phục vụ hay giữ xe đều nhanh cực vì toàn là con trai 💪Sẽ qay lại 😊"
+        },
+        {
+            "user": "hanhnhu31012013",
+            "link": "https://www.foody.vn/thanh-vien/hanhnhu2013",
+            "score": "8.8",
+            "comment": "khúc bạch ở đây cũng ngon,hơi cứng chút nhưng béo và thơm.đóng gói vệ sinh.ăn ngon thua bên hoàng ty 1 chút,giá cả chất lượng phù hợp.sẽ ủng hộ thêm nữa"
+        }
+    ]
+}

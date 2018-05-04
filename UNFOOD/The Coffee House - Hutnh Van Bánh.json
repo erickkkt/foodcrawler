@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Huỳnh Văn Bánh",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-huynh-van-banh",
+    "address": "68 Huỳnh Văn Bánh,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "07:00 AM - 11:00 PM",
+    "price_range": "30.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "36"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hà Mim",
+            "link": "https://www.foody.vn/thanh-vien/Hamim",
+            "score": "7.8",
+            "comment": "Mùi như việt quất, riêng món này kêt hợp vs váng sữa rất hợp.Không gian 3 lầu, rộng đẹp, decor xinh, sángNhân viên dễ thươngWifi mạnh, ổ điện hầu như bao phủ :))"
+        },
+        {
+            "user": "Anna Le",
+            "link": "https://www.foody.vn/thanh-vien/annale220",
+            "score": "7.6",
+            "comment": "Được mua cho uống vì code 1+1 bên Schannel nên được thử loại mới của TCH : Trà đen macchiatoMình từng uống macchiato loại cũ và cảm thấy rất dở, cứ như bọt í nên chưa bao giờ dám uống lại mà loại mới này thì khá ngon, beo béo nhưng thiếu chút mặn, hơi nhạt. Được cái thêm cái li siêu dễ thương và lớp macchiato nhiều hơn trước ~ Highly recommend trong khi còn sale nhaa, tải app về còn được lắc để có voucher ( hên xui ) nhen ~"
+        },
+        {
+            "user": "ConMaoMập Zz",
+            "link": "https://www.foody.vn/thanh-vien/conmaomap",
+            "score": 0,
+            "comment": "Hệ thống the coffee house không gian khá đẹp, sạch sẽ, nhưng nước ún thì ko có sự đầu tư, nước ún dở,l."
+        },
+        {
+            "user": "Anh K.",
+            "link": "https://www.foody.vn/thanh-vien/anaimforlife",
+            "score": "8.2",
+            "comment": "Không gian rất OK luôn, rộng và thoáng"
+        },
+        {
+            "user": "Hoài Thương",
+            "link": "https://www.foody.vn/thanh-vien/galazyzes",
+            "score": "9.0",
+            "comment": "Hôm nay được dịp ghé chi nhánh của TCH ở đây, ban đầu khi mình đi ngang nghĩ sao mà quán lại bé quá nhưng lên lầu mới thấy là chà to hơn mình nghĩ đó lại còn decor đẹp (đó giờ vẫn luôn là điểm mạnh của TCH). Mọi khi mình chỉ hay uống Trà Đào hoặc Caramel Macchiato nhưng hôm nay đổi gió tí với cả muốn thử Black Macchiato - món mà được xem là must try của quán sẽ như thế nào thì mình thấy bình thường, không có gì đặc biệt hết! Nhưng chi nhánh ở đây ghi điểm tuyệt đối là nhân viên dễ thương lắm, mình đi trưa nên quán khá đông nên lầu hết chỗ mất tiêu nên phải xuống trệt ngồi, chỗ chỉ có tấm kính che thôi nên ánh mặt trời sẽ chiếu vô ý, xong thế là anh nhân viên hay quản lý gì đó dễ thương lắm đề nghị đổi chỗ cho mình ngồi không nắng."
+        }
+    ]
+}

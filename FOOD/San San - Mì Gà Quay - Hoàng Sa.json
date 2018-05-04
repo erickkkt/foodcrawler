@@ -1,0 +1,221 @@
+{
+    "name": "San San - Mì Gà Quay - Hoàng Sa",
+    "link": "https://www.foody.vn/ho-chi-minh/mi-ga-quay-hoang-sa",
+    "address": "1235 Hoàng Sa,  Quận Tân Bình, TP. HCM",
+    "open_time": "",
+    "price_range": "25.000đ - 35.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/san-san-mi-ga-quay?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "311"
+    },
+    "foods": [
+        {
+            "name": "Mì gà quay",
+            "price": "38,000(đ)",
+            "total_orders": "7128"
+        },
+        {
+            "name": "Sủi cảo phô mai chiên",
+            "price": "38,000(đ)",
+            "total_orders": "1599"
+        },
+        {
+            "name": "Mì gà quay 3 vắt",
+            "price": "45,000(đ)",
+            "total_orders": "1458"
+        },
+        {
+            "name": "Mì xanh gà quay",
+            "price": "38,000(đ)",
+            "total_orders": "927"
+        },
+        {
+            "name": "Sủi cảo chiên",
+            "price": "36,000(đ)",
+            "total_orders": "814"
+        },
+        {
+            "name": "Sủi cảo nước",
+            "price": "36,000(đ)",
+            "total_orders": "714"
+        },
+        {
+            "name": "Mì gói gà quay",
+            "price": "38,000(đ)",
+            "total_orders": "545"
+        },
+        {
+            "name": "Mì xanh gà quay 2 vắt",
+            "price": "48,000(đ)",
+            "total_orders": "423"
+        },
+        {
+            "name": "Mì sủi cảo gà quay",
+            "price": "57,000(đ)",
+            "total_orders": "401"
+        },
+        {
+            "name": "Mì sủi cảo",
+            "price": "36,000(đ)",
+            "total_orders": "380"
+        },
+        {
+            "name": "Sủi cảo khô",
+            "price": "36,000(đ)",
+            "total_orders": "342"
+        },
+        {
+            "name": "Sủi cảo phô mai nước",
+            "price": "38,000(đ)",
+            "total_orders": "275"
+        },
+        {
+            "name": "Hủ tiếu xá xíu",
+            "price": "36,000(đ)",
+            "total_orders": "207"
+        },
+        {
+            "name": "Mì đặc biệt",
+            "price": "62,000(đ)",
+            "total_orders": "173"
+        },
+        {
+            "name": "Mì gói xá xíu",
+            "price": "36,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Mì bò khô sa tế tôm (khô)",
+            "price": "47,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Mì bò khô sa tế (nước)",
+            "price": "47,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mì bò khô sa tế tôm (nước )",
+            "price": "47,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Đùi gà thêm",
+            "price": "24,000(đ)",
+            "total_orders": "868"
+        },
+        {
+            "name": "Mì thêm",
+            "price": "14,000(đ)",
+            "total_orders": "435"
+        },
+        {
+            "name": "Xá xíu thêm",
+            "price": "22,000(đ)",
+            "total_orders": "116"
+        },
+        {
+            "name": "Nước sâm nhãn nhục",
+            "price": "8,000(đ)",
+            "total_orders": "1235"
+        },
+        {
+            "name": "Coca cola",
+            "price": "12,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Trà đá",
+            "price": "2,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "7Up",
+            "price": "12,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Sting",
+            "price": "12,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Revive chanh muối",
+            "price": "12,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Trà Ô long",
+            "price": "12,000(đ)",
+            "total_orders": "8"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "THAO VI PHAM TRAN",
+            "link": "https://www.foody.vn/thanh-vien/luuly29",
+            "score": "8.2",
+            "comment": "Mì đúng ngon, 2 vắt với 1 đùi là vừa đủ với 1 nàng mỏng manh :)) như mềnh, mình order mì khô, thêm chén nước dùng nữa, ship tới nơi thì phần nước lèo hơi nguội và hơi mặn, ly nước sâm đổ gần 1 nửa, hix, nhưng nước sâm ngon, có mấy miếng nhãn nhục khoái khẩu nữa, lần sau sẽ order tiếp ah"
+        },
+        {
+            "user": "Toan Nguyen Duc",
+            "link": "https://www.foody.vn/thanh-vien/toannguyen.tnd90",
+            "score": "8.4",
+            "comment": "Quán mì này tuần nào mình cũng dắt bạn gái tới đây ăn. Bạn gái mình thích món mì gà quay ở quán này lắm. 1 tô chất lượng với 1 cái đùi to. Đùi gà chiên được ướp thấm gia vị, thơm ngon. Mì trộm tơi vừa ăn. Kèm theo là cải luộc và 1 chén nước súp. Súp thơm  lạ miệng. Ăn xong uống thêm ly sâm thanh mát. Không gian quán hơi nhỏ bàn san sát. Khách ra vô liên tục."
+        },
+        {
+            "user": "Duy Phát Lê",
+            "link": "https://www.foody.vn/thanh-vien/phatle",
+            "score": "7.4",
+            "comment": "Lâu lâu ghé lại thấy quán có món mới nên gọi thử. Mì sa te ăn cũng ok nhưng là fan của mì gà quay nên thấy mì gà quay vẫn là ngon nhấtAi thích sa te thì nên thử nha"
+        },
+        {
+            "user": "mrshark02",
+            "link": "https://www.foody.vn/thanh-vien/mrshark02",
+            "score": "7.0",
+            "comment": "Hôm rồi thấy Mì gà quay San San giảm giá trên Deliverynow nên đặt về ăn cơm trưa, deliverynow giao món đúng giờ, mì gà ở đây nhìn cũng khá chất lượng, đùi gà bự quay giòn giòn, ướp gia vị ổn có điều hơi mặn quá, hoành thánh ăn cũng ngon, miếng hoành thánh to lắm nhân thịt cũng nhiều, giá cả cũng ổn bữa sau sẽ đặt ăn nữa."
+        },
+        {
+            "user": "katilyn.ph",
+            "link": "https://www.foody.vn/thanh-vien/phuongthaoanhphan",
+            "score": "8.0",
+            "comment": "Mình đặt deli giao vào buổi sáng. Mì chắc do giao hàng nên có hơi khô. Nhưng gà thì ngon tuyệt mằn mặn nếm vừa phải. Sủi cảo chiên ngon, chấm với tương rất ngon. Nước dùng kèm theo hơi mặn ăn cũng được. Nếu có thể sẽ quay lại và thử mì xanh."
+        }
+    ]
+}

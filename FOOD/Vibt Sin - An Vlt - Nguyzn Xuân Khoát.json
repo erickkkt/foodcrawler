@@ -1,0 +1,507 @@
+{
+    "name": "Việt Sin - Ăn Vặt - Nguyễn Xuân Khoát",
+    "link": "https://www.foody.vn/ho-chi-minh/viet-sin-nguyen-xuan-khoat",
+    "address": "102/C5 Nguyễn Xuân Khoát, P. Tân Thành,  Quận Tân Phú, TP. HCM",
+    "open_time": "08:30 AM - 11:30 PM",
+    "price_range": "5.000đ - 12.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "78"
+    },
+    "foods": [
+        {
+            "name": "Cá viên",
+            "price": "7,000(đ)",
+            "total_orders": "111"
+        },
+        {
+            "name": "Chả cá đậu đũa",
+            "price": "7,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Xúc xích Đức",
+            "price": "14,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Bò viên",
+            "price": "7,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Trứng cút",
+            "price": "7,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Há cảo",
+            "price": "7,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Cá sốt mayonnaise",
+            "price": "9,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Hồ lô chiên",
+            "price": "7,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "9,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Mực viên",
+            "price": "7,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Sủi cảo",
+            "price": "7,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Tôm viên",
+            "price": "7,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Chả giò",
+            "price": "7,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Đậu hủ",
+            "price": "7,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Cá tẩm cốm dẹp",
+            "price": "8,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Chạo ốc",
+            "price": "7,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Kem chiên",
+            "price": "8,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "20,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Đậu bắp",
+            "price": "7,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Thanh cua trứng cá hồi",
+            "price": "30,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Bánh gạo phô mai lắc phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Bánh sữa tươi chiên",
+            "price": "20,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Chạo sả",
+            "price": "7,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Chả cá bắp",
+            "price": "7,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cá nấm đông cô",
+            "price": "9,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Tàu hũ cá",
+            "price": "15,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Takoyaki",
+            "price": "20,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Tôm surimi",
+            "price": "7,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Bao tử nhồi cá thác lác",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh gạo lắc phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bánh mực tẩm bột xù sốt mayonnaise",
+            "price": "30,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ớt",
+            "price": "7,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Xíu mại",
+            "price": "7,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ngũ vị hương",
+            "price": "7,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Rong nho",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Combo dimsum",
+            "price": "27,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Há cảo thủy tinh",
+            "price": "22,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Há cảo",
+            "price": "22,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh xếp",
+            "price": "22,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Xíu mại hấp",
+            "price": "22,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh hẹ",
+            "price": "22,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sushi chiên xù",
+            "price": "20,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sushi trứng cuộn",
+            "price": "20,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cơm nắm tôm xù",
+            "price": "20,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sushi đặc biệt",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Set sushi chiên xù",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cơm nắm bò chiên",
+            "price": "20,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sushi thanh cua chiên xù",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm nấm gấu thỏ",
+            "price": "20,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Set sushi",
+            "price": "125,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm nắm cá ngừ",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm nắm rong biển",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sushi",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sushi cá ngừ",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mini set",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sushi salad",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm nắm thanh cua",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm nắm",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sushi ốc quế",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sushi trứng tôm",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gấu trúc",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Minions",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "I love you",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Heo ếch",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mèo Kitty",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh flan",
+            "price": "8,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà sữa tô",
+            "price": "25,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Yaourt",
+            "price": "5,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa bánh flan",
+            "price": "19,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trà sữa đặc biệt",
+            "price": "25,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà đào",
+            "price": "20,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà sữa phô mai",
+            "price": "17,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà vải",
+            "price": "20,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt việt quất",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt hoa hồng",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt đào vải",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda bạc hà",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda chanh dây",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt bạc hà",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt chanh dây",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt gum",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào trân châu tuyết",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda hoa hồng",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda gum",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Pham Leo",
+            "link": "https://www.foody.vn/thanh-vien/phamlanhuong93",
+            "score": "7.2",
+            "comment": "Lâu rồi mới quay lại quán.   Mình Đi 2 người mà ăn gọi 1 phần combo thập cẩm + 1 khoai tây chiên + 1 phần viên chiên.  Tổng thiệt hại hết 84 k mà 2 đứa ăn no căng bụng luôn.  Nhận  xét : Chất lượng vẫn không thay đổi là mấy,  Nước chanh dây kỳ này vừa miệng hơn,  phần dimsum Nhân nhiều và khá vừa miệng, viên chiên bình thường, hơi thất vọng về khoai tây chiên 1 chút,  lần này khoai tây chiên bị iu nên không được ngon, tỏi phi cũng vậy không được giòn và thơm như trước nữa. Nói chung khá vừa lòng về giá cũng như chất lượng của quán."
+        },
+        {
+            "user": "Công Quang",
+            "link": "https://www.foody.vn/thanh-vien/quangtran1811",
+            "score": "7.4",
+            "comment": "Ăn ở đây cũng nhiều lần rồi từ hồi học cấp 3 . Quán được mở rộng đến 3 mặt tiền và cả vỉa hè . Quán rộng rãi thoáng mát và khá sạch sẽ nhưng hầu như k trang trí gì nhiều . Quán có bãi giữ xe ngoài lề nhân viên giữ xe nhanh nhẹn và thân thiện dắt xe cho khách . Nhân viên trong quán thì đông và nhanh nhẹn nhưng mặt thì k có vui vẻ mấy . Kem chiên thì khá bình thường kem chưa béo lắm giá 8 k còn phần đầy đủ 110 k ăn 3 người mà no cành hông . Nói chung là quán ăn được và hợp túi tiền ."
+        },
+        {
+            "user": "Chii Chii",
+            "link": "https://www.foody.vn/thanh-vien/bi.shine_1995",
+            "score": "8.2",
+            "comment": "Từ học sinh đến giờ mình ăn quán chắc chai mặt luôn r mà giờ mới feedback  😂. Về không gian có vỉa hè lẫn trong nhà, tuy quán đông nhưng tương đối mát và thoải mái. Về chất lượng, có món ngon có món lại không ổn, vì ở đây phục vụ rất nhiều món nên cũng không đòi hỏi ngon toàn diện được. Tuy nhiên chanh dây free lẫn trà sữa rất chất lượng nha.😚 Nhân viên phục vụ nhanh, giữ xe cũng nhiệt tình. Giá cả sinh viên, tuy nhiên thì đang tăng dần đều."
+        },
+        {
+            "user": "Shine Ngoc",
+            "link": "https://www.foody.vn/thanh-vien/shine.ngoc13",
+            "score": "8.8",
+            "comment": "Thức ăn ngon.phục vụ nhanh...Đồ chiên chất lượng, lúc nào cũng đông.\rKhông gian: nằm ngay mặt tiền đường mà còn lớn nữa nên rất dễ thấy, hồi đó chỉ có 1 nhà thôi, sau này mở rộng thêm mà có lúc còn không có bàn. \r\rMenu + giá cả: menu cực đa dạng mấy món đồ chiên luôn, của vietsin nên cũng yên tâm hơn là mấy xe đẩy ngoài đường. Giá cũng vừa, một phần cũng nhiều. Có nước chanh dây miễn phí, uống nhiêu cũng được.đồ chiên ăn ok, có khăn giấy lót nên cũng thấm được một mớ dầu.Tương ớt phải cải thiện lại"
+        },
+        {
+            "user": "Nye Lulu",
+            "link": "https://www.foody.vn/thanh-vien/legendhero_superman1",
+            "score": "7.0",
+            "comment": "Đồ chiên chất lượng, lúc nào cũng đông.Không gian: nằm ngay mặt tiền đường mà còn lớn nữa nên rất dễ thấy, hồi đó chỉ có 1 nhà thôi, sau này mở rộng thêm mà có lúc còn không có bàn. Menu + giá cả: menu cực đa dạng mấy món đồ chiên luôn, của vietsin nên cũng yên tâm hơn là mấy xe đẩy ngoài đường. Giá cũng vừa, một phần cũng nhiều. Có nước chanh dây miễn phí, uống nhiêu cũng được.Chất lượng: đồ chiên ăn ok, có khăn giấy lót nên cũng thấm được một mớ dầu, tương ớt thì trong veo nên hơi ghê ghê, có dimsum nữa nhưng không ngon, kiểu như chưa chín vậy, nhân cũng kì kì... Phục vụ: quán đông nhưng phục vụ cũng nhanh, bị cái hay quên quá, cứ phải nhắc."
+        }
+    ]
+}

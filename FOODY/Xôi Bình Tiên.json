@@ -1,0 +1,96 @@
+{
+    "name": "Xôi Bình Tiên",
+    "link": "https://www.foody.vn/ho-chi-minh/xoi-binh-tien",
+    "address": "88 Minh Phụng, P. 5,  Quận 6, TP. HCM",
+    "open_time": "",
+    "price_range": "10.000đ - 33.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/xoi-binh-tien?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "62"
+    },
+    "foods": [
+        {
+            "name": "Xôi Gà",
+            "price": "12,000(đ)",
+            "total_orders": "126"
+        },
+        {
+            "name": "Xôi cá dé",
+            "price": "10,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Xôi nếp cẩm",
+            "price": "12,000(đ)",
+            "total_orders": "34"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Thảo Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/duongtu1212",
+            "score": "7.8",
+            "comment": "Lâu rồi mới ghé thấy chất lượng vẫn ổn như ngày nào. Xôi làm cực nhanh, đem về nhà vẫn còn ấm. Một gói 15k chắc tay luôn :3, con trai ăn là đủ no mà tiết kiệm nè. Xôi mềm không bị khô cứng, mỡ hành patê rất ngon. Thịt thà cũng nhiều nữa: gà xé, chả lụa, thịt xá xíu, lạp xưởng, trứng.... Chỗ Minh Phụng đang làm lô cốt nên đi hơi khó, mấy buổi mưa đi là bao ngập luôn. H cao điểm đi hơi bị kẹt nha. Gần nhà mà ít đi cũng vì lý do đó."
+        },
+        {
+            "user": "Thiên Trân",
+            "link": "https://www.foody.vn/thanh-vien/jolly.buu2111",
+            "score": "7.4",
+            "comment": "Xôi cực chất lượng, quất 1 gói là no đến chiều nha bà con, xôi ca dé có cốt dừa và dừa khô béo béo bùi bùi ngon lắm hen, không bị ngọt quá gắt như 1 số chỗ khác giá mềm chỉ 10k cho 1 gói to chọi bể đầu 🤣Còn xôi mặn thì siêu chất, nhân rất nhiều giá tầm 12-15k mà bao no luôn nha bà con 🙈Ai chưa ghé thì nên ghé nhaaaaa"
+        },
+        {
+            "user": "Dũng Hồ",
+            "link": "https://www.foody.vn/thanh-vien/davidblind1996",
+            "score": 0,
+            "comment": "1 thời giền xôi ở đây lắm. Ko xoi ở đâu ngon bằng. Nhưng càng ngày sao dỡ quá. Xôi thì nhão, gà khô cứng luôn, xá xíu mỡ ko. Huhuhuhu làm thất vọng ghê hồn"
+        },
+        {
+            "user": "SUNNY ĐOÀN",
+            "link": "https://www.foody.vn/thanh-vien/foodee_3nnfcdeb",
+            "score": "6.6",
+            "comment": "Xôi ở đây vào buổi tối khá đông. Xôi dẻo, thịt nhiều, pa tê ngon. Chỉ 10k một gói. Nếu bạn nào sức ăn nhiều thì ăn luôn gói 15k. Vì tiệm bán gần đèn xanh đèn đỏ nên thỉnh thoảng có hơi ùn tắc xíu thôi. À, hồi trước tiệm chưa mặc đồng phục nhưng giờ mặc cả một áo xanh chuối. Nhà mình cũng gần tiệm nên hay ăn lắm. Không chỉ xôi mặn ngon mà còn nhiều loại xôi khác như là nếp than, xôi gà, xôi lá cẩm... Bạn nào chưa thử thì nên đến thử, còn bạn nào thử rồi thì tiếp tục ủng hộ tiệm nha!"
+        },
+        {
+            "user": "Zu Ngoan Ngoãn",
+            "link": "https://www.foody.vn/thanh-vien/zu.lun3b",
+            "score": "7.6",
+            "comment": "Xôi bình tiên cũng khá có tiếng ở q6, tối nào cũng đông khách hết trơn. Vị trí gần đèn xanh đèn đỏ minh phụng với hậu giang. Ở đây có xôi mặn  lẫn xôi ngọt luôn nha. Giá có 12k với 15k, mà mình thường ăn 15k cho đã. 😁 xôi được gói bằng lá chuối nên xôi rất mềm, topping cũng nhiều nữa, có gà xé trứng cút chả... Đang đói mà ăn 1 gói là no luôn. Sẽ quay lại khi thèm xôi. 😁😁 Xôi nếp than ở đây ăn cũng ngon luôn nha mấy bạn. 😬"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "7 Kỳ Quan - Dimsum & Món Hoa",
+    "link": "https://www.foody.vn/ho-chi-minh/7-ky-quan-nha-hang-cafe",
+    "address": "Số 12 Đường 26, P. 11,  Quận 6, TP. HCM",
+    "open_time": "08:30 AM - 10:30 PM",
+    "price_range": "40.000đ - 1.100.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Café/Dessert,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Tiệc cưới/Hội nghị",
+            "link": "https://www.foody.vn/ho-chi-minh/wedding/tiec-cuoi-hoi-nghi"
+        },
+        {
+            "category": "Trung Hoa",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-trung-hoa"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "65"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Minh Thien",
+            "link": "https://www.foody.vn/thanh-vien/minhthien9969",
+            "score": "7.2",
+            "comment": "Ăn  sáng  cùng ông nội 93 tuổi..  Không gian  rộng lớn   Nội thất  đẹp   không khí  trong lành  nhờ công Viên  xanh kế bên...  Có  cả  khu vực vui chơi trẻ em.....  Đồ ăn   đa dạng  Đồ tàu. Việt Nam   .. Âu  ...  Cũng  có..  Đều   Đồ ăn thì   đặc mức trung bình  ... Khá  với khu vực q6    ...  Nơi ngồi lý tưởng nhất...  Mat mẽ ko cần  máy lạnh"
+        },
+        {
+            "user": "Tây An",
+            "link": "https://www.foody.vn/thanh-vien/handsome.gay20",
+            "score": "7.4",
+            "comment": "Cuối tuần ở đây là nơi lý tưởng để đi ăn sáng đó các bạn Không gian rộng thoải mái Đồ ăn ok giá cũng khá là ok luônCuối tuần nên rất đông nên tranh thủ đi sơm nhé"
+        },
+        {
+            "user": "Zu Ngoan Ngoãn",
+            "link": "https://www.foody.vn/thanh-vien/zu.lun3b",
+            "score": "7.4",
+            "comment": "Hôm rồi mới đi ăn cưới ở đây, mới ghé được 2 lần à. 💧 Không gian : cũng ấm cúng, rộng rãi , có khu vui chơi cho trẻ em , có lầu. 💧 Vị trí : gần công viên bình phú cũng dễ tìm. 💧 Thức ăn : đa số các món ăn đều ngon và hợp khẩu vị. Hôm mình đi có heo quay nướng thịt mềm thơm, bao tử hầm tiêu ăn ngon , Cá thì hơi dai xíu, cơm với mì cũng ổn. Nói chung là thức ăn không có gì để phàn nàn. 😬 💧 Điểm trừ là : phục vụ còn chậm, xin thêm nước gần 20p mới có không biết phải thiếu người không nữa. Bàn tiệc ngồi 12 người quá chật, không thoải mái. 💧 Giữ xe 5k nhen."
+        },
+        {
+            "user": "Quỳnh Như",
+            "link": "https://www.foody.vn/thanh-vien/quynhnhu243",
+            "score": "8.0",
+            "comment": "Gia đình mình mỗi lần lễ hay sinh nhật gi cũng đến đây ăn vì đồ ăn ở đây nấu hợp khẩu vị của mọi người và má chồng mình thích món vit quay bắc kinh ở đây.lần nào đi cũng kêu món vịt quay.Ở đây có mấy món chay cũng ngon nữa ai muốn ăn chạy đến đây ăn cũng được nè.Không gian rộng rãi thoáng mát có khu vui chơi cho trẻ em nữa."
+        },
+        {
+            "user": "julie dang",
+            "link": "https://www.foody.vn/thanh-vien/juliedang3008",
+            "score": "8.6",
+            "comment": "Không gian rộng , thoải mái, có khu vui chơi cho trẻ , đồ ăn thì đầu bếp toàn người hoa nên dimsum đây rất ngon !!! Nhân viên chức thì có người thân thiện ,người không"
+        }
+    ]
+}

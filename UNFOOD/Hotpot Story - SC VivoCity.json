@@ -1,0 +1,88 @@
+{
+    "name": "Hotpot Story - SC VivoCity",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-sc-vivocity",
+    "address": "04 - 05A, Tầng 4, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "128.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Hàn Quốc,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Thái Lan",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-thai-lan"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "46"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Bảo Khoa 18",
+            "link": "https://www.foody.vn/thanh-vien/nguyenbaokhoa1803",
+            "score": "10",
+            "comment": "Ăn ngon"
+        },
+        {
+            "user": "Quang Trung Vương",
+            "link": "https://www.foody.vn/thanh-vien/trungpro3946344",
+            "score": "8.2",
+            "comment": "- Vị trí: Ở Vivo mát mẻ, giữ xe cũng thoải mái. Nghĩ tới đi mall là mình thích Vivo nhất. - Giá cả: 1 phần buffet ở đây có 2 loại giá 280.000 và 320.000 cho cuối tuần. Mình ăn 320 với nước 30.000 thuế nữa là khoảng 400/người. Giá vậy cũng tương đối cao. - Chất lượng: Ở đây bò tươi, điểm cộng là 1 lát bò cắt rất mỏng, dễ ăn. Mực, nghêu tôm cũng tươi. + Sốt chỉ có 1 loại, nước lẩu ở đây mình thấy ngon hơn hotpot CAo Thắng. Ở CT nước tomyum toàn mùi dừa, ở đây không có. - Nhân viên: Là 1 điểm cộng nữa. Tuy rất đông nhưng lịch sự, dễ thương, lên món nhanh, khi dọn thì xin phép. - Không gian: Không gian tuy đông đúc nhưng vẫn cảm thấy riêng tư. Tuy máy lạnh mà lẩu nên vẫn thấy nóng haha."
+        },
+        {
+            "user": "Trinh Lâm",
+            "link": "https://www.foody.vn/thanh-vien/trinhlm",
+            "score": "8.6",
+            "comment": "Mình đặt trên tổng đài nên đc ưu đãi buffet 319k còn 269k/ng, ăn sấp mặt luôn 😂😂..Các bạn đi ăn nên gọi phần buffet nước nữa có 39k/ng thôi, nhưng uống nước ngọt thoải mái, trong khi 1 ly nước đã 29k r..Nước lẩu ngon cực kì, trước giờ toàn ăn Kichi thôi nay mới chuyển qua hotpot thì mê bên này r nè..Nhân viên phục vụ cũng nhiệt tình và chu đáo lắm luôn, nên ưng cực kì, nhưng mình góp ý điểm trừ là ban đầu bạn nv order hok báo với mình có gói buffet nước ngọt, đến khi mình nhìn thấy tấm bảng poster mình hỏi thì mới được tư vấn gói đó. Bù lại, qly cũng tính lại món nước hợp lý mà ban đầu mình hok biết đã gọi riêng và thay đổi thành gói buffet cho mình luôn. Về khâu này mình thấy xử lý linh động v rất chuyên nghiệp 👍🏻..Có dịp chắc chắn quay lại vivo ăn ❤️.."
+        },
+        {
+            "user": "Thien Kim Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hienmaiyeuanh",
+            "score": "6.2",
+            "comment": "Nhóm mình đi khoảng 16 người ăn gần hết 4 triệu, đồ ăn ở đây rất đa dạng và phong phú, phục vụ chu đáo nhiệt tình.#namlongcs5bunglua"
+        },
+        {
+            "user": "minhvuong nguyenluu",
+            "link": "https://www.foody.vn/thanh-vien/minhvuongnguyenluu",
+            "score": "7.8",
+            "comment": "Lẩu ở đây vừa miệng, gọi combo là ăn thả ga, thịt tươi, rau tươi, chất lượng, nước lẩu tứ xuyên gì đó cay quá, ăn mất ngon, lần sau rút kinh nghiệm chừa nó ra, nói chung hài lòng"
+        }
+    ]
+}

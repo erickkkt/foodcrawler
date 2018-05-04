@@ -1,0 +1,80 @@
+{
+    "name": "Lotteria - Nguyễn Ảnh Thủ",
+    "link": "https://www.foody.vn/ho-chi-minh/lotteria-nguyen-anh-thu",
+    "address": "159/6 - 160/1 Nguyễn Ảnh Thủ, X. Trung Chánh,  Hóc Môn, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "40.000đ - 132.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/lotteria?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.0"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.1",
+        "total_review": "24"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Louise Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/louise01275544668",
+            "score": 0,
+            "comment": "Phục vụ siêu chậm, giao hàng cũng siêu trễ (hơn 1 tiếng rưỡi). Nhân viên không biết cách ứng xử khi thấy có khách chen hàng thay vì khuyên vị khách đó xếp hàng."
+        },
+        {
+            "user": "Lạt Lạt",
+            "link": "https://www.foody.vn/thanh-vien/huynhthilat0310",
+            "score": 0,
+            "comment": "Hôm bay ghé thử Lotteria Nguyễn Ánh Thủ ăn thử xem như thế nào.!:( gà k giòn, bủn, mở rất nhiều...bỏ ra 190k để lựa chọn món an nhưng cả gia đình đều bỏ miếng gà...thấy không xứng đáng. Lotteria nen xem xet lai coi tại sao chất lượng gà như z? Có phãi để qa đêm k.?"
+        },
+        {
+            "user": "Bếu  Bếu",
+            "link": "https://www.foody.vn/thanh-vien/01668588016",
+            "score": "7.6",
+            "comment": "Dạo này ngán đồ chiên nên ít ghé lotteria nhưng hôm nay thấy có ăn thử 2getherburger nên cũng bon chen đi ăn thử. Nhân viên phát số thứ tự ở cửa trước 6 giờ tại 6 giờ bắt đầu nhận bánh rồi mà hết nhanh lắm mỗi người được 1 phiếu thôi. Phát miễn phí nhưng nhân viên vui vẻ, nhiệt tình lắm, còn hỏi ăn tại chỗ hay đem về để bỏ bịch nữa. Không gian quán khá thoải mái có cả trên lầu nữa nhưng quán nằm ngay ngã tư khá đông xe nên nhiều khi ghé vào hơi khó."
+        },
+        {
+            "user": "Ti Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ti.izme",
+            "score": "6.0",
+            "comment": "Gia đình mình 4 ng cv thấy ngay góc nguyễn ảnh thủ ghé vào ăn . Cứ tới lotteria là dùng mấy món này không ngán hihi. E minh thích ăn hambergo ở đây và kem"
+        },
+        {
+            "user": "Thảo Ngọc Linh",
+            "link": "https://www.foody.vn/thanh-vien/falling_star_314",
+            "score": "8.0",
+            "comment": "Bữa trưa nên gọi delivery giao qua cho gọnOrder nhanh, mà chờ 45phút mới giao tớiLúc nhận xong hết rồi, lấy ra dùng thì phát hiện bên lotte đã giao dư cho mình 1 bánh burgerCác loại bánh buger ngon nha. Được free 1 cái, lỗi bên nhân viên ko check bill trước khi giao cho khách"
+        }
+    ]
+}

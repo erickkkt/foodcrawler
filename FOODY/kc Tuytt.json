@@ -1,0 +1,76 @@
+{
+    "name": "Ốc Tuyết",
+    "link": "https://www.foody.vn/ho-chi-minh/oc-tuyet",
+    "address": "Hẻm 456 Dương Bá Trạc,  Quận 8, TP. HCM",
+    "open_time": "",
+    "price_range": "20.000đ - 20.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "106"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Foodee_g54a5ocg",
+            "link": "https://www.foody.vn/thanh-vien/foodee_g54a5ocg",
+            "score": "7.4",
+            "comment": "Mình đi 3 người ăn quá trời quá đất. Nghêu hấp thái nước ngon ăn những lúc trời mưa lạnh lạnh thế này thì bá cháy =))) mấy món còn lại thì con hơi nhỏ nhưng nêm nếm tạm ổn. Mặc dù chiều tối quán đông nhưng lên món khá nhanh, chỗ ăn ngoài trời nên thoáng đến lúc trời mưa hơi ước tý =)) Mình thấy 20k/món thế này là ổn rồi."
+        },
+        {
+            "user": "My Yuna",
+            "link": "https://www.foody.vn/thanh-vien/myyuna",
+            "score": 0,
+            "comment": "Mình ăn rất nhiều lần ở đây. cuối buổi ăn còn cho trái cây tuy vào hẻm nhưng k khó tìm. ngon giá cả ok. phục vụ rất nhanh."
+        },
+        {
+            "user": "tullybui",
+            "link": "https://www.foody.vn/thanh-vien/tullybui",
+            "score": "6.0",
+            "comment": "Mình đi hai người, trời mưa mà địa chỉ hơi khó tìm, nên bạn nào mù đường thì nhớ coi kĩ trước nha.Hai đứa gọi gần 10 món, tất cả đều đồng giá 20k, lâu rồi vẫn không đổi, ăn khoảng đó là no bá cháy bọ chét luôn rồi, rất hợp với tú tiền sinh viên ;)))Ốc mình gọi chế biến theo nhiều kiểu, nhưng thấy ốc mỡ xào me, ốc móng tay xào rau muống là ngon, nói chung là các món xào đều ok, nhưng mà nướng phô mai thì bọn mình không thích lắm, vị không đậm đà, sò điệp lại hơi có sạn 😔Ốc bưu hấp sả cũng đậm vị lắm nè. Nói chung nhìn tổng thể thì ok, ngon, bổ, rẻ. Mình sẽ còn quay lại 👍"
+        },
+        {
+            "user": "NguyenMinhHieu NguyenMinhHieu",
+            "link": "https://www.foody.vn/thanh-vien/nguyenminhhieu98",
+            "score": 0,
+            "comment": "Chỗ này thì biết mà không vô,chỉ vô ủng hộ quán Hội Ngộ cuối hẻm nhìn ngon hơn,phục vụ nhiệt tình hơn,quán ăn Hội Ngộ có lẽ rộng hơn các quán ở ngoài hẻm ??? nhìn quán Ốc Tuyết này trang trí rau răm vs rau muống xào nhìn chẳng hấp dẫn bằng quán Hội Ngộ chế biến ?? nói chung có ăn thì chạy vào gặp Ốc Tuyết thì chạy xuống cuối hẻm là gặp Quán Hội Ngộ liền :)) tấp vào mà bào thôi,quán đồng giá 20k ?? trừ máy đỉa lớn thì 30k ăn ngập mặt mà không hết món :))"
+        },
+        {
+            "user": "Anh  Thu",
+            "link": "https://www.foody.vn/thanh-vien/rapismylife233",
+            "score": "7.4",
+            "comment": "Ăn ốc trải nghiệm cảm giác đi chợ hải sản hehe. Cầm cái dĩa xong ăn con gì bỏ con nấy vô dĩa rồi kêu người ta chế biến kiểu mình thích. Còn không biết gọi gì mấy bạn nhân viên cũng gợi ý cho mấy món ngon. Thích nhất loại ốc bự bự có rưới trứng lên xong nướng. Còn mấy món mì xào ốc giác, ghẹ rạng me, ốc len xào đưa ăn ngon."
+        }
+    ]
+}

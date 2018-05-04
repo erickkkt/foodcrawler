@@ -1,0 +1,666 @@
+{
+    "name": "H2T Trà Sữa & Pizza - Võ Văn Ngân",
+    "link": "https://www.foody.vn/ho-chi-minh/h2t-tra-sua-pizza",
+    "address": "200 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",
+    "open_time": "08:00 AM - 10:30 PM",
+    "price_range": "20.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/h2t-tra-sua-pizza?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "105"
+    },
+    "foods": [
+        {
+            "name": "Hồng trà size M",
+            "price": "17,000(đ)",
+            "total_orders": "115"
+        },
+        {
+            "name": "Hồng trà size L",
+            "price": "23,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "Lục trà size L",
+            "price": "23,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Lục trà size M",
+            "price": "17,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Trà sữa size M",
+            "price": "18,000(đ)",
+            "total_orders": "365"
+        },
+        {
+            "name": "Trà sữa size L",
+            "price": "24,000(đ)",
+            "total_orders": "197"
+        },
+        {
+            "name": "Trà đào H2T (M)",
+            "price": "35,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Trà đào H2T (L)",
+            "price": "44,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha sữa",
+            "price": "28,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Matcha latte",
+            "price": "28,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Houjicha sữa trân châu trắng",
+            "price": "36,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Houjicha sữa",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà xanh genmaicha",
+            "price": "26,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Genmaicha sữa (trà gạo)",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Genmaicha sữa milk foam",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "H2T 1",
+            "price": "32,000(đ)",
+            "total_orders": "205"
+        },
+        {
+            "name": "H2T 2",
+            "price": "34,000(đ)",
+            "total_orders": "158"
+        },
+        {
+            "name": "H2T 7",
+            "price": "37,000(đ)",
+            "total_orders": "79"
+        },
+        {
+            "name": "H2T 6",
+            "price": "35,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "H2T 4",
+            "price": "37,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "H2T 11",
+            "price": "36,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "H2T 3",
+            "price": "38,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "H2T 8",
+            "price": "33,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "H2T 5",
+            "price": "33,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "H2T 9",
+            "price": "33,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "H2T 12",
+            "price": "36,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "H2T 10",
+            "price": "39,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trà sữa tiramisu hạnh nhân",
+            "price": "36,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Pink love",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Black man",
+            "price": "32,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Macchiato coffee",
+            "price": "32,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Genmaicha milk foam hạnh nhân",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito việt quất",
+            "price": "36,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Houjicha milk foam hạt agar",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito phúc bồn tử",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua phúc bồn tử",
+            "price": "32,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Sữa chua dâu",
+            "price": "32,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sữa chua kiwi",
+            "price": "32,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sữa chua đào",
+            "price": "32,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sữa chua việt quất",
+            "price": "32,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sữa chua lắc dâu",
+            "price": "26,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Sữa chua lắc chanh dây",
+            "price": "26,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sữa chua lắc dưa lưới",
+            "price": "32,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sữa chua lắc táo xanh",
+            "price": "26,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sữa chua lắc bạc hà",
+            "price": "26,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sữa chua lắc kiwi",
+            "price": "26,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Choco cookie",
+            "price": "35,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Matcha latte",
+            "price": "35,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Caramel",
+            "price": "35,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Coffee",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Soda Blue sky",
+            "price": "30,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Soda dâu",
+            "price": "30,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Soda just passion",
+            "price": "30,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Soda dưa lưới",
+            "price": "30,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Soda táo",
+            "price": "28,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Nước ép cam",
+            "price": "28,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Nước ép chanh dây",
+            "price": "28,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Bắp xào bơ",
+            "price": "19,000(đ)",
+            "total_orders": "193"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "19,000(đ)",
+            "total_orders": "134"
+        },
+        {
+            "name": "Chả giò + xà lách Thái",
+            "price": "19,000(đ)",
+            "total_orders": "115"
+        },
+        {
+            "name": "Cá viên chiên",
+            "price": "19,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Xúc xích  Đức",
+            "price": "25,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Bánh mì bơ tỏi nướng",
+            "price": "19,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Cá tẩm bột chiên xù",
+            "price": "29,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "H2T combo 2",
+            "price": "75,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "H2T combo 1",
+            "price": "65,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Đùi gà chiên giòn H2T (cái)",
+            "price": "39,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Đùi gà chiên giòn H2T (2 cái)",
+            "price": "70,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Xà lách trộn dầu giấm",
+            "price": "15,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Xà lách kiểu Mỹ",
+            "price": "17,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Kim chi Hàn Quốc",
+            "price": "17,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Xà lách sốt Thái",
+            "price": "17,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mì xào hải sản",
+            "price": "39,000(đ)",
+            "total_orders": "67"
+        },
+        {
+            "name": "Nui xào bò",
+            "price": "39,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Miến trộn Hàn Quốc",
+            "price": "41,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Miến xào hải sản Hong Kong",
+            "price": "41,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Mì xào kim chi Hàn Quốc",
+            "price": "39,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mì xào bò",
+            "price": "39,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Hủ tiếu xào hải sản Hong Kong",
+            "price": "41,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Mì xào udon kiểu Nhật",
+            "price": "39,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Miến trộn kim chi Hàn Quốc",
+            "price": "41,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Nui xào hải sản",
+            "price": "39,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Mì xào Tứ Xuyên",
+            "price": "39,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mì Ý sốt bò hầm",
+            "price": "36,000(đ)",
+            "total_orders": "184"
+        },
+        {
+            "name": "Mì Ý sốt hải sản",
+            "price": "36,000(đ)",
+            "total_orders": "103"
+        },
+        {
+            "name": "Mì Ý sốt gà hầm",
+            "price": "36,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Mì Ý sốt rau củ",
+            "price": "34,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "38,000(đ)",
+            "total_orders": "177"
+        },
+        {
+            "name": "Cơm chiên Thái & gà xiên",
+            "price": "38,000(đ)",
+            "total_orders": "137"
+        },
+        {
+            "name": "Bò lúc lắc",
+            "price": "39,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Cơm chiên Dương Châu",
+            "price": "38,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "Cơm chiên đùi gà kiểu Mỹ",
+            "price": "39,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Cơm chiên kim chi Hàn Quốc",
+            "price": "39,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Cơm bò xào sả ớt",
+            "price": "39,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Cơm mực xào sả ớt",
+            "price": "39,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Cơm mực xào chua ngọt",
+            "price": "39,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Cơm chiên bò  tiêu cay",
+            "price": "39,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Hải sản",
+            "price": "41,000(đ)",
+            "total_orders": "107"
+        },
+        {
+            "name": "Xúc xích Đức",
+            "price": "41,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Cá hồi",
+            "price": "41,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Sò điệp",
+            "price": "41,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Marinara",
+            "price": "58,000(đ)",
+            "total_orders": "238"
+        },
+        {
+            "name": "Beefy",
+            "price": "58,000(đ)",
+            "total_orders": "121"
+        },
+        {
+            "name": "Escalope",
+            "price": "65,000(đ)",
+            "total_orders": "87"
+        },
+        {
+            "name": "H2T special",
+            "price": "58,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Cajun chicken",
+            "price": "58,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Roasted chicken curry",
+            "price": "65,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Sausage lover",
+            "price": "58,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Hawaiian",
+            "price": "58,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Salmon",
+            "price": "65,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Margharita",
+            "price": "58,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Proscuitto",
+            "price": "58,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Veggie",
+            "price": "58,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Mì Ý bò hầm + phô mai",
+            "price": "46,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mì Ý hải sản + phô mai",
+            "price": "46,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì Ý gà hầm + phô mai",
+            "price": "46,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì Ý rau củ + phô mai",
+            "price": "46,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "foodee_kbbevy8i",
+            "link": "https://www.foody.vn/thanh-vien/foodee_kbbevy8i",
+            "score": 0,
+            "comment": "ngày nay có ghé h2t , khách vó vẻ đông nên mjnh gọi trà sũa giá vẫn như cũ mà lại được ly nhựa , không như mọi lần. nản..."
+        },
+        {
+            "user": "Gia Tuệ Lê Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/lehoanggiatue",
+            "score": "7.8",
+            "comment": "Vốn dĩ mình là đứa ăn nhiều, nên bình thường toàn đặt 2 - 3 phần cho nó no :)) Mình order một mì Ý, một cơm hải sản mà ban đầu nhìn vào menu chỉ viết là hải sản thôi làm mình tưởng chỉ có đồ ăn, một trà sữa thêm sốt socola và whipping cream. Đồ ăn đựng trong hộp nhựa sạch sẽ, khi dùng xong rửa dùng lại được. Mì Ý ngon, vừa miệng mà cơm hải sản thì hải sản ít quá, vài cái như trong hình thôi còn lại là phô mai nên ăn cả hộp ngán :(((Trà sữa khá ngon, có bỏ thêm sốt socola nên vị cứ như trà sữa socola ấy, có thêm kem phía trên béo béo, nói chung là ổn. Nhân viên giao hàng lần này là người khác, nhiệt tình hơn người hôm trước giao cho mình, còn khuyên là: \"có đính kèm menu trong này đây, bạn gọi điện đặt thì đỡ tốn tiền hơn chứ đặt trên foody thì thu thêm tiền của bạn ý!\" :))) Dễ thương ghê :)))"
+        },
+        {
+            "user": "Gia Tuệ Lê Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/lehoanggiatue",
+            "score": "6.0",
+            "comment": "Mình vừa order deli một pizza bò hầm, trong menu viết là Beefy, vì là thịt nên ban đầu mình nghĩ chắc cũng ngon lắm, cho đến khi nhận được thì hơi thất vọng. Pizza cũng được, nhưng mà vỏ bánh khô quá, mà mình là đứa ăn xong mới uống nên ăn vô thấy khô miệng khó chịu lắm. Nhiều thịt nên ăn một mình hơi ngán. Trà sữa ngon, ban đầu mình còn tưởng làm thiếu món vì lắc mãi chả thấy thạch phô mai đâu, lúc sau mở ra mới thấy nó dính liền với nhau như trên hình. Vị thì không chê đâu, nhưng mà để nó dính vậy không biết là do cố tình hay vô ý nữa nhưng chung quy lại là mình thấy hơi ẩu. Nhân viên giao hàng cũng nên sửa đổi cách nói chuyện với khách một chút, không thân thiện lắm. Ở quán thì mình tới rồi, kế bên vincom. Đông lắm, đông suốt ngày, không gian hơi nhỏ và tối, nếu tới quán thì chờ món khá lâu đó."
+        },
+        {
+            "user": "Ngoclinh Lethi",
+            "link": "https://www.foody.vn/thanh-vien/ngoclinh2304",
+            "score": 0,
+            "comment": "Mình đặt hàng online cứ sợ đồ ăn giao đến sẽ không còn nóng, nhưng khi nhận hàng mình đã bất ngờ vì cơm và bánh đều còn nóng nên các bạn có thể yên tâm khoảng này nha. Về phần đồ ăn thì ngon, vị vừa ăn."
+        },
+        {
+            "user": "Phương Trâm Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/jungheeyoung1007",
+            "score": "7.2",
+            "comment": "Đợt sinh nhật mình, mình có ghé chỗ này. Không gian quan hơi nhỏ, nhưng chất lượng dịch vụ ổn. Các món ăn đều vừa ăn, riêng nước thì mình thấy loại nào cũng có kem bên trên có nhiều người chẳng hạn như mình uống soda thì không thích có kem, khi mình không thích mình có thể dặn nhân viên đừng cho vào."
+        }
+    ]
+}

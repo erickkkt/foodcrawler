@@ -1,0 +1,84 @@
+{
+    "name": "Sumo BBQ - Phan Xích Long - Buffet Nướng & Lẩu",
+    "link": "https://www.foody.vn/ho-chi-minh/sumo-bbq-phan-xich-long",
+    "address": "210 Phan Xích Long, P. 2,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "Buổi tối  05:00 PM - 10:00 PM",
+    "price_range": "300.000đ - 407.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sumo-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "193"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nguyễn Thuý Bắc",
+            "link": "https://www.foody.vn/thanh-vien/bacnguyen2806",
+            "score": "6.8",
+            "comment": "đồ ăn cũng khá ổn, như mọi quán nướng khác. chắc do quán đông nên nhân viên hơi chậm, gọi nhắc đổi này đổi kia hay gọi thêm món là chờ mút mùa hoa cải mới thấy tới, nhiều lúc nhân viên quên luôn mình vừa nhờ gì làm phải nhắc hai - ba lần luôn.quán khá hẹp ngang nên hơi ngột ngạt, ồn ào nữa, được cái gửi xe có người dắt giùm"
+        },
+        {
+            "user": "Tuyết Nhi",
+            "link": "https://www.foody.vn/thanh-vien/tuytnhi6149",
+            "score": "10",
+            "comment": "Đánh giá tổng quát thì món ăn ở đây ướp khá là hợp khẩu vị với gia đình mình. Quầy tráng miệng ok, nhân viên vui vẻ hòa đồng, mặc dù lúc đó khách có vẻ đang đông. Chí phí nói chung cũng chấp nhận được. Nói tóm lại là OK.Chuyện là thế này, mình có đi ăn vào buổi tối 26/9, Ba mình bị tuột huyết áp nên ngất xỉu, cũng may là có bạn nam mặc áo trắng đội nón giống như cô lao công chạy tới giúp mình (chắc là nhân viên của nhà hàng) và sơ cứu kịp thời, nhìn có vẻ chuyên nghiệp bấm nguyệt các kiểu, và rất may là Ba mình tỉnh, lúc đó mình chỉ cảm ơn qua loa và đưa Ba mình tới bệnh viện ngay lập tức nên quên hỏi tên bạn ấy là gì. Nếu ai biết thì làm ơn nói cho mình, mình chân thành cảm ơn và hậu tạ bạn ấy!!! Cảm ơn bạn nam ấy nhiều.Mô tả: cao trên 1m7, giọng miền nam.. chỉ nhớ nhiêu đó thôi :))))"
+        },
+        {
+            "user": "Linh Trinh",
+            "link": "https://www.foody.vn/thanh-vien/linhtrinh1702",
+            "score": 0,
+            "comment": "Quần side disk với tráng miệng ít, chỉ có mấy thứ. Đồ ăn đem lên lần dc đúng 3 miếng thịt = ngón tay (dẻ sườn bò)Nhân viên mặt nhăn nhó, lúc thay vi nướng thì gắp hết đồ sống đang nướng bỏ chung vào dĩa đồ chín đã nướng rồi của khách. Mình nhắc nhở thì bạn ấy k có ý gì xin lỗi còn nói mình mốt bỏ thịt chín vào dĩa mà để đồ gắp. Ủa bàn của mình ăn mình muốn để đâu thì để chứ. Nói chung giá cao nhưng ăn dở, ít món, ko có j đặc sắc."
+        },
+        {
+            "user": "Linh Trúc",
+            "link": "https://www.foody.vn/thanh-vien/linhtrc6880",
+            "score": "7.8",
+            "comment": "Quán rất đa dạng về món ăn. Thức ăn ở đây rất tươi ướp vị đậm đàQuán vì đông khách nên lên món rất lâu"
+        },
+        {
+            "user": "paulpham2k2",
+            "link": "https://www.foody.vn/thanh-vien/paulpham2k2",
+            "score": 0,
+            "comment": "Đồ ăn ít, ướp thịt dở, vé đắt, lên đồ ăn lâu, buffet tráng miệng cũng ko đa dạng và dở, đc cái nhân viên nhiệt tình thân thiện, nhà hàng vị trí và ko gian ổn=>bình thường"
+        }
+    ]
+}

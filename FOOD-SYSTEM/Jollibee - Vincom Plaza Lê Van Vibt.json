@@ -1,0 +1,80 @@
+{
+    "name": "Jollibee - Vincom Plaza Lê Văn Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/jollibee-vincom-plaza-le-van-viet",
+    "address": "Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 100.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Philippines",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-philippines"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/jollibee-thanh-pho-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "14"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Phương Linh",
+            "link": "https://www.foody.vn/thanh-vien/phuonglinh190595",
+            "score": 0,
+            "comment": "Mình nhận được 2 phiếu khuyến mãi tại siêu thị BigC Biên Hòa. 1 phiếu khuyến mãi bánh mì hamburger kẹp thịt bò và nước việt quất giá gốc đề 45k và giảm còn 35k! Nhưng đến khi mua thì chỉ là bánh mì vuông kẹp 2 miếng gà không xương, (gà rẻ hơn bò), vậy hóa ra phần của mình cũng chỉ tương đương ở mức giá 35k! Điều này rất phiền vì gặp chuyện \"treo đầu dê, bán thịt chó\" ở một cửa hàng có tên tuổi như Jollibee!Còn 1 phiếu khuyến mãi cơm gà mình đã quyết định lên trang web tham khảo giá thì phát hiện được điều này: Giá gốc ghi trên thẻ (67k giảm còn 47k) bị đội lên rất nhiều so với giá ghi trên web (50K)??? Cho hỏi lý do vì sao khi so sánh 2 hình không tìm ra điểm nào khác nhau?? Nhưng giá thì lại chênh lệch nhiều đến như vậy??? Mình đã inbox cho Jollibee cả tuần nay nhưng không nhận được câu trả lời thỏa đáng nào nên mới quyết định đăng trên này! Không hiểu 1 cửa hàng lớn mà lại làm ăn kiểu lừa đảo như vậy! Thật thất vọng!"
+        },
+        {
+            "user": "Tiên Thủy",
+            "link": "https://www.foody.vn/thanh-vien/gauwatanaki",
+            "score": "6.8",
+            "comment": "Ly trà chất lượng ghê. Mình khát nước quá nên định bụng vào mua nước ở Jollibee, vào thấy menu có trà sữa. Mua ly lơn uống cũng hời ghê vì ly khá to, còn có thạch nha đam trong trà uống vui miệng lắm. Vị trà đậm nè, giá cả cũng có vẻ vừa (mình quên mất giá một ly là bao nhiêu rồi) nhân viên vui vẻ và nhanh nhẹn, Không gian hơi bé một chút"
+        },
+        {
+            "user": "Tú Hảo",
+            "link": "https://www.foody.vn/thanh-vien/tuhao2509",
+            "score": "6.2",
+            "comment": "Theo cảm nhận của mình thì gà ở đây không được ngon cho lắm. Mì ý thì cũng được. Quán sạch sẽ, chỗ ngồi thì cũng nhiều nhưng đi thứ bảy hay chủ nhật hay những ngày lễ thì hên xui. Nhân viên vui vẻ, nhiệt tình, không cau có mặt mày."
+        },
+        {
+            "user": "Hannah Vũ",
+            "link": "https://www.foody.vn/thanh-vien/chocolate_love2401",
+            "score": "6.4",
+            "comment": "Mua đồ ăn khi chờ suất xem phim nè. Vì k muốn ăn nhiều nên chọn kem. Có 3 vị dâu chocolate vs blueberry thì phải. Mình thích blueberry nhất vị kem lạ chua chua ngọt ngọt. Dâu và chocolate ăn thường xuyên và k thấy có gì đb. Lần sau sẽ thử món khác"
+        },
+        {
+            "user": "Bảoo Nhii",
+            "link": "https://www.foody.vn/thanh-vien/torjky",
+            "score": "8.2",
+            "comment": "Cứ mỗi lần đi xem phim là phải vô đây uống trà sữa. Vừa rẻ vừa ngon. Thích mấy cái hạt nha đam có trong trà sữa ấy. Ăn dai dai.  Nghĩ chắc nó không độc như trân châu với thach như bình thường đâu nhỉ. Còn mì ý ăn cũn tạm ổn. Gà thì không có gì đặc sắc hết. Được cái vincom q9 có mỗi jollibee bán gà nên nhìn chung lúc nao vô cũng đông nghẹt khách hết trơn. Bị cái không gian nhỏ quá. Mấy bưac muốn ngồi mà ko biết ngồi đâu. Nhân viên dễ thương,  nhiệt tình."
+        }
+    ]
+}

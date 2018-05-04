@@ -1,0 +1,242 @@
+{
+    "name": "Dream Tea",
+    "link": "https://www.foody.vn/ho-chi-minh/dream-tea",
+    "address": "70B Hậu Giang, P. 6,  Quận 6, TP. HCM",
+    "open_time": "09:30 AM - 10:30 PM",
+    "price_range": "30.000đ - 65.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "61"
+    },
+    "foods": [
+        {
+            "name": "Soda đào",
+            "price": "45,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Soda chanh",
+            "price": "45,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Soda hoa hồng",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha macchiato",
+            "price": "65,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Hồng Trà Macchiato",
+            "price": "45,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Lục Trà Macchiato",
+            "price": "45,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Trà Ô Long Macchiato",
+            "price": "45,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Trà Tắc Đậu Biếc",
+            "price": "80,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Trà Sữa Đậu Biếc",
+            "price": "70,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Lục trà sữa đậu biết",
+            "price": "70,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Trà Cam Đậu Biếc",
+            "price": "80,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trà Chanh Đậu Biếc",
+            "price": "80,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Hồng Trà Sữa",
+            "price": "30,000(đ)",
+            "total_orders": "156"
+        },
+        {
+            "name": "Lục Trà Sữa",
+            "price": "30,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Ô long trà sữa",
+            "price": "35,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Matcha Latte",
+            "price": "45,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Trà sữa bí đao",
+            "price": "30,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Đá Bào Oreo",
+            "price": "40,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Đá Bào Trái Ổi Thanh Long",
+            "price": "85,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Đá Bào Trái Ổi Xí Muội",
+            "price": "45,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Đá Bào Thanh Long",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hồng Trà Đào",
+            "price": "35,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Hồng Trà Xí Muội",
+            "price": "30,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Trà Bí Đao Tắc",
+            "price": "35,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Lục Trà Xí Muội",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Yakult Chanh",
+            "price": "50,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà Bí Đao Chanh",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Lục Trà Yakult",
+            "price": "50,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Trái Cây Tươi",
+            "price": "55,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Lục Trà Cam",
+            "price": "35,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Lục Trà Tắc",
+            "price": "35,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà Chanh Tắc",
+            "price": "40,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà Chanh Phỉ Thúy",
+            "price": "50,000(đ)",
+            "total_orders": "5"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "hoang yen",
+            "link": "https://www.foody.vn/thanh-vien/hoangyen_nguyenvo",
+            "score": 0,
+            "comment": "Nhân dịp mua 1 tặng 1 nên mình ghé Dream Tea uống thử trà sữa đậu biếc, nói thật là trà sữa rất nhạt uống như trà sữa bình thường ko có chút gì mùi đậu biếc hết, bình tặng mình uống trà sữa oolong, trà sữa bị lạt giống như là rất ít đường và đá thì hơi nhiều. Nên uống thử cho biết thôi với lại cũng vì 2 cái bình cũng khá dễ thương thôi."
+        },
+        {
+            "user": "Andrew Minh Nhựt",
+            "link": "https://www.foody.vn/thanh-vien/minhnhutf24",
+            "score": "7.4",
+            "comment": "Mỗi lần có dịp qua Quận 6 là mình ghé Dream Tea vì đặc biệt rất thích hương vị trà sữa ở đây.Mình với nhỏ bạn ghé đây là lần thứ 2 roi,gọi 2 ly Lục trà và hồng trà,mùi hồng trà rất thơm và có vị béo béo nhưng mình vẫn thích lục trà hơn nó có vị sữa nhiều hơn.Quán hơi xa với nhà mình nhưng có dịp qua quận 6 là mình ghé Dream Tea^^"
+        },
+        {
+            "user": "van nguyen",
+            "link": "https://www.foody.vn/thanh-vien/vannguyen9989",
+            "score": "6.6",
+            "comment": "Đây là lần thứ 2 mình ghé quán. Lần trước mình mua không có khuyến mãi, đi buổi sáng, gặp nhân viên khác. Lần này có khuyến mãi, đi buổi chiều, nhân viên lại khác. Lần đầu mình gặp nhân viên dễ thương kinh khủng, mà hình như là khách mở hàng nữa, bạn order và chú bảo vệ rất nhiệt tình dễ thương. Còn lần này thì cả nhân viên và bảo vệ kiểu như không cần khách hay sao á. Mà lúc mình vào thì chỉ có 4 bạn vào trước chớ không phải đông khách gì cho cam. Nhân viên order còn không thèm hỏi lấy bình hay ly, lượng đường đá, chỉ hỏi đem về hay ở lại... Nói chung là thấy vọng hơn lần đầu lắm luôn. Quán decor nhẹ nhàng, cũng không có gì đặc săc. Nước uống thì cũng bình thường, giá khá đắt, có khuyến mãi b1g1 nên cũng chấp nhận được. Nói chung cũng vì ham hố cái hình chớ không thì gongcha hay britea chất lượng hơn."
+        },
+        {
+            "user": "Loan  Do",
+            "link": "https://www.foody.vn/thanh-vien/foodyuser_b78ab334",
+            "score": 0,
+            "comment": "Biết quán từ lâu rồi nhưng đây lại là lần đầu ghé- về không gian: quán khá dễ thương và bắt mắt, không quá khó tìm khi đi trên con đường Hậu Giang- về nhân viên phục vụ: không mấy nhiệt tình, nhưng cũng không gọi là bất lịch sự. Tuy nhiên lúc trên lầu, có 2 bạn nam nhân viên lên dọn bàn nói chuyện khá lớn tiếng và kéo bàn ghế khá ồn, mặc dù biết lúc đó chỉ có tụi mình là khách nhưng dọn bàn thì cũng phải í tứ chút chứ nhỉ ?! 😡- về nước uống: order 1 lục trà đậu biếc và 1 trà tắc đậu biếc. Trà tắc thì uống như trà tắc ở ngoài v, có điều đậm mùi trà hơn thôi. Còn lục trà thì khá lạc, không có gì đặc biệt.❗️❗️ nói chung là vào đây chỉ để lấy cái bình cute chớ với chất lượng nước uống thì thật sự k muốn ghé lại ==\""
+        },
+        {
+            "user": "Thai Nguyen Thuy An",
+            "link": "https://www.foody.vn/thanh-vien/thainguyenthuyan",
+            "score": 0,
+            "comment": "Vì quán ở xa quá nên mình tranh thủ order qua deliverynow 1 bình trà cam đậu biếc 80k, mình gọi thêm 4 loại thạch nữa, tổng là 100k, mà được giao đến bình trà như thế này đây :(Bình nhỏ xíu luôn và nước thì có chút ít như thế này.Được hỏi anh giao hàng thì ảnh bảo cái bình nguyên gốc là như vậy đó chứ không có được bình như trên mạng (?)Trà và trân châu ngon tuy nhiên việc nhận một cái bình 100k với lượng trà chỉ hơn phân nửa cùng bình nhỏ xíu thì thiệt thất vọng với cách làm việc của quán."
+        }
+    ]
+}

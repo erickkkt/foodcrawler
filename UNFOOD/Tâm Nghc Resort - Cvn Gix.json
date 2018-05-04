@@ -1,0 +1,58 @@
+{
+    "name": "Tâm Ngọc Resort - Cần Giờ",
+    "link": "https://www.foody.vn/ho-chi-minh/tam-ngoc-resort-can-gio",
+    "address": "Ấp Đồng Hòa, Xã Long Hòa,  Cần Giờ, TP. HCM",
+    "open_time": "",
+    "price_range": "100.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Huong Mai",
+            "link": "https://www.foody.vn/thanh-vien/maihuong",
+            "score": "7.4",
+            "comment": "Lần đầu tiên mình mới đi xuống khu dưới này chơi phải nói là ok lắm, Bãi biển vẫn còn hoang sơ ít người biết tới, gió mát thổi vi vu dưới dặng phi lao kèm thêm tiếng sóng vỗ nghe rất vui tai. \rXuống tới nơi cũng đã quá giờ ăn nên ghé zô đây, chạy qua chạy lại cái thực đơn cái là hết món và lọc được vài món cho bữa trưa muộn : cá dứa kho tộ, tôm rim, mực xào, gỏi ốc đụng và thêm món yêu thích của mình pepsi, phải nói là đồ ăn khá ngon và vừa miệng, \rGiá cả cũng rất ok chứ hok bị chém đẹp như ở mấy khi resort khác, có anh nhân viên rất vui tính, lúc mang đồ ăn ra vừa chạy xe vừa bê khây đồ ăn rất sành điệu nhá. nếu có time chắc mình sẽ xuống đây nhiều hơn, bắt đầu thích phong cảnh dưới này rùi dấy hihi."
+        },
+        {
+            "user": "Kyle Don",
+            "link": "https://www.foody.vn/thanh-vien/kyledon123",
+            "score": "7.8",
+            "comment": "Mình đã đi với nhóm bạn xuống đây chơi dịp lễ 2/9, di loanh quanh mãi khu cần giờ rồi cuối cùng chọn chỗ này, khá ok. không khí mát mẻ, sạch sẽ, thiên nhiên. tụi mình gọi các món ăn cơm (do chạy xe đói bụng quá), 4 người ăn mấy món cá kho, tôm rim, mực xào... ăn với cơm trắng, chất lượng thức ăn khá tốt, cơm cũng ngon. 4 người ăn tính trung bình ra mỗi người khoảng 130K. Ăn xong mấy đứa ngồi ngắm biển, do nước biển rất đục nên không ai xuống tắm cả ^^, đi dạo vòng quanh chỗ này cũng thích dù cũng nhỏ thôi. \r\rỞ đây có nuôi 1 chú kỳ đà, nhìn ngộ nghĩnh."
+        }
+    ]
+}

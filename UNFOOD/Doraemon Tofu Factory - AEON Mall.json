@@ -1,0 +1,76 @@
+{
+    "name": "Doraemon Tofu Factory - AEON Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/doraemon-tofu-factory-aeon-mall",
+    "address": "Tầng Trệt AEON Mall, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "7.000đ - 44.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "110"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "july",
+            "link": "https://www.foody.vn/thanh-vien/julyly",
+            "score": "7.8",
+            "comment": "Xinh xắn😄😄😄Cuồng mèo máy lắm luôn. Ở Hà Nội, mình cũng hay mua bánh rán Doraemon lắm nhưng cửa hàng mình mua không có bánh ở sẵn trong túi, khi khách mua mới bắt đầu làm. Có bánh lớn và bánh mini. Mình mua nhân custard, nhân chuối, nhân khoai môn, ăn khá ổn. Kem ở đây giá ok, đá bào 15k, nhìn hấp dẫn lắm.Còn nhiều thứ mà chưa thử hết được. Hy vong lần tới vào Sài Gòn sẽ quay lại."
+        },
+        {
+            "user": "Dandelion Tran",
+            "link": "https://www.foody.vn/thanh-vien/DandelionTran7211",
+            "score": "8.2",
+            "comment": "Kem ở đây rất ngon, vị vani hay socola đều rất thơm, nghe đứa bạn nói là kem làm từ đậu nành nên ăn thử và đúng là ngon thật.- Giá: Kem giá so với chất lượng khá hơp lý, một cây kem rất nhiều nữa.- Phục vụ: Nhân viên ở đây phục vụ rất tốt, thân thiện, vui vẻ, nhiệt tình. Làm việc rất nhanh luôn.- Không gian quán: Quán được thiết kế đẹp mắt, cực kỳ dễ thương, ai yêu chú mèo máy Doremon không thể bỏ qua được, hộp đựng bánh cũng rất xinh nha. Hihi"
+        },
+        {
+            "user": "Dandelion Tran",
+            "link": "https://www.foody.vn/thanh-vien/DandelionTran7211",
+            "score": "8.0",
+            "comment": "Bánh rán ở đây nhân bên trong rất thơm ngon. Mình đặc biệt rất thích kem tươi ở đây vị cực kỳ ngon, 1 cây kem rất nhiều luôn, nói chung tuy giá hơi cao nhưng đáng đồng tiền. Quán có chỗ ngồi dễ thương, sạch sẽ, đóng gói rất đẹp mắt 😊"
+        },
+        {
+            "user": "Uyen Nhi Nguyen Luu",
+            "link": "https://www.foody.vn/thanh-vien/uyennhi_nguyenluu",
+            "score": "7.2",
+            "comment": "Rất hay vào chơi aeon nên hay ghé quán này❤️ai cuồng doremon là thích mê❤️có bánh rán,kem,chai nước hình doremon,...❤️giá cũng hợp lí,quán sạch sẽ,ngăn nắp,phục vụ cũng đc❤️❤️❤️"
+        },
+        {
+            "user": "Anh Le",
+            "link": "https://www.foody.vn/thanh-vien/anhtuanle234",
+            "score": "8.6",
+            "comment": "Vô đây ăn 2 loại bánh là bánh su (trong tủ lạnh), có ba vị thì phải, dâu, socola và vani hay trà xanh gì đó. Bánh cỡ 29k một cái, phải ăn lạnh mới ngon.Xong ăn cả bánh rán, bánh giống Đôremon hay ăn ấy, cũng ngon lắm. Có nhiều vị để chọn, cỡ mười mấy nghìn một cái.Các bạn nhân viên cũng thân thiện, khách vào là chào bằng tiếng Nhật rõ to (giật cả mình). Mua đồ xong có bao giấy hình Đôremon cũng đáng yêu nữa.Nói chung là ai thích Doremon và bánh rán thì có thể thử."
+        }
+    ]
+}

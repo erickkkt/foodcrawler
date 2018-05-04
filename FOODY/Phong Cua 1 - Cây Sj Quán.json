@@ -1,0 +1,926 @@
+{
+    "name": "Phong Cua 1 - Cây Sứ Quán",
+    "link": "https://www.foody.vn/ho-chi-minh/phong-cua-cay-su-quan",
+    "address": "1019A Bình Quới, P. 28,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "10:00 AM - 11:00 PM",
+    "price_range": "200.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/phong-cua?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.5",
+        "total_review": "390"
+    },
+    "foods": [
+        {
+            "name": "Cơm Chiên Cá Mặn (Lớn)",
+            "price": "90,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Cơm Chiên Cua (Lớn)",
+            "price": "90,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cơm Chiên Hải Sản (Lớn)",
+            "price": "90,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm Chiên Dương Châu (Lớn)",
+            "price": "90,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cơm Chiên Trứng (nhỏ)",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm Chiên Tỏi",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm Chiên Hải Sản (nhỏ)",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm Chiên Cá Mặn (nhỏ)",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm Chiên Tôm (nhỏ)",
+            "price": "90,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Chiên Tôm (Lớn)",
+            "price": "90,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Chiên Trứng (Lớn)",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Chiên Cua(nhỏ)",
+            "price": "90,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Chiên Dương Châu (nhỏ)",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả Giò Cua",
+            "price": "75,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Chả Mai Cua",
+            "price": "19,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Súp Cua",
+            "price": "20,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Gỏi Ngó Sen tôm thịt",
+            "price": "85,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Xôi chiên",
+            "price": "40,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bò Viên Chiên",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Súp Hải Sản",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Súp Tôm",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tré Huế",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Gỏi Hải Sản",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Khoai Môn Chiên",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai Tây Chiên",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá Viên Chiên",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Hủ Chiên Giòn",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Hủ Chiên Muối Sả",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu thái",
+            "price": "135,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Lẩu gân bò viên",
+            "price": "135,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Lẩu tôm",
+            "price": "135,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Lẩu hải sản",
+            "price": "135,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Lẩu cá kèo",
+            "price": "125,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Lẩu xí quách",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Lẩu cá bống mú",
+            "price": "384,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lẩu cá thác lác",
+            "price": "125,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lẩu cánh gà lá giang",
+            "price": "125,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lẩu nghêu",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu Mực",
+            "price": "130,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Xào Giòn (Lớn)",
+            "price": "115,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mì Xào Hải Sản (Lớn)",
+            "price": "105,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bún Xào Singapore (Lớn)",
+            "price": "105,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mì Xào Giòn (nhỏ)",
+            "price": "115,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bún Xào Singapore (nhỏ)",
+            "price": "105,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hủ tiếu xào",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì Xào Bò (nhỏ)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Xào Bò (Lớn)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào Hải Sản (nhỏ)",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Xào Chay",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến Xào Cua (Lớn)",
+            "price": "95,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Miến Xào Cua (nhỏ)",
+            "price": "95,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Miến Xào Hải Sản (lớn)",
+            "price": "95,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Miến Xào Bò (nhỏ)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến Xào Chay",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến Xào Bò (Lớn)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến Xào Hải Sản (nhỏ)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Hàu",
+            "price": "85,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cháo Tôm",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Nghêu",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Thịt Bò",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Sò Huyết",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Hải Sản",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo Trắng",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Sữa Chiên Nước Mắm",
+            "price": "89,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Mực Sữa Chiên Giòn",
+            "price": "89,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mực Nang Nướng Muối ớt",
+            "price": "85,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mực Nang Xào Sa Tế",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực Nang Hấp Gừng",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực Sữa Nướng Mọi",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực Sữa Nướng Muối Ớt",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực Nang Chiên Mắm",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Nang Chiên Giòn",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Nang Nướng Mọi",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa xào hành cần",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Sữa Xong Cay",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Sữa Xào Sa Tế",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khô Mực Chiên Mắm",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khô Mực Nướng",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực Sữa Hấp Gừng",
+            "price": "89,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh Gà Chiên Bơ",
+            "price": "75,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Chân Gà Nướng Ớt",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cánh Gà Chiên Nước Mắm",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chân Gà Tiềm Thuốc Bắc",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chân Gà Hấp Hành",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân Gà Đông Cô Sốt Dầu Hào",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà nướng mọi",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Móng heo chiên nước mắm",
+            "price": "89,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Dồi Trường Hấp",
+            "price": "79,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bao Tử Xào Hành Cần",
+            "price": "79,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Dồi Trường Chiên Giòn",
+            "price": "79,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bao Tử Hầm Tiêu",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bao Tử Xào Cải Chua",
+            "price": "79,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Xúc Xích xông Khói",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Móng heo Chiên Mắm",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bao Tử Xào Nấm Đông Cô",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Sú Nướng Ớt",
+            "price": "90,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cari Tôm Sú",
+            "price": "99,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tôm Sú Rang Hột Vịt Muối",
+            "price": "95,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tôm Sú Rang Muối Nước",
+            "price": "80,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tôm Sú Hấp Bia",
+            "price": "89,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tôm Sú Rang Me Nước",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm Sú Chiên Giòn",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm Sú Hấp Dừa",
+            "price": "89,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Sú Mù Tạc",
+            "price": "129,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Sú Nướng Mọi",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Sú Rang Me Khô",
+            "price": "89,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm Sú Rang Muối Khô",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc len xào dừa",
+            "price": "70,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sò huyết cháy tỏi",
+            "price": "65,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nghêu hấp xả",
+            "price": "60,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Ốc bươu nướng tiêu đen",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ốc mỡ rang me",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ốc hương rang muối ớt",
+            "price": "135,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Chem chép nướng mỡ hành",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nghêu hấp thái",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà na rang bơ",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà na hấp xả",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà na rang muối ớt",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ốc hương hấp sả",
+            "price": "140,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chem chép xào lá quế",
+            "price": "90,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sò huyết rang me",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò huyết lacoste",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò huyết tứ xuyên",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò dương",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò mai",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc bươu hấp xả",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc bươu xào xả ớt",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc tỏi nướng ớt",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc mỡ cháy tỏi",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc hương nướng mọi",
+            "price": "140,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chem chép xào rau muống",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò lúc lắc",
+            "price": "75,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bò lúc lắc khoai tây",
+            "price": "85,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gân Bò Xào Sate",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bò Xào Hành Cần",
+            "price": "79,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bò Nhúng Dấm",
+            "price": "115,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "BòBốp Thấu",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bò Cuộn Cải Xanh",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Xào Cải Chua",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Xào Sate",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Tái Chanh",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò bít tết khoai tây",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò bít tết",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau Thập Cẩm Kho Quẹt",
+            "price": "60,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Rau Lang Kho Quẹt",
+            "price": "60,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Thiên Lý Xào Tỏi",
+            "price": "60,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rau Muống Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Khổ Qua Xào Bò",
+            "price": "69,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Salad Cá Mồi",
+            "price": "69,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bông Bí Xào Tỏi",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Thiên Lý Xào Bò",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Đậu Bắp Chấm Chao",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cá Tím Trùm Mền",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Tím Nướng Mỡ Hành",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đông Cô Xào Cải",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khổ Qua Xào Trứng",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khổ Quả Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad Trộn Dầu Giấm",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Rồng Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bầu Luộc Hai Trứng",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau Luộc Hai Trứng",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau Lang Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau Lang Xào Bò",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau Muống Xào Bò",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bông Bí Xào Bò",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cải Ngọt Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cải Ngọt Xào Bò",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Bắp Xào Tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Rồng Xào Bò",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ghiên  Spa",
+            "link": "https://www.foody.vn/thanh-vien/thutrang_love20042003",
+            "score": 0,
+            "comment": "Giá cua thịt khoảng 199 kBook bàn trước, đến lúc 7h nhưng hết cua thịt, hỏi thì nhân viên kêu 30p nữa mới giao, ra bàn ngồi chờ vậy, đợi lâu hỏi bé pv có cua chưa, bé gọi bộ đàm ra kêu hết cua, mình nói sao nãy kêu chờ, oải quá ra ngoài, nhân viên kêu chưa có, đơi quá lâu mình tính đổi qua phong cua 2 mình hỏi nhân viên gần đó, có chắc có k? Hay để qua bên kia, a nhân viên vẫn thong thả tí có, sau 1 lúc hấp dẫn cua kéo ở tường ra, thì ra chẳng coẽ giaocua gì hết, cua có đó nhưng k bán, ep kh ăn cua gạch , rồi mới bán cua thịt thế là chờ đợi mãi mới dc mua cua thịt, Món rang muối nước dở hơn trước, cay để trẻ ăn dc, mặn... Cari thì nấu ngon .Miến xào cua thì , miến cứng k fai miến ngon, Kềm mua kềm lụi quá, bẻ cua khó khăn, Cua 5 cõnui bị ốm 1 con, Nv tìm như đi haisao, đứng tụm tụm kêu k thấy đâuBàn thì mình đã lấy, trước khi lựa cua, dặn nv e, cho cái ly, để gấy bàn có kh vào chứ k mất bàn, nv kêu k sao, đi xong quay lại có ng ngồi chìmh ình ."
+        },
+        {
+            "user": "Traccy Do",
+            "link": "https://www.foody.vn/thanh-vien/traccy1301",
+            "score": 0,
+            "comment": "Hnay cty mình đi ăn, ngay đúng dịp được giảm 15% nên ăn 9 người uống 1 thùng ken, mà hoá đơn có 2tr150 thôi. No bể bụng lun. Hnay ăn thử món cua sốt malay ngon xuất sắc, cua sốt me hết ngon r ( hơi thất vọng), ốc hương nướng muối ớt ngon mà cay quá sức😓😓, ốc bươu nướng tiêu cay muốn xỉu😅😅😅. Ah k hài lòng nhất là nhân viên ngồi cân cua với order món cua a’. Mặt như đưa đám, thái độ k cần khách, mong quán coi lại cách cư xử của nhân viên đó nha. Ngoài việc đó ra thì hài lòng hết, giá hợp lý, cua chắc, ngon"
+        },
+        {
+            "user": "GÀ BÌNH THƯỜNG",
+            "link": "https://www.foody.vn/thanh-vien/ngochanlazylady",
+            "score": "8.4",
+            "comment": "Thường xuyên ăn cua mà nâhnj ra nên ghé quán 1, đừng ghé chi nhánh 2 vì tráo cua rất trắng trợn. Quán này bán đúng nè, hay do mình tới đúng này cua mới nên chưa kịp đổi :))).Thịt cua rất chắc, ngọt và ngon, đúng thịt cua tươi luôn. 200 mấy 1 kí quên rồi nhưng giá ko rẻ nhé vì dây cột là hết bà nó mấy lạng rồi. Chế biến món ngon, mình lấy 3 con lớn, 2 con rang me, 1 con lẩu. Lẩu đặc biệt rất ngon, ăn mà ghièn luôn. Tính tổng ra là 600 mấy đó. Cũng ok nếu như cua cứ tươi thế này. 😎"
+        },
+        {
+            "user": "Thy Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/thyuyen97",
+            "score": "7.0",
+            "comment": "Ăn ở đây mà ngồi khu phía trong cạnh bờ sông thì lúc mới đến order cua hơi bị rườm rà -.- phải đi vào trong chọn bàn rồi nhân viên ghi số bàn ra giấy rồi mới cầm tờ giấy đó đem ra ngoài để lựa cua xong thì mới đưa cho nv cân vs chế biến biết số bàn mang cua vào -.- Đợi lên món lâu lắm luônQuán rộng cơ mà đông quá nên rất nóng và ngột ngạt,  bàn ghế san sát nhau, dưới đất rác cũng rất nhiều do đa phần mn ăn cua xong rồi bỏ trực tiếp xuống đất luônHôm trc ngay sau lễ mình ăn thì hết cua thịt rồi còn cua gạch 270k/kí. Ở đây mỗi món cua phải từ 2 con trở lên thì mới chế biến. Mình lựa 2 con đc 1.2 kí tính 328k (gồm công chế biến 55k) làm món cua cà ri ăn rất ngon. Thịt cua chắc, ngọt, gạch nhiều, nước cà ri béo béo đậm đà :3"
+        },
+        {
+            "user": "Maika Dang",
+            "link": "https://www.foody.vn/thanh-vien/lovely_cat_0015",
+            "score": "8.0",
+            "comment": "Cua ở đây ngon & rẻ. Cua thịt 190k/kg, cua gạch 250k/kg. Mình order 2 cua gạch làm rang trứng muối & cua thịt nấu lẩu chua cay. Tổng thiệt hại 600k. Nói chung giá như thế chất lượng cũng ok rồi. Sẽ quay lại."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Marukame Udon - Saigon Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/marukame-udon-saigonmall",
+    "address": "2A Phan Văn Trị , P. 10,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:00 AM - 09:30 PM",
+    "price_range": "60.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/marukame-udon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "_._",
+        "total_review": "0"
+    },
+    "foods": [],
+    "user_comments": []
+}

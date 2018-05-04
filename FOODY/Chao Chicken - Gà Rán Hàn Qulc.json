@@ -1,0 +1,297 @@
+{
+    "name": "Chao Chicken - Gà Rán Hàn Quốc",
+    "link": "https://www.foody.vn/ho-chi-minh/chaos-chicken-ga-ran-han-quoc",
+    "address": "S43 - 1 Đường Số 6, Khu Hưng Vượng 2, Phú Mỹ Hưng,  Quận 7, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "425"
+    },
+    "foods": [
+        {
+            "name": "Cánh gà rán xốt nước tương",
+            "price": "145,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Cánh gà rán xốt Hàn Quốc",
+            "price": "145,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Cánh gà rán xốt chua cay",
+            "price": "145,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cánh gà rán giòn (nhạt )",
+            "price": "145,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Nạc gà rán xốt nước tương",
+            "price": "140,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Nạc gà rán xốt hàn quốc",
+            "price": "140,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Nạc gà rán xốt cay",
+            "price": "140,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nạt gà phô mai tuyết",
+            "price": "140,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nạc gà rán truyền thống HQ",
+            "price": "140,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nạc gà rán xốt kem",
+            "price": "160,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà nướng phô mai (half)",
+            "price": "155,000(đ)",
+            "total_orders": "141"
+        },
+        {
+            "name": "Gà rán xốt nước tương",
+            "price": "140,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Gà rán xốt hàn quốc",
+            "price": "140,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Gà rán xốt chua cay",
+            "price": "140,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Gà rán truyền thống HQ",
+            "price": "140,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Râu mực nướng phô mai cay",
+            "price": "155,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Gà nướng cay (half)",
+            "price": "130,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Gà nướng phô mai (1 set)",
+            "price": "295,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Gà rán phô mai tuyết",
+            "price": "140,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Râu mực nướng cay",
+            "price": "120,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cánh gà rán xốt chua cay (1 set)",
+            "price": "280,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Gà nướng cay (1 set)",
+            "price": "250,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Gà rán đặc biệt kiểu Hàn Quốc (1 set)",
+            "price": "250,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Gà rán nguyên con",
+            "price": "270,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cánh gà rán tẩm xốt Hàn Quốc (1 set)",
+            "price": "250,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà rán giòn (nhạt)",
+            "price": "140,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm viên",
+            "price": "5,000(đ)",
+            "total_orders": "374"
+        },
+        {
+            "name": "Cơm rong cuộn biển hàn quốc",
+            "price": "60,000(đ)",
+            "total_orders": "340"
+        },
+        {
+            "name": "Teokpokki phô mai",
+            "price": "170,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "10,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Salad hộp",
+            "price": "20,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Phô mai thêm",
+            "price": "30,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Bánh gạo thêm",
+            "price": "20,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Súp chả cá HQ",
+            "price": "100,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Mề gà rán tỏi",
+            "price": "150,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Súp kim chi cá ngừ",
+            "price": "120,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Bánh gạo teokpokki",
+            "price": "140,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Mì HQ thập cẩm",
+            "price": "90,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Chả cá thêm",
+            "price": "30,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mì HQ phô mai xúc xích",
+            "price": "80,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "80,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mì HQ xúc xích",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nhộng tằm HQ",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xúc xích khoai tây chiên",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Tuong Vi Nguyen Ngoc",
+            "link": "https://www.foody.vn/thanh-vien/zoey.tuongvi",
+            "score": "7.2",
+            "comment": "Quán không quá sang trọng, kiểu quán ăn gia đình thui. Nhân viên cũng bình thường, toilet hơi xập xệ.Gà phô mai rất là cay nha , cảnh báo bạn nào ko ăn cay tốt hoặc ko thích ăn cay thì chừa món này ra, phô mai cũng khá ít. Phần gà chiên gì quên tên r có bánh gạo chiên ăn kèm eow ôi bánh gạo siêu cứng cắn ko nổi luôn. 2 người ham hố kêu 2 phần half ăn ko hết phải gói đem về 🤣🤣. Panchan bắp cải trộn ăn kèm mình rất thích luôn, ăn rất hợp."
+        },
+        {
+            "user": "Nhung Phạm",
+            "link": "https://www.foody.vn/thanh-vien/heoconshynk",
+            "score": "6.6",
+            "comment": "Quán không như mình tưởng tượng - hơi nhỏ - trang trí không đẹp lắm - chỗ gửi xe thì lại quá khó khăn.Thức ăn thì ngon - nhiều món - thích nhất món gà phủ phô mai, có thể điều chỉnh độ cay tùy ý, còn phô mai có thê thêm phô mai được luôn, nhưng vừa rồi mình thêm rồi mà sao mang ra vẫn ít không biết có phải nhân viên quên làm không. Vì lần đầu đến đây. Nhiều người ăn được rong biển nên rất khen món cơm trộn rong biển này. Nhưng với mình thì ăn không quen. Nên lại không thích ăn 😥 😥 😥"
+        },
+        {
+            "user": "Hồng Phan",
+            "link": "https://www.foody.vn/thanh-vien/mugiadangghet",
+            "score": "8.6",
+            "comment": "Các món ngon ơi là ngon luôn í. Ahuhu. Gia vị đậm đà, ngon và cay :)). Cơm nắm cho ăn kèm ăn vào no lặc lè luôn. Điểm trừ duy nhất là không có bình nước lọc như các quán khác (nghe bảo là sau 5h chiều sẽ không có nước lọc mà khách bắt buộc muốn uống nước phải oder nước)"
+        },
+        {
+            "user": "My Trần",
+            "link": "https://www.foody.vn/thanh-vien/mytrannu",
+            "score": "7.8",
+            "comment": "Được mời qua Q7 ăn, nghe bạn nói quán này ngon lắm. Công nhận là ngon thật. Tưởng đâu 1 phần ít lắm, kêu dã man rồi ăn không hết, đóng hộp đem về. - Món ăn: Gà phô mai siêu siêu ngon, cũng siêu nhiều, sốt chuẩn không cần chỉnh. Cơm nắm cứ mỗi phần đồ ăn kêu là được kèm cơm nắm, lúc đầu không biết được tặng, kêu nhiều đồ ăn nên ăn không nổi. Salad cho nguyên cả đĩa chứ không phải phần phần chút xíu. Cái gì cũng nhiều hết đó- Không gian: không có đầu tư vào trang trí decor gì hết, giống mấy quán hay thấy trong phim hàn vậy thôi. Mà khu cho người hàn nên mình thấy Hàn ăn nhiều. - Phục vụ: tận tình, lên món nhanh, khách cần gì là đem liền- Giá cả: theo mình nhớ là 500k đổ lại thôi à, quá rẻ cho vừa ăn vừa mang về =)))- Vị trí: xa quá, mình thấy chi nhánh này ngon. Không biết chi nhánh khác thế nào"
+        },
+        {
+            "user": "badluck_sputnik",
+            "link": "https://www.foody.vn/thanh-vien/trantuyetphuong1502",
+            "score": "7.2",
+            "comment": "Quán nằm tít bên quận 7 nhưng mà ngon cực. Giá cả ok. Phục vụ tốt. Ăn có tặng kèm cơm rất tốt. Gà ăn đỡ phải rút xương các kiểu, dễ dàng nhanh gọn."
+        }
+    ]
+}

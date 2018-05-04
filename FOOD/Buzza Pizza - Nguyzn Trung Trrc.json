@@ -1,0 +1,291 @@
+{
+    "name": "Buzza Pizza - Nguyễn Trung Trực",
+    "link": "https://www.foody.vn/ho-chi-minh/buzza-pizza",
+    "address": "5 - 7 - 9 Nguyễn Trung Trực,  Quận 1, TP. HCM",
+    "open_time": "10:00 AM - 10:30 PM",
+    "price_range": "49.000đ - 199.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-au"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/buzza-pizza?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "829"
+    },
+    "foods": [
+        {
+            "name": "Chicken salad",
+            "price": "86,900(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Green salad",
+            "price": "64,900(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Ricotta cheese salad",
+            "price": "108,900(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Beef salad",
+            "price": "152,900(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Buzza salad",
+            "price": "119,900(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Caprese salad",
+            "price": "174,900(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Shrimp salad",
+            "price": "141,900(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Seafood pizza",
+            "price": "175,000(đ)",
+            "total_orders": "152"
+        },
+        {
+            "name": "Gorgonzola pizza",
+            "price": "164,000(đ)",
+            "total_orders": "91"
+        },
+        {
+            "name": "Quattro formagi",
+            "price": "174,900(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Chicken BBQ pizza",
+            "price": "207,900(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Diavola pizza",
+            "price": "141,900(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Beef BBQ pizza",
+            "price": "251,900(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Hawaiian pizza",
+            "price": "207,900(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Margherita pizza",
+            "price": "109,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Funghi pizza",
+            "price": "208,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Tuna pizza",
+            "price": "229,900(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Mare monti pizza",
+            "price": "273,900(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Chicken pizza",
+            "price": "141,900(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Rucola pizza",
+            "price": "174,900(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Mari nara pizza",
+            "price": "86,900(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Coca cola",
+            "price": "33,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Coke light",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sprite",
+            "price": "27,500(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà đào",
+            "price": "63,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Thơm",
+            "price": "44,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soda kiwi",
+            "price": "27,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước suối",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito chanh dây",
+            "price": "49,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cafe đá",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa đá",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda cam",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda dâu",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà dâu",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà bạc hà",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước chanh",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh dây",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà lipton sữa",
+            "price": "38,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà chua",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cam",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "An An Chan",
+            "link": "https://www.foody.vn/thanh-vien/ananchan.cutie",
+            "score": "8.0",
+            "comment": "Hôm mình đi 8 đứa, order 2 bánh pizza, 3 mì Ý, 1 salad và 8 nước suối, có thẻ giảm 50% cho bánh và mì ý thì mỗi đứa còn 80k hơn ăn vừa đủ no. 1 cái pizza chia thành 8 miếng. Mỳ ý mỗi dĩa cỡ 2-3 người ăn nếu sợ ngán. Salad thì khá nhiều. Mình thấy món nào ăn cũng ngon hết nên lần đầu đi có ấn tượng khá tốt với Buzza. À đi là phải đặt chỗ trước chứ không là đông nghẹt luôn. Không gian khá thoải mái, nhân viên phục vụ tốt. Giữ xe 5k, để hơi xa quán, thường thì bảo vệ sẽ lấy xe giùm nhưng lúc đó chỉ có 2 người thôi nên phải tự lấy, anh bảo vệ có nói thông cảm giùm nên không sao :\">"
+        },
+        {
+            "user": "Lâm",
+            "link": "https://www.foody.vn/thanh-vien/nguyenhoanglam694",
+            "score": "8.0",
+            "comment": "Review tí về quán. Nằm ngay đường ra trung tâm sài gòn. Dễ tìm không gian sang trọng nhưng giá cả vô cùng bình dân. Bình dân đến bất ngờ. Ai có thẻ thành viên thì xem như đi ăn nhà hàng sang mà với giá quá nhẹ. Pizza đồng size. To vãi chưởng. Kêu 1 cái mình và bạn gái ăn khá no. Gongozella có thêm mật ong. Không khí quán ấm cúng thích hợp cho những ai tìm chỗ nói chuyện tâm sự. Nhạc rất hay nữa. Nhân viên rất oke."
+        },
+        {
+            "user": "Thi Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthianhthi2402",
+            "score": "8.2",
+            "comment": "Không gian ấm cúng, rộng rãi, pizza ở đây phải nói là ngon lắm. Pizza chicken BBQ đế mỏng, topping nhiều như thịt gà, khoai tây, ớt chuông, lớp phô mai dày và hạt olive nướng trong lò củi. Ăn cùng sốt BBQ rất ngon. Thêm 1 loại mà dành cho người cực thích ăn phô mai như mình. Pizza gồm 5 loại phô mai, sốt kem và ăn kèm với mật ong. Pizza nướng lò củi nên rất thơm và ngon, nhiều phô mai ăn rất ngon, béo nhưng không hề ngán. Pizza hải sản 1 cái to lắm 8 miếng gồm tôm, mực, bạch tuột đầy ắp. 1 món cũng lạ nữa là Pasta hải sản sốt kem đựng trong bánh mì, vị béo ngậy của kem hòa quyện vào bánh mì khá lạ miệng. Nhân viên dễ thương."
+        },
+        {
+            "user": "Yancy Chang",
+            "link": "https://www.foody.vn/thanh-vien/lu.3bie",
+            "score": "8.4",
+            "comment": "My first impression for Buzza was they served more varieties of Pasta compared to Pizza. You can see how the chiefs made pizza and stuffs once you stepped in the restaurant. Second floor and third floor look dramatically different. While the second floor looks nicer, cleaner, and somehow better AC system? The third floor looks like a fast food place, they have AC but the windows are all opened so it's pretty hot to us. We came on weekend so the 2nd floor was fulled. Though our main purpose of visiting was to have some pastas, we did order a pizza to try too. The pizza is just okay. Also anyone who does not eat onion like me, you might not want the beef rice. The taste of onion is just too strong to be ignored. The creamy based pastas we ordered tasted quite similar. Just slightly different depending on your choice of meat. Lastly, the soup is not bad. So yea, if you are craved for pastas or creamy based food, this is definitely the right place."
+        },
+        {
+            "user": "Dang Kat",
+            "link": "https://www.foody.vn/thanh-vien/blackandwhite7373",
+            "score": "8.0",
+            "comment": "Nay đi ăn trước lễ, gọi 2 cái pizza, 1 salad, 2 ly trà đào nhưng mà được giảm giá nên hời qá hời :3 Ăn ngon mà không bị viêm túi nữa. Mọi hôm ăn pasta nhưng nay đổi vị ăn pizza. Nói chung là ngon, bánh dày vừa đủ cộng topping nhiều nên ăn không bị ngán. Duyệt! Sẽ thử nhiều loại pizza hơn."
+        }
+    ]
+}

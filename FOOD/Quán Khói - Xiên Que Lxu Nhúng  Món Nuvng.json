@@ -1,0 +1,712 @@
+{
+    "name": "Quán Khói - Xiên Que Lẩu Nhúng & Món Nướng",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-khoi-xien-que-lau-nhung-mon-nuong",
+    "address": "122/37/9 Vĩnh Khánh, P.10,  Quận 4, TP. HCM",
+    "open_time": "",
+    "price_range": "40.000đ - 120.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "105"
+    },
+    "foods": [
+        {
+            "name": "Mì hải sản",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì xào rau muống",
+            "price": "40,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì xào bò",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào cải xanh",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên mắm ruốc",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm hải sản",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm bò xào",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên tóp mỡ",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm nướng",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Đậu bắp nướng",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà tím nướng",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khổ qua nướng",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bắp nướng",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lạp xưởng Đài Loan",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò xiên BBQ",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo xiên BBQ",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng Khói",
+            "price": "70,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Ba chỉ nướng ngũ vị",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ba chỉ nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba chỉ nướng sả ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba chỉ nướng Ấn Độ",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba chỉ nướng mắm ruốc",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba chỉ nướng giả cầy",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng ngũ vị",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng Thai",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng Ấn Độ",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng sa tế",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chìa nướng giả cầy",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đuôi heo nướng sa tế",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đuôi heo nướng muối ớt",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đuôi heo nướng giả cầy",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tai heo chiên nước mắm",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tai heo xào cải chua",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng chao",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng ngũ vị",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng giả cầy",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng nướng sả ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo rừng xào sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nướng Thái",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nướng sữa",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nướng mắm ruốc",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nướng chao",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò cuộn nấm kim châm",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò cuộn phô mai",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lá sách nướng sa tế",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lá sách nướng ngũ vị",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dẻ sườn bò Mỹ nướng",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba chỉ bò Mỹ nướng",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò lúc lắc mù tạt",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà nướng",
+            "price": "20,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cánh gà nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sụn gà muối ớt",
+            "price": "59,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tim mề nướng ngũ vị",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cánh gà nướng Thái",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà nướng ngũ vị",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà nướng Ấn Độ",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà chiên nước mắm",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn gà sa tế",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn gà chiên nước mắm",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tim mề nướng sa tế",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tim mề nướng Khói",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tim mề nướng muối ớt",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng gà trứng non cháy tỏi",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà chua ngọt",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà quái thú",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà muối sả",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vú dê nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Vú dê nướng ngũ vị",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Vú dê nướng chao",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vú dê nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vú dê xào cà ri",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vịt nướng chao",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vịt nướng giả cầy",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi vịt sa tế",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi vịt muối ớt",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi vịt ngũ vị Ấn Độ",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá thu Nhật nướng giấy bạc",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá đuối nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá đuối nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá bóp nướng muối ớt",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá bóp nướng sa tế",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá chim nướng giấy bạc",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá kèo nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá kèo nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vây cá hồi nướng muối ớt",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vây cá hồi nướng sa tế",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lườn cá hồi nướng muối ớt",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lườn cá hồi nướng sa tế",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đầu cá hồi nướng muối ớt",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đầu cá hồi nướng sa tế",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vây cá hồi chiên nước mắm",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vây cá hồi chiên sa tế",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mực nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực nướng Thái",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực nướng chao",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực hấp sả",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực chiên giòn",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa chiên nước mắm",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa nướng",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Răng mực nướng muối ớt",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Răng mực nướng sa tế",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Răng mực xào bơ cay",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm nướng sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm nướng Khói",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch nướng muối ớt",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch nướng sa tế",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch nướng ngũ vị",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch ngũ vị Ấn Độ",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch chiên nước mắm",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch xào sả ớt",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bao tử ếch xào sa tế",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bao tử ếch xào cải chua",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cồi sò điệp xào bơ cay",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hàu né",
+            "price": "90,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lẩu Thái",
+            "price": "125,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu hải sản",
+            "price": "125,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu tôm chanh dây",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu ếch lá giang",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu vịt nấu chao",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu cá đuối măng chua",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu cá bóp măng chua",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Mushroom Ashi",
+            "link": "https://www.foody.vn/thanh-vien/hothanhthuy28889",
+            "score": "7.8",
+            "comment": "Quán này mình ghé cũng được vài lần, không gian rộng rãi, gửi xe thì hơi xa 1 tẹo. Quán đúng tên Khói, ngồi nướng mà khói bay nghi ngút luôn, ám hết vô áo quần tóc tai, ăn xong ở đây đúng là phải về nhà tắm gội toàn thân 😂 Mình với bạn thích ăn cay 1 chút, gọi 1 loạt món mà món nào cũng nướng sa tế hết: bạch tuộc nướng, đuôi heo nướng, vi cá hồi nướng, bò cuộn nấm kim châm, lưỡi vịt nướng. Nước sốt ướp thịt cay xè ngon lắm, có muối ớt xanh chấm cũng ngon lắm luôn. Kêu 5 món vậy là ngồi đập bụng ăn luôn, hết gần 400K cho 2 đứa.Nhân viên ở đây nhiệt tình lắm, kêu cái là có mặt liền, yêu cầu gì là cũng làm liền, rất nhanh nhẹn."
+        },
+        {
+            "user": "Giang Nhi",
+            "link": "https://www.foody.vn/thanh-vien/nhinhi95.nd",
+            "score": "7.4",
+            "comment": "Đến Khói vẫn kêu những món quen thuộc: Ba rọi, vú, bạch tuột, đậu bắp. Hnay kêu thêm món lưỡi vịt sốt muối ớt. Lưỡi vịt ngon, nhiều, dĩa khoảng 8 cái lưỡi. Nướng lên ăn dai dai vui miệng. Trong tất cả các sốt thì sốt Thái và sốt muối ớt ăn ngon nhất. Tuy nhiên hnay dĩa ba rọi làm mình hơi thất vọng, vì miếng thịt ko nguyên vẹn mà cứ lụn vụn, nhỏ xíu ăn ko ngon như mọi lần. Đồ nướng ok nhưng so với các quán lân cận thì giá hơi cao và ngày càng có vẻ ít hơn lúc trước. Ngược lại lẩu thì rẻ và ngon. Mình ord 1 lẩu cá bớp măng chua, cá nhiều, măng thì đc vài miếng. Mà lẩu nhiều quá 2 người ăn ko hết. Nước súp chua chua nấu kiểu vị canh chua măng của người Bắc. Ăn lạ miệng, nói chung tạm được. Đi 2 người hết 497k vừa nướng vừa lẩu. Tính ra 1 người khoảng 200 mấy. Mắc thì ko mắc nhưng rẻ cũng chẳng rẻ. Giữ xe 5k. Quán đông nhưng nhân viên nhanh nhẹn gọi là có. Điểm cộng cho cách phục vụ. Thỉnh thoảng sẽ ghé lại."
+        },
+        {
+            "user": "Giang Nhi",
+            "link": "https://www.foody.vn/thanh-vien/nhinhi95.nd",
+            "score": "7.8",
+            "comment": "Lần đầu đi ăn lo ăn ko chụp hình. Quay lại lần 2 quyết tâm ăn để chụp hình review :)))Mình đi tầm khoảng 5h nên quán chỉ mới có vài bàn. Tầm 6h mấy trở đi quán mới bắt đầu đông. Vào bàn ngồi phục vụ đưa menu cho chọn món. Mình gọi ba rọi, vú dê, bạch tuột, ếch, đậu bắp. Tất cả đều sốt sa tế. Đặc biệt mình gọi 1 phần hàu né 90k. Món lên cũng nhanh, được tặng kèm 1 đĩa bắp cải muối ăn chua chua, ngọt ngọt, giòn giòn ngon lắm. Hàu né mang lên cho mình tự né luôn.Về món nướng. Ăn ngon, sốt sa tế cay cay, miếng ba rọi dày, vú dê dai giòn, bạch tuột và ếch rất tươi. Nói chung ok 👌🏻Món fail nhất có lẽ là hàu né :)))) Do mình ko biết né nên đã cho tất cả vào luôn. Chén sốt cà chua hành tây để chấm mình cũng cho vào nốt. Cho vào nhiều quá nên bị trào ra lò. Bé phục vụ thấy vậy lại làm giúp cho mình, còn nói em tưởng chị biết né :)))) Tuy hàu to và tươi nhưng vì né ko đúng cách + cho nguyên chén nước chấm vào nên ăn khá kì cục. Vị cứ chua chua kiểu gì đấy nói chung ko ngon. Nếu làm đúng cách chắc sẽ ngon 😂 Nhân viên nhiệt tình, gọi là có ngay. Đi 2 người hết khoảng 400k mấy, luôn nước. Tính ra ko mắc vì ăn rất no. Giữ xe 5k. Sẽ quay lại lần sau để ăn lại món hàu né :))))"
+        },
+        {
+            "user": "Giang Nhi",
+            "link": "https://www.foody.vn/thanh-vien/nhinhi95.nd",
+            "score": "7.8",
+            "comment": "Hồi trước chỉ quen đi ăn bên Chili, nay đổi không khí sang Khói thử. Cảm nhận đầu tiên khi buớc vào quán là nhân viên nhiệt tình, phục vụ nhanh nhẹn, bàn ghế sạch sẽ. Về đồ ăn, ướp rất vừa miệng. Tuy nhiên, theo mình thấy ướp sa tế và ngũ vị cái nào cũng cay nên ăn như nhau chưa cảm nhận đc sự khác biệt giữa 2 loại sốt. Còn lại mọi thứ đều ok. Sẽ quay lại để thử thêm nhiều món khác nữa. Đi ăn về người ám đầy mùi Khói :)))))))))"
+        },
+        {
+            "user": "Trần Hạnh",
+            "link": "https://www.foody.vn/thanh-vien/hong_hanh4321",
+            "score": "7.2",
+            "comment": "Nằm trong con đường Vĩnh khánh chuyên về món nướng và ốc, gần khúc cuối đường mà vẫn khá đông đúc vào cuối tuần. mình và bạn đến vào khoảng 4h chiếu mà đã lai rai khách rùi. nhân viên hơi hờ hững với khách thì phải, mình ngồi ngay bàn quay lại nhìn thấy 1 2 bạn nhân viên mấy lần ra hiệu mà không thấy có chút động thái, phải gọi lớn mới có người đến ghi order.menu mới tu bổ lại nhưng nhìn chung là toàn món cũ, mấy món mới hoặc đặc biệt thì có dán giấy trên cột hoặc bàn nên cũng dễ gọi. mình gọi  bò cuộn phô mai 75k, ba chỉ muối ớt 65k, vịt nướng chao 60k, mì xào bò 60k, lẩu thái 125k và  nước ngọt các loại thì 10k. bò cuộn phô mai bình thường, thấy hơi mắc với giá 75k vì phô mai không nhiều, trong lõi có thêm hành tây nữa.ba chỉ muối ớt ok, vịt cũng hơi bất ngờ là nhiều và đáng ăn hẳn so với giá thấp hơn 2 món kia, cũng được chục cục ngồi lai rai gặm xương nhai thịt cũng khá ok, vịt không rõ vị lắm, hơi dai nữa. lẩu thái ok, giá bình dân nên cũng không nhiều topping, được cái nước lẩu ăn ổn và rau bún cũng đầy đặn nên làm món chốt cho bữa tiệc nướng là hợp lý.tổng bill 418k, chia ra cũng hợp lý, sẽ còn quay lại"
+        }
+    ]
+}

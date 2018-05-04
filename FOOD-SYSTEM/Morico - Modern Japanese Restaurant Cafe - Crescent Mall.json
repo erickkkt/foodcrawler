@@ -1,0 +1,1750 @@
+{
+    "name": "Morico - Modern Japanese Restaurant Cafe - Crescent Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-crescent-mall",
+    "address": "Tầng 2 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "10:00 - 21:30",
+    "price_range": "70.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/morico-modern-japanese-food-sushi-dessert?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "284"
+    },
+    "foods": [
+        {
+            "name": "Tori Teriyaki Sarada",
+            "price": "140,800(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sake kawa Sarada",
+            "price": "151,800(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Chuka wakame sarada",
+            "price": "107,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soft - shell crab sarada",
+            "price": "206,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sashimi sarada",
+            "price": "195,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ebi sarada",
+            "price": "173,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Grilled Sake Sarada",
+            "price": "184,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kaisen sadara",
+            "price": "162,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sakura ebi sarada",
+            "price": "118,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Misoshiru",
+            "price": "27,500(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Tatsuta - age",
+            "price": "85,800(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Agedashi tofu",
+            "price": "74,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Tako karaage",
+            "price": "151,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Potato sarada",
+            "price": "74,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Okonomiyaki",
+            "price": "129,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sake kawa & sakura ebi",
+            "price": "96,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Gyoza",
+            "price": "85,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Kaki spicy tempura",
+            "price": "184,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Edamame",
+            "price": "41,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "French fries",
+            "price": "63,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Chuka wakame",
+            "price": "96,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mashuru itame",
+            "price": "107,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Kaki okonomiyaki",
+            "price": "162,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Soft - shell crab tempura",
+            "price": "195,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ebi tempura",
+            "price": "184,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ika geso karaage",
+            "price": "140,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Teri tebasaki miso age",
+            "price": "96,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chilli mayo ebi",
+            "price": "217,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Imo bacon yaki",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sakura ebi age",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi toboki tempura",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Seafood tempura",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kisu tempura",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Spicy skin salmon roll",
+            "price": "151,800(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Unagi avocado roll",
+            "price": "195,800(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sake mango roll",
+            "price": "129,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sake aburi roll",
+            "price": "162,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Maguro ten roll",
+            "price": "107,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rainbow roll",
+            "price": "206,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Unagi cheese roll",
+            "price": "360,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Alaska roll",
+            "price": "184,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Dragon roll",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake tempura mango roll",
+            "price": "118,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Negi sake maki tempura",
+            "price": "96,800(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "California maki",
+            "price": "85,800(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Yasai maki",
+            "price": "74,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Spider maki",
+            "price": "140,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sake hotate hana maki",
+            "price": "173,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Philadelphia maki",
+            "price": "140,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ebi tempura maki",
+            "price": "107,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Maguro tempura maki",
+            "price": "96,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sake nori maki",
+            "price": "118,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hana maki",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Futo maki",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Spicy sake maki",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Spicy maguro maki",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Wasabi nishin",
+            "price": "228,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sake toro",
+            "price": "151,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nishin",
+            "price": "217,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sora sashimi set",
+            "price": "547,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tsuchi sashimi set",
+            "price": "272,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hokkigai",
+            "price": "173,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Black ebiko",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tobiko",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ikura",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mori sashimi set",
+            "price": "767,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hana sashimi set",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kusa sashimi set",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kaki sashimi set",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shime saba",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hotate",
+            "price": "195,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kajiki",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tako",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Maguro",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Unagi",
+            "price": "74,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nishin",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Wasabi nishin",
+            "price": "74,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tako",
+            "price": "52,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kajiki",
+            "price": "35,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake",
+            "price": "46,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake toro",
+            "price": "52,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shime saba",
+            "price": "41,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Abogabo",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Maguro",
+            "price": "41,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi",
+            "price": "60,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi tempura",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kani",
+            "price": "41,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hokkigai",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tamago",
+            "price": "27,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Aburi mentai set",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tobiko",
+            "price": "85,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ikura",
+            "price": "85,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ebi mayo",
+            "price": "41,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Gunkan set",
+            "price": "250,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Black ebiko",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tamago",
+            "price": "41,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Kani",
+            "price": "46,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Takuan",
+            "price": "46,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sake",
+            "price": "60,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tekka",
+            "price": "60,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Abogado",
+            "price": "46,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake capaccio",
+            "price": "217,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Maguro tataki",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sakana carpaccio",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Maguro carpaccio",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Izumi sushi set",
+            "price": "228,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Umi sushi set",
+            "price": "404,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yasai sushi set",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kawa sushi set",
+            "price": "316,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake magura",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Unagi",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi bempura",
+            "price": "63,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tori teriyaki spaghetti",
+            "price": "151,800(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Chasu ramen",
+            "price": "157,800(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Ebi Tembura Udon",
+            "price": "173,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ebi tempura Cha Soba",
+            "price": "173,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Buta yaki udon",
+            "price": "140,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tori Teri cha soba sarada",
+            "price": "162,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tonkatsu Udon",
+            "price": "151,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gyu teriyaki spaghetti",
+            "price": "217,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kaki cha soba",
+            "price": "206,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Seafood udon",
+            "price": "173,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hiyashi Chukka",
+            "price": "140,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cha Soba",
+            "price": "107,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hamaguri spaghetti",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sakana yaki cha soba sarada",
+            "price": "217,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kisu cha soba",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tomyum ramen",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Seafood yaki soba",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Buta yaki soba",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kamo yaki cha soba",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake teri cha soba",
+            "price": "217,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Seafood Yaki udon",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kimchi Ramen",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tom Yum Ramen",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Special Seafood Spaghetti",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Spicy Salmon Yaki Meshi",
+            "price": "129,800(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Katsudon",
+            "price": "140,800(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Oyakodon",
+            "price": "140,800(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Chicken Omurice",
+            "price": "107,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Kimchi Yaki Meshi",
+            "price": "107,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Unadon",
+            "price": "261,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sake ikura don",
+            "price": "217,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Gyu Curry Don",
+            "price": "228,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Seafood cury don",
+            "price": "217,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Katsu Curry Don",
+            "price": "195,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tendon",
+            "price": "151,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tamago mentai don",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake maguro don",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Misaki don",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kaki don",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gyu don",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Seafood yaki meshi",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaki Meshi",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vegetable Omurice",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Buta Shogayaki Don",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nikutofu Toji",
+            "price": "140,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Katsu toji",
+            "price": "140,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Seafood Toji",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kaki tofu toji",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Saba teriyaki",
+            "price": "140,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hotate mentai yaki",
+            "price": "195,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Kaki batayaki",
+            "price": "162,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Shimagatsuo hoiru yaki",
+            "price": "195,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sake kama shio yaki",
+            "price": "140,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Igai creamy yaki",
+            "price": "151,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sake teriyaki yaki 100g",
+            "price": "217,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tori tepan",
+            "price": "140,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Shimagatsuo shio yaki",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kurodai shio yaki",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kajiki batayaki",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kae shio yaki",
+            "price": "195,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sanma shio yaki",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hokke yaki",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake cheese",
+            "price": "250,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ika teriyaki yaki",
+            "price": "195,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sanma mentai yaki",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hotate tare yaki",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Camasu mentai yaki",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ika niniku yaki",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shishamo shio yaki",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kamasu shio yaki",
+            "price": "118,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake harasu shio yaki",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake mentai yaki 100gr",
+            "price": "250,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sugi teriyaki yaki",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Giant prawn mentai yaki",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Giant prawn yaki",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Giant prawn tare yaki",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gyu karubi teppan 150gr",
+            "price": "239,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tori tebasaki yaki",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tsukune yaki",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Buta shoga yaki",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kaki creamy Yaki",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kaki furai",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Unagi Kabayaki",
+            "price": "250,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kamo Yaki",
+            "price": "162,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tori teriyaki bento",
+            "price": "162,800(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Salmon teriyaki bento A",
+            "price": "206,800(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Gyu teriyaki bento B",
+            "price": "272,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Gyu teriyaki bento A",
+            "price": "250,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sugi teriyaki bento A",
+            "price": "184,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Salmon Teriyaki",
+            "price": "206,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Kajiki yaki bento A",
+            "price": "162,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Salmon teriyaki bento B",
+            "price": "228,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Salmon teriyaki bento C",
+            "price": "250,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Unagi kabayaki bento A",
+            "price": "272,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Unagi kabayaki bento C",
+            "price": "316,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sugi teriyaki bento C",
+            "price": "228,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kajiki yaki bento B",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kajiki yaki bento C",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gyu teriyaki bento C",
+            "price": "294,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Unagi kabayaki bento B",
+            "price": "294,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sugi teriyaki bento B",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kinako tofu bento A",
+            "price": "151,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kinako tofu bento B",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kinoko Tofu Bento C",
+            "price": "195,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Potato salad",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Prawn tempura",
+            "price": "206,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Add-on A",
+            "price": "27,500(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Add-on C",
+            "price": "60,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Add-on B",
+            "price": "49,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kinako Warabi Mochi",
+            "price": "90,200(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Matcha Warabi Mochi",
+            "price": "101,200(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ibaraki imo & soft cream",
+            "price": "118,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha jelly zenzai",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Houjicha jelly warabi mochi",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Kuzuneri",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Anmitsu monaka set",
+            "price": "140,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Jelly Take",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Berries Parfait",
+            "price": "151,800(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Matcha Parfait",
+            "price": "162,800(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Parfait",
+            "price": "184,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Houjicha Parfait",
+            "price": "151,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Yuzu Parfait",
+            "price": "173,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chocolate Parfait",
+            "price": "173,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "My Waffle",
+            "price": "107,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Double Mixed Berries Waffle",
+            "price": "151,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Red Bean Waffle",
+            "price": "118,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mixed Fruits Waffle",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Double",
+            "price": "71,500(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Triple",
+            "price": "101,200(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Monaka Gelato",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Single",
+            "price": "38,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ốc quế",
+            "price": "5,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hokkaido Milk Crepes",
+            "price": "85,800(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Fresh Tiramisu",
+            "price": "107,800(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Matcha Roll Cake",
+            "price": "74,800(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Panna Cotta",
+            "price": "63,800(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Matcha Mousse",
+            "price": "85,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Japanese Custard Purin",
+            "price": "63,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Matcha yuza cake",
+            "price": "85,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Dorayaki",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Fresh matcha tiramisu",
+            "price": "118,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Morico cheese cake",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pink velvet",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Molten matcha chocolate cake",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dulexe chocolate orange",
+            "price": "129,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Opera",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Sesame Granita",
+            "price": "85,800(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Matcha Shake",
+            "price": "96,800(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Iced Matcha",
+            "price": "68,200(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Matcha Red Bean",
+            "price": "85,800(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Iced Matcha Shiratama",
+            "price": "85,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Iced Matcha Kanten",
+            "price": "85,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Iced Matcha Latte",
+            "price": "68,200(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hot Matcha Latte",
+            "price": "68,200(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha Frappe",
+            "price": "96,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha Float",
+            "price": "85,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Iced Houjicha Shiratama",
+            "price": "96,800(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Iced Houjicha Latte",
+            "price": "79,200(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Houjicha Float",
+            "price": "96,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Houjicha Shake",
+            "price": "107,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hot Houjicha Latte",
+            "price": "79,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cappuccino",
+            "price": "60,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Americano",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso machiato",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe latte",
+            "price": "60,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe mocha",
+            "price": "60,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vietnamese coffee",
+            "price": "52,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso frappe",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Antioxidant",
+            "price": "101,200(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Green Booster",
+            "price": "101,200(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Immunity Booster",
+            "price": "101,200(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Green Detox",
+            "price": "101,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Daily Vitamin",
+            "price": "101,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Greek Yogurt & Homemade Granola",
+            "price": "118,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Healthy Lifestyle Set",
+            "price": "184,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Passionfruit",
+            "price": "162,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mixed Berries",
+            "price": "184,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mixed Fruits",
+            "price": "173,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Yuzu",
+            "price": "96,800(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Freshly Squeezed Orange Juice",
+            "price": "96,800(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Apple houjicha",
+            "price": "85,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Iced lemon tea",
+            "price": "63,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Lemon snow",
+            "price": "63,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Berries snow",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango Lassi",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mixed Berries Healthy Plus",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango milk",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Raspberry fresca",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango fresca",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ginger ale",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Orange fresca",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strawberry milk",
+            "price": "74,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strawberry orange juice",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Jelly Matcha",
+            "price": "16,500(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Bánh waffle",
+            "price": "11,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Jelly Houjicha",
+            "price": "16,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mật đen nhật kuromitsu",
+            "price": "16,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Whipping cream",
+            "price": "11,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trái cây tươi",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gạo nếp Shiratama",
+            "price": "11,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Các loại hạt granola",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sương sa Nhật Kanten",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu đỏ Nhật Hokkaido",
+            "price": "16,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Berries Topping",
+            "price": "38,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sốt homemade",
+            "price": "11,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mạt ong nhãn",
+            "price": "16,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Macaron collection",
+            "price": "187,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mini Bar Collection",
+            "price": "187,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Pistachio Rose",
+            "price": "154,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Berries Cream",
+            "price": "154,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coffee Pearl",
+            "price": "154,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Crunch",
+            "price": "154,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Japanese Shizuoka Tea",
+            "price": "85,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "TWG Tea",
+            "price": "96,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pepsi",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pepsi light",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Alba mineral water",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sapporp beer",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Mio Phan",
+            "link": "https://www.foody.vn/thanh-vien/trucmai1107",
+            "score": "8.6",
+            "comment": "Hôm đó mình đi tập huấn cho buổi chạy gây quỹ bbgv bên Quận 7 nên sẵn lúc có voucher tặng hộp gỗ fress tiramisu free nên mình vào trong Crescent Mall ăn luôn sợ hết hạn 😂Không gian ở đây cũng khá rộng rãi, thoáng mát như các chi nhánh khác rất thích hợp cho những bạn nào muốn tìm nơi để vừa ăn uống vừa thư giãn luôn rất hợp 👍Tiramisu ở đây phải nói siêu ngon luôn ấy, mình cứ tưởng morico chỉ thiên về ngon mấy món matcha thôi chứ ai ngờ múc muỗng đầu tiên là yêu luôn ấy 😍😍 Lớp socola giòn, thơm, ngọt vừa phải; lớp bánh bên dưới thơm mùi cà phê cực, ăn chung maraphon thôi thì chết đứ đừ với ẻm rồi đóMình từng ăn matcha tiramisu rồi nhưng giờ ăn hộp này lại thấy ngon và vừa miệng hơn ấy. Tuỳ bạn nào thích ngọt ngọt thì nên gọi fress tiramisu còn bạn nào thích nhạt, đắng của matcha thì kêu matcha tiramisu hen ☺️ Cái nào cũng ngon hết áNhân viên thì cũng siêu yêu, dù dùng voucher ăn ké nhưng người ta cũng không khó chịu ❤️ Chắc tui phải ghé lại nhiều rồi quá huhu"
+        },
+        {
+            "user": "Giao Le",
+            "link": "https://www.foody.vn/thanh-vien/agiao_iu",
+            "score": "7.0",
+            "comment": "Thấy trên fanpage có video giới thiệu món ăn quay tại chi nhánh này đẹp quá sẵn có dịp dạo chơi hồ bán nguyệt rồi vào tttm ghé đây thưởng thức luôn thể. Quán nằm trên lầu 2, hướng ra khu vực hồ bán nguyệt nhé (tttm khá lớn). Mình đi tầm chiều nên còn nắng gắt, để ý thấy quán chu đáo kéo màn tre cho khách đỡ bị hắt nắng, ở ngoài nóng nực bao nhiêu thì bước vào quán mát rượi bấy nhiêu, vừa ngồi xuống là có nhân viên mời nước uống liền. Menu nổi bật với nhiều món tráng miệng đặc sắc, mình order một phần matcha tiramisu, trong lúc ngồi đợi món lên sẵn lướt mạng thấy wifi chạy mạnh nè, món tráng miệng của mình hơi nhỏ tí, đựng trong một chiếc hộp gỗ xinh xinh, lớp bên trên là chocolate cứng, dùng muỗng gõ nhẹ lớp chocolate vỡ ra thì thấy ngay lớp tiramisu mịn như sữa bên dưới, vị không ngọt gắt, khá dễ ăn, dùng hết hũ vẫn còn thòm thèm, hộp đựng khăn giấy cũng dễ thương không kém. Nhân viên: nói chuyện nhỏ nhẹ, thân thiện, cám ơn khi khách bước ra."
+        },
+        {
+            "user": "Vivian 89",
+            "link": "https://www.foody.vn/thanh-vien/vanvan8899",
+            "score": "9.2",
+            "comment": "Hôm nay thử món yogurt dâu này tại Morico, cảm nhận của mình là ngon lắm ạ! Vừa có vị chua lẫn ngọt giữa yogurt và dâu tạo cảm giác thanh mát, ngọt nhẹ trong miệng. Đây chắc chắn sẽ là món được ưa thích trong khí trời oi bức này!"
+        },
+        {
+            "user": "Trâm Bích",
+            "link": "https://www.foody.vn/thanh-vien/tram.to",
+            "score": "9.4",
+            "comment": "Quán này mình thấy review foody khen nhiều quá với lại được tặng voucher giảm giá nên quyết định ghé Crescent Mall ăn thử. Tại đây có rất nhiều món, menu phong phú đa dạng nhưng do mình đã ăn tối trước đó nên chỉ ăn tráng miệng thôi Đúng như mọi người đã review trước đó, desert quả thật rất ngon. Mình order Matcha Kinako Warabi Mochi và bánh wraffle. Nhìn hình thì cứ nghĩ nó nhỏ nhưng khi mang ra thì cả 1 phần to ú ụ, này mình nghĩ 2 - 3 người ăn mới hết. Món này như bingsu nhưng rất thơm trà xanh, đặc trưng của quán ^^ có thêm kem tươi, đậu đỏ và bánh mochi. 3 thứ hòa quyện, ăn cùng bánh wraffle là tuyệt vời luôn. Nghe nói còn món Fresh Tiramisu rất ngon nhưng no quá nên đành hẹn dịp khác, nhất định sẽ ăn thửỞ đây không khí rất thoải mái, không ồn ào xô bồ, vừa ăn uống vừa trò chuyện phải nói là trên cả tuyệt vời, nhân viên thì nhã nhặn lịch sự, phục vụ cũng nhanh."
+        },
+        {
+            "user": "Annie  Lê",
+            "link": "https://www.foody.vn/thanh-vien/letranthaiduyen227",
+            "score": "8.0",
+            "comment": "Art in a cup of coffeeNice view, great service, good coffee."
+        }
+    ]
+}

@@ -1,0 +1,1156 @@
+{
+    "name": "Say Coffee 24H - Sư Vạn Hạnh",
+    "link": "https://www.foody.vn/ho-chi-minh/say-coffee",
+    "address": "756 Sư Vạn Hạnh,  Quận 10, TP. HCM",
+    "open_time": "24/24  00:00 - 23:59",
+    "price_range": "10.000đ - 35.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/say-coffee?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "526"
+    },
+    "foods": [
+        {
+            "name": "Room Booking 500",
+            "price": "500,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Váng Sữa Phô Mai (M)",
+            "price": "32,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Trà Váng Sữa Phô Mai (L)",
+            "price": "38,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Phô Mai Đá Xay (Raspberry/Blueberry/Kiwi/Passion Fruit/ Chocolate/ Caramel) (M)",
+            "price": "39,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Matcha Đá Xay Phô Mai (L)",
+            "price": "52,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà Đào Phô Mai (L)",
+            "price": "45,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà Hoa Hồng Váng Sữa Phô Mai (Topping) (M)",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Đào Đá Xay Phô Mai (M)",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà Oolong Phô Mai (M)",
+            "price": "42,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Matcha Đá Xay Phô Mai (M)",
+            "price": "42,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Đào Đá Xay Phô Mai (L)",
+            "price": "48,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà Matcha Phô Mai (L)",
+            "price": "50,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà Matcha Phô Mai (M)",
+            "price": "40,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà Đào Phô Mai (M)",
+            "price": "38,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Phô Mai Đá Xay (Raspberry/Blueberry/Kiwi/Passion Fruit/ Chocolate/ Caramel) (L)",
+            "price": "49,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà Alisan Phô Mai (L)",
+            "price": "52,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Đen Phô Mai (M)",
+            "price": "37,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Đen Phô Mai (L)",
+            "price": "44,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Hoa Hồng Váng Sữa Phô Mai (L)",
+            "price": "42,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Oolong Phô Mai (L)",
+            "price": "52,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Hoa Hồng Váng Sữa Phô Mai (M)",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Hồng Trà Phô Mai (L)",
+            "price": "43,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng Trà Phô Mai (M)",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Xanh/Lục Trà Phô Mai (M)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Alisan Phô Mai (M)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh/Lục Trà Phô Mai (L)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Sữa Hongkong (M)",
+            "price": "30,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Trà Sữa Hongkong (L)",
+            "price": "36,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà Oolong Váng Sữa (L)",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà Sữa Tiramisu (M)",
+            "price": "32,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà Oolong Váng Sữa (M)",
+            "price": "34,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Lục Trà/ Hồng Trà Váng Sữa (L)",
+            "price": "36,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Lục Trà/ Hồng Trà Váng Sữa (M)",
+            "price": "30,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Sữa Tiramisu (L)",
+            "price": "39,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Alisan Váng Sữa (L)",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Oolong (L)",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Oolong (M)",
+            "price": "29,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Lục Trà/ Hồng Trà (M)",
+            "price": "24,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Alisan Váng Sữa (M)",
+            "price": "34,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Alisan (L)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Hoàng Kim (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Hoàng Kim (M)",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà/ Hồng Trà (L)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Alisan (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Vải (M)",
+            "price": "29,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Trà Đen Macchiato (L)",
+            "price": "42,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Trà Đào Sả (L)",
+            "price": "38,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà Đen Macchiato (M)",
+            "price": "36,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà Oolong Macchiato (L)",
+            "price": "49,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà Đào (M)",
+            "price": "28,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà Oolong Macchiato (M)",
+            "price": "39,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Vải (L)",
+            "price": "36,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Đào (L)",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Alisan Macchiato (L)",
+            "price": "49,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Đào Macchiato (M)",
+            "price": "36,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Đào Sả (M)",
+            "price": "29,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Alisan Macchiato (M)",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng Trà Macchiato (L)",
+            "price": "41,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Dâu (L)",
+            "price": "36,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Đào Sữa (M)",
+            "price": "29,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Xanh/Lục Trà Macchiato (L)",
+            "price": "41,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Xanh/Lục Trà Macchiato (M)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Đào Macchiato (L)",
+            "price": "42,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Bí Đao (L)",
+            "price": "36,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Dâu (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hồng Trà Macchiato (M)",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Bí Đao (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Đào Sữa (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Macchiato Coffee (Nóng/Đá) (L)",
+            "price": "39,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Macchiato Coffee (Nóng/Đá) (M)",
+            "price": "32,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Coconut Coffee (Cafe Cốt Dừa) (L)",
+            "price": "45,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Coconut Coffee (Cafe Cốt Dừa) (M)",
+            "price": "35,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cappuccino (Nóng/Đá/Đá Xay) (M)",
+            "price": "34,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Flavored Coffee Iced Blend (Caramel/Hazelnut/Vanilla) (M)",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Latte (Nóng/Đá/Đá Xay) (L)",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Latte (Nóng/Đá/Đá Xay) (M)",
+            "price": "34,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cappuccino (Nóng/Đá/Đá Xay) (L)",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Espresso Double Shot (Nóng/Đá/Đá Xay)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Flavored Coffee Iced Blend (Caramel/Hazelnut/Vanilla) (L)",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso (Nóng/Đá/Đá Xay)",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk Shake Khoai Môn (M)",
+            "price": "29,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Hazelnut Blend Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Milk Shake Dưa Lưới (L)",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cookie Blend Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Khoai Môn (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Bạc Hà (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Bạc Hà (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Dưa Lưới (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Kiwi (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk Shake Dâu (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hazelnut Blend Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Minty Choco Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Minty Choco Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coco Vanilla Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coco Vanilla Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Choco Loco Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Choco Loco Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Caramel Blend Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Caramel Blend Smoothie (M)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cookie Blend Smoothie (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk Shake Đào (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk Shake Đào (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk Shake Kiwi (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk Shake Dâu (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate Smoothie (L)",
+            "price": "46,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mojito Chanh Dây (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito Vải (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito Vải (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito Dâu (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kiwi Liki (L)",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Dessert Freeze (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dessert Freeze (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate Smoothie (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito Chanh Dây (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito Dâu (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito (L)",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito (M)",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Twins Lady (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Twins Lady (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Deep Blue (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Deep Blue (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Blue Bubble (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Blue Bubble (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kiwi Liki (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate Freeze (L)",
+            "price": "46,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate Freeze (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hot Chocolate (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hot Chocolate (M)",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Iced Chocolate (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Iced Chocolate (M)",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Kiwi (M)",
+            "price": "38,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Yogurt Dâu (M)",
+            "price": "38,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sinh Tố Dâu (M)",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt Trái Cây (L)",
+            "price": "49,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nước Ép Thơm (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sinh Tố Kiwi (L)",
+            "price": "48,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước Ép Chanh Dây (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước Ép Cam (L)",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước Ép Cam (M)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt Trái Cây (M)",
+            "price": "42,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước Ép Thơm (L)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Xoài (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Xoài (M)",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Dâu (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước Ép Cà Rốt (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước Ép Cà Rốt (M)",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước Ép Chanh Dây (L)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước Ép Cam Sữa, Mật Ong (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước Ép Cam Sữa, Mật Ong (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Xoài (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Xoài (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Kiwi (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Kiwi (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Dâu (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Thơm (L)",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Thơm (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Iced Yogurt (Yogurt Đá) (L)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Iced Yogurt (Yogurt Đá) (M)",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc Xỉu (L)",
+            "price": "30,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "SAY Special Milk Blend (M)",
+            "price": "26,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Say Regular Blend (M)",
+            "price": "19,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "SAY Regular Milk Blend (L)",
+            "price": "27,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "SAY Premium Blend (L)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "SAY Regular Milk Blend (M)",
+            "price": "21,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Say Special Blend (M)",
+            "price": "24,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "SAY Premium Milk Blend (M)",
+            "price": "31,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "SAY Premium Milk Blend (L)",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "SAY Special Milk Blend (L)",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "SAY Special Blend (L)",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "SAY Regular Blend (L)",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Say Premium Blend (M)",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc xỉu (M)",
+            "price": "24,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trân Châu Hoàng Kim",
+            "price": "8,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Pudding Phô Mai",
+            "price": "8,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Trân Châu Đen",
+            "price": "6,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trân Châu Matcha",
+            "price": "8,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Ngọc Trai",
+            "price": "10,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trân Châu Đào",
+            "price": "8,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trân Châu Hoa Hồng",
+            "price": "8,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà Sữa (M)",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trân Châu Sợi",
+            "price": "6,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cheese Milkfoam",
+            "price": "14,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cheesy Salted Egg Toast",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Thạch Matcha",
+            "price": "8,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Thạch Nha Đam",
+            "price": "6,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Choco Honey Cream Toast",
+            "price": "43,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Đào/Thạch Đào",
+            "price": "8,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Thạch Thủy Tinh",
+            "price": "6,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Sữa (L)",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Pudding Matcha",
+            "price": "8,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Thạch Trái Cây",
+            "price": "6,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Rose Cheese Milkfoam",
+            "price": "14,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Macchiato Milkfoam",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Siro Trái Cây",
+            "price": "6,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam (không đá) (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Espresso Blend (M)",
+            "price": "42,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Honey Matcha (M)",
+            "price": "32,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Choco Matcha Smoothie (L)",
+            "price": "44,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Choco Matcha Milk Tea (M)",
+            "price": "34,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha Smoothie (L)",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha (M)",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Espresso Blend (L)",
+            "price": "52,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Black Tea Latte (L)",
+            "price": "44,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Honey Matcha (L)",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogen Matcha (L)",
+            "price": "46,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogen Matcha (M)",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Black Tea Latte (M)",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Choco Matcha Milk Tea (L)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Choco Matcha Smoothie (M)",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango Matcha (L)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango Matcha (M)",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bana Matcha (L)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bana Matcha (M)",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha ( L)",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Smoothie (M)",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Vy Ha",
+            "link": "https://www.foody.vn/thanh-vien/vyha03051999",
+            "score": "8.6",
+            "comment": "Trà ngon, ván sữa béo béo thơm ngậy"
+        },
+        {
+            "user": "Quỳnh Hương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/liznguyen1810",
+            "score": 0,
+            "comment": "Bữa rảnh rỗi không biết nên lạc trôi về nơi nào nên mình ghé Say uống thử. Nghe nói nhiều về Say lắm, có người khen, có người chê và theo mình cảm nhận là nên chê chứ không nên khen. Mình đến lúc đó là 9h hơn gần 10h và lúc đó Say đang có chương trình mua 1 tặng 1 từ 8h tới 10h. Trước mình có 1 nhóm đông người đứng đó hoài vẫn chưa biết gọi món gì và mình phải đứng chờ. Lúc mình gọi món là 9h58p và khi in bill ra vẫn là 9h58p nhưng nhân viên lại bảo mình không được tặng nữa. Mình bực về cách hành xử của nhân viên quán. Ly trong hình là trà dâu. Thật ra chỉ là trà đường cho thêm mấy miếng dâu vậy mà gần 40k. Giá vậy là không xứng đáng. Chưa kể là nhân viên pha trà khuấy đường còn chưa tan hết. Mình uống mà thấy lợn cợn đường. Rất thất vọng về quán."
+        },
+        {
+            "user": "Lâm Vĩnh Huy  ❤",
+            "link": "https://www.foody.vn/thanh-vien/vinhhuy.1701",
+            "score": "7.6",
+            "comment": "•• Vị trí: Sư Vạn Hạnh - đường này thì thân thuộc với sinh viên rồi. Đoạn thì hàng quán ăn vặt, đoạn thì toàn coffee, trà sữa... 756 thì gần khúc 3 tháng 2 hơn nhé!•• Chất lượng & Giá cả: - Mình với bạn gọi 1 ly Phomai đá xay vị blueberry 49k và 1 trà đào 35k. Cả 2 đều size L luôn. Có điều mình thấy ly size L như vậy thì hơi nhỏ hơn bình thường 1 xíu 😂 - Phomai đá xay ngon, không ngọt gắt mà vị vừa với khẩu vị của mình, xay với đá thì hơi nhuyễn. Vị blueberry thì không quá chua, hòa cùng nhau không bị át vị blueberry. - Trà đào của bạn mình thì nó bảo ngọt vừa, miếng đào to, giòn. - À, mình có gọi bánh Chocolate Mousses, ăn cũng khá ổn 29k/1phần.•• Dịch vụ: Order nước làm có khá nhanh. Có giữ xe ngay cạnh quán.•• Không gian: quán trang trí khá đẹp mắt. Lúc đầu cứ tưởng nhỏ ít chỗ ngồi, ai ngờ còn phía bên kia nữa :)) nên tính ra cũng nhiều đó. 😂😂"
+        },
+        {
+            "user": "hoang yen",
+            "link": "https://www.foody.vn/thanh-vien/hoangyen_nguyenvo",
+            "score": "7.0",
+            "comment": "Rảnh rỗi 2 vc đi uống cafe, ko biết đi đâu tự nhiên nhớ đến Say Coffee nên đi thử.Quán cũng khá rộng, 2 căn nhà, 1 căn giữ xe, mình ngồi trên lầu cũng khá ấm cúng.Tụi mình order Trà sữa HongKong và trà đào. Trà sữa HongKong uống bình thường ko ngon bằng của Đen Đá đã từng ấn tượng, trà đào ngon miếng đào giòn."
+        },
+        {
+            "user": "Mèo  Mướp",
+            "link": "https://www.foody.vn/thanh-vien/nhozsukem",
+            "score": "8.2",
+            "comment": "Chs dạo này up toàn đồ ngọt 😂😂Trong hình là phô mai đá xay (49k) vị  blueberry vs vị kiwi của Say coffee. Mình thích ly blueberry, có vị sốt chua chua, ngọt ngọt ngon hơn so vs kiwi. Ly kiwi thì do cho hơi ít sốt nên vị nó hơi nhạt. Quán này thì quá nổi các dòng nước uống liên quan tới phô mai vs giá cả khá bình dân. Quán có 2 chi nhánh : điện biên phủ vs sư vạn hạnh. Bên sư vạn hạnh có không gian trên lầu rất rộng, nhiều bạn tưởng quán chỉ có mỗi không gian ở dưới nên chê quán nhỏ. Wifi quán cũng mạnh, ổ cắm thuận tiện nên bạn nào cần nơi làm việc thì cứ ra đây cắm lap cả ngày. Giá tb từ 24k - 49k."
+        }
+    ]
+}

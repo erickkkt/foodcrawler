@@ -1,0 +1,601 @@
+{
+    "name": "Sukiya - Cơm Bò Hầm & Mì Ramen - AEON Mall Bình Tân",
+    "link": "https://www.foody.vn/ho-chi-minh/sukiya-com-bo-ham-mi-ramen",
+    "address": "Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "15.000đ - 99.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sukiya?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "69"
+    },
+    "foods": [
+        {
+            "name": "Cơm bò trứng hồng đào",
+            "price": "41,000(đ)",
+            "total_orders": "843"
+        },
+        {
+            "name": "Cơm bò hầm",
+            "price": "35,000(đ)",
+            "total_orders": "359"
+        },
+        {
+            "name": "Cơm bò phô mai",
+            "price": "51,000(đ)",
+            "total_orders": "347"
+        },
+        {
+            "name": "Cơm thịt heo nướng & trứng hồng đào",
+            "price": "54,000(đ)",
+            "total_orders": "302"
+        },
+        {
+            "name": "Cơm gà nướng sốt teriyaki",
+            "price": "54,000(đ)",
+            "total_orders": "266"
+        },
+        {
+            "name": "Cơm bò kim chi",
+            "price": "45,000(đ)",
+            "total_orders": "185"
+        },
+        {
+            "name": "Cơm cà ri bò",
+            "price": "68,000(đ)",
+            "total_orders": "164"
+        },
+        {
+            "name": "Katsudon",
+            "price": "48,000(đ)",
+            "total_orders": "144"
+        },
+        {
+            "name": "Cơm thịt heo nướng",
+            "price": "48,000(đ)",
+            "total_orders": "110"
+        },
+        {
+            "name": "Cơm cà ri trứng hồng đào",
+            "price": "54,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Cơm bò hành",
+            "price": "45,000(đ)",
+            "total_orders": "71"
+        },
+        {
+            "name": "Cơm sushi cá hồi",
+            "price": "67,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Cơm cà ri",
+            "price": "48,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Cơm bò phong cách bánh xèo Nhật Bản",
+            "price": "52,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Mì ramen Tokyo thịt xá xíu",
+            "price": "72,000(đ)",
+            "total_orders": "193"
+        },
+        {
+            "name": "Mì ramen Tokyo",
+            "price": "53,000(đ)",
+            "total_orders": "115"
+        },
+        {
+            "name": "Mì ramen súp xương heo thịt xá xíu",
+            "price": "72,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Mì tantan súp tương",
+            "price": "67,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Mì ramen súp xương heo",
+            "price": "53,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Mì tantan súp xương heo",
+            "price": "67,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Combo cơm bò hầm",
+            "price": "35,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Combo cơm thịt heo nướng & trứng hồng đào",
+            "price": "54,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Combo cơm gà nướng sốt teriyaki",
+            "price": "54,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Combo cơm thịt heo chiên giòn",
+            "price": "48,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Combo cơm bò kim chi",
+            "price": "45,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Combo mì ramen Tokyo thịt xá xíu",
+            "price": "72,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Combo cơm cà ri trứng hồng đào",
+            "price": "54,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Combo cơm sushi cá hồi",
+            "price": "72,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Combo cơm thịt heo nướng",
+            "price": "48,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Combo cơm cà ri bò",
+            "price": "68,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Combo mì ramen súp xương heo thịt xá xíu",
+            "price": "72,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Combo cơm bò phong cách bánh xèo Nhật Bản",
+            "price": "52,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Combo cơm cà ri",
+            "price": "48,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Combo mì ramen Tokyo",
+            "price": "53,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Combo mì tantan súp tương",
+            "price": "67,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Combo mì tantan súp xương heo",
+            "price": "67,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Combo mì ramen súp xương heo",
+            "price": "53,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Zen cơm bò & mì ramen tokyo",
+            "price": "82,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "Zen cơm bò & mì ramen súp xương heo",
+            "price": "82,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Zen cơm thịt heo nướng & cà ri mini",
+            "price": "79,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Zen cơm bò hầm",
+            "price": "68,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Zen cơm bò hầm & cà ri mini",
+            "price": "71,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Zen gà nướng sốt teriyaki",
+            "price": "89,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Zen thịt heo chiên giòn",
+            "price": "75,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Zen cơm sushi cá hồi",
+            "price": "94,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Zen mì ramen tokyo & cà ri mini",
+            "price": "82,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Zen thịt heo nướng",
+            "price": "75,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Zen mì ramen súp xương heo & cà ri mini",
+            "price": "82,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Set cơm bò hầm cho trẻ em",
+            "price": "39,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Set cơm gà rán cho trẻ em",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Súp miso",
+            "price": "8,000(đ)",
+            "total_orders": "491"
+        },
+        {
+            "name": "Trứng hồng đào",
+            "price": "6,000(đ)",
+            "total_orders": "264"
+        },
+        {
+            "name": "Gà rán (3 miếng)",
+            "price": "28,000(đ)",
+            "total_orders": "122"
+        },
+        {
+            "name": "Trứng hấp kiểu Nhật",
+            "price": "24,000(đ)",
+            "total_orders": "117"
+        },
+        {
+            "name": "Dĩa thịt bò hầm",
+            "price": "38,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Kim chi",
+            "price": "10,000(đ)",
+            "total_orders": "94"
+        },
+        {
+            "name": "Gyoza (3 miếng)",
+            "price": "28,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Gyoza (5 miếng)",
+            "price": "40,000(đ)",
+            "total_orders": "79"
+        },
+        {
+            "name": "Phô mai",
+            "price": "16,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Gà rán (5 miếng)",
+            "price": "40,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Trứng mì ramen",
+            "price": "6,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Rau muống",
+            "price": "20,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Rau",
+            "price": "20,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Negitana (hành trứng)",
+            "price": "10,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Thịt xá xíu",
+            "price": "20,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Cơm",
+            "price": "10,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Topping Bánh xèo Nhật",
+            "price": "17,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Dưa muối",
+            "price": "8,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Thịt heo nướng",
+            "price": "47,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Thịt gà nướng",
+            "price": "56,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Hành lá",
+            "price": "8,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Hồng trà sữa trân châu",
+            "price": "33,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Hojicha latte",
+            "price": "27,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Hồng trà sữa",
+            "price": "27,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Houjicha latte đậu đỏ",
+            "price": "33,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Genmaicha latte",
+            "price": "27,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Socola",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng trà chanh mật ong",
+            "price": "24,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Hồng trà đào",
+            "price": "24,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Hồng trà dâu",
+            "price": "24,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Hồng trà vải",
+            "price": "24,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Hồng trà chanh dây",
+            "price": "24,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hojicha đào",
+            "price": "24,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Hojicha vải",
+            "price": "24,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Hojicha chanh dây",
+            "price": "24,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hojicha dâu",
+            "price": "24,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Genmaicha táo xanh",
+            "price": "24,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Genmaicha đào",
+            "price": "24,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Genmaicha dâu",
+            "price": "24,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sencha chanh mật ong",
+            "price": "21,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sencha vải",
+            "price": "21,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sencha chanh dây",
+            "price": "21,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sencha táo xanh",
+            "price": "21,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Soda táo xanh",
+            "price": "27,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Soda chanh dây",
+            "price": "27,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Soda dâu",
+            "price": "27,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Soda vải",
+            "price": "27,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Matcha latte đá",
+            "price": "33,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Matcha bánh flan",
+            "price": "47,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Matcha latte & kem tươi",
+            "price": "37,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Matcha latte đậu đỏ",
+            "price": "37,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Matcha latte nóng",
+            "price": "37,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Sencha đá viên",
+            "price": "19,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Matcha đá viên",
+            "price": "27,000(đ)",
+            "total_orders": "7"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ngọc Hân",
+            "link": "https://www.foody.vn/thanh-vien/hanhuynh76411",
+            "score": "7.8",
+            "comment": "Đây là lần thứ 2 mình ăn ở chỗ này. 1 lần ăn tại quán, còn lân này order bên dlvr. Đóng gói cẩn thận nhưng ma hình như set này bị thiếu súp miso rồi. Mình order 1 set cơm bò hầm size s ( mình đổi lên size M) vs cari mini, mình mua thêm phomai nữa và 1 ly matcha bánh plan. Bò hầm thì lần trước mình ăn rồi rất ngon nên hôm nay order lại. Còn riêng cari mình thấy rất tệ, ít thịt vị cari k ngon. Matcha thì rất ok"
+        },
+        {
+            "user": "Thanh Xuân",
+            "link": "https://www.foody.vn/thanh-vien/thanhxun1108",
+            "score": "7.0",
+            "comment": "💯💯💯✔ Không gian đẹp , thoáng mát mà hình ảnh trên tường lại dễ thương quá xá nữa .✔Đồ ăn thì ngon ,rất đẹp mắt quan trọng là vị rất vừa ăn luôn điển hình là tondon và katsudon , thịt chiên vừa tới lại còn kết hợp với trứg và nướt sốt riêng nữa giòn mà thơm lắm luôn . ✔ đặc biệt là trà sữa ở đây rất ngon trân châu không mềm quá cũng không cứng quá ăn vừa phải mà nước lại ngon nữa nhất là black tea với matcha . Đã thử black tea rồi vị rất ưng ý còn matcha thì mình thấy kết hợp với bánh plan là ngon nhất Nhân viên dễ thương nhiệt tình dù bị hỏi nhiều cũng không thấy khó chịu . Đồ ăn mang ra rất nhanh . Tất nhiên là sẽ quay lại dài dài rồi 😚😚😚"
+        },
+        {
+            "user": "Ryan Tran",
+            "link": "https://www.foody.vn/thanh-vien/tuan.tran7311",
+            "score": "8.4",
+            "comment": "Được bữa deli giảm 30% nên công ty rủ order cơm bò sukiya về ăn, cơm này phải nói là siêu ngon luôn. Cơm mềm, bò mềm, trứng lòng đào béo ngậy nha. Order qua deli thường lâu lắm nhưng hnay nhanh thần kỳ luôn. Nói chung hài lòng cực"
+        },
+        {
+            "user": "Thiên Yết",
+            "link": "https://www.foody.vn/thanh-vien/thanhxuannancy",
+            "score": "8.2",
+            "comment": "Katsudon kết hợp thịt heo chiên, trứng và hành tây nhìn đẹp mắt mà ăn cũng ngon tuyệt cú mèo luôn nha :)\rSukicha vừa có menu mới nên mình gọi uống thử. Đắn đo lắm mới chọn được cocoa latte with pearl vì menu quá nhiều món 😂\rNhân viên thì nhiệt tình tư vấn cũng như phục vụ, có a quản lý ốm ốm dễ thương.\rP/s: order món cho mình là 1 bạn ốm ốm hay cười, nước thì là 2 bạn tròn tròn dễ thương :) đi lần nào cũng gặp những nhân viên dễ thương nên chắc chắn sẽ quay lại ủng hộ dài dài"
+        },
+        {
+            "user": "Ami Roxanne",
+            "link": "https://www.foody.vn/thanh-vien/ami.roxanne",
+            "score": "7.4",
+            "comment": "Quán nằm trong Aeon Mall. Nhân viên phục vụ khá ổn, để khách có thời gian xem menu gọi món.Sukiya có menu khá đa dạng, nó như kiểu của Lotteria hay KFC, chỉ khác là ở đây phục vụ món Nhật.Mình đi 3 người, gọi khá nhiều thứ. Giá cả ở đây khá ổn, ăn no căng bụng.Tất cả các món đều ngon, chawan mushi vì là trứng hấp nên khá nhạt, trà lúa mạch thì thật không có tí vị nào 😂 hơi khó uống. Thích hợp cho ai muốn giảm cân.Nói chung món ăn ở đây được. Sẽ quay lại."
+        }
+    ]
+}

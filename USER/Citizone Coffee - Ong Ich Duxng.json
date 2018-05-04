@@ -1,0 +1,54 @@
+{
+    "name": "Citizone Coffee - Ông Ích Đường",
+    "link": "https://www.foody.vn/ho-chi-minh/citizone-ong-ich-duong",
+    "user_comments": [
+        {
+            "user": "An Truong",
+            "link": "https://www.foody.vn/thanh-vien/an.truong.sjj",
+            "score": "7.6",
+            "comment": "Không gian thiết kế rất phù hợp cho các bạn hay sống ảo. Đẹp lắm. Giá thì khá mắc do với các quán ở đây. Nhưng đồ uống ngon. Tối lên đèn đẹp lắm.\n...Xem thêm"
+        },
+        {
+            "user": "Anh Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/anna.nguyen2912",
+            "score": "5.6",
+            "comment": "Trang trí quán khá đẹp, sân vườn thoáng đãng, bên trong ấm cúng và có nhiều góc được trang trí để chụp hình lưu niệm. Nước uống khá ngon và giá hợp lý\n...Xem thêm"
+        },
+        {
+            "user": "Thuỷ Tiên",
+            "link": "https://www.foody.vn/thanh-vien/m3omun.1997",
+            "score": "10",
+            "comment": "Nước ngon,nhân viên thân thiện,nơi lý tưởng để chụp hình❤️❤️\n...Xem thêm"
+        },
+        {
+            "user": "Hương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/karol_11791",
+            "score": "10",
+            "comment": "Trà đào ngon tuyệt, miếng đào to bự, ngọt thanh chớ ko gắt, mà giá chỉ 20k\n...Xem thêm"
+        },
+        {
+            "user": "Dũng Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/kcc.qd89",
+            "score": "7.8",
+            "comment": "Không gian thân thiện và hiện đại\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

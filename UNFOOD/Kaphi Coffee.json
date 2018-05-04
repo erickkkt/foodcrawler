@@ -1,0 +1,64 @@
+{
+    "name": "Kaphi Coffee",
+    "link": "https://www.foody.vn/ho-chi-minh/kaphi-coffee",
+    "address": "Tỉnh Lộ 8,  Củ Chi, TP. HCM",
+    "open_time": "09:00 AM - 10:30 PM",
+    "price_range": "10.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "9.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "3"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Lài Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/gohan1995",
+            "score": "8.0",
+            "comment": "Matcha ở đây rất ngon, kem thơm, không quá ngọt...thử lần đầu tiên mà thích lun :D \rhầu như món nào cũng ok cả.....nước trà ở đây thơm và đặc biệt là có 1 quả nho ở trong... ^_^\rquán tuy hẹp nhưng không gian đẹp (tha hồ chụp choẹt) , cảm giác thoải mái, yên tĩnh ....\rgiá bình dân....anh nhân viên thân thiện :)))))))))))))"
+        },
+        {
+            "user": "Huong Huong",
+            "link": "https://www.foody.vn/thanh-vien/huonghuong",
+            "score": "8.8",
+            "comment": "Vị trà xanh Nhật giống ở Phúc Long quá. Thích. Quán nho nhỏ nhưng cảnh đẹp nhiều.Chụp cháy máy luôn."
+        },
+        {
+            "user": "Henry Tang",
+            "link": "https://www.foody.vn/thanh-vien/tangminhtri80",
+            "score": "7.2",
+            "comment": "Quán có không gian nhỏ nhưng ấm cúng. Không gian đẹp, hài hoà. Đồ uống cũng tạm . 😉 Chụp hình check-in khỏi chê"
+        }
+    ]
+}

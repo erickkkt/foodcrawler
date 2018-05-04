@@ -1,0 +1,76 @@
+{
+    "name": "NiNi Bakery - Bánh Kem Pháp - Đường D2",
+    "link": "https://www.foody.vn/ho-chi-minh/nini-bakery-banh-kem-phap-duong-d2",
+    "address": "190/6 Đường D2, P. 25,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "09:00 AM - 09:00 PM",
+    "price_range": "200.000đ - 440.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Pháp",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-phap"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.1",
+        "total_review": "281"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tuyet Nga Nhan",
+            "link": "https://www.foody.vn/thanh-vien/tainga1731",
+            "score": 0,
+            "comment": "Dịch vụ rất tệ, giao hàng khong đúng giờ, thiếu nến, thái độ nhân viên giao hàng bất lịch sự. giao hàng có tính ship chứ không phải là giao không mà nói xa nói gần, tah1i độ bán hàng mà không cần khách thì dẹp tiệm luôn đi. không phải chỉ có Nini là bán bánh kem bắp độc quyền đâu"
+        },
+        {
+            "user": "Ngan Nguyen Tran",
+            "link": "https://www.foody.vn/thanh-vien/nguyentranhaingan",
+            "score": 0,
+            "comment": "Gọi đặt bánh\"Alo anh ơi, bánh của mình giá sao zay anh\"\"200 300 400\"\"Em bên quận 7 thì đơn hàng nhiêu anh mới giao zay anh\"\"Giao được\"Thôi tới đây em xin cúp máy cái rụp nha. Ăn với chả nói. Bánh ngon và rẻ đến mấy mà gặp cái kiểu nói chuyện như vầy em cũng ko thèm mua"
+        },
+        {
+            "user": "Hảo Võ",
+            "link": "https://www.foody.vn/thanh-vien/vohao",
+            "score": "7.0",
+            "comment": "Bánh kèm bắp ở đây khá ngon, không quá ngọt như các loại bánh kem sữa. Lần nào đi sinh nhật mình cũng mua một cái vừa đủ một nhóm ăn, bạn mình ăn khen quá trời vì không ngán.Tuy tiệm không có trưng bánh trên tủ kính cũng như không có nhiều mẫu trang trí nhưng quan trọng là bánh ngon."
+        },
+        {
+            "user": "Phương  Phạm",
+            "link": "https://www.foody.vn/thanh-vien/phuong.pham7942",
+            "score": "7.4",
+            "comment": "Nhân dịp sinh nhật ông anh làm cùng, mình có order bánh ở đây ăn thử, mình chon bánh 300k, k biết bnhiu cm nữa vì còn loại 200k và loại 400k nữa.nhân viên vui vẻ, order chi tiết. Bánh ngon, béo, k quá ngọt, kem hơi ít, mình thích kem nhiều hơn chút, thơm mùi bắp ."
+        },
+        {
+            "user": "Tồ's Kitchen",
+            "link": "https://www.foody.vn/thanh-vien/hoangtucodon4004",
+            "score": "7.4",
+            "comment": "Nhân dịp sinh nhật, bạn mình mua tặng cho bánh kem bắp này nè, ăn khá ngon nhaMột lựa chọn hoàn hảo nếu bạn đã ngán bánh kem thông thườngKem bắp vừa ăn, không bị ngọt, bánh cũng mềm mịn lắmGiá không rõ, nhưng theo mình biết là giá trung bình, ko mắc lắm"
+        }
+    ]
+}

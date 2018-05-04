@@ -1,0 +1,261 @@
+{
+    "name": "Hallyu - Korean Fast Food",
+    "link": "https://www.foody.vn/ho-chi-minh/hallyu-korean-fast-food",
+    "address": "7 Trần Minh Quyền, P. 10,  Quận 10, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "26.000đ - 250.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hallyu-korean-fast-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "742"
+    },
+    "foods": [
+        {
+            "name": "Trứng Cuộn",
+            "price": "38,000(đ)",
+            "total_orders": "703"
+        },
+        {
+            "name": "Súp Kim Chi",
+            "price": "52,000(đ)",
+            "total_orders": "535"
+        },
+        {
+            "name": "Topokki",
+            "price": "26,000(đ)",
+            "total_orders": "510"
+        },
+        {
+            "name": "Cơm Trộn Kim Chi",
+            "price": "46,000(đ)",
+            "total_orders": "488"
+        },
+        {
+            "name": "Mì Jajang",
+            "price": "38,000(đ)",
+            "total_orders": "452"
+        },
+        {
+            "name": "Topokki Ramen",
+            "price": "29,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Kimbab Thịt bò",
+            "price": "38,000(đ)",
+            "total_orders": "336"
+        },
+        {
+            "name": "Cơm Bokkum Thịt Bò",
+            "price": "46,000(đ)",
+            "total_orders": "334"
+        },
+        {
+            "name": "Cơm Bulgogi",
+            "price": "46,000(đ)",
+            "total_orders": "322"
+        },
+        {
+            "name": "Miến Japchae",
+            "price": "54,000(đ)",
+            "total_orders": "286"
+        },
+        {
+            "name": "Kimbab Cheese",
+            "price": "38,000(đ)",
+            "total_orders": "211"
+        },
+        {
+            "name": "Súp Rong Biển",
+            "price": "38,000(đ)",
+            "total_orders": "205"
+        },
+        {
+            "name": "Kimbab Cá Ngừ",
+            "price": "38,000(đ)",
+            "total_orders": "188"
+        },
+        {
+            "name": "Súp Bulgogi",
+            "price": "52,000(đ)",
+            "total_orders": "168"
+        },
+        {
+            "name": "Cơm Bokkum Kim Chi",
+            "price": "46,000(đ)",
+            "total_orders": "167"
+        },
+        {
+            "name": "Nudu Kimbab",
+            "price": "38,000(đ)",
+            "total_orders": "134"
+        },
+        {
+            "name": "Thịt Ba Chỉ Nướng",
+            "price": "95,000(đ)",
+            "total_orders": "133"
+        },
+        {
+            "name": "Thịt Ba Chỉ Nướng Tương Đỏ",
+            "price": "110,000(đ)",
+            "total_orders": "120"
+        },
+        {
+            "name": "Cơm Bokkum Cá Ngừ",
+            "price": "46,000(đ)",
+            "total_orders": "114"
+        },
+        {
+            "name": "Mì Bibim Guksu",
+            "price": "38,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Nước ngọt các loại",
+            "price": "15,000(đ)",
+            "total_orders": "76"
+        },
+        {
+            "name": "Lẩu 1 Người (Kim Chi)",
+            "price": "75,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Cơm Jajang",
+            "price": "40,000(đ)",
+            "total_orders": "51"
+        },
+        {
+            "name": "Cơm Dolsot",
+            "price": "38,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Súp Doenjang",
+            "price": "52,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Kimbab Cá Cơm",
+            "price": "38,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Thịt Bò Nướng Tương Đỏ",
+            "price": "250,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Lẩu Kim Chi (Nhỏ)",
+            "price": "195,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Lẩu Kim Chi (Lớn)",
+            "price": "245,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Lẩu Bulgogi",
+            "price": "265,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Rượu Soju",
+            "price": "85,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Lẩu Bulgogi (Nhỏ)",
+            "price": "220,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rượu Makkoli",
+            "price": "110,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Kim chi - 100g",
+            "price": "10,000(đ)",
+            "total_orders": "273"
+        },
+        {
+            "name": "Phô Mai",
+            "price": "10,000(đ)",
+            "total_orders": "113"
+        },
+        {
+            "name": "Cá cơm - 100g",
+            "price": "15,000(đ)",
+            "total_orders": "80"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Nhựt Phúc",
+            "link": "https://www.foody.vn/thanh-vien/phuc.nhut",
+            "score": "9.0",
+            "comment": "Mình đi ăn ở cả 2 chi nhánh :)) Bên này chắc do ít người biết nên mình đi tối CN nhưng khá vắng, trong khi bên chi nhánh 3.2 đã full chỗ. Mình đi 2 người. Order : 1 cơm bokkum bò, 1 cơm bokkum kim chi ( gà ), 1 mì ramen, 1 trứng cuộn. - Cơm bokkum bò : Cơm vẫn nhiều, vị vẫn ngon như lần đầu tiên mình ăn ở Hallyu. 👍 - Cơm bokkum kim chi ( gà ) : Khá cay, nhưng ngon lắm nha. Cơm nhiều lắm luôn. 1minh ăn 1 phần là đủ no say lăn về :)) - Mì ramen : Hơi cay, nhưng ngon cực 👏 Có tok chung với mì nữa. Nước sốt okay lắm luôn. - Trứng cuộn : Mình ăn món này lần đầu tiên. Cảm nhận của mình là khá ổn, ăn với tương nữa nên cũng ok. Nhìn chung giá ổn lắm, chất lượng ok luôn. Mình sẽ ghé lại 👏"
+        },
+        {
+            "user": "Ngô Phi Vân",
+            "link": "https://www.foody.vn/thanh-vien/ngohoa94",
+            "score": "6.8",
+            "comment": "Tự nhiên thèm món hàn nên tìm đến đây, do đi buổi trưa nên cũng vắng khách. Vị trí cũng dễ tìm lắm, không gian cũng để được tầm 10 bàn và hình như cũng có trên lầu, chắc do đang đi trời nắng nên bước vào cảm giác mát lạnh rất thích luôn. Mình order cơm bukkum bò mà nhân viên nghe nhầm nên mình cũng ăn giùm luôn 46k chỉ thấy được 1 opla và vài miếng heo ba chỉ nhưng mình thấy mỡ không hà và 1 canh bulgogi được vài miếng thịt bò 52k. Do mình ít ăn món hàn nên không biết mắc hay không nhưng nhìn trong menu kimpap trứng thôi là đã 38k rồi. Được free bình nước đá, kim chi và cá cơm nè. Nhân viên phục vụ cũng bình thường thôi."
+        },
+        {
+            "user": "Nhi Lê",
+            "link": "https://www.foody.vn/thanh-vien/YNhiLe",
+            "score": "8.4",
+            "comment": "(Mình review nhầm, trong bài là cn 3/2 nhé) Mình ăn ở Hallyu chắc cũng gần chục lần. Mỗi lần thèm ăn đồ Hàn ngon bổ rẻ lại ghé đây. Thường nv sẽ chỉ mình lên lầu, chắc đông mới mở tầng trệt. Lầu 3 k có nv trực thường xuyên như lầu 2 (gần khu bếp) nên mỗi lần cần gì là phải chạy ra ngó xuống dưới kêu. Recommend canh hơn là ăn lẩu. Giá ok hơn, đồ ăn vừa phải bị cái k nhiều nấm bằng thôi, nhưng cho rau nhiều thì thành ra lẩu bị nhạt lại. Ăn lẩu thấy k đậm đà như canh. Nudu kimbap ăn ngon, cuốn chắc tay, kèm mè đen ăn với mayonnaise. Cơm trộn tôm luôn nóng hổi ngay cả khi ăn tới muỗng cuối, nêm vừa ăn, để cơm cháy cháy ăn giòn lạ miệng nè 😅"
+        },
+        {
+            "user": "Uyên Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhatuyen1901",
+            "score": 0,
+            "comment": "Cả nhà đến ăn vì tự nhiên muốn ăn cơm trộn, lâu quá nên ko nhớ tên quán để đặt uber thì vô tình tìm lại đc trên foody, lại vô tình thấy thêm chương trình ưu đãi của quán từ ngày 15/9 thanh toán hoá đơn từ 9h sáng đến 5h chiều giảm 10%.  Lúc tính tiền ra bill ko thấy giảm nên mình hỏi nv trả lời hồn nhiên rằng phải nói giảm mới giảm. Còn ko thì ko giảm. Pó tay. Com"
+        },
+        {
+            "user": "Thùy Dương Phan Thị",
+            "link": "https://www.foody.vn/thanh-vien/tduong076",
+            "score": "7.0",
+            "comment": "Mình order 1 trứng cuộn, 1 cơm bokkum và 1 ramen topokki. Trứng cuộn chắc tay, chấm với mayonnaise ngon, có điều ko có tương ớt nên mình phải tự lấy tương ớt ở nhà. Cơm trộn bokkum thì ăn cũng được chứ ko ngon bằng mấy chỗ khác mình ăn. Topokki thì hơi cứng nhưng ăn tạm ổn. Sẽ cân nhắc đến tận quán để thử những món khác :3"
+        }
+    ]
+}

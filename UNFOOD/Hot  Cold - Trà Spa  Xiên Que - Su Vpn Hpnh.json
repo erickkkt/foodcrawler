@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Sư Vạn Hạnh",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-su-van-hanh",
+    "address": "824/2 Sư Vạn Hạnh, P. 12,  Quận 10, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "30.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "6.5",
+        "total_review": "396"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "7.0",
+            "comment": "Mình đến đây lần đầu tiên là năm 2015 , mình nhớ lần đó 4 đứa bị mắc mưa ướt nhem,chui hết vô quán này lạnh như cày sấy 😂😂😂 dc cái vui,4 đứa kêu 4 ly y chang nhau luôn 😂Quán này hình như có 1 hay 2 lầu gi ah mình đi lâu rồi nên giờ mình cũng ko nhớ lắm Vị trí dễ tìm, trà sữa cũng rẻ thấy mùi vị cũng giống ở những quán khác k có đặc trưng cho lắm,Nhân viên nói chuyện dễ thương, nhiệt tình 😘 ok lắm Chỗ giữ xe có bảo vệ cũng yên tâm hơn nhiều 😤"
+        },
+        {
+            "user": "Thắng Lê",
+            "link": "https://www.foody.vn/thanh-vien/lequocthang1998a771",
+            "score": 0,
+            "comment": "Nước uống thì được nhưng phục vụ quá tệ. Trưa nắng vô ngồi trong quán thì ôi thôi ra đường nó mát hơn. Hỏi nhân viên thì bảo bật máy lạnh rồi đó. Chắc mắt mù không thấy được máy chưa bật. Nóng kinh khủng nóng. Sợ tốn điện thì bán mang về đi đừng để phòng ngồi làm gì. Ban đầu nóng tưởng khách đông nên cố chịu. Người ta về bớt vẫn nóng. Nóng không chấp nhận được. LẦN CUỐI GHÉ ĐÂY !!!!! QUÁ TỆ !!!!!"
+        },
+        {
+            "user": "Phương Khanh",
+            "link": "https://www.foody.vn/thanh-vien/kyla.little95",
+            "score": 0,
+            "comment": "Tệ hơn lúc trước rất nhiều, uống 1 ly trà sữa socola. mồm nôn ruột tháo cả bữa nay ... không gian ẩm thấp, nền nhà sụp lún, chuột lát chạy tự nhiên luôn á.VỆ SINH QUÁ KÉM"
+        },
+        {
+            "user": "nguyễn tommy",
+            "link": "https://www.foody.vn/thanh-vien/tommynguyen28289",
+            "score": 0,
+            "comment": "Trời nóng ghé vô mua trà sữa uống, đưa cho bạn thu ngân 100k, bạn thu ngân bảo mới đầu ca em chưa có tiền lẻ, chị đi đổi tiền dùm em. Thái độ nhân viên thu ngân cực kì tệ, có bh khách trả tiền hàng mà kêu khách đi đổi tiền lẻ để trả? ko hiểu thu ngân kiểu gì. Đời thưở nhà ai bán hàng ko cần khách như thế. Cực kì kém. KBH quay lại với thái độ nv kém như vậy."
+        },
+        {
+            "user": "Quynh Le",
+            "link": "https://www.foody.vn/thanh-vien/quynhle100599",
+            "score": "6.2",
+            "comment": "Không gian quán đẹp, vị trí hơi khuất. Nước thì ok ( đối với tôi ngon nhất chak là double tea: đắng nhưng đậm vị). Nhân viên phục vụ khách cũng vui vẻ nhưng khi vào quán order nước mang về tôi thấy trong quán có 1 chị trưởng ca đối xử với nhân viên mới không thân thiện cho lắm. Tôi mong các chị sẽ thân thiện hơn đối với nhân viên mới để khách như tôi nhìn vào sẽ có thiện cảm hơn với quán."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Pizza Hut - Võ Văn Ngân",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-vo-van-ngan",
+    "address": "24 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",
+    "open_time": "10:30 AM - 10:30 PM",
+    "price_range": "50.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "59"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Duyên Kim Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/duyenkimnguyen",
+            "score": "6.6",
+            "comment": "Quán khá rộng rãi và thoáng mát. Hồi mình đi là 4 đứa. Gọi 1 pizza lớn và có kêu thêm vài món phụ. Pizza thì béo và có độ giòn vừa nên ăn không bị ngán. Còn món phụ kêu thêm là gì mình ko nhớ nhưng đại khái là sơ chế từ tôm thôi mà ăn vẫn nghe mùi tanh của tôm sống. Còn giá cả thì hình như 4 đứa gọi đồ ăn thức uống tầm ~500k. Nói chung là thức ăn khá ổn."
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "8.4",
+            "comment": "Một bữa chiều rảnh rỗi, hai đứa dắt nhau chạy vô Hut take away 2 cái pizza dìa, mua 1 cái kèm 1 coca lớn và salad dầu giấm được tặng kèm 1 cái cùng size. ^^ mình thích ăn đế dày, ngon hơn. Nêm nếm vừa ăn. Nói chung là sẽ còn ghé dài dài."
+        },
+        {
+            "user": "Mỹ Hoa Phan",
+            "link": "https://www.foody.vn/thanh-vien/myhoa.phan.5",
+            "score": "7.4",
+            "comment": "Một ngày nọ được nghỉ học, thời tiết thì nắng chang chang, lướt newfeed thấy đang có Pizza giá 29k, rủ thằng bạn đi liền. Nó cũng khùng bất chấp nên 11h trưa 2 đứa xách nhau đi ăn. Quán rộng rãi, nhân viên khá tận tình, tuy nhiên phục vụ còn hơn chậm, pizza ăn được chứ không gọi là ngon."
+        },
+        {
+            "user": "Tran Tu Anh",
+            "link": "https://www.foody.vn/thanh-vien/mooncandy1999",
+            "score": 0,
+            "comment": "Mình bước vô, ấn tượng đầu tiên là nhân viên hững hờ. Tiếp đó, mình có phiếu được tặng pizza, (nhưng rút kinh nghiệm từ nhiều bạn khác cũng có phiếu này nọ nhưng lại bị quán đưa ra lý do này nọ khiến cho không cài phiếu được) , mình hỏi trước, nhưng mỗi nhân viên lại nói 1 kiểu , và phải đến khi quản lý ra thì mới cho mình 1 đáp án là xài được. Tiếp theo về phục vụ. Hoá đơn của mình là 397k, đưa 400k và đợi mãi không thấy ai thối. Mình thật sự rất ghét ba cái kiểu tự ý lấy tiền thừa của khách như thế này. Trên bill ghi lần sau cầm bill theo để được tặng bánh,  thế mà đưa tiền xong 3k vs cái bill bặt vô âm tính luôn,  ông nhân viên còn né né bàn mình nữa. Đáng ghét!!! Vị thì quá bình thường,  không có gì đặc biệt, giá so với đồ ăn thì ok. Không bao giờ ghé nữa."
+        },
+        {
+            "user": "Mad Team",
+            "link": "https://www.foody.vn/thanh-vien/hunghunter23",
+            "score": "8.4",
+            "comment": "- Đã ăn ở Pizza Hut nhiều lần, nay Võ Văn Ngân thêm loại pizza mới nên ghé ăn thử. - Không gian vẫn sang trọng, thoải mái. Lúc mình ghé quán không đông lắm. Thời gian chờ bánh khoảng 15ph. - Mình gọi combo gồm 1 pizza viền đôi phômai, 1 salad và 3 ly 7up. Tổng 315k. Vị của loại pizza ăn được. Nhưng đế bánh mềm, k có giòn như mình nghỉ, phômai cũng không nhiều như những loại khác. Được cái hình thức bố cujc bánh đẹp, xúc xích và thịt xông khói ngon. Salad trộn vừa ăn.- Phục vụ nhanh, hài lòng. - giữ xe free.Pizza đang có chương trình khuyến mãi mỗi ngày đấy."
+        }
+    ]
+}

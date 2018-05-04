@@ -1,0 +1,24 @@
+{
+    "name": "Windsor Spa & Massage - Windsor Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/windsor-spa-massage-windsor-plaza",
+    "user_comments": [
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

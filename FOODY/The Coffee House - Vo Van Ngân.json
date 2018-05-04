@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Võ Văn Ngân",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-vo-van-ngan",
+    "address": "114 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",
+    "open_time": "07:30 AM - 10:00 PM",
+    "price_range": "29.000đ - 69.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "92"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Khoảng 1 tuần trước, mình ghé đây để có không gian lôi lap ra đặt vé máy bay, với thưởng thức món Black tea Macchiato quen thuộc. Mình thích món này lắm, lớp kem béo, trà đậm vị và chiếc li xinh xắn này nữa. Quán khá đông, thường hay hết chỗ, không gian quán yên tĩnh, thích hợp để làm việc. Nhân viên ở đây cũng dễ thương lắm ^^ mình sẽ còn ghé lại"
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Mình thường vào đây nếu cần không giản yên tỉnh để làm việc, và món uống quen thuộc mình dùng là Black tea Macchiato. Mình rất thích món này, đặc biệt là từ khi có chiếc li dễ thương này. ^^ ở chi nhánh này tầm chiều chiều thì hơi bị đông, thường không còn chỗ ngồi nếu đi theo nhóm 2, 3 người. Nhân viên dễ thương, đồ uống ngon, đậm vị, view đẹp, thích hợp để làm việc ^^ mình sẽ còn quay lại"
+        },
+        {
+            "user": "Helen Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/ngocnguyen110591",
+            "score": "6.8",
+            "comment": "Không gian quá khá đẹp, đồ uống tạm ổn, chỉ bất tiện chỗ gửi xe phải đi bộ một đoạn khi ra vào quán"
+        },
+        {
+            "user": "BinhAn NguyenPhuc",
+            "link": "https://www.foody.vn/thanh-vien/binhannguyenphuc",
+            "score": "8.2",
+            "comment": "Đây là lần đầu tiên mình đến TCH. Cũng là lần đầu thử trà đen macchiato mới ra mắt(mk uống size vừa). Nói thật thì trà hơi nhạt không ngon lắm nhưng lớp foam bên trên ngon cực không quá béo. Một điểm cộng lớn mk dành cho TCH là tại vì anh thu ngân đẹp trai dã man P.S: _Không có hình tại uống hết rồi mà mới nhớ ra việc phải chụp hình _Vì anh thu ngân đẹp trai nên bỏ qua hết 😂"
+        },
+        {
+            "user": "Bích Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/pykunlt1",
+            "score": "8.4",
+            "comment": "Quán cf yêu thích của mình.Mỗi lần không biết đi đâu hay muốn học bài học nhóm đều ghé đây hết, không gian thoáng wifi mạnh nước ngon nữa.Món yêu thích của mình là: trà đào cam xả, black tea matchiato, trà xanh đá xay.Không khuyến khích thử bánh ở đây nha: không có ngon đâu 😊 hoặc do mình k hợp.Gửi xe thì chạy sâu vào hẻm sát bên quán có bảng hướng dẫn ý rồi đi bộ ngược ra 😔"
+        }
+    ]
+}

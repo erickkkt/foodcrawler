@@ -1,0 +1,80 @@
+{
+    "name": "Hotpot Story - Big C Oriental Plaza Âu Cơ",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-big-c-oriental-plaza-au-co",
+    "address": "Gian Hàng Shop 3, Big C Oriental Plaza Âu Cơ, 685 Âu Cơ, P.Tân Thành,  Quận Tân Phú, TP. HCM",
+    "open_time": "10:00 - 22:00",
+    "price_range": "149.000đ - 319.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-a"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "10"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "mymeo721",
+            "link": "https://www.foody.vn/thanh-vien/bella.lam",
+            "score": "6.0",
+            "comment": "Hồi trước mình rất hay ăn bên Aeon Tân Phú nhưng dạo gần đây thấy bên này mới mở lại gần nhà nên mình chuyển qua đây ăn luôn. Cảm nhận ban đầu rất tuyệt. Nước lẩu rất vừa miệng, vị thanh nữa chứ. Đồ ăn trên quầy line khá phong phú và đa dạng từ các món salad đến các món nóng. Đồ nhúng lẩu thì lúc nào cũng tươi ngon và đẹp mắt. Phục vụ thì không chê vào đâu được, lúc nào cũng tận tình với khách. Đôi lúc mình k cần gọi mà các bạn vẫn hiểu ý và đáp ứng nhu cầu của mình. Mọi người nên ghé qua thử nhé. Một chỗ khá thú vị để họp mặt bạn bè và gia đình:))"
+        },
+        {
+            "user": "Gia Ân",
+            "link": "https://www.foody.vn/thanh-vien/foodee_woeafafj",
+            "score": "9.6",
+            "comment": "Tuyệt cú mèo, quay lại nhà hàng vào một chiều mưa. Trời mưa mưa ăn lẩu đã ngon mà ăn lẩu ở hotpot này ngon hơn nữa. Lâu lắm r mới quay lại nhưng rất hài lòng."
+        },
+        {
+            "user": "tung nguyen",
+            "link": "https://www.foody.vn/thanh-vien/tungnguyen174hcm",
+            "score": "10",
+            "comment": "Nay lại đến Hotpot ăn, nước lẩu vẫn ngon, đồ ăn vẫn ngon. Các bạn nhân viên nhiệt tình, các món trên quầy line ngon lắm.. Mình thích sâm bổ lượng, ăn ngon muốn xỉu.. Sẽ đến ăn quài quài luôn!!!"
+        },
+        {
+            "user": "Nhok Quạy",
+            "link": "https://www.foody.vn/thanh-vien/nhokquy5086",
+            "score": "10",
+            "comment": "Đây là lần thứ 9 mình đến địa điểm này để dùng lẩu rồi  Ấy mà cứ như lần đầu tiên z nước lẩu ngon ko gây nhàm chán cứ như có thuốc nghiện trong nước lẩu ấy 😂 ngon không chê đc ! Z mà mấy bạn nhân viên thì trời ơi nhiệt tình đi trong suy nghĩ mình ra z nhìn nhìn là lại hỏi thăm cần gì roìi khỏi phải gọi la 😋 cuối buổi ăn quản lý còn hỏi thăm dịch vụ bửa ăn nữa đc chăm sóc như này chắc mai lại đến quá Ta nói ít nhất phải thử hotpot 1 lần để bít nghiện là như nào hahahaha"
+        },
+        {
+            "user": "tung nguyen",
+            "link": "https://www.foody.vn/thanh-vien/tungnguyen174hcm",
+            "score": "10",
+            "comment": "Mình rất thích chương trình 99k. Ăn vừa rẻ vừa no. Nhân viên phục vụ rất nhiệt tình. Đồ ăn ngon và tươi. Thịt bò mềm. Không gian thoáng mát, view siêu đẹp. Nhất định sẽ quay lại. :D"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Food Court - AEON Mall Tân Phú",
+    "link": "https://www.foody.vn/ho-chi-minh/foodcourt-aeon-mall",
+    "address": "Tầng Trệt, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 22.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Châu Á,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-a"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-au"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "532"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Ngọc Hồ",
+            "link": "https://www.foody.vn/thanh-vien/cloneanlyver1.54",
+            "score": "6.2",
+            "comment": "Ghé đây và thực sự là lúc nào cũng đông khách. Đôi khi kiếm chỗ ngồi ăn cũng là vấn đề. Vì vậy luôn phải tranh thủ chọn chỗ và thưởng thức"
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": "7.2",
+            "comment": "Cuối tuần mà vô Aeon đúng là cực hình mà :vQuầy đồ ăn đông, hết món liên tục, nhân viên làm đồ ăn không kịp, xếp hàng tính tiền cả hàng dài, bàn không còn chỗ trống. Cả đám kéo nhau lên tầng 2 gọi lẩu ăn, mình cũng chả nhớ là quán lẩu nào, ăn chua chua cay cay khá ngon. Hải sản tươi, bò ngon. Mua thêm mấy gói mỳ ăn là no căng, lết không nổi luôn. Cơm bento ở Aeon rất chất lượng nhé, cơm nhiều, đồ ăn cũng nhiều luôn.Phục vụ nhanh, tốt"
+        },
+        {
+            "user": "Anna Le",
+            "link": "https://www.foody.vn/thanh-vien/annale220",
+            "score": "10",
+            "comment": "Đây thật sự là thiên đường ẩm thực với gà rán chiên sushi giá rẻ và chất lượng, hơn nữa còn gửi xe miễn phí nhân viên nhiệt tình"
+        },
+        {
+            "user": "Dandelion Tran",
+            "link": "https://www.foody.vn/thanh-vien/DandelionTran7211",
+            "score": "8.0",
+            "comment": "Đồ ăn ở Aeon là không thể chê rồi, nhiều vô số, ngon vô đối, giá cả hợp lý.- Chất lượng: Vào đây không thể không ăn lẩu, sushi, gà rán, các loại bánh ngọt... nha mọi người. Nhất là lẩu ở lầu 2 có nhiều quán để lựa chọn, mùi vị ngon đậm đà nhưng thật ra mình thấy quán nào bán lẩu trên lầu 2 cách nêm nếm nước lẩu gần như giống nhau, hihi. Sushi siêu siêu ngon, sushi sò điệp kim chi cực ngon mà rẻ hơn so với các chỗ khác luôn.- Giá: Rất hợp lý, có  nồi lẩu cho 1, 2 hay 3 người ăn.-"
+        },
+        {
+            "user": "Dandelion Tran",
+            "link": "https://www.foody.vn/thanh-vien/DandelionTran7211",
+            "score": "8.2",
+            "comment": "Ở  đây không gian thoải mái đẹp, món ăn đa dạng , giá cả hợp lý, nẩu ăn ngon, cách phục vụ rất tận tình :) . Lẩu ở đây có nhiều nhãn hiệu bán nhưng đa phần quán nào cũng có mùi vị nêm nếm món ăn như nhau, đồ ăn rất tươi mới, giá lẩu khá hợp lý. Mì xào, gỏi gà ở đây không được ngon lắm, mùi vị không đậm đà. Nhưng gà rán, sushi, các loại bánh ngọt ... ăn rất ngon, sushi rẻ hơn ở các chỗ khác bán mà mùi vị làm rất đậm đà."
+        }
+    ]
+}

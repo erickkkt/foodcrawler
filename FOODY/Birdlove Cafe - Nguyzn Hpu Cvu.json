@@ -1,0 +1,80 @@
+{
+    "name": "Birdlove Cafe - Nguyễn Hữu Cầu",
+    "link": "https://www.foody.vn/ho-chi-minh/birdlove-cafe-nguyen-huu-cau",
+    "address": "55/5 Nguyễn Hữu Cầu, xã Trung Chánh,  Hóc Môn, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "41"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Quynh Anh",
+            "link": "https://www.foody.vn/thanh-vien/foodee321",
+            "score": 0,
+            "comment": "Đợt vừa rồi mình và bạn mình có ghé BirdLove uống thử, mình và bạn mình gọi 1 ly matcha và 1 ly cookie uống thử. Nước uống rất ngon kem béo nhưng không hề ngán, matcha uống cực thơm mà không hề bị đắng tẹo nào cả. Mình có uống thử cả hai ly,mình cảm thấy cả hai ly đều rất ngon, béo béo ngậy ngậy và cực kì thơm luôn. Giá chỉ dao động từ 20k trở lên theo mình thì giá vầy là quá rẻ so với các hãng khác.Quán thì trang trí cũng rất đẹp và khá yên tĩnh thích hợp cho những ai cần không gian yên tĩnh học bài hoặc gặp đối tác :)))"
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": 0,
+            "comment": "Đá xay ngon không thua gì effoc, urban, phần kem phía trên cũng beo béo, nói chung chất lượng ổn mà giá lại khá rẻ, có điều xa trung tâm quá, mình đi từ gò vấp mà cũng thấy xa nữa, nếu không phải đi tiện đường ghé vào thì chắc chẳng bao giờ biết tới quán :vNhán viên bình thường, không khó chịu cũng chả thân thiện. Không gian bình thường  nốt, không có gì ấn tượng. Quán vắng, mở nhạc to quá không thích lắm Mình nghĩ quán muốn thêm khách thì phải sửa những điều trên."
+        },
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": "7.6",
+            "comment": "Các thức uống ở đây như thế nào có ngon khôngNhìn hình thì thấy cực kì ngon hấp dẫn ,thực ra rất hấp dẫn thật đấy, đáng dể các bạn bỏ tiền ra mua luônmenu cực kì nhiều món đa dạng chọn không hết uống no luôn nhaTrình bày đẹp bắt sạch sẽ, nhân viên linh hoạt xinh tươi vui vẻ thân thiện nhiệt tình, sanh chảnh đồ uống cực kì ngon ngon hơn effoc nhiều và cực kì rẻ , chỉ bằng 1 nữa giá effoc thôirất đáng để thưởng thức nhiều lần, ly nước chất lượng hảo hạng tuyệt nhất"
+        },
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": "8.0",
+            "comment": "Một lần nữa bird love coofe và cho thêm 10 điểm nữa thì thế nàonước uống cực rẻ nhé mà cực chất lượng. tầm 30k là có ly nước chất lượng, chứ mình đi hi tea cái ly gì mà lạt nhách đá không, xịt miếng kem lấy lệ.kem của bird love cực ngon, cực mịn, không ngấy không béo không quá ngọt, chất lượng đồ uống khỏi chênhân viên làm việc vui vẻ, bảo vệ cực cutegần nhà và cũng tiện, quán rất đông, điều đó là dĩ nhiên, ôi ngon hơn hi tea hay mấy quán khác nhiều lần. cho 10 điểm nha"
+        },
+        {
+            "user": "Phương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ntdphuong2512",
+            "score": "8.0",
+            "comment": "Đúng là không uổng công chạy đường xa đi hẹn với lũ cờ hó bạn được tụi nó dắt vô cái quán vừa dễ thương mà đồ cò  ngon nữa, nhân viên cực dễ thương, không gian quán hơi nhỏ nhưng decor yêu lắm quán cũng khá đông, địa điêm gặp mặt tám xuyên lục địa tuyêt vời, giá cả okie nha"
+        }
+    ]
+}

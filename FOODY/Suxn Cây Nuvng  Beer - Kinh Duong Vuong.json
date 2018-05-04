@@ -1,0 +1,80 @@
+{
+    "name": "Sườn Cây Nướng & Beer - Kinh Dương Vương",
+    "link": "https://www.foody.vn/ho-chi-minh/suon-cay-nuong-beer-kinh-duong-vuong",
+    "address": "99 Kinh Dương Vương, P. 12,  Quận 6, TP. HCM",
+    "open_time": "11:00 AM - 10:30 PM",
+    "price_range": "20.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/suon-cay-nuong-bia?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "73"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Linh Trần",
+            "link": "https://www.foody.vn/thanh-vien/py.unique",
+            "score": "7.6",
+            "comment": "Hôm sn mẹ m có đặt bên cộng hoà mà sát giờ quá nên k còn chỗ đc offer qua kinh dương vương q.6 hơi xa tí but ok . Gữi xe free , k jan ở đây k thấy k đẹp = mấy chi nhánh # , khói nhiều quá , hơi cay mắt .Món ăn ngon gía hợp lý , mình recommend món gầu bò mỹ , sừon cây nướng , đừng order thit ba chi mỡ k hà , có 1 số thịt hơi nhiều mỡ k thích diểm này . À mình thích lẫu thái tomyum nữa có mùi cà ri + 1 dĩa bò , bò ngon, có bò  viên nữa , có 2 loại nước chấm , nước tương và sốt tương ớt ngon .Nhân viên nhiệt tình , phùc vụ rất ọk .Tổng bill 4 ng /1 triệu ăn no lun Sau khi làm thẻ member card thì có nv gọi sử dụng dịch vụ thì thấy chỗ này pro . Hồi đó cũng ăn 1l thấy hài lòng r h thêm 1l nữa k thất vọngSẽ quay lại thêm , mà có cái làm member cái k dc tích điểm ngay , ghét =.="
+        },
+        {
+            "user": "Jessie Ng",
+            "link": "https://www.foody.vn/thanh-vien/bachbach996",
+            "score": "8.0",
+            "comment": "Gần nhà nên hay ghé đây ăn với cả nhà. Món ăn đa dạng, giá cả hợp lý. Ở đây được cái nhân viên phục vụ nướng tại bàn nên rất tiện. Món đặc trưng ở đây là sườn cây nướng gia vị đậm đà rất ngon. Ngoài ra mình còn thích ăn bạch tuột ướp sa tê, ba rọi heo cuộn kim chi, và ba rọi bò sốt tiêu đen. Lần nào đi cũng gọi mấy món này. Có phòng máy lạnh nữa những lúc nào cũng hết chỗ nên phải ngồi ngoài, mà cũng may là đi buổi tối nên ko nóng mấy."
+        },
+        {
+            "user": "tuyen tranngoc",
+            "link": "https://www.foody.vn/thanh-vien/ngoctuyen0285",
+            "score": "8.0",
+            "comment": "- gửi xe miễn phí- nhân viên phục vụ nhiệt tình- quán luôn đông đúc. Thứ bảy, chủ nhật nhộn nhịp khiếp luôn. - thức ăn niêm nếm vừa ăn - nếu chấm nước chắm là hợ mặn. - giá cả bình dân."
+        },
+        {
+            "user": "AMBER KEITH",
+            "link": "https://www.foody.vn/thanh-vien/bjtystyle99",
+            "score": "7.2",
+            "comment": "Đồ ăn nêm ngon, nhân viên nhiệt tình. Cuối tuần đi ko đặt trước là ko có chổ ngồi. Quán hơn nóng và ngột lúc đông. Giá cao"
+        },
+        {
+            "user": "Chibeolua Loan Trần",
+            "link": "https://www.foody.vn/thanh-vien/beloan",
+            "score": "6.6",
+            "comment": "Đi ăn sinh nhật trong quán có nhìu món để lựa chọn gia vị nêm nếm vừa ăn nhưng đáng tiếc ở quán là không có muối tiêu chanh ớt xanh. Nhân viên phải đợi khách kêu đổi than mới đổi nhưng bù lại vui vẻ nhiệt tình.Lần 2 đi 4 người tầm 1,5tr cũng khá ổn"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "The Little Love - Ẩm Thực Hàn Thái Nhật",
+    "link": "https://www.foody.vn/ho-chi-minh/the-little-love-am-thuc-han-thai-nhat",
+    "address": "56/1 Nguyễn Hữu Cầu, X. Trung Chánh,  Hóc Môn, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Hàn Quốc,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Thái Lan",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-thai-lan"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "15"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Phương Nam",
+            "link": "https://www.foody.vn/thanh-vien/phngnam6531",
+            "score": "8.4",
+            "comment": "Quán rất dễ thương. Nhân viên cũng rất nhiệt tình và vui vẻ. Đồ ăn ngon và mới. Thức uống cũng tuyệt lắm. Không gian thoáng mát và dễ chịu. Thích hợp cho cặp đôi và cả gia đình. Món ăn vừa miệng, thức uống nhiều. Nhưng giá cả rất hợp lý. Mình đi ăn và uống no luôn nhưng chỉ có 120k thôi. Đi với chị nữa. Là cả hai đứa ăn no nê luôn á. Chú giữ xe cũng hiền va nhiệt tình. Trong mấy quán đi ăn thì Little Love là quán thích hợp cho mọi lứa tuổi. Nếu có cơ hội, mình sẽ ghé thăm một lần nữa"
+        },
+        {
+            "user": "Tiểu Bon",
+            "link": "https://www.foody.vn/thanh-vien/emxitrum_timanhcuibap2008",
+            "score": "8.2",
+            "comment": "Hôm rồi lên nhà con em chơi đc nó dẫn đến quán này đây. Không gian quán rộng rãi, thoáng mát, lúc mình đến quán cũng không đông, à ở đây thấy nhân viên nhiều =))Menu quán hơi bị nhiều nhé, nhìn mà không biết kêu món nào =)) sau một hồi cũng chọn đc 3 món như hình và hai ly trà đào và trà sữa. Về thức uống, giá cũng rẻ mà theo mình uống ngon đấy. Về món ăn, 3 món hai đứa ăn ko nổi luôn =)) mình có kêu thử món Jambon cuộn phomai, đây là món mới, ăn ngon lắm m, rec cho bạn nào đến quán ăn thử nhé. Còn kimbap chiên giòn ăn cũng được thôi, còn món kia mình quên tên rồi, miến Thái hay gì đó =)) nước chấm ngon lắm nha 👏 Có cơ hội sẽ ghé quán lại."
+        },
+        {
+            "user": "Hồng Nhung",
+            "link": "https://www.foody.vn/thanh-vien/hoanghonquebien",
+            "score": "6.6",
+            "comment": "Cứ nghĩ xung quanh đây k có quán Trà sữa nào được.  Nhưng vào đây mới thấy phán đoán của mình chưa đúng.  Trà đào ngon, Trà sữa matcha ổn,  bánh flan thơm. Mỗi cái đông nên hơi ồn. Sẽ ghé quán dài dài 😍😍😍"
+        },
+        {
+            "user": "Anh Thanh Niên",
+            "link": "https://www.foody.vn/thanh-vien/ngannhinho2001",
+            "score": "8.0",
+            "comment": "Quán trang trí gam màu hồng trông dễ thương, không gian thoải mái, sạch sẽ, phục vụ rất nhiệt tình với khách hàng. Quán phục vụ các món Nhật, Hàn, Thái, mình thấy các món ở đây khá ngon, nhưng cũng còn tùy món và tùy khẩu vị từng người. Thức uống thì khỏi chê, thích nhất trà sữa matcha ở đây: 15k và rất ngon, thơm, nhiều nữa. Giá cả phù hợp với học sinh, sinh viên. Từ 15k - 30k cho thức uống, 25k trở lên cho thức ăn. Mình nghĩ vào quán này 80k/người là có thể thưởng thức đến no luôn rồi. Sẽ ghé lại quán này"
+        },
+        {
+            "user": "Vy Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/xuanvy1031995",
+            "score": "7.0",
+            "comment": "Đi quán nhiều lần lắm rồi nhưng chưa bao giờ kêu mì cay ( tại sợ không ngon ). Hôm nay quyết định ăn thử cái này, kêu thử tô cấp độ 1 thôi, tại sợ cay như ở Naga PVĐ. Bài viết nhằm mục đích reviwe mỳ cay tại đây 😜 Nước mỳ nấu vừa ăn, mà cấp 1 ở đây không cay, nếu muốn cay, có thể kêu cấp 3 là vừa ( mình nghĩ vậy). Nếu lần sau chắc mình sẽ gọi cấp 3. Đó là về độ cay. Còn nước súp nấu mỳ thì ngon, vừa ăn, đậm hơn nhiều so với những chỗ mình đã ăn ( đương nhiên không tính naga nhé ) Cà phê sữa kêu nhiều cà phê thì sẽ ngon hơn ( ý kiến cá nhân ). Sinh tố chanh dây vẫn ngon như ngày nào"
+        }
+    ]
+}

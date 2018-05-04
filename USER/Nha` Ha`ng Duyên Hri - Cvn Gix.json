@@ -1,0 +1,36 @@
+{
+    "name": "Nhà Hàng Duyên Hải - Cần Giờ",
+    "link": "https://www.foody.vn/ho-chi-minh/nha-hang-duyen-hai-can-gio",
+    "user_comments": [
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "7.6",
+            "comment": "Nhà hàng có chỗ ngồi bên sông mát mẻ. Đồ ăn ngon, phục vụ lịch sự và nhiệt tình :)\n...Xem thêm"
+        },
+        {
+            "user": "Luat Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/thienluat147",
+            "score": "7.0",
+            "comment": "Quán nằm trong thị trấn của Cần Giờ, không gian bên ngoài nhìn như nhà hàng tiệc cưới, hội nghị nhưng bên trong có khu sân vườn mát mẻ. Quán bán nhiều đồ ăn hải sản, hôm nay mình ăn nghêu hấp lá quế, ốc giác gỏi cổ hũ dừa, cá ngát chiên giòn, cháo tôm thịt và lẩu cua lá giang. Hải sản thì tươi tuy nhiên chế biến cũng được, không ngon lắm ngoại trừ món lẩu cua lá giang thì lạ và ngon. Nhân viên phục vụ cũng không nhiệt tình lắm.\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

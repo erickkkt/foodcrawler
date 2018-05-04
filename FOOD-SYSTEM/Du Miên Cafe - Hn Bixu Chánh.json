@@ -1,0 +1,80 @@
+{
+    "name": "Du Miên Cafe - Hồ Biểu Chánh",
+    "link": "https://www.foody.vn/ho-chi-minh/du-mien-cafe",
+    "address": "48/9A Hồ Biểu Chánh, P. 11,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "Cả ngày  07:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 66.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/du-mien-cafe?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "117"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "cathy",
+            "link": "https://www.foody.vn/thanh-vien/vothuydoantrang",
+            "score": 0,
+            "comment": "Nhân viên tụ tập nói chuyện ko dọn bàn cho khách. Khi kêu đến dọn bàn thì làm đổ nước đày bàn. Thức ăn ko ngon. 1 chén nhỏ mayonaise giá 7k"
+        },
+        {
+            "user": "Thao Trinh",
+            "link": "https://www.foody.vn/thanh-vien/thao.trinhmh",
+            "score": "7.8",
+            "comment": "Lâu lắm rồi mình mới ghé lại Du Miên ở chi nhánh này, quán cũng không thay đổi gì nhiều, mọi thứ giống như xưa vậy. Hồi xưa mê Du Miên lắm luôn, giờ lười cà phê nên tiện mới ghé thôi, vì đi Du Miên ở Gò Vấp gần nhà hơn.Bình thường mình không đánh giá cao đồ ăn trong quán cà phê, nhưng hôm nay ghé mình ăn nhẹ bò lúc lắc khoai tây chiên và thấy ngon ghê luôn, khoai tây chiên giòn ngon không khô và bùi bùi, bò thì mềm, xào lửa lớn với ớt chuông và hành tây, món đơn giản thôi mà làm mình chú ý và nhớ luôn.... hay đầu bếp ở đây tay nghề cao nhỉ, lâu quá không ghé thấy lạc hậu quá.Không gian ở đây hợp với ai thích thiên nhiên, không quá ồn ào, nhạc cũng nhẹ nhàng, phục vụ ổn. Mình dạo này hết bị mê những quán như này rồi."
+        },
+        {
+            "user": "Yen Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/canary076",
+            "score": "8.6",
+            "comment": "Luôn thích style của quán này, không gian và nhạc làm mình thấy nhẹ nhàng, thư giãn. Cảnh vật thiên nhiên của quán làm mình có cảm giác xa rời sự ồn ào, nhộn nhịp của Sài gòn.Cà phê pha thơm, dừa có chọn lọc tươi ngọt.Có phòng máy lạnh trên lầu. Xung quanh chủ yếu là ngoài trời và không có máy lạnh.Buổi trưa quán khá vắng khách.Nhân viên phục vụ nhanh nhẹn và chu đáo."
+        },
+        {
+            "user": "Ngân Thái",
+            "link": "https://www.foody.vn/thanh-vien/k0n_ga_khjn",
+            "score": 0,
+            "comment": "Em đã xin ly tẩy 4 lần rồi mà chưa mang ra cho em, em gọi lịch sự đàng hoàng mà \"anh/chị ơi cho em ly tẩy với\" ai cũng ậm ừ rồi đi mất tiu luôn. Trong lúc em chờ thì mấy anh chị nhân viên đứng túm tụm đùa dỡn um sùm, rãnh chứ có bận bịu gì đâu. Bạn đi cùng đến trước gọi cf mãi ko mang ra, em đến sau gọi thì mang ra trước, bơ bạn em luôn. Thất vọng với quá to đẹp như này."
+        },
+        {
+            "user": "Loan Dang Thuy",
+            "link": "https://www.foody.vn/thanh-vien/dangthuyloanloan3275",
+            "score": 0,
+            "comment": "Tối nay mình check in chốn này. Chọn là điểm hẹn vì không khí thư thái nước chảy mây trôi. Quán nay khá là vắng. Mình gọi bò lúc lắc và hủ tíu thì ăn cũng tạm được. Nước uống OK, bạn mình uống dâu kiu chua quá.Điều kỳ là là có 1 anh phục vụ dáng người cao, tới gần bàn trong lúc tụi mình đang mải nói chuyện, và đề nghị mượn điện thoại của tụi mình \" Cho mình xin một cuộc gọi\". Mình lúc đầu nghe ko hiểu, sau hiểu thì cũng ko tin vào tai mình nữa và hỏi lại lần nữa. Chị đi cùng hỏi mục đích ảnh gọi để làm gì, thì anh trả lời là gọi cho người thân.Điều này khá phản cảm, mình và người đi cùng đều không thích, cảm thấy bị quấy rối với mục đích của anh ta chỉ trục lợi chứ không khiến mình sẵn lòng được. Sau khi nhìn tụi mình kiểm tra điện thoại, có vẻ ko đủ tiền cho cuộc gọi dài thì anh ta nói cảm ơn và thoái lui.Chắc không dám thư thái như vầy nữa."
+        }
+    ]
+}

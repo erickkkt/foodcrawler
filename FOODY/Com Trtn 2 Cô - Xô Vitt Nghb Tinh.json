@@ -1,0 +1,255 @@
+{
+    "name": "Cơm Trộn 2 Cô - Xô Viết Nghệ Tĩnh",
+    "link": "https://www.foody.vn/ho-chi-minh/com-tron-2-co",
+    "address": "294/63 Xô Viết Nghệ Tĩnh, P. 21,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "10:00 AM - 09:00 PM",
+    "price_range": "30.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/com-tron-2-co?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "211"
+    },
+    "foods": [
+        {
+            "name": "Kimbap chiên xù",
+            "price": "45,000(đ)",
+            "total_orders": "549"
+        },
+        {
+            "name": "Maki gà chiên xù",
+            "price": "50,000(đ)",
+            "total_orders": "231"
+        },
+        {
+            "name": "Kimbap truyền thống",
+            "price": "40,000(đ)",
+            "total_orders": "202"
+        },
+        {
+            "name": "Kimbap call",
+            "price": "55,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "Kimbap trứng cuộn",
+            "price": "45,000(đ)",
+            "total_orders": "165"
+        },
+        {
+            "name": "Maki gà",
+            "price": "45,000(đ)",
+            "total_orders": "108"
+        },
+        {
+            "name": "Cơm trộn",
+            "price": "45,000(đ)",
+            "total_orders": "543"
+        },
+        {
+            "name": "Cơm trùm trứng",
+            "price": "45,000(đ)",
+            "total_orders": "194"
+        },
+        {
+            "name": "Cơm gà lúc lắc",
+            "price": "45,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Mì tương đen",
+            "price": "45,000(đ)",
+            "total_orders": "268"
+        },
+        {
+            "name": "Mì ý gà giòn phô mai",
+            "price": "55,000(đ)",
+            "total_orders": "153"
+        },
+        {
+            "name": "Miến trộn",
+            "price": "45,000(đ)",
+            "total_orders": "146"
+        },
+        {
+            "name": "Mì trộn cay",
+            "price": "45,000(đ)",
+            "total_orders": "92"
+        },
+        {
+            "name": "Mì ý bò bằm",
+            "price": "55,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Nui bò bằm",
+            "price": "55,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Nui gà lúc lắc",
+            "price": "45,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Gà viên mật ong",
+            "price": "45,000(đ)",
+            "total_orders": "360"
+        },
+        {
+            "name": "Tokbokki",
+            "price": "45,000(đ)",
+            "total_orders": "250"
+        },
+        {
+            "name": "Canh kim chi",
+            "price": "35,000(đ)",
+            "total_orders": "215"
+        },
+        {
+            "name": "Gà lắc phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "176"
+        },
+        {
+            "name": "Soup chả cá",
+            "price": "35,000(đ)",
+            "total_orders": "172"
+        },
+        {
+            "name": "Salad sốt cam",
+            "price": "30,000(đ)",
+            "total_orders": "87"
+        },
+        {
+            "name": "Khoai tây lắc phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Trà đào",
+            "price": "25,000(đ)",
+            "total_orders": "132"
+        },
+        {
+            "name": "Trà sữa thái",
+            "price": "18,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Trà sữa trà xanh",
+            "price": "18,000(đ)",
+            "total_orders": "75"
+        },
+        {
+            "name": "Lipton Chanh / Đào",
+            "price": "15,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "18,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Trà chanh thái",
+            "price": "18,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Trà sữa chai (Chọn vị: trà đào,trà sữa  trà xanh, trà thái)",
+            "price": "32,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Nước ngọt các loại",
+            "price": "15,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Soda deepblue",
+            "price": "22,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "22,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Nước suối",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Gia Như",
+            "link": "https://www.foody.vn/thanh-vien/gia.nhu",
+            "score": "9.0",
+            "comment": "Đồ ăn ngonCơm trộn Thái thì kiểu giống cơm mắm ruốc ở nhà mẹ tui hay nấu , hahhha mà cũng ngon.Giá khá ổn, nhân viên lịch sự, chú bảo vệ thân thiện, chỗ để xe được. Phải ăn lẩu tokbokki ở đây nhé, tui bị nghiện  ❤ ( mê ăn quá quên chụp món mình thích nhất)"
+        },
+        {
+            "user": "Ánh Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhu24198",
+            "score": "7.6",
+            "comment": "Quán nằm trong hẻm ,chạy thẳng vào là thấy , để xe phía đối diện.Không gian tuy nhỏ nhưng bàn ghế nhiều , trang trí khá bình thường , có điều hoà nhưng ko mát lắm- Thức ăn ngon , mình order maki gà chiên , bánh gạo cay và cơm trùm trứng. Cơm trùm trứng rất ngon , chỉ có trứng ở ngoài là hơi cháy cháy 1 xíu . Maki gà cuộn to , ăn được . - Nhân viên dễ thương , nhiệt tình , chú giữ xe cũng vậy😌😌"
+        },
+        {
+            "user": "Tép Rôti",
+            "link": "https://www.foody.vn/thanh-vien/nnttrang178",
+            "score": "6.0",
+            "comment": "Quán nằm trong hẻm nhưng dễ tìm lắm, không lớn nhưng không gian ấm cúng. Nhân viên lịch sự, thân thiện. Menu cũng kha khá món.Cảm nhận về món ăn:Gà viên mật ong: không biết là do khẩu vị mình thay đổi hay là do chất lượng món này giảm, mình cảm thấy thiếu thiếu, vị mật ong chưa tới, nhưng ăn cũng khá ổn. Salad sốt cam: không quá đặc sắc.Kimbap cuộn trứng: khoanh to, tạm ổn.Canh rong biển: bình thường.Kim chi: dở tệ. Trà đào và lipton: được.Giá cả vừa phải, phù hợp học sinh sinh viên, một phần ăn khá nhiều."
+        },
+        {
+            "user": "Judy Trần",
+            "link": "https://www.foody.vn/thanh-vien/thuy.tran.58",
+            "score": "6.4",
+            "comment": "Quán nằm trong hẻm nhưng cũng dễ tìm, Giá cả phải chăng, chất lượng món ăn tạm ổn. Kim chi không ngon và không cho thêm kim chi."
+        },
+        {
+            "user": "Thanh Thủy",
+            "link": "https://www.foody.vn/thanh-vien/cuubong29030809",
+            "score": "6.6",
+            "comment": "Thích thái độ nhân viên ở đây, các bạn rất lịch sự và nhỏ nhẹ. Về đồ ăn thì ko có gì đặc sắc lắm, mình gọi cơm trộn và cơm gà viên, gà viên ăn ngon nhưng dễ bị ngán. Quán tuy nằm trong hẻm nhưng cũng khá dễ kím, giá cũng ko quá mắc, quán sạch sẽ sáng sủa."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Hotpot Story - Saigon Centre",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-saigon-centre",
+    "address": "Saigon Centre, 65 Lê Lợi, P. Bến Nghé,  Quận 1, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "50.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-a"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "38"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nấm Nấm",
+            "link": "https://www.foody.vn/thanh-vien/teppilin",
+            "score": 0,
+            "comment": "Gia đình ăn ngay dịp lễ, lúc đó khá đông nhưng không khí cũng bình thường chứ không bị rần rần, ồ ào, nhức đầu... à, nhức đầu vì chuyện khác. Khu này diện tích không rộng, nên để tiết kiệm diện tích thì bàn đặt khá sát nhau, 1 bàn 2 ghế ngồi được nhiều nhất 6 người, VD mà đi 8 người thì nv sẽ kê thêm ghế, lúc nv bưng đồ thì thể nào cũng phải chồm quà chồm lại, lách tới lách lui, vướn qua vướn lại, ai MAY MẮN ngồi ngay chỗ nv đứng thì cứ phải một chốc dừng đũa, lách sang một lần. Mà nv thì thật sự rất là nhiệt tình, được huấn luyện bài bản, lịch sự nữa, cứ 3-5 phút lại dọn dĩa một lần, nên người ngồi ngay chỗ đó là mình hoàn toàn chẳng thể thưởng thức được gì, cứ phải lách qua lách lại né nhân viên, thật sự mình rất là không hài lòng! Mình đồng ý phục vụ tốt, nhiệt tình, quan trọng là ngày lễ vẫn niềm nở là việc rất tốt, nhưng mà cái gì QUÁ cũng không tốt, mình thấy nv ở đây nhiệt tình quá rồi, thật sự phiền đến mình lắm :(Về món ăn thì có mức giá 169, 269... bên mình gọi 269, đồ uống tính riêng thì tính ra một người phải từ 350k, cũng không rẻ lắm. Thành viên được giảm 5%. Món ăn phong phú, theo mình là ổn, ăn thả ga, món lên liên tục, tráng miệng đầy đủ như trong menu chứ không có tình trạng hết món, chất lượng đồ ăn theo mình là bth, chỉ được cái vd thức ăn nguội thì nv sẽ dọn món mới lên chứ ko bắt phải ăn hết. Nước lẩu bình thường, nước chấm đơn điệu, không đúng với món ăn. Riêng món salad thì không giống hình minh họa, hình trong menu vừa nhiều bò vừa dày, thực tế gần như không có bò."
+        },
+        {
+            "user": "Corn Bomie",
+            "link": "https://www.foody.vn/thanh-vien/ngothingocmai68",
+            "score": "7.0",
+            "comment": "Thấy chỗ này có vẻ ngon, nghe bạn bè giới thiệu , bữa nào tới mới được"
+        },
+        {
+            "user": "Xíu Trần",
+            "link": "https://www.foody.vn/thanh-vien/teechulch7295",
+            "score": "7.6",
+            "comment": "Bữa sinh nhật mẹ mình dẫn vào taka chơi sẵn book luôn chỗ này, đúng là không sai lầm mà, đồ ăn ngon lên nhanh, nhất là mấy món bò cắt lát, heo 3 chỉ đồ , cắt mỏng ăn không ngán, phục vụ nhiệt tình mặc dù khách rất đông , giá cũng ok so với đồ ăn , menu lẩu đa dạng nhiều món side order, nước uống tính tiền riêng,không gian sang trọng có view nhìn xuống phố. Quản lý chu đáo lắm ,hỏi ăn ngon không, có món nào không ngon.mình kêu suất 269k, hình như có 299k , có 369k nữa í , thêm được nhiều món, nhiều lẩu3 mẹ con đi ăn hết 1 triệu huhuhuLần sau túi tiền rủng rỉnh lại đi nữa"
+        },
+        {
+            "user": "Lê Đạt",
+            "link": "https://www.foody.vn/thanh-vien/lt7801",
+            "score": "8.4",
+            "comment": "Mình đi 3 người vào 1 ngày thứ 7 :v tuy hơi đông nhưng nhân viên phục vụ nhanh nhẹn , thái độ nhân viên thân thiện với khách hàng , 3 đứa ăn no đến nổi đi ko nổi luôn , không gian tuyệt vời , thức ăn ngon , có thể xin thêm nước lẩu :3"
+        },
+        {
+            "user": "chau le",
+            "link": "https://www.foody.vn/thanh-vien/gregle910",
+            "score": "8.6",
+            "comment": "Mình ăn 3 người ngày T3 được free nước, lẩu luôn chất lượng và dịch vụ tốt, T3 được giảm giá nên tính ra 1 bạn mất 300k."
+        }
+    ]
+}

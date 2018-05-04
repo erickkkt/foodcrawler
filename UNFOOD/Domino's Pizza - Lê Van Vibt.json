@@ -1,0 +1,80 @@
+{
+    "name": "Domino's Pizza - Lê Văn Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/domino-s-pizza-le-van-viet",
+    "address": "196 Lê Văn Việt, P. Tăng Nhơn Phú B,  Quận 9, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "80.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/domino-s-pizza?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "32"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Phạm Giang",
+            "link": "https://www.foody.vn/thanh-vien/giangphamhuong211",
+            "score": "8.4",
+            "comment": "Mình order 2 cái pizza đế vừa là Hawaii với cả Teriyaki Chicken thì cái Teriyaki ngon hơn, nước sốt rất tuyệt. Nhưng ăn size cỡ vừa nên không xi nhê. Nên ăn size cỡ lớn cho đã. Nước uống giá cả tốt nên ok."
+        },
+        {
+            "user": "Thủy Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/thuy123456",
+            "score": "6.2",
+            "comment": "Bánh pizza ở đây khá nhiều loại dễ lựa chọn.minhf khá thích pizza nấm tại đây.tuy nhiên  mình lại thấy bánh hơi khô cứng đặc biệt pizza bò.nois chung  về sản phẩm thì mình thấy tạm thôi chỉ mong bánh mềm hơn tý khô quá ăn nhanh ngán. Quán bố trí cũng đẹp và thoáng. Nhân viên thân thiện dễ tiếp xúc. Bên cạnh đó Domino còn triển khai nhiều chương trình ưu đãi hấp dẫn nữa . Đây là địa điểm thích hợp cho mình và tụi bạn đi ăn. Chúc Domino ngày càng đông khách hơn nha."
+        },
+        {
+            "user": "Huong Chu",
+            "link": "https://www.foody.vn/thanh-vien/huong.info.hcm",
+            "score": "7.0",
+            "comment": "Mình khá bồ kết pizza ở đây vì vị trí cũng thuận tiện, pizza ngon cộng với nhân viên phục vụ nhiệt tình, thỉnh thoảng làm biếng ra ngoài thì order về ăn, dịch vụ giao hàng nhanh và chính xác."
+        },
+        {
+            "user": "Sunny  Phan",
+            "link": "https://www.foody.vn/thanh-vien/uyenthi",
+            "score": "7.2",
+            "comment": "Domino luôn có những chương trình khuyến mãi rất hấp dẫn. Pizza cũng khá là vừa ăn. Trong các vị mình từng ăn thì có lẽ pizza hải sản là ok nhất. Bánh mì bơ tỏi hơi mặm và nhiều dầu. Không gian quán cũng khá là rộng rãi. Nhân viên khi order cũng tư vấn rất nhiệt tình. Chỗ để xe cũng thoải mái."
+        },
+        {
+            "user": "Le Nhat Minh",
+            "link": "https://www.foody.vn/thanh-vien/daudinh91",
+            "score": "8.0",
+            "comment": "So với pizza hut thì ăn pizza ở đây không sang chảnh bằng nhưng nó lại có vẻ đúng chất pizza hơn ( ăn bằng tay ) chất lượng ngon , giá ổn nhân viên tốt mấy chú bảo vệ dễ thương . Vị trí dễ tìm . Không chê điều gì"
+        }
+    ]
+}

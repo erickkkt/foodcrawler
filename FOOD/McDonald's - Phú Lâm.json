@@ -1,0 +1,731 @@
+{
+    "name": "McDonald's - Phú Lâm",
+    "link": "https://www.foody.vn/ho-chi-minh/mcdonald-s-phu-lam",
+    "address": "718Bis Kinh Dương Vương,  Quận 6, TP. HCM",
+    "open_time": "Thứ 6 - Thứ 7  00:00 - 23:59",
+    "price_range": "30.000đ - 80.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-au"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/mc-donald-s?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "79"
+    },
+    "foods": [
+        {
+            "name": "Sausage McMuffin with Egg",
+            "price": "45,000(đ)",
+            "total_orders": "282"
+        },
+        {
+            "name": "Egg McMuffin",
+            "price": "39,000(đ)",
+            "total_orders": "125"
+        },
+        {
+            "name": "Sausage McMuffin Deluxe",
+            "price": "39,000(đ)",
+            "total_orders": "99"
+        },
+        {
+            "name": "Chicken Muffin",
+            "price": "39,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Canadian McMuffin Deluxe",
+            "price": "39,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Set Sausage McMuffin with Egg",
+            "price": "79,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "Breakfast Supreme",
+            "price": "110,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Sausage McMuffin with Egg",
+            "price": "45,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Set Egg McMuffin",
+            "price": "74,000(đ)",
+            "total_orders": "71"
+        },
+        {
+            "name": "Big Breakfast",
+            "price": "75,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "2 Hotcakes (No sausage)",
+            "price": "39,000(đ)",
+            "total_orders": "62"
+        },
+        {
+            "name": "Set Breakfast Supreme",
+            "price": "129,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Chicken Muffin",
+            "price": "39,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Set Chicken Muffin",
+            "price": "74,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Set Big Breakfast",
+            "price": "93,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "3 Hotcakes (No sausage)",
+            "price": "49,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "2 Hotcakes (With sausage)",
+            "price": "55,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "3 Hotcakes (With sausage)",
+            "price": "65,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Set Sausage McMuffin Deluxe",
+            "price": "74,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Canadian McMuffin Deluxe",
+            "price": "39,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Set Canadian McMuffin Deluxe",
+            "price": "74,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Egg McMuffin",
+            "price": "39,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "2 Hotcakes (With sausage & drink)",
+            "price": "70,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "3 Hotcakes (With sausage & drink)",
+            "price": "80,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sausage McMuffin Deluxe",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "2 Hotcakes (With drink)",
+            "price": "54,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "3 Hotcakes (With drink)",
+            "price": "64,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Big Mac™",
+            "price": "65,000(đ)",
+            "total_orders": "1470"
+        },
+        {
+            "name": "Double Cheeseburger",
+            "price": "55,000(đ)",
+            "total_orders": "1153"
+        },
+        {
+            "name": "Cheeseburger Deluxe",
+            "price": "45,000(đ)",
+            "total_orders": "843"
+        },
+        {
+            "name": "McRoyal™ Deluxe",
+            "price": "75,000(đ)",
+            "total_orders": "375"
+        },
+        {
+            "name": "McRoyal™ with Cheese",
+            "price": "65,000(đ)",
+            "total_orders": "345"
+        },
+        {
+            "name": "6 Chicken McNuggets™",
+            "price": "45,000(đ)",
+            "total_orders": "1367"
+        },
+        {
+            "name": "3 Chicken McWings™",
+            "price": "65,000(đ)",
+            "total_orders": "1018"
+        },
+        {
+            "name": "McSpicy™ Deluxe",
+            "price": "75,000(đ)",
+            "total_orders": "582"
+        },
+        {
+            "name": "McChicken™",
+            "price": "55,000(đ)",
+            "total_orders": "277"
+        },
+        {
+            "name": "McChicken™ Deluxe",
+            "price": "65,000(đ)",
+            "total_orders": "273"
+        },
+        {
+            "name": "Fillet-O-Fish™",
+            "price": "45,000(đ)",
+            "total_orders": "609"
+        },
+        {
+            "name": "Samurai Burger",
+            "price": "55,000(đ)",
+            "total_orders": "200"
+        },
+        {
+            "name": "Ninja Burger",
+            "price": "55,000(đ)",
+            "total_orders": "149"
+        },
+        {
+            "name": "Set Big Mac™",
+            "price": "89,000(đ)",
+            "total_orders": "1267"
+        },
+        {
+            "name": "Set Double Cheeseburger",
+            "price": "94,000(đ)",
+            "total_orders": "1232"
+        },
+        {
+            "name": "Set Ninja Burger",
+            "price": "79,000(đ)",
+            "total_orders": "803"
+        },
+        {
+            "name": "Set Cheeseburger Deluxe",
+            "price": "69,000(đ)",
+            "total_orders": "734"
+        },
+        {
+            "name": "Set McSpicy™ Deluxe",
+            "price": "99,000(đ)",
+            "total_orders": "706"
+        },
+        {
+            "name": "Set McRoyal™ Deluxe",
+            "price": "99,000(đ)",
+            "total_orders": "543"
+        },
+        {
+            "name": "Set 6 chicken McNuggets™",
+            "price": "69,000(đ)",
+            "total_orders": "511"
+        },
+        {
+            "name": "Set 3 Chicken McWings",
+            "price": "89,000(đ)",
+            "total_orders": "462"
+        },
+        {
+            "name": "Set McRoyal™ with Cheese",
+            "price": "89,000(đ)",
+            "total_orders": "411"
+        },
+        {
+            "name": "Set Filet-O-Fish™",
+            "price": "69,000(đ)",
+            "total_orders": "376"
+        },
+        {
+            "name": "Set McChicken™",
+            "price": "79,000(đ)",
+            "total_orders": "331"
+        },
+        {
+            "name": "Set McChicken™ Deluxe",
+            "price": "89,000(đ)",
+            "total_orders": "309"
+        },
+        {
+            "name": "Set Samurai Burger",
+            "price": "79,000(đ)",
+            "total_orders": "122"
+        },
+        {
+            "name": "Grilled pork rice",
+            "price": "35,000(đ)",
+            "total_orders": "283"
+        },
+        {
+            "name": "Grilled pork rice with egg",
+            "price": "49,000(đ)",
+            "total_orders": "266"
+        },
+        {
+            "name": "McSpicy™ chicken rice",
+            "price": "75,000(đ)",
+            "total_orders": "176"
+        },
+        {
+            "name": "Chicken rice",
+            "price": "35,000(đ)",
+            "total_orders": "169"
+        },
+        {
+            "name": "Kid Set",
+            "price": "60,000(đ)",
+            "total_orders": "910"
+        },
+        {
+            "name": "World Famous Fries",
+            "price": "15,000(đ)",
+            "total_orders": "1983"
+        },
+        {
+            "name": "9 Chicken McNuggets™",
+            "price": "60,000(đ)",
+            "total_orders": "1088"
+        },
+        {
+            "name": "20 Chicken McNuggets™",
+            "price": "110,000(đ)",
+            "total_orders": "938"
+        },
+        {
+            "name": "6 Chicken McWings™",
+            "price": "120,000(đ)",
+            "total_orders": "714"
+        },
+        {
+            "name": "Cheeseburger",
+            "price": "29,000(đ)",
+            "total_orders": "709"
+        },
+        {
+            "name": "4 Chicken McNuggets",
+            "price": "29,000(đ)",
+            "total_orders": "584"
+        },
+        {
+            "name": "10 Chicken McWings™",
+            "price": "170,000(đ)",
+            "total_orders": "491"
+        },
+        {
+            "name": "Hamburger",
+            "price": "25,000(đ)",
+            "total_orders": "334"
+        },
+        {
+            "name": "Chicken burger",
+            "price": "25,000(đ)",
+            "total_orders": "225"
+        },
+        {
+            "name": "Pork burger",
+            "price": "25,000(đ)",
+            "total_orders": "128"
+        },
+        {
+            "name": "Apple Pie",
+            "price": "20,000(đ)",
+            "total_orders": "1175"
+        },
+        {
+            "name": "Coca-Cola® (Large)",
+            "price": "25,000(đ)",
+            "total_orders": "491"
+        },
+        {
+            "name": "Coca-Cola® (Medium)",
+            "price": "20,000(đ)",
+            "total_orders": "266"
+        },
+        {
+            "name": "Lemon Tea (Large)",
+            "price": "25,000(đ)",
+            "total_orders": "228"
+        },
+        {
+            "name": "Coca-Cola® (Regular)",
+            "price": "15,000(đ)",
+            "total_orders": "200"
+        },
+        {
+            "name": "Milo™",
+            "price": "20,000(đ)",
+            "total_orders": "168"
+        },
+        {
+            "name": "Coca-Cola® Light",
+            "price": "25,000(đ)",
+            "total_orders": "101"
+        },
+        {
+            "name": "Sprite® (Large)",
+            "price": "25,000(đ)",
+            "total_orders": "83"
+        },
+        {
+            "name": "Lemon Tea (Medium)",
+            "price": "20,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Lemon Tea (Regular)",
+            "price": "15,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Fanta® (Large)",
+            "price": "25,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Sprite® (Regular)",
+            "price": "15,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Sprite® (Medium)",
+            "price": "20,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Dasani® Water",
+            "price": "20,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Fanta® (Regular)",
+            "price": "15,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Premium Roast Coffee (Medium)",
+            "price": "25,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Fanta® (Medium)",
+            "price": "20,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Premium Roast Coffee (Regular)",
+            "price": "20,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Sữa tươi TH TRUE MILK",
+            "price": "20,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Teppy™ Orange Drink",
+            "price": "20,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Latte",
+            "price": "40,000(đ)",
+            "total_orders": "103"
+        },
+        {
+            "name": "Cappuccino",
+            "price": "40,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Hot chocolate",
+            "price": "40,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Americano",
+            "price": "30,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Macchiato",
+            "price": "25,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mocha",
+            "price": "50,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Flat white",
+            "price": "40,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Espresso",
+            "price": "25,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Hot tea",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hot/ Iced Vietnamese Coffee",
+            "price": "30,000(đ)",
+            "total_orders": "133"
+        },
+        {
+            "name": "Iced Chocolate",
+            "price": "55,000(đ)",
+            "total_orders": "91"
+        },
+        {
+            "name": "Iced Latte",
+            "price": "50,000(đ)",
+            "total_orders": "82"
+        },
+        {
+            "name": "Iced Americano",
+            "price": "45,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Chocolate frappe",
+            "price": "70,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Caramel frappe",
+            "price": "70,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Mocha frappe",
+            "price": "70,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Latte frappe",
+            "price": "70,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Iced houjicha milktea",
+            "price": "70,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Genmaicha (iced)",
+            "price": "45,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Frozen houjicha milktea",
+            "price": "80,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Genmaicha (hot)",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Hot houjicha milktea",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Passion fruit chiller",
+            "price": "65,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Kiwi chiller",
+            "price": "65,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Matcha frappe",
+            "price": "75,000(đ)",
+            "total_orders": "83"
+        },
+        {
+            "name": "Ice matcha latte",
+            "price": "65,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Hot matcha latte",
+            "price": "55,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Butter croissant",
+            "price": "30,000(đ)",
+            "total_orders": "141"
+        },
+        {
+            "name": "Chocolate brownie",
+            "price": "30,000(đ)",
+            "total_orders": "128"
+        },
+        {
+            "name": "Chocolate chip cookie",
+            "price": "25,000(đ)",
+            "total_orders": "124"
+        },
+        {
+            "name": "Baked cheesecake",
+            "price": "35,000(đ)",
+            "total_orders": "101"
+        },
+        {
+            "name": "Blueberry cheesecake",
+            "price": "35,000(đ)",
+            "total_orders": "95"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "55,000(đ)",
+            "total_orders": "77"
+        },
+        {
+            "name": "Banana muffin",
+            "price": "30,000(đ)",
+            "total_orders": "69"
+        },
+        {
+            "name": "Yogurt lemon cheesecake",
+            "price": "35,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Coconut macaroon (A pair)",
+            "price": "25,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Coconut macaroon (Single)",
+            "price": "15,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Hokey pokey cheesecake",
+            "price": "55,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Raspberry mousse cake",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Rum chocolate truffles",
+            "price": "55,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Mango mousse cake",
+            "price": "35,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Greentea muffin",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Trí Đạt Lê Quang",
+            "link": "https://www.foody.vn/thanh-vien/lequangtridat2000",
+            "score": "7.2",
+            "comment": "Quán dễ tìm, nằm trước Galaxy Kinh Dương Vương nên rất tiện cho việc xem phim xong muốn kiếm gì đó ăn. Mình có gọi 1 phần Cheeseburger Deluxe với mua them khoai và nước, Quán phục vụ nhanh và nhân viên thân thiện, phần cheese burger có miếng bò xay rất mềm, cắn vào muốn tan trong miệng luôn, phô mai thì béo và hơi chảy ra, khoai thì nóng giòn (nhưng không ngon = khoai Burger King), nước thì chỗ nào cũng như chỗ nào, nhìn chung đồ ăn hơi mắc so với nhưng quán fast food khác nhưng cũng đi kèm với chất lượng"
+        },
+        {
+            "user": "Phương Nghi",
+            "link": "https://www.foody.vn/thanh-vien/truongphuongnghi05",
+            "score": "9.0",
+            "comment": "🏠 Ghé Mc sau khi xem phim ở Galaxy. Chi nhánh ở đây thì cũng to và hiện đại như mọi chi nhánh khác😘 Có hệ thống DriveThru cho ai đang gấp, tiện lắm! Khu parking mà chụp mấy pô sống ảo thì như Tây vậy á😂✔ Không gian bên trong được decor hiện đại từ bên ngoài vào trong cho tới tầng lầu. Có cái bàn LED nhìn cool ngầu dễ sợ. 🍖 Đồ ăn ở đây là nhất rồi. Tới đây là phải kêu một phần Happy Meal👍, có cả hamburger, khoai tây, nước (Trong McSaver ý) và một phần đồ chơi nữa. Mình được chiếc xe trong Despicable me 3😹. Khoai tây chiên và burger thì khỏi phải bàn rồi. Đặc trưng mà chỉ McDonald's mới có được🍟( Cộng thêm việc offer tùm lum thứ sốt ngon). 🍪Ngoài ra, kem ở đây cũng ngon không kém, vị béo béo sữa, lạ lạ nhưng tuyệt vời, ăn là ghiền luôn🍦. McCafé có Tiramisu ăn được, có vị kem cheese ngậy ngậy kem thêm bột cacao giảm vị ngán. Tuy giá hơi chát nhưng chất lượng tốt😃👤 Staff thân thiện, có chị nhiệt tình đem giùm 4 cây kem lên giúp mình nữa. Lúc đó loay hoay mãi may có chị. 😊♥ Từ hồi ăn McDonald's là bỏ hẳn Lotteria với KFC. Ngon hơn từ món chính cho tới phụ. Mai mốt tới sẽ thử Frappe với McFlurry lừng danhhhh😍"
+        },
+        {
+            "user": "Liam Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/mrlong1809",
+            "score": 0,
+            "comment": "_ Đi xem phim tại Galaxy, trời mưa nên sẵn tiện ghé vào ăn luôn._ Không gian ở đây rộng và thoáng, có outside và inside luôn._ Nhưng điều tệ nhất ở đây chính là nhân viên phục vụ. Lúc mình cũng bạn mình, lúc đó ko đông khách lắm, mình order mà nhân viên nói quá nhanh như kiểu gấp gấp ấy, có vẻ không thân thiện, mặt lạnh ngắt không một nụ cười, tư vấn cũng chả nhiệt tình. Nên mình cũng order lẹ rồi đi. 2 đứa ăn xong, quay lại order tiếp món khác thì gặp nhân viên khác, cũng thái độ y chang bạn kia. Mình ko thể hiểu nỗi, ko lẽ nhân viên ở đây 1 khuôn mẫu như vậy à hic hic._ Mong quán rút kinh nghiệm."
+        },
+        {
+            "user": "Đăng Nghị Kiên mc",
+            "link": "https://www.foody.vn/thanh-vien/dangnk",
+            "score": "7.2",
+            "comment": "Đói quá 3ae tiện đường về ghé Mc ăn cho lẹ 😂Hamburger ở Mc ăn ngon khỏi bàn chỉ sau Burger King thôii =))) Thích apple pie ở Mc nhất luôn, giòn giòn, thơm thơm 👍 khoai tây chiên và kem cây cũng ngon đềuĐúng chuẩn fast food, tiện cái là Mc lúc nào cũng thiết kế lối dành cho car cả, lâu lâu ngồi trên order rồi đi học thôiii 😁 còn ko thôi ở phía sau có rạp galaxy xem phim xong đói bụng ghé vào luônn hihii"
+        },
+        {
+            "user": "Tuấnn Quốc",
+            "link": "https://www.foody.vn/thanh-vien/tunnquc",
+            "score": "8.8",
+            "comment": "Thương hiệu này đã quá quen thuộc và nổi tiếng rồi. Chi nhánh này cũng rất to như các chỗ khác. Nhìn vô choáng ngợp luôn. Đông nữa. Nhân viên phục vụ khá chuyên nghiệp.Ở đây thì mình thấy ăn hamburger là ngon nhất. Cái bự cái nhỏ có đủ luôn. Ăn 1 cái bự là no lắm rồi."
+        }
+    ]
+}

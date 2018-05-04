@@ -1,0 +1,76 @@
+{
+    "name": "Sakura Việt Nam - Sushi Nhật Bản",
+    "link": "https://www.foody.vn/ho-chi-minh/sakura-viet-nam-sushi-nhat-ban",
+    "address": "505 Sư Vạn Hạnh,  Quận 10, TP. HCM",
+    "open_time": "11:00 AM - 10:30 PM",
+    "price_range": "9.000đ - 132.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "400"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Bùi Hoàng Việt",
+            "link": "https://www.foody.vn/thanh-vien/buihoangviet0x",
+            "score": "7.4",
+            "comment": "Quán ăn nằm vị trí hơi đông đúc và chật hẹp nên có xíu khó chịu về vị trí, chỗ giữ xe là khó chịu nhất, trong không gian quán là tốt, trang trí rất “nhật bổn”, giá cả ở đây ổn nhưng best nhất là set lunch cực kì hợp túi tiền vs mọi người, nước uống, đồ ăn chất lượng và công phu chỉ với 40-50k, chắc chắn mình sẽ quay lại"
+        },
+        {
+            "user": "Quỳnh Hương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/liznguyen1810",
+            "score": "7.0",
+            "comment": "Vốn là con cuồng mấy món Hàn và Nhật nên ở đâu có mình cũng ghé thử để cảm nhận và Sakura là quán mình khá hài lòng. Quán có không gian nhỏ thôi nhưng khá là ấm cúng. Đồ ăn làm hơi lâu phải đợi gần nửa tiếng mới có. Trong đồ ăn thì bánh xèo nhật bản là ngon nhất. Bánh giòn và thơm lắm. Còn sushi theo mình thì bình thường thôi. Mình thích ăn bên aeon hơn vì có thể chọn nhiều loại còn bên này muốn chọn nhiều loại khác nhau thì giá khá là mắc. Tóm lại là nếu đi ăn đông thì nên ghé vì có thể thưởng thức được nhiều món chứ đi ăn 1 mình thì hơi uổng tiền."
+        },
+        {
+            "user": "S D",
+            "link": "https://www.foody.vn/thanh-vien/duongthao297",
+            "score": 0,
+            "comment": "Bữa trước mình có đến ăn vào đầu tháng 10 luôn. Phải nói càng ngày càng kém chất lượng. Ko biết là do nhà hàng hay bữa đó mình xui nữa. Cơm thì NHÃO toàn tập ăn ngán muốn chết. Mình gọi loại có phô mai ở trên, tôm chiên ở trong, chiên tôm gì mà bột mềm xèo dai nhách ko có độ giòn + vs cơm thôi thôi cũng ráng nuốt cho hết để bỏ mứa ko tốt. Còn lươn thì còn xương, ko hiểu cắt làm sao nữa? Gừng chua ôi thôi như đồ hư hay sao đó, dỡ cực kì. Chỉ đc cái phục vụ ok thôi, còn lại TỆ !!!"
+        },
+        {
+            "user": "Thục Nghi Lưu",
+            "link": "https://www.foody.vn/thanh-vien/thucnghi5594",
+            "score": "6.2",
+            "comment": "Đồ ăn cũng bình thường, nếu nói đúng ra thì 1 set sushi 99k như vậy là mắc và không được ngon lắm. Mì udon xào hải sản nêm không đậm đà, cứ hơi nhạt nhạt thế nào ấy. Bánh xèo Nhật là món thấy ăn ổn và ngon nhất trong 3 món mình đã gọi. Chắc sẽ không quay lại."
+        },
+        {
+            "user": "Quynh Le",
+            "link": "https://www.foody.vn/thanh-vien/quynhle100599",
+            "score": "6.6",
+            "comment": "Quán ở vị trí dễ thấy, không gian quán khá thoải mái, thức ăn lê nhanh, khá ngon (đặc biệt là lươn)."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Hotpot Story - Quang Trung",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-quang-trung",
+    "address": "Tầng Trệt, 16 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",
+    "open_time": "10:00 - 22:00",
+    "price_range": "150.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-a"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "9.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "1"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Mina Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nguyen.uyen1610",
+            "score": "8.2",
+            "comment": "Buffet lẩu có nhiều mức giá, nhóm mình chọn mức 269k để có chả cá Nhật thần thánh. Quầy buffet nhiều món, đặc biệt có mấy món như ốc xào Thái siêu ngon 👍"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Banana Chuối 7 Màu - Bingsu & Trái Cây",
+    "link": "https://www.foody.vn/ho-chi-minh/banana-chuoi-7-mau",
+    "address": "35 Đông Hồ,  Quận 8, TP. HCM",
+    "open_time": "07:30 AM - 10:30 PM",
+    "price_range": "15.000đ - 75.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "50"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "thanh thuy dinh thi",
+            "link": "https://www.foody.vn/thanh-vien/dinhthithanhthuy",
+            "score": "7.0",
+            "comment": "Vô tình chạy qua đây thấy cái quán này mới biết là quán dời địa điểm vô đây, vì hồi hổm qua bên kia thấy dẹp rùi, quán bên này trang trí ít hơn, đồ uống vẫn bình dân."
+        },
+        {
+            "user": "Josep Minh Khôi",
+            "link": "https://www.foody.vn/thanh-vien/xinchoemduociuanh",
+            "score": "7.0",
+            "comment": "Quán giải khát này vừa có sự kết hợp của teen lẫn quán cf cóc nên thấy nó lạ lạ sao sao khó diễn tả+++KHÔNG GIAN: Nhìn sạch sẽ sáng sủa, nhưng mà hơi ít quạt máy +++MÓN ĂN: Trà đào uống được, ko ấn tượng cũng ko thất vọng, miếng đào ổn. Trà dâu tằm thì ngon hơn, có kêu thêm dĩa khoai chiên ngồi nhâm nhi, soda uống cũng tạm đc+++GIÁ CẢ: giá khá rẻ 4 đứa mà hết tầm 50k/1ng thôi, phù hợp với túi tiền SV ăn vặt giải khát+++PHỤC VỤ: thấy ăn mặc hơi kì xíu."
+        },
+        {
+            "user": "Hoàng Lê",
+            "link": "https://www.foody.vn/thanh-vien/love_storm1705",
+            "score": "6.2",
+            "comment": "Quán nằm trên đường hơi tối , quán chắc mấy bạn nhỏ nhỏ mở nên nhìn các món ăn chưa chuyên nghiệp , giống ở nhà làm ăn vậy . Vào quán gọi đa số món là hết hay chưa có nguyên liệu . Phô mai que chưa có vị béo , phô mai việt quất uống được . Kem thì béo nhưng mau tan , tính giá vậy hơi cao . Phục vụ thì có bé dễ thương , có bé cảm giác khó chịu"
+        },
+        {
+            "user": "Quân Jason",
+            "link": "https://www.foody.vn/thanh-vien/jollyhamstershop",
+            "score": "7.2",
+            "comment": "Lâu lắm rồi ko ghé thì nghe tin quán chuyển sang địa chỉ mới, theo dõi page thì biết là sang chỗ Đông Hồ này, thế nên là tranh thủ ghé ủng hộ tiếp+++KHÔNG GIAN: Rộng rãi và sáng sủa hơn chỗ cũ, duy là quạt hơi ít nên mình thấy chưa mát mẻ lắm+++MENU: Cũng đa dạng món, đang có combo 2li 1lit giá chỉ 50k cũng khá rẻTrà đào uống khá ổn, miếng đào giòn ngọt, ngoài ra thì tụi mình còn kêu thêm mấy li khác để thưởng thức nữa+++GÍA CẢ: Khá là rẻ phù hợp cho SV"
+        },
+        {
+            "user": "Gemini Star",
+            "link": "https://www.foody.vn/thanh-vien/geministar",
+            "score": "7.6",
+            "comment": "Quán di dời địa điểm từ Hòa Hảo Q10 sang Đông Hồ Q8 rồi. Khu bên đây gần cầu Chánh Hưng, khá yên tĩnh.Cách bày trí bên đây đơn giản hơn so với chỗ cũ, nhưng menu dễ nhìn hơn.Đi có 2 đưa mà đang có chương trình mua 1 ly trà đào 1 lít tặng 1 ly soda nữa, tham nên gọi uống thấy bà luôn. Ly to quá mà, tính ra có 50k, hỏi sao k gọi chứ ><"
+        }
+    ]
+}

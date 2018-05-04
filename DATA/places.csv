@@ -1,0 +1,439 @@
+﻿placeID,name,link,address,open_time,price_range,average_score,total_review
+1,7 Kỳ Quan - Dimsum & Món Hoa,https://www.foody.vn/ho-chi-minh/7-ky-quan-nha-hang-cafe,"Số 12 Đường 26, P. 11,  Quận 6, TP. HCM",08:30 AM - 10:30 PM,40.000đ - 1.100.000đ,7.2,65
+2,Amigo Hữu Nghị Restaurant - Beefsteak & Grill,https://www.foody.vn/ho-chi-minh/amigo-restaurant,"55 - 57 Nguyễn Huệ, P. Bến Nghé,  Quận 1, TP. HCM",11:00 AM - 11:00 PM,200.000đ - 880.000đ,8.0,53
+3,Ba Con Sóc - BBQ & Sushi - Lê Quang Định,https://www.foody.vn/ho-chi-minh/ba-con-soc-bbq-sushi,"82 - 84 Lê Quang Định, P. 14,  Quận Bình Thạnh, TP. HCM",,30.000đ - 165.000đ,7.0,450
+4,Banana Chuối 7 Màu - Bingsu & Trái Cây,https://www.foody.vn/ho-chi-minh/banana-chuoi-7-mau,"35 Đông Hồ,  Quận 8, TP. HCM",07:30 AM - 10:30 PM,15.000đ - 75.000đ,7.2,50
+5,Baoz Dimsum Restaurant - The Garden Mall,https://www.foody.vn/ho-chi-minh/baoz-dimsum-restaurant-the-garden-mall,"Tầng Trệt The Garden Mall, 190 Hồng Bàng, P. 12,  Quận 5, TP. HCM",09:00 - 23:00,50.000đ - 200.000đ,6.6,21
+6,Baoz Dimsum Restaurant,https://www.foody.vn/ho-chi-minh/baoz-dimsum-resraurant,"86 - 88 Nguyễn Tri Phương, P. 7,  Quận 5, TP. HCM",04:00 PM - 11:00 PM,50.000đ - 200.000đ,7.1,557
+7,Beefsteak Hai Con Bò - Thống Nhất,https://www.foody.vn/ho-chi-minh/hai-con-bo-thong-nhat,"30 Thống Nhất,  Quận Thủ Đức, TP. HCM",Thứ 7 - CN & Lễ  06:30 AM - 10:30 PM,65.000đ - 110.000đ,6.9,77
+8,Beefsteak Titi - Vũ Huy Tấn,https://www.foody.vn/ho-chi-minh/beefsteak-titi,"67/4/118 Vũ Huy Tấn, P. 3,  Quận Bình Thạnh, TP. HCM",10:00 AM - 09:30 PM,55.000đ - 110.000đ,6.7,785
+9,BibimBap - Korean Food,https://www.foody.vn/ho-chi-minh/bibimbap-korean-food,"51 Đường D5, P. 25,  Quận Bình Thạnh, TP. HCM",09:30 AM - 09:30 PM,30.000đ - 145.000đ,6.8,161
+10,Birdlove Cafe - Nguyễn Hữu Cầu,https://www.foody.vn/ho-chi-minh/birdlove-cafe-nguyen-huu-cau,"55/5 Nguyễn Hữu Cầu, xã Trung Chánh,  Hóc Môn, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 50.000đ,7.3,41
+11,Boom Dak - Nhà Hàng Ẩm Thực Gà Hàn Quốc,https://www.foody.vn/ho-chi-minh/nha-hang-am-thuc-ga-boom-dak,"16 Lê Quý Đôn,  Quận 3, TP. HCM",Trưa - Tối  11:00 AM - 10:00 PM,50.000đ - 490.000đ,7.4,584
+12,Buffet Béo 99k,https://www.foody.vn/ho-chi-minh/buffet-beo-99k,"6 Tăng Nhơn Phú, P. Phước Long B,  Quận 9, TP. HCM",,75.000đ - 99.000đ,7.8,22
+13,Buffet Sea - Parkson Flemington,https://www.foody.vn/ho-chi-minh/buffet-sea,"Tầng B1 Parkson Flemington,184 Lê Đại Hành, P. 15,  Quận 11, TP. HCM",,90.000đ - 209.000đ,6.6,107
+14,Buffet Windsor - Cafe Central An Dong - Windsor Plaza,https://www.foody.vn/ho-chi-minh/buffet-windsor-cafe-central-an-dong-windsor-plaza,"Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",Ala carte menu  06:00 AM - 10:00 PM,449.000đ - 853.000đ,7.4,141
+15,Bunny Garden Grill - Vườn Nướng Chú Thỏ,https://www.foody.vn/ho-chi-minh/bunny-garden-grill-vuon-nuong-chu-tho,"Mũi Tàu Quốc Lộ 22 - Hương Lộ 2,  Củ Chi, TP. HCM",09:00 AM - 11:00 PM,45.000đ - 250.000đ,8.2,4
+16,Busan Korean Food - Món Hàn Quốc - Đinh Tiên Hoàng,https://www.foody.vn/ho-chi-minh/busan-korean-food-mon-an-han,"5 Đinh Tiên Hoàng,  Quận Bình Thạnh, TP. HCM",10:00 - 22:30,40.000đ - 150.000đ,7.2,316
+17,Buzza Pizza - Emart,https://www.foody.vn/ho-chi-minh/buzza-pizza-e-mart-go-vap,"Tầng trệt siêu thị Emart - 168 Phan Văn Trị, P. 5, Q.Gò Vấp,  Quận Gò Vấp, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 200.000đ,7.9,240
+18,Buzza Pizza - Nguyễn Trung Trực,https://www.foody.vn/ho-chi-minh/buzza-pizza,"5 - 7 - 9 Nguyễn Trung Trực,  Quận 1, TP. HCM",10:00 AM - 10:30 PM,49.000đ - 199.000đ,7.9,829
+19,Bà Bắc - Bánh Tráng Cuốn Trộn,https://www.foody.vn/ho-chi-minh/ba-bac-banh-trang-cuon-tron,"40 Đường Số 11,  Quận 4, TP. HCM",10:00 AM - 10:00 PM,10.000đ - 33.000đ,6.9,283
+20,Bánh Bao Thọ Phát - Nguyễn Tri Phương,https://www.foody.vn/ho-chi-minh/banh-bao-tho-phat,"78 Nguyễn Tri Phương, P. 7,  Quận 5, TP. HCM",05:00 AM - 11:59 PM,15.000đ - 33.000đ,6.8,393
+21,Bánh Flan Quen Mà Lạ,https://www.foody.vn/ho-chi-minh/banh-flan-quen-ma-la,"195 - 210 Lê Quang Sung, P. 6,  Quận 6, TP. HCM",,6.000đ - 15.000đ,7.2,61
+22,Bánh Tráng Kẹp Dì Hoa,https://www.foody.vn/ho-chi-minh/banh-trang-kep-di-hoa,"209/105 Tôn Thất Thuyết, P. 3,  Quận 4, TP. HCM",,5.000đ - 25.000đ,6.9,158
+23,Bánh Tráng Nướng C002 - Đinh Tiên Hoàng,https://www.foody.vn/ho-chi-minh/banh-trang-nuong-c002-dinh-tien-hoang,"002 Lô C, Chung Cư 23/49 Đinh Tiên Hoàng, P. 3,  Quận Bình Thạnh, TP. HCM",,10.000đ - 23.000đ,7.1,239
+24,Bánh Tráng Trộn Chú Viên,https://www.foody.vn/ho-chi-minh/banh-trang-tron-chu-vien,"38 Nguyễn Thượng Hiền, P. 5,  Quận 3, TP. HCM",01:00 PM - 07:00 PM,10.000đ - 22.000đ,6.6,639
+25,Bánh Xèo Cô Thêm - Song Hành,https://www.foody.vn/ho-chi-minh/banh-xeo-co-them-tran-minh-quyen,"154 Song Hành,  Hóc Môn, TP. HCM",10:00 AM - 09:00 PM,30.000đ - 72.000đ,6.3,31
+26,Béo Béo - Gà Cay Phô Mai,https://www.foody.vn/ho-chi-minh/beo-beo-ga-cay-pho-mai,"85 Chấn Hưng, P. 6,  Quận Tân Bình, TP. HCM",,5.000đ - 50.000đ,6.8,231
+27,Bò Tơ Trường Lạc,https://www.foody.vn/ho-chi-minh/bo-to-truong-lac,"Trung Lập,  Củ Chi, TP. HCM",10:30 AM - 09:30 PM,100.000đ - 220.000đ,7.7,13
+28,Bò Tơ Tây Ninh Năm Sánh - Phạm Hùng,https://www.foody.vn/ho-chi-minh/bo-to-tay-ninh-nam-sanh-pham-hung,"C3/21T  Phạm Hùng,  Quận 8, TP. HCM",10:00 AM - 11:00 PM,50.000đ - 200.000đ,7.6,54
+29,Bò Tơ Vĩnh Xuân ,https://www.foody.vn/ho-chi-minh/bo-to-vinh-xuan,"QL 22 Tân Thông Hội,  Củ Chi, TP. HCM",08:00 AM - 10:00 PM,80.000đ - 100.000đ,7.6,6
+30,Bò Tơ Xuân Anh - Củ Chi,https://www.foody.vn/ho-chi-minh/bo-to-xuan-anh-cu-chi,"79 Tỉnh Lộ 8, Ấp Tây, Xã An Hội,  Củ Chi, TP. HCM",08:00 AM - 10:00 PM,100.000đ - 220.000đ,6.6,10
+31,Bò Tơ Xuân Đào - Bò Tơ Củ Chi,https://www.foody.vn/ho-chi-minh/bo-to-xuan-dao,"KP2, Quốc Lộ 22,  Củ Chi, TP. HCM",07:00 AM - 09:00 PM,50.000đ - 220.000đ,7.0,49
+32,Bún Đậu Homemade - Hồng Hà,https://www.foody.vn/ho-chi-minh/bun-dau-mam-tom,"6 Hồng Hà, P. 2,  Quận Tân Bình, TP. HCM",10:00 AM - 10:00 PM,30.000đ - 110.000đ,6.9,482
+33,Bún Lá,https://www.foody.vn/ho-chi-minh/bun-la,"976 Lê Văn Lương, Xã Phước Kiểng,  Nhà Bè, TP. HCM",10:00 AM - 10:00 PM,25.000đ - 45.000đ,7.8,12
+34,Cafe Central Nguyen Hue - Sunwah Tower,https://www.foody.vn/ho-chi-minh/cafe-central-nguyen-hue,"Sun Wah Tower, 115 Nguyễn Huệ,  Quận 1, TP. HCM",07:00 AM - 11:59 PM,50.000đ - 330.000đ,6.9,61
+35,Cafe Comma - Cafe Sách & Boardgame,https://www.foody.vn/ho-chi-minh/comma-cafe,"653 Lê Văn Lương, P. Tân Phong,  Quận 7, TP. HCM",09:00 AM - 10:00 PM,25.000đ - 70.000đ,8.1,191
+36,Carrot - Cần Giờ,https://www.foody.vn/ho-chi-minh/carrot-can-gio,"Khu Bãi Biển 30 Tháng 4, X. Long Hòa,  Cần Giờ, TP. HCM",08:00 AM - 10:30 PM,100.000đ - 275.000đ,8.8,2
+37,Chao Chicken - Gà Rán Hàn Quốc,https://www.foody.vn/ho-chi-minh/chaos-chicken-ga-ran-han-quoc,"S43 - 1 Đường Số 6, Khu Hưng Vượng 2, Phú Mỹ Hưng,  Quận 7, TP. HCM",11:00 AM - 10:00 PM,50.000đ - 150.000đ,6.9,425
+38,Chilli - Lẩu Nướng Tự Chọn,https://www.foody.vn/ho-chi-minh/lau-nuong-chilli,"232 Vĩnh Khánh,  Quận 4, TP. HCM",,50.000đ - 100.000đ,7.0,440
+39,Cháo Vịt Út Be,https://www.foody.vn/ho-chi-minh/chao-vit-ut-be,"237 Lê Văn Lương, P. Phước Kiểng,  Nhà Bè, TP. HCM",11:30 AM - 03:30 PM,40.000đ - 200.000đ,7.5,8
+40,Chè Khúc Bạch Đỗ Ngọc,https://www.foody.vn/ho-chi-minh/che-khuc-bach-do-ngoc,"666 Sư Vạn Hạnh,  Quận 10, TP. HCM",11:00 AM - 10:30 PM,18.000đ - 28.000đ,6.9,464
+41,Chú 5 Lùn - Quán Hải Sản,https://www.foody.vn/ho-chi-minh/chu-5-lun-quan-hai-san,"Ấp Thạnh Bình, Xã Đảo Thạnh An,  Cần Giờ, TP. HCM",07:00 - 22:00,10.000đ - 200.000đ,8.7,2
+42,Citizone Coffee - Ông Ích Đường,https://www.foody.vn/ho-chi-minh/citizone-ong-ich-duong,"11 Ông Ích Đường,  Củ Chi, TP. HCM",07:30 AM - 10:00 PM,30.000đ - 40.000đ,8.2,5
+43,City House Cafe - Sân Vườn Lãng Mạn,https://www.foody.vn/ho-chi-minh/city-house-cafe,"21 Huỳnh Khương An, P. 5,  Quận Gò Vấp, TP. HCM",07:00 AM - 10:00 PM,25.000đ - 55.000đ,7.0,157
+44,Cửa Hàng Ăn Uống 176,https://www.foody.vn/ho-chi-minh/cua-hang-an-uong-176,"176 Nam Kỳ Khởi Nghĩa, P. 6,  Quận 3, TP. HCM",,20.000đ - 88.000đ,7.2,500
+45,Cơm Trộn 2 Cô - Lê Văn Sỹ,https://www.foody.vn/ho-chi-minh/com-tron-2-co-le-van-sy,"392 Lê Văn Sỹ, P. 2,  Quận Tân Bình, TP. HCM",09:30 AM - 09:00 PM,35.000đ - 75.000đ,6.5,217
+46,Cơm Trộn 2 Cô - Xô Viết Nghệ Tĩnh,https://www.foody.vn/ho-chi-minh/com-tron-2-co,"294/63 Xô Viết Nghệ Tĩnh, P. 21,  Quận Bình Thạnh, TP. HCM",10:00 AM - 09:00 PM,30.000đ - 50.000đ,6.7,211
+47,Cơm Tấm Ba Ghiền,https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien,"84 Đặng Văn Ngữ, P. 10,  Quận Phú Nhuận, TP. HCM",08:00 AM - 09:00 PM,40.000đ - 66.000đ,6.4,301
+48,Cơm Tấm Thanh Ngọc,https://www.foody.vn/ho-chi-minh/com-tam-thanh-ngoc,"1740 Huỳnh Tấn Phát,  Nhà Bè, TP. HCM",07:00 AM - 09:00 PM,22.000đ - 30.000đ,7.6,9
+49,Country House Cafe,https://www.foody.vn/ho-chi-minh/country-house-cafe,"18C Phan Văn Trị, P. 10,  Quận Gò Vấp, TP. HCM",Cả ngày  07:00 AM - 11:00 PM,25.000đ - 66.000đ,7.3,354
+50,Cowboy Jack's - American Dining - Aeon Mall Bình Tân,https://www.foody.vn/ho-chi-minh/cowboy-jack-s-american-dining-aeon-mall-binh-tan,"Tầng Trệt, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",10:00 - 10:00 PM,150.000đ - 300.000đ,7.4,71
+51,Cowboy Jack's - American Dining - Vincom Lê Văn Việt,https://www.foody.vn/ho-chi-minh/cowboy-jack-s-american-dining-vincom-le-van-viet,"Tầng L4 - 02, TTTM Vincom Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",9:00 AM - 10:00 PM,150.000đ - 300.000đ,7.7,31
+52,Cổ Gia Quý - Cafe & Restaurant,https://www.foody.vn/ho-chi-minh/co-gia-quy-cafe-restaurant,"802A Nguyễn Văn Tạo, X. Hiệp Phước,  Nhà Bè, TP. HCM",07:00 AM - 10:30 PM,20.000đ - 220.000đ,8.2,17
+53,Da Heo Út Cưng - Kinh Dương Vương,https://www.foody.vn/ho-chi-minh/da-heo-ut-cung-kinh-duong-vuong,"Hẻm 504 Kinh Dương Vương, P. An Lạc,  Quận Bình Tân, TP. HCM",09:00 AM - 09:00 PM,25.000đ - 65.000đ,7.6,157
+54,Dallas Cakes & Coffee - Phan Xích Long,https://www.foody.vn/ho-chi-minh/dallas-cakes-coffee-phan-xich-long,"53 Phan Xích Long, P. 7,  Quận Phú Nhuận, TP. HCM",T7 - CN  08:00 AM - 10:00 PM,20.000đ - 44.000đ,7.3,286
+55,Đệ Nhất BBQ,https://www.foody.vn/ho-chi-minh/de-nhat-bbq,"43-45 Đường Số 1A, KDC Trung Sơn, Bình Hưng,  Bình Chánh, TP. HCM",,20.000đ - 80.000đ,5.0,46
+56,Dim Tu Tac Restaurant - Nhà Hàng Quảng Đông,https://www.foody.vn/ho-chi-minh/dim-tu-tac-restaurant-nha-hang-quang-dong,"5 Nguyễn Tất Thành. P. 12,  Quận 4, TP. HCM",09:00 AM - 10:00 PM,100.000đ - 250.000đ,7.5,115
+57,Ding Tea - Cộng Hòa,https://www.foody.vn/ho-chi-minh/ding-tea-cong-hoa,"47 Cộng Hòa,  Quận Tân Bình, TP. HCM",09:00 AM - 10:00 PM,25.000đ - 50.000đ,7.5,345
+58,Điền Trang Quán - Hải Sản Tươi Sống,https://www.foody.vn/ho-chi-minh/dien-trang-quan-hai-san-tuoi-song,"Thạnh Thới, Long Hòa,  Cần Giờ, TP. HCM",07:00 AM - 10:30 PM,30.000đ - 100.000đ,5.6,2
+59,Đức Bảo Gartenstadt - Ẩm Thực Đức,https://www.foody.vn/ho-chi-minh/duc-bao-gartenstadt,"34 Đồng Khởi, P. Bến Nghé,  Quận 1, TP. HCM",10:30 AM - 11:30 PM,250.000đ - 440.000đ,7.8,42
+60,Đức Dương - Ẩm Thực Sinh Thái,https://www.foody.vn/ho-chi-minh/duc-duong-am-thuc-sinh-thai,"102 Lê Văn Lương,  Nhà Bè, TP. HCM",0 - 0,150.000đ - 330.000đ,7.8,5
+61,Domino's Pizza - Lê Văn Việt,https://www.foody.vn/ho-chi-minh/domino-s-pizza-le-van-viet,"196 Lê Văn Việt, P. Tăng Nhơn Phú B,  Quận 9, TP. HCM",08:00 AM - 10:00 PM,80.000đ - 200.000đ,7.5,32
+62,Domino's Pizza - Tên Lửa,https://www.foody.vn/ho-chi-minh/domino-s-pizza-ten-lua,"348 - 350 Tên Lửa, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",10:00 AM - 10:00 PM,49.000đ - 199.000đ,7.2,24
+63,Doraemon Tofu Factory - AEON Mall,https://www.foody.vn/ho-chi-minh/doraemon-tofu-factory-aeon-mall,"Tầng Trệt AEON Mall, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",10:00 AM - 10:00 PM,7.000đ - 44.000đ,7.1,110
+64,Dream Tea,https://www.foody.vn/ho-chi-minh/dream-tea,"70B Hậu Giang, P. 6,  Quận 6, TP. HCM",09:30 AM - 10:30 PM,30.000đ - 65.000đ,6.9,61
+65,Đảo Hải Long - Nhà Hàng Hải Sản & Đặc Sản,https://www.foody.vn/ho-chi-minh/dao-hai-long-nha-hang-hai-san-dac-san,"4/54 Nguyễn Văn Tạo, Ấp 1, Nhơn Đức,  Nhà Bè, TP. HCM",10:00 - 22:00,300.000đ - 500.000đ,7.4,9
+66,Du Miên Cafe - Hồ Biểu Chánh,https://www.foody.vn/ho-chi-minh/du-mien-cafe,"48/9A Hồ Biểu Chánh, P. 11,  Quận Phú Nhuận, TP. HCM",Cả ngày  07:00 AM - 10:00 PM,30.000đ - 66.000đ,7.1,117
+67,Du Miên Garden Cafe - Phan Văn Trị,https://www.foody.vn/ho-chi-minh/du-mien-garden-cafe,"7 Phan Văn Trị, P. 10,  Quận Gò Vấp, TP. HCM",07:00 AM - 11:00 PM,40.000đ - 88.000đ,7.0,448
+68,Dê Đỉnh Núi - Lẩu & Xiên Que Tự Chọn,https://www.foody.vn/ho-chi-minh/de-dinh-nui-lau-xien-que-tu-chon,"C19 Đường 9A, KDC Trung Sơn,  Bình Chánh, TP. HCM",09:00 AM - 11:00 PM,30.000đ - 180.000đ,6.5,17
+69,Effoc Cafe - Bàu Cát,https://www.foody.vn/ho-chi-minh/effoc-cafe-bau-cat,"70 - 72Bis Bàu Cát, P. 14,  Quận Tân Bình, TP. HCM",07:00 AM - 10:00 PM,15.000đ - 65.000đ,7.3,42
+70,Effoc Cafe - Cộng Hòa,https://www.foody.vn/ho-chi-minh/effoc-cafe-cong-hoa,"20 Cộng Hòa, P. 12,  Quận Tân Bình, TP. HCM",08:00 - 22:30,25.000đ - 65.000đ,7.9,4
+71,Effoc Cafe - Đồng Nai,https://www.foody.vn/ho-chi-minh/effoc-cafe-dong-nai,"92 Đồng Nai, P. 15,  Quận 10, TP. HCM",07:00 AM - 10:00 PM,25.000đ - 55.000đ,7.1,17
+72,Effoc Cafe - Lũy Bán Bích,https://www.foody.vn/ho-chi-minh/effoc-cafe-luy-ban-bich,"691 Lũy Bán Bích, P. Phú Thọ Hòa,  Quận Tân Phú, TP. HCM",08:00 - 22:00,25.000đ - 65.000đ,7.0,7
+73,Effoc Cafe - Lê Đại Hành,https://www.foody.vn/ho-chi-minh/effoc-cafe-le-dai-hanh,"195 Lê Đại Hành, P. 13,  Quận 11, TP. HCM",07:00 AM - 10:00 PM,25.000đ - 55.000đ,6.8,54
+74,Effoc Cafe - Nguyễn Thị Thập,https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-thi-thap,"158 Nguyễn Thị Thập,  Quận 7, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 70.000đ,7.6,18
+75,Effoc Cafe - Nguyễn Thượng Hiền,https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-thuong-hien,"369 Nguyễn Thượng Hiền, P. 11,  Quận 10, TP. HCM",Nguyên ngày  08:00 AM - 10:00 PM,25.000đ - 55.000đ,6.8,169
+76,Effoc Cafe - Nguyễn Tri Phương,https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-tri-phuong,"212 Nguyễn Tri Phương, P. 4,  Quận 10, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 50.000đ,7.0,133
+77,Effoc Cafe - Nguyễn Văn Quá,https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-van-qua,"96/3 Nguyễn Văn Quá, P. Đông Hưng Thuận,  Quận 12, TP. HCM",08:00 - 22:00,25.000đ - 50.000đ,7.7,3
+78,Effoc Cafe - Nguyễn Văn Tráng,https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-van-trang,"29 Nguyễn Văn Tráng, P. Bến Thành,  Quận 1, TP. HCM",07:30 AM - 10:30 PM,25.000đ - 43.000đ,7.1,130
+79,Effoc Cafe - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/effoc-cafe-su-van-hanh,"499 Sư Vạn Hạnh,  Quận 10, TP. HCM",,25.000đ - 55.000đ,6.8,489
+80,Effoc Cafe - Xô Viết Nghệ Tĩnh,https://www.foody.vn/ho-chi-minh/effoc-cafe,"818 Xô Viết Nghệ Tĩnh, P. 25,  Quận Bình Thạnh, TP. HCM",09:00 AM - 10:00 PM,25.000đ - 65.000đ,6.8,16
+81,Fly Cupcake Garden - Tú Xương,https://www.foody.vn/ho-chi-minh/fly-cupcake-tu-xuong,"25B Tú Xương, P. 7,  Quận 3, TP. HCM",07:00 AM - 10:30 PM,35.000đ - 65.000đ,7.1,432
+82,Food Court - AEON Mall Tân Phú,https://www.foody.vn/ho-chi-minh/foodcourt-aeon-mall,"Tầng Trệt, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 22.000đ,7.5,532
+83,Gateaux De Min,https://www.foody.vn/ho-chi-minh/gateaux-de-min,"83 Huỳnh Tấn Phát,  Nhà Bè, TP. HCM",09:00 AM - 10:00 PM,20.000đ - 500.000đ,8.1,5
+84,Gà Rán Popeyes - Lê Đức Thọ,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-le-duc-tho,"121 Lê Đức Thọ,  Quận Gò Vấp, TP. HCM",09:30 AM - 09:00 PM,40.000đ - 88.000đ,7.0,21
+85,Genki Sushi - Take Away & Delivery,https://www.foody.vn/ho-chi-minh/genki-sushi-take-away-delivery,"928 Lê Văn Lương, Phước Kiểng,  Nhà Bè, TP. HCM",Thứ 2 - Thứ 7:  10:00 AM - 05:00 PM,30.000đ - 150.000đ,8.1,8
+86,Geylang@Saigon - Nguyễn Hữu Thọ,https://www.foody.vn/ho-chi-minh/geylang-saigon-nguyen-huu-tho,"68 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",08:00 AM - 10:00 PM,100.000đ - 200.000đ,7.5,130
+87,Gió Rừng - Cần Giờ,https://www.foody.vn/ho-chi-minh/gio-rung,"Thạnh Thới, Long Hòa,  Cần Giờ, TP. HCM",,60.000đ - 165.000đ,5.9,2
+88,Gogi House - Quán Nướng Hàn Quốc - Vincom Lê Văn Việt,https://www.foody.vn/ho-chi-minh/gogi-house-quan-nuong-han-quoc-vincom-le-van-viet,"Tầng L4-02 Vincom Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",10:00 AM - 10:00 PM,300.000đ - 500.000đ,7.4,26
+89,Gogi House - Quán Nướng Hàn Quốc - Vincom Thủ Đức,https://www.foody.vn/ho-chi-minh/gogi-house-quan-nuong-han-quoc-vincom-thu-duc,"Tầng 3 Vincom Thủ Đức, 216 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",10:00 AM - 10:00 PM,79.000đ - 250.000đ,7.8,94
+90,GoGi House - Quán Thịt Nướng Hàn Quốc - Aeon Mall Bình Tân,https://www.foody.vn/ho-chi-minh/gogi-house-aeon-mall-binh-tan-quan-thit-nuong-han-quoc,"Tầng 3, Aeon Mall Bình Tân,1 Đường Số 17A, KP. 11, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",10:00 - 22:00,150.000đ - 250.000đ,6.7,41
+91,Goku Raku Ramen - AEON Mall Tân Phú,https://www.foody.vn/ho-chi-minh/goku-raku-ramen-aeon-mall,"Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",10:00 AM - 10:00 PM,28.000đ - 108.000đ,7.2,169
+92,Golden Coffee,https://www.foody.vn/ho-chi-minh/golden-coffee,"CV Phần Mềm Quang Trung, Tô Ký,  Quận 12, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 43.000đ,6.9,26
+93,Gà Hấp Hèm 34 Hóc Môn,https://www.foody.vn/ho-chi-minh/ga-hap-hem-34-hoc-mon,"52/4 Nguyễn Thị Thử, Xã Xuân Thái Sơn,  Hóc Môn, TP. HCM",10:00 AM - 10:00 PM,120.000đ - 198.000đ,6.6,28
+94,Gà Nướng Ò Ó O - 82 Tô Vĩnh Diện,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-82-to-vinh-dien,"82 Tô Vĩnh Diện, P. Linh Chiểu,  Quận Thủ Đức, TP. HCM",11:00 - 22:00,50.000đ - 175.000đ,7.7,3
+95,Gà Nướng Ò Ó O - Đinh Tiên Hoàng,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-dinh-tien-hoang,"110 Đinh Tiên Hoàng, P. 1,  Quận Bình Thạnh, TP. HCM",11:00 - 22:00,50.000đ - 175.000đ,7.2,36
+96,Gà Nướng Ò Ó O - Hậu Giang,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-hau-giang,"218 Hậu Giang, P. 9,  Quận 6, TP. HCM",11:00 AM - 10:00 PM,50.000đ - 175.000đ,7.2,40
+97,Gà Nướng Ò Ó O - Lương Hữu Khánh,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-luong-huu-khanh,"8 Lương Hữu Khánh, P. Phạm Ngũ Lão,  Quận 1, TP. HCM",11:00 - 22:00,50.000đ - 175.000đ,6.8,59
+98,Gà Nướng Ò Ó O - Lê Văn Sỹ,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-le-van-sy,"220/58 Lê Văn Sỹ, P.14,  Quận 3, TP. HCM",11:00 AM - 10:00 PM,50.000đ - 175.000đ,6.8,576
+99,Gà Nướng Ò Ó O - Nguyễn Hồng Đào,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-nguyen-hong-dao,"212 Nguyễn Hồng Đào, P. 14,  Quận Tân Bình, TP. HCM",Thứ 2 - CN  11:00 AM - 10:00 PM,50.000đ - 175.000đ,6.9,161
+100,Gà Nướng Ò Ó O - Parkson Hùng Vương Plaza,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-parkson-hung-vuong-plaza,"Tầng 3 Food Court, Parkson Hùng Vương, 126 Hùng Vương, P. 12,  Quận 5, TP. HCM",09:00 AM - 09:30 PM,50.000đ - 175.000đ,7.7,10
+101,Gà Nướng Ò Ó O - Quang Trung,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-quang-trung,"50/25 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",11:00 AM - 10:00 PM,50.000đ - 175.000đ,7.1,59
+102,Gà Nướng Ò Ó O - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-su-van-hanh,"567 Sư Vạn Hạnh, P. 13,  Quận 10, TP. HCM",11:00 AM - 10:00 PM,70.000đ - 150.000đ,6.6,66
+103,Gà Nướng Ò Ó O - Trường Sa,https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-truong-sa,"816 Trường Sa, P. 14,  Quận 3, TP. HCM",11:00 AM - 10:00 PM,50.000đ - 175.000đ,7.3,22
+104,Gà Rán Popeyes - Bưu Điện Thành Phố,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-buu-dien-thanh-pho,"2 Công Xã Paris,  Quận 1, TP. HCM",09:30 AM - 09:00 PM,60.000đ - 150.000đ,7.4,268
+105,Gà Rán Popeyes - Cộng Hòa,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-cong-hoa,"TTTM Maximark, 15 - 17 Cộng Hòa, P. 4,  Quận Tân Bình, TP. HCM",09:30 AM - 09:00 PM,40.000đ - 88.000đ,7.3,120
+106,Gà Rán Popeyes - Điện Biên Phủ,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-dien-bien-phu,"58/13 Điện Biên Phủ (Vòng Xoay Nguyễn Bỉnh Khiêm),  Quận 1, TP. HCM",09:30 AM - 09:00 PM,30.000đ - 170.000đ,7.2,157
+107,Gà Rán Popeyes - Dương Bá Trạc,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-duong-ba-trac,"222 Dương Bá Trạc, P. 2,  Quận 8, TP. HCM",09:30 AM - 09:00 PM,40.000đ - 88.000đ,7.2,51
+108,Gà Rán Popeyes - Đường D2,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-duong-d2,"67-69 Đường D2,  Quận Bình Thạnh, TP. HCM",09:30 AM - 09:00 PM,40.000đ - 88.000đ,7.4,112
+109,Gà Rán Popeyes - Grand Hotel,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-grand-hotel,"8 Đồng Khởi, P. Bến Nghé,  Quận 1, TP. HCM",10:00 AM - 09:00 PM,30.000đ - 170.000đ,7.7,60
+110,Gà Rán Popeyes - Hương Lộ 2,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-huong-lo-2,"756 Hương Lộ 2, P. Bình Trị Đông A,  Quận Bình Tân, TP. HCM",09:00 - 22:00,30.000đ - 80.000đ,7.9,5
+111,Gà Rán Popeyes - Lê Đại Hành,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-le-dai-hanh,"397A Lê Đại Hành, P. 11,  Quận 11, TP. HCM",09:30 AM - 09:00 PM,30.000đ - 170.000đ,7.0,107
+112,Gà Rán Popeyes - Nguyễn Thị Thập,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-nguyen-thi-thap,"332 Nguyễn Thị Thập, P. Tân Quy,  Quận 7, TP. HCM",09:30 AM - 09:00 PM,30.000đ - 150.000đ,7.2,51
+113,Gà Rán Popeyes - Phú Mỹ Hưng,https://www.foody.vn/ho-chi-minh/popeyes-phu-my-hung,"62 Nguyễn Đức Cảnh, P. Tân Phong,  Quận 7, TP. HCM",09:30 AM - 09:00 PM,50.000đ - 165.000đ,7.2,103
+114,Gà Rán Popeyes - Thảo Điền,https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-thao-dien,"20 Thảo Điền,  Quận 2, TP. HCM",09:30 AM - 09:00 PM,40.000đ - 80.000đ,7.3,32
+115,H2T Trà Sữa & Pizza - Võ Văn Ngân,https://www.foody.vn/ho-chi-minh/h2t-tra-sua-pizza,"200 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",08:00 AM - 10:30 PM,20.000đ - 88.000đ,6.8,105
+116,Hachiko Coffee - Cafe Thú Cưng,https://www.foody.vn/ho-chi-minh/hachiko-coffee-cafe-thu-cung,"14 Hoa Sữa, P. 7,  Quận Phú Nhuận, TP. HCM",06:30 AM - 10:30 PM,35.000đ - 58.000đ,7.1,259
+117,Hai He - Cháo Môn Lươn & Ếch,https://www.foody.vn/ho-chi-minh/hai-he-chao-mon-luon-ech,"Đường Bến Than, Ấp 1, Xã Hoà Phú,  Củ Chi, TP. HCM",10:00 AM - 09:00 PM,50.000đ - 200.000đ,7.0,9
+118,Hallyu - Korean Fast Food - Đường 3 Tháng 2,https://www.foody.vn/ho-chi-minh/hallyu-korean-fast-food-duong-3-thang-2,"141 Đường 3 Tháng 2, P. 11,  Quận 10, TP. HCM",09:00 AM - 10:00 PM,26.000đ - 250.000đ,7.7,231
+119,Hallyu - Korean Fast Food,https://www.foody.vn/ho-chi-minh/hallyu-korean-fast-food,"7 Trần Minh Quyền, P. 10,  Quận 10, TP. HCM",09:00 AM - 10:00 PM,26.000đ - 250.000đ,7.1,742
+120,Hana BBQ & Hot Pot Buffet - Nguyễn Quý Đức,https://www.foody.vn/ho-chi-minh/hana-buffet,"65 Nguyễn Quý Đức, P. An Phú,  Quận 2, TP. HCM",08:00 AM - 10:00 PM,120.000đ - 220.000đ,7.4,86
+121,Hancook Korean Fast Food - Đường 3 Tháng 2,https://www.foody.vn/ho-chi-minh/hancook-korean-fast-food,"181/2 Đường 3 Tháng 2,  Quận 10, TP. HCM",09:00 AM - 10:00 PM,60.000đ - 165.000đ,7.0,621
+122,Hancook Korean Fast Food - Nguyễn Tri Phương,https://www.foody.vn/ho-chi-minh/hancook-korean-fast-food-nguyen-tri-phuong,"263 Nguyễn Tri Phương, P. 5,  Quận 10, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 265.000đ,7.1,370
+123,Hanuri - Quán Ăn Hàn Quốc - Điện Biên Phủ,https://www.foody.vn/ho-chi-minh/hanuri-quan-an-han-quoc-dien-bien-phu,"531 Điện Biên Phủ, P. 3,  Quận 3, TP. HCM",08:00 AM - 10:00 PM,25.000đ - 100.000đ,7.6,115
+124,Hanuri - Quán Ăn Hàn Quốc - Nguyễn Đình Chiểu,https://www.foody.vn/ho-chi-minh/hanuri-korean-fast-food-nguyen-dinh-chieu,"284A Nguyễn Đình Chiểu, P. 6,  Quận 3, TP. HCM",09:00 AM - 09:30 PM,50.000đ - 110.000đ,7.3,726
+125,Hanuri - Quán Ăn Hàn Quốc - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/hanuri-quan-an-han-quoc,"405A Sư Vạn Hạnh  P.12,  Quận 10, TP. HCM",09:00 AM - 09:30 PM,50.000đ - 110.000đ,6.9,"1,131"
+126,Hanuri - Quán Ăn Hàn Quốc - Xô Viết Nghệ Tĩnh,https://www.foody.vn/ho-chi-minh/hanuri-quan-an-han-quoc-xo-viet-nghe-tinh,"30 - 30B Xô Viết Nghệ Tĩnh, P. 19,  Quận Bình Thạnh, TP. HCM",09:00 AM - 09:30 PM,50.000đ - 150.000đ,7.2,466
+127,Happy BBQ 1 Xiên Nướng Đồng Giá 5K - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/happy-bbq-4-xien-nuong-su-van-hanh,"824/28Q Sư Vạn Hạnh, P. 12,  Quận 10, TP. HCM",,5.000đ - 5.000đ,6.9,86
+128,Happy BBQ 2 Xiên Nướng Đồng Giá 5K - Lý Chính Thắng,https://www.foody.vn/ho-chi-minh/happy-bbq-2-xien-nuong-dong-gia-5k-ly-chinh-thang,"146 Lý Chính Thắng, P. 7,  Quận 3, TP. HCM",,5.000đ - 10.000đ,6.9,107
+129,Happy BBQ 3 Xiên Nướng Đồng Giá 5K - 226 Tạ Quang Bửu,https://www.foody.vn/ho-chi-minh/happy-bbq-1-xien-nuong-dong-gia-5k-226-ta-quang-buu,"226 Tạ Quang Bửu, P. 4,  Quận 8, TP. HCM",,5.000đ - 10.000đ,7.5,12
+130,Happy BBQ 4 Xiên Nướng Đồng Giá 5K - Tạ Quang Bửu,https://www.foody.vn/ho-chi-minh/happy-bbq-3-xien-nuong-dong-gia-5k-ta-quang-buu,"Tạ Quang Bửu (Đối Diện Sân Bóng Cao Lỗ), P. 4,  Quận 8, TP. HCM",,5.000đ - 10.000đ,7.5,36
+131,High Tea - Trà Chiều - Tajmasago Buffet & Cafe,https://www.foody.vn/ho-chi-minh/high-tea-tra-chieu-tajmasago-buffet-cafe,"6 Phan Văn Chương,  Quận 7, TP. HCM",,300.000đ - 500.000đ,8.0,14
+132,Hoa Ban - Đặc sản Tây Bắc,https://www.foody.vn/ho-chi-minh/hoa-ban-dac-san-tay-bac,"101/45 Lê Văn Lương, Phước Kiển,  Nhà Bè, TP. HCM",09:00 AM - 10:00 PM,100.000đ - 220.000đ,7.1,16
+133,Hot & Cold - Trà Sữa & Xiên Que - Bình Chánh,https://www.foody.vn/ho-chi-minh/hot-cold-binh-chanh,"132 Đường Số 9A, KDC Trung Sơn ,  Bình Chánh, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 88.000đ,6.8,76
+134,Hot & Cold - Trà Sữa & Xiên Que - Hoàng Hoa Thám,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-hoang-hoa-tham,"10D Hoàng Hoa Thám, P. 17  ,  Quận Bình Thạnh, TP. HCM",10:00 - 22:00,30.000đ - 80.000đ,7.6,122
+135,Hot & Cold - Trà Sữa & Xiên Que - Lê Bình,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-binh,"39 Lê Bình,  Quận Tân Bình, TP. HCM",08:30 AM - 10:00 PM,15.000đ - 50.000đ,7.5,28
+136,Hot & Cold - Trà Sữa & Xiên Que - Lê Thị Hà,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-thi-ha,"22/5 Lê Thị Hà, Xã Tân Xuân,  Hóc Môn, TP. HCM",08:00 - 22:30,5.000đ - 60.000đ,8.8,19
+137,Hot & Cold - Trà Sữa & Xiên Que - Lê Trọng Tấn,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-trong-tan,"723 Lê Trọng Tấn, P. Bình Hưng Hòa,  Quận Bình Tân, TP. HCM",08:00 AM - 10:00 PM,10.000đ - 30.000đ,7.6,9
+138,Hot & Cold - Trà Sữa & Xiên Que - Lê Văn Việt,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que,"412/1 Lê Văn Việt, P. Tăng Nhơn Phú A,  Quận 9, TP. HCM",08:30 AM - 10:00 PM,17.000đ - 30.000đ,8.0,57
+139,Hot & Cold - Trà Sữa & Xiên Que - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-nguyen-anh-thu,"1031 Nguyễn Ảnh Thủ, P. Tân Chánh Hiệp,  Quận 12, TP. HCM",08:30 AM - 10:00 PM,17.000đ - 50.000đ,8.5,35
+140,Hot & Cold - Trà Sữa & Xiên Que - Nguyễn Thái Sơn,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-nguyen-thai-son,"35 Nguyễn Thái Sơn, P. 4,  Quận Gò Vấp, TP. HCM",08:30 AM - 10:00 PM,17.000đ - 70.000đ,7.7,99
+141,Hot & Cold - Trà Sữa & Xiên Que - Phạm Hùng,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-pham-hung,"123Bis Phạm Hùng, P. 14,  Quận 8, TP. HCM",08:30 AM - 10:15 PM,20.000đ - 55.000đ,7.5,70
+142,Hot & Cold - Trà Sữa & Xiên Que - SC VivoCity,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-sc-vivocity,"Tầng 5, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",09:00 AM - 10:00 PM,20.000đ - 30.000đ,7.6,91
+143,Hot & Cold - Trà Sữa & Xiên Que - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-su-van-hanh,"824/2 Sư Vạn Hạnh, P. 12,  Quận 10, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 88.000đ,6.5,396
+144,Hot & Cold - Trà Sữa & Xiên Que - Trịnh Văn Cẩn,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-trinh-van-can,"42 Trịnh Văn Cẩn, P. Cầu Ông Lãnh ,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,3.000đ - 88.000đ,7.5,63
+145,Hot & Cold - Trà Sữa & Xiên Que - Vincom Mega Mall Thảo Điền,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-vincom-mega-mall-thao-dien,"Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P.Thảo Điền,  Quận 2, TP. HCM",08:30 AM - 10:15 PM,2.000đ - 17.000đ,8.0,22
+146,Hot & Cold - Trà Sữa & Xiên Que - Vincom Thủ Đức,https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-vincom-thu-duc,"L5 Vincom Thủ Đức, 216 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",08:15 AM - 10:15 PM,2.000đ - 17.000đ,8.1,51
+147,Hot & Cold Mini Store - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/hot-cold-mini-store-nguyen-anh-thu,"6C Nguyễn Ảnh Thủ, P. Trung Mỹ Tây,  Quận 12, TP. HCM",10:00 - 22:00,15.000đ - 42.000đ,9.0,31
+148,Hotpot Story - Aeon Mall Bình Tân,https://www.foody.vn/ho-chi-minh/hotpot-story-aeon-mall-binh-tan,"Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, Phường Bình Trị Đông B,  Quận Bình Tân, TP. HCM",10:00 AM - 10:00 PM,200.000đ - 500.000đ,7.2,25
+149,Hotpot Story - Big C Oriental Plaza Âu Cơ,https://www.foody.vn/ho-chi-minh/hotpot-story-big-c-oriental-plaza-au-co,"Gian Hàng Shop 3, Big C Oriental Plaza Âu Cơ, 685 Âu Cơ, P.Tân Thành,  Quận Tân Phú, TP. HCM",10:00 - 22:00,149.000đ - 319.000đ,7.8,10
+150,Hotpot Story - Buffet Lẩu - Phan Văn Trị,https://www.foody.vn/ho-chi-minh/hotpot-story-buffet-lau-phan-van-tri,"12 Phan Văn Trị, P. 5,  Quận Gò Vấp, TP. HCM",09:00 AM - 11:00 PM,239.000đ - 269.000đ,7.6,5
+151,Hotpot Story - Cao Thắng,https://www.foody.vn/ho-chi-minh/hotpot-story-cao-thang,"58C Cao Thắng, P. 3,  Quận 3, TP. HCM",10:00 AM - 10:00 PM,149.000đ - 319.000đ,7.3,114
+152,Hotpot Story - Lê Văn Sỹ,https://www.foody.vn/ho-chi-minh/hotpot-story-le-van-sy,"Tầng 1, 409A Lê Văn Sỹ, P. 12,  Quận 3, TP. HCM",10:00 - 22:00,150.000đ - 400.000đ,8.6,11
+153,Hotpot Story - Phan Xích Long,https://www.foody.vn/ho-chi-minh/hotpot-story-phan-xich-long,"202 Phan Xích Long, P. 2,  Quận Phú Nhuận, TP. HCM",10:00 - 22:00,150.000đ - 400.000đ,7.8,21
+154,Hotpot Story - Quang Trung,https://www.foody.vn/ho-chi-minh/hotpot-story-quang-trung,"Tầng Trệt, 16 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",10:00 - 22:00,150.000đ - 400.000đ,8.2,1
+155,Hotpot Story - Saigon Centre,https://www.foody.vn/ho-chi-minh/hotpot-story-saigon-centre,"Saigon Centre, 65 Lê Lợi, P. Bến Nghé,  Quận 1, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 300.000đ,7.9,38
+156,Hotpot Story - SC VivoCity,https://www.foody.vn/ho-chi-minh/hotpot-story-sc-vivocity,"04 - 05A, Tầng 4, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",08:00 AM - 10:00 PM,128.000đ - 400.000đ,7.4,46
+157,Hotpot Story - Vincom Thủ Đức,https://www.foody.vn/ho-chi-minh/hotpot-story-vincom-thu-duc,"216 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 300.000đ,7.4,49
+158,Hotpot Story AEON Mall Tân Phú,https://www.foody.vn/ho-chi-minh/hotpot-story-aeon-mall-tan-phu,"Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 200.000đ,7.4,129
+159,Hotpot Story Tân An Đông,https://www.foody.vn/ho-chi-minh/hotpot-story-tan-an-dong,"Tân An Đông, 100 Hùng Vương, P. 9,  Quận 5, TP. HCM",09:00 AM - 10:30 PM,199.000đ - 299.000đ,7.3,93
+160,Hẻm Spaghetti - Nguyễn Oanh,https://www.foody.vn/ho-chi-minh/hem-spaghetti-nguyen-oanh,"212/22 Nguyễn Oanh, P. 17,  Quận Gò Vấp, TP. HCM",,30.000đ - 35.000đ,7.1,323
+161,Hải Sản Đại Phú,https://www.foody.vn/ho-chi-minh/nha-hang-hai-san-dai-phu,"56 Nguyễn Văn Quá, P. Đông Hưng Thuận,  Quận 12, TP. HCM",10:00 AM - 11:00 PM,60.000đ - 330.000đ,7.5,31
+162,Há Cảo - Phá Lấu Bò Marie Curie,https://www.foody.vn/ho-chi-minh/ha-cao-pha-lau-bo-marie-curie,"433/44 Lê Đại Hành, P.11,  Quận 11, TP. HCM",11:00 - 22:00,5.000đ - 15.000đ,7.3,161
+163,I Love Càlem,https://www.foody.vn/ho-chi-minh/i-love-calem,"63 Thống Nhất ,  Quận Thủ Đức, TP. HCM",07:00 AM - 10:00 PM,12.000đ - 55.000đ,7.2,67
+164,IZZIBING Snow Dessert Coffee - Bingsu,https://www.foody.vn/ho-chi-minh/izzibing-pho-quang,"49 Phổ Quang, P. 2,  Quận Tân Bình, TP. HCM",08:00 AM - 10:00 PM,32.000đ - 150.000đ,7.5,459
+165,Jollibee - Âu Cơ,https://www.foody.vn/ho-chi-minh/jollibee-au-co,"650 Âu Cơ, P. 10,  Quận Tân Bình, TP. HCM",08:00 - 22:00,40.000đ - 100.000đ,7.8,8
+166,Jollibee - BigC An Lạc,https://www.foody.vn/ho-chi-minh/jollibee-bigc-an-lac,"BigC An Lạc, Quốc Lộ 1A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",09:00 AM - 09:00 PM,35.000đ - 200.000đ,7.6,4
+167,Jollibee - Coop Mart Bình Triệu,https://www.foody.vn/ho-chi-minh/jollibee-coop-mart-binh-trieu,"68/1 Quốc Lộ 13,  Quận Thủ Đức, TP. HCM",09:00 AM - 09:00 PM,15.000đ - 50.000đ,7.1,9
+168,Jollibee - Coop Mart Xa Lộ Hà Nội,https://www.foody.vn/ho-chi-minh/jollibee-coop-mart-xa-lo-ha-noi,"Tầng 2 Coop Mart, 191 Quang Trung, P. Hiệp Phú ,  Quận 9, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 50.000đ,7.1,33
+169,Jollibee - Coopmart Quang Trung,https://www.foody.vn/ho-chi-minh/jollibee-coopmart-quang-trung,"Tầng 2, Coopmart Quang Trung, 304A Quang Trung, P. 11,  Quận Gò Vấp, TP. HCM",08:00 AM - 09:00 PM,20.000đ - 50.000đ,7.3,32
+170,Jollibee - Nguyễn Thị Minh Khai,https://www.foody.vn/ho-chi-minh/jollibee-nguyen-thi-minh-khai,"Saigon Star Hotel, 204 Nguyễn Thị Minh Khai,  Quận 3, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 50.000đ,7.5,60
+171,Jollibee - Pasteur,https://www.foody.vn/ho-chi-minh/jollibee-pasteur,"194D Pasteur,  P. 6,  Quận 3, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 44.000đ,7.1,80
+172,Jollibee - Trường Chinh,https://www.foody.vn/ho-chi-minh/jollibee-truong-chinh,"360 Trường Chinh,  Quận Tân Bình, TP. HCM",00:00 - 0:00,20.000đ - 120.000đ,7.6,18
+173,Jollibee - Trần Hưng Đạo,https://www.foody.vn/ho-chi-minh/jollibee-tran-hung-dao,"354 - 356 Trần Hưng Đạo, P. 2,  Quận 5, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 44.000đ,7.2,91
+174,Jollibee - Vincom Gò Vấp,https://www.foody.vn/ho-chi-minh/jollibee-vincom-go-vap,"Tầng 4, Vincom Gò Vấp, 12 Phan Văn Trị,  Quận Gò Vấp, TP. HCM",09:00 AM - 10:00 PM,3.000đ - 100.000đ,7.5,22
+175,Jollibee - Vincom Maximark Cộng Hòa,https://www.foody.vn/ho-chi-minh/jollibee-cong-hoa,"Tầng Trệt, Vincom Maximark Cộng Hòa, 15 -17 Cộng Hòa, P. 4,  Quận Tân Bình, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 44.000đ,7.2,44
+176,Jollibee - Vincom Plaza Lê Văn Việt,https://www.foody.vn/ho-chi-minh/jollibee-vincom-plaza-le-van-viet,"Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",09:00 AM - 10:00 PM,20.000đ - 100.000đ,6.9,14
+177,Kaphi Coffee,https://www.foody.vn/ho-chi-minh/kaphi-coffee,"Tỉnh Lộ 8,  Củ Chi, TP. HCM",09:00 AM - 10:30 PM,10.000đ - 50.000đ,8.0,3
+178,Ốc 10.000 - Phạm Thế Hiển,https://www.foody.vn/ho-chi-minh/oc-10-000-pham-the-hien,"1569 Phạm Thế Hiển,  Quận 8, TP. HCM",,10.000đ - 20.000đ,6.8,109
+179,Ốc Nhớ Sài Gòn - Trịnh Đình Trọng,https://www.foody.vn/ho-chi-minh/oc-nho-sai-gon-trinh-dinh-trong,"136 Trịnh Đình Trọng,  Quận Tân Phú, TP. HCM",,50.000đ - 150.000đ,7.3,194
+180,Ốc Oanh - Võ Văn Kiệt,https://www.foody.vn/ho-chi-minh/oc-oanh-vo-van-kiet,"18 Võ Văn Kiệt, P. Nguyễn Thái Bình,  Quận 1, TP. HCM",,30.000đ - 50.000đ,8.7,3
+181,Ốc Oanh 1 - Vĩnh Khánh,https://www.foody.vn/ho-chi-minh/oc-oanh,"534 Vĩnh Khánh, P. 8,  Quận 4, TP. HCM",,100.000đ - 165.000đ,5.7,249
+182,Ốc Oanh 2 - Vĩnh Hội,https://www.foody.vn/ho-chi-minh/oc-oanh-2-cac-mon-oc-va-hai-san,"91 Vĩnh Hội, P. 4,  Quận 4, TP. HCM",,50.000đ - 110.000đ,7.4,5
+183,Ốc Quỳnh - Nguyễn Thượng Hiền,https://www.foody.vn/ho-chi-minh/oc-quynh-nguyen-thuong-hien,"A-26 Chung Cư Nguyễn Thượng Hiền, P. 1,  Quận Gò Vấp, TP. HCM",,30.000đ - 40.000đ,8.3,149
+184,Ốc Tuyết,https://www.foody.vn/ho-chi-minh/oc-tuyet,"Hẻm 456 Dương Bá Trạc,  Quận 8, TP. HCM",,20.000đ - 20.000đ,6.8,106
+185,Ốc Tô - Xóm Chiếu,https://www.foody.vn/ho-chi-minh/oc-to-xom-chieu,"C218 Xóm Chiếu, P. 15,  Quận 4, TP. HCM",12:00 PM - 11:00 PM,30.000đ - 55.000đ,6.6,269
+186,Ốc “Mắm Sữa”,https://www.foody.vn/ho-chi-minh/oc-mam-sua,"282/4A Bùi Hữu Nghĩa, P. 2,  Quận Bình Thạnh, TP. HCM",,30.000đ - 44.000đ,6.5,204
+187,KFC - Central Plaza,https://www.foody.vn/ho-chi-minh/kfc-central-plaza,"C6/27 Phạm Hùng, X. Bình Hưng,  Bình Chánh, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,6.9,23
+188,KFC - Crescent Mall,https://www.foody.vn/ho-chi-minh/kfc-crescent-mall,"Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",09:30 AM - 10:00 PM,30.000đ - 88.000đ,7.4,33
+189,KFC - Food Court Bitexco Tower,https://www.foody.vn/ho-chi-minh/kfc-food-court-bitexco-tower,"Food Court Bitexco Tower, 2 Hải Triều,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.6,39
+190,KFC - Lý Thường Kiệt,https://www.foody.vn/ho-chi-minh/kfc-ly-thuong-kiet,"446A Lý Thường Kiệt, P. 7 ,  Quận Tân Bình, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 90.000đ,7.4,21
+191,KFC - Nguyễn Thị Minh Khai,https://www.foody.vn/ho-chi-minh/kfc-nguyen-thi-minh-khai,"22 Nguyễn Thị Minh Khai, P. Đa Kao,  Quận 1, TP. HCM",08:00 AM - 11:00 PM,50.000đ - 110.000đ,7.4,40
+192,KFC - Nguyễn Văn Giai,https://www.foody.vn/ho-chi-minh/kfc-nguyen-van-giai,"2 Nguyễn Huy Tự,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.6,12
+193,KFC - Ngô Gia Tự,https://www.foody.vn/ho-chi-minh/kfc-ngo-gia-tu,"1 - 3 Ngô Gia Tự, P. 2,  Quận 10, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.3,63
+194,KFC - Pandora City,https://www.foody.vn/ho-chi-minh/kfc-pandora-city,"Tầng Trệt Pandora City, 1/1 Trường Chinh, P. Tây Thạnh,  Quận Tân Phú, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.3,37
+195,KFC - Parkson CT Plaza,https://www.foody.vn/ho-chi-minh/kfc-parkson-ct-plaza,"Tầng 5, Food Court Parkson CT Plaza, 60A Trường Sơn, P. 2,  Quận Tân Bình, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.4,22
+196,KFC - Phạm Ngọc Thạch,https://www.foody.vn/ho-chi-minh/kfc-pham-ngoc-thach,"14 Phạm Ngọc Thạch, P. 6,  Quận 3, TP. HCM",09:00 AM - 10:00 PM,30.000đ - 88.000đ,7.5,37
+197,KFC - Phú Thọ,https://www.foody.vn/ho-chi-minh/kfc-phu-tho,"Tầng Trệt, Lotte Mart 2, 940 Đường 3 Tháng 2, P. 11,  Quận 11, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 88.000đ,7.6,5
+198,KFC - Sài Gòn Super Market,https://www.foody.vn/ho-chi-minh/kfc-sai-gon-super-market,"460 Đường 3 Tháng 2,  Quận 10, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 88.000đ,7.4,14
+199,KFC - Trần Não,https://www.foody.vn/ho-chi-minh/kfc-tran-nao,"72 Trần Não, P.Bình An,  Quận 2, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 88.000đ,7.5,19
+200,Khu Du Lịch Bến Xưa,https://www.foody.vn/ho-chi-minh/khu-du-lich-ben-xua,"39A Hà Huy Giáp, P. Thành Lộc,  Quận 12, TP. HCM",10:00 AM - 11:00 PM,50.000đ - 330.000đ,6.8,30
+201,Khu Ẩm Thực Sinh Thái Bình Xuyên,https://www.foody.vn/ho-chi-minh/khu-am-thuc-sinh-thai-binh-xuyen,"C3/18 Phạm Hùng,  Bình Chánh, TP. HCM",08:00 AM - 10:00 PM,100.000đ - 330.000đ,7.5,154
+202,Kichi Kichi Lẩu Băng Chuyền - Vincom Lê Văn Việt,https://www.foody.vn/ho-chi-minh/kichi-kichi-lau-bang-chuyen-vincom-le-van-viet,"Tầng L4 - 02, Vincom Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú,  Quận 9, TP. HCM",Buffet tối  06:00 PM - 10:00 PM,150.000đ - 300.000đ,7.5,29
+203,Kim Mã 2 - Bò Tơ Củ Chi,https://www.foody.vn/ho-chi-minh/kim-ma-2-bo-to-cu-chi,"Tỉnh Lộ 8, Xã Tân An Hội,  Củ Chi, TP. HCM",09:00 AM - 10:00 PM,85.000đ - 140.000đ,7.0,6
+204,Kimbap FC - Món Ăn Hàn Quốc,https://www.foody.vn/ho-chi-minh/kimbap-fc,"71/5 Điện Biên Phủ, P.15 ,  Quận Bình Thạnh, TP. HCM",09:00 AM - 10:00 PM,25.000đ - 50.000đ,6.3,280
+205,Kimbap Hoàng Tử,https://www.foody.vn/ho-chi-minh/kimbap-hoang-tu,"337/2 Lê Văn Sỹ, P.1,  Quận Tân Bình, TP. HCM",,30.000đ - 66.000đ,7.3,198
+206,Kimbap Tươi - Shop Online,https://www.foody.vn/ho-chi-minh/kimbap-tuoi-shop-online,"Phan Văn Hớn,  Quận 12, TP. HCM",06:00 AM - 09:00 PM,25.000đ - 35.000đ,7.2,18
+207,King BBQ Buffet Crescent Mall,https://www.foody.vn/ho-chi-minh/king-bbq-buffet-crescent-mall,"Tầng 3 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",09:00 AM - 10:00 PM,199.000đ - 495.000đ,8.1,10
+208,King BBQ Buffet Lotte Mart Nam Sài Gòn,https://www.foody.vn/ho-chi-minh/king-bbq-buffet-lotte-mart-nam-sai-gon,"Lầu 3 Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",09:00 AM - 10:00 PM,100.000đ - 500.000đ,8.2,17
+209,King BBQ Buffet Song Hành,https://www.foody.vn/ho-chi-minh/king-bbq-buffet-song-hanh,"47 Song Hành,  Quận 2, TP. HCM",10:00 AM - 10:00 PM,100.000đ - 500.000đ,8.3,16
+210,King BBQ Buffet Vincom Lê Văn Việt,https://www.foody.vn/ho-chi-minh/king-bbq-buffet-vincom-le-van-viet,"Vincom Lê Văn Việt, 50 Lê Văn Việt,  Quận 9, TP. HCM",09:00 AM - 10:00 PM,200.000đ - 500.000đ,8.0,34
+211,Kissho - Nhà hàng Nhật Bản,https://www.foody.vn/ho-chi-minh/kissho,"14 Nguyễn Huệ, P. Bến Nghé,  Quận 1, TP. HCM",11:00 AM - 11:00 PM,300.000đ - 1.100.000đ,7.6,61
+212,Koi Thé Café - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-aeon-mall-binh-tan,"Lô F29B, Tầng 1, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",10:00 AM - 10:00 PM,40.000đ - 60.000đ,7.4,161
+213,Koi Thé Café - Cao Thắng,https://www.foody.vn/ho-chi-minh/koi-the-cafe-cao-thang,"62C Cao Thắng,  Quận 3, TP. HCM",09:00 - 22:00,25.000đ - 60.000đ,7.1,70
+214,Koi Thé Café - Huỳnh Thúc Kháng,https://www.foody.vn/ho-chi-minh/koi-the-cafe-huynh-thuc-khang,"17 Huỳnh Thúc Kháng, P. Bến Nghé,  Quận 1, TP. HCM",10:00 - 22:00,40.000đ - 70.000đ,7.4,23
+215,Koi Thé Café - Lotte Mart Nam Sài Gòn,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-lotte-mart-nam-sai-gon,"Tầng Trệt, Lotte Mart Nguyễn Hữu Thọ, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",09:00 AM - 10:00 PM,40.000đ - 60.000đ,7.6,40
+216,Koi Thé Café - Nguyễn Đức Cảnh,https://www.foody.vn/ho-chi-minh/koi-the-cafe-nguyen-duc-canh,"157 Khu Grand View, Nguyễn Đức Cảnh, P. Tân Phong,  Quận 7, TP. HCM",08:30 AM - 10:00 PM,30.000đ - 60.000đ,7.9,11
+217,Koi Thé Café - Ngô Đức Kế,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-ngo-duc-ke,"76 Ngô Đức Kế, P. Bến Nghé,  Quận 1, TP. HCM",09:00 - 10:00 PM,40.000đ - 60.000đ,7.4,639
+218,Koi Thé Café - Pearl Plaza,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-pearl-plaza,"L1-01 Pearl Plaza, 561A Điện Biên Phủ, P. 25,  Quận Bình Thạnh, TP. HCM",09:00 - 22:00,40.000đ - 60.000đ,7.4,87
+219,Koi Thé Café - Phạm Hồng Thái,https://www.foody.vn/ho-chi-minh/koi-the-cafe-pham-hong-thai,"24 Phạm Hồng Thái, P. Bến Thành,  Quận 1, TP. HCM",10:00 - 22:00,40.000đ - 60.000đ,6.9,12
+220,Koi Thé Café - Saigon Garden,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-saigon-garden,"108-110 Hồ Tùng Mậu, P. Bến Nghé,  Quận 1, TP. HCM",10:00 AM - 10:00 PM,40.000đ - 60.000đ,7.5,220
+221,Koi Thé Café - SC VivoCity,https://www.foody.vn/ho-chi-minh/koi-the-viet-nam-sc-vivocity,"01 - 16, Khu F, Tầng 1, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",10:00 AM - 09:00 PM,40.000đ - 60.000đ,7.2,387
+222,Koi Thé Café - The Garden Mall,https://www.foody.vn/ho-chi-minh/koi-the-cafe-the-garden-mall,"Tầng Trệt The Garden Mall, 190 Hồng Bàng, P. 12,  Quận 5, TP. HCM",09:00 - 22:30,30.000đ - 60.000đ,7.3,16
+223,Koi Thé Café - Vincom Mega Mall Thảo Điền,https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-vincom-mega-mall-thao-dien,"Tầng 1, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền,  Quận 2, TP. HCM",09:30 - 22:00,40.000đ - 60.000đ,7.6,134
+224,Kukai Udon - Chấn Hưng,https://www.foody.vn/ho-chi-minh/kukai-udon-chan-hung,"145 Chấn Hưng, P. 6,  Quận Tân Bình, TP. HCM",12:00 PM - 10:00 PM,20.000đ - 70.000đ,6.8,194
+225,Lava Coffee - Quang Trung,https://www.foody.vn/ho-chi-minh/lava-coffee-quang-trung,"61 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",07:00 AM - 10:00 PM,17.000đ - 41.000đ,7.4,276
+226,LEE VU Coffee,https://www.foody.vn/ho-chi-minh/lee-vu-coffee,"47/7 Phan Văn Hớn, Bà Điểm,  Hóc Môn, TP. HCM",07:00 AM - 10:00 PM,12.000đ - 30.000đ,7.7,26
+227,Long Island,https://www.foody.vn/ho-chi-minh/long-island,"173 Long Thuận, P. Long Phước,  Quận 9, TP. HCM",08:00 AM - 06:00 PM,100.000đ - 2.750.000đ,7.3,11
+228,Lotteria - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/lotteria-nguyen-anh-thu,"159/6 - 160/1 Nguyễn Ảnh Thủ, X. Trung Chánh,  Hóc Môn, TP. HCM",07:00 AM - 10:00 PM,40.000đ - 132.000đ,6.1,24
+229,Lu's Coffee - Phạm Hùng,https://www.foody.vn/ho-chi-minh/lu-s-coffee-pham-hung,"229B Phạm Hùng, P. 4,  Quận 8, TP. HCM",08:00 AM - 10:00 PM,20.000đ - 30.000đ,7.6,59
+230,Lẩu Dê 404 - Đường số 9,https://www.foody.vn/ho-chi-minh/quan-404-duong-so-9,"110A Đường Số 9A, Khu Dân Cư Trung Sơn, P. Bình Hưng,  Bình Chánh, TP. HCM",11:00 AM - 10:30 PM,50.000đ - 220.000đ,7.1,30
+231,Lẩu Hữu Nghị,https://www.foody.vn/ho-chi-minh/lau-huu-nghi,"149 Tùng Thiện Vương, P. 11,  Quận 8, TP. HCM",,50.000đ - 220.000đ,6.8,52
+232,Lẩu Nướng Thái Lan Số 7 - Poi Pet,https://www.foody.vn/ho-chi-minh/lau-nuong-thai-lan-so-7-poi-pet,"31A2 Hùng Vương,  Quận 5, TP. HCM",12:00 PM - 11:00 PM,30.000đ - 100.000đ,7.2,235
+233,Lẩu Tôm Càng Xiên - Âu Cơ,https://www.foody.vn/ho-chi-minh/lau-tom-cang-xien-au-co,"983 Âu Cơ,  Quận Tân Phú, TP. HCM",10:00 - 23:00,25.000đ - 280.000đ,6.8,115
+234,Lẩu Tôm Càng Xiên - Trần Nhân Tôn,https://www.foody.vn/ho-chi-minh/lau-tom-cang-xien-tran-nhan-ton,"142 Trần Nhân Tôn,  Quận 10, TP. HCM",10:00 AM - 11:00 PM,25.000đ - 280.000đ,7.1,329
+235,Làng Nướng Hồng Đào - Bò Tơ Củ Chi,https://www.foody.vn/ho-chi-minh/lang-nuong-hong-dao,"171 Quốc Lộ 22, Ấp Trung, Xã Tân Thông Hội  ,  Củ Chi, TP. HCM",08:00 AM - 10:30 PM,150.000đ - 220.000đ,7.0,6
+236,Làng Nướng Nam Bộ - Tô Hiến Thành,https://www.foody.vn/ho-chi-minh/lang-nuong-nam-bo-to-hien-thanh,"302A Tô Hiến Thành, P. 15,  Quận 10, TP. HCM",10:00 AM - 11:30 PM,80.000đ - 165.000đ,7.3,284
+237,Lâu Đài Đá Cafe - Tô Hiệu,https://www.foody.vn/ho-chi-minh/lau-dai-da-cafe-to-hieu,"110 Tô Hiệu,  Quận Tân Phú, TP. HCM",06:30 AM - 11:00 PM,27.000đ - 200.000đ,6.7,99
+238,Marukame Udon - AEON Mall Tân Phú,https://www.foody.vn/ho-chi-minh/marukame-udon-aeon-mall,"Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",09:00 AM - 10:00 PM,60.000đ - 165.000đ,7.5,417
+239,Marukame Udon - Đường 3 Tháng 2,https://www.foody.vn/ho-chi-minh/marukame-udon-duong-3-thang-2,"300 Đường 3 Tháng 2,  Quận 10, TP. HCM",08:00 AM - 10:00 PM,50.000đ - 150.000đ,7.6,57
+240,Marukame Udon - Saigon Mall,https://www.foody.vn/ho-chi-minh/marukame-udon-saigonmall,"2A Phan Văn Trị , P. 10,  Quận Gò Vấp, TP. HCM",07:00 AM - 09:30 PM,60.000đ - 300.000đ,_._,0
+241,Marukame Udon - SC VivoCity,https://www.foody.vn/ho-chi-minh/marukame-udon-sc-vivocity,"Tầng 2, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",10:00 AM - 10:00 PM,60.000đ - 170.000đ,7.2,147
+242,Marukame Udon - Thảo Điền,https://www.foody.vn/ho-chi-minh/marukame-udon-tempura,"27 Thảo Điền, P. Thảo Điền,  Quận 2, TP. HCM",10:00 - 22:00,69.000đ - 100.000đ,7.9,3
+243,Marukame Udon - Udon & Tempura - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/marukame-udon-udon-tempura-aeon-mall-binh-tan,"Lô T5, Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",10:00 AM - 10:00 PM,80.000đ - 100.000đ,7.6,35
+244,Marukame Udon - Udon & Tempura - Hai Bà Trưng,https://www.foody.vn/ho-chi-minh/marukame-udon-udon-tempura-hai-ba-trung,"342 - 344 Hai Bà Trưng, P. Tân Định,  Quận 1, TP. HCM",10:00 AM - 10:00 PM,60.000đ - 300.000đ,7.2,114
+245,Marukame Udon - Udon & Tempura - Lý Tự Trọng,https://www.foody.vn/ho-chi-minh/marukame-udon-udon-tempura,"215 Lý Tự Trọng, P. Bến Thành,  Quận 1, TP. HCM",07:00 AM - 09:30 PM,60.000đ - 300.000đ,7.4,608
+246,McDonald's - Phú Lâm,https://www.foody.vn/ho-chi-minh/mcdonald-s-phu-lam,"718Bis Kinh Dương Vương,  Quận 6, TP. HCM",Thứ 6 - Thứ 7  00:00 - 23:59,30.000đ - 80.000đ,7.5,79
+247,Mèo Béo Tira - Tiramitsu Matcha - Shop Online,https://www.foody.vn/ho-chi-minh/meo-beo-tira-tiramitsu-matcha-shop-online,"170 Lê Văn Khương, Thới An,  Quận 12, TP. HCM",09:00 AM - 09:00 PM,20.000đ - 75.000đ,5.1,26
+248,Miền Đồng Thảo Cafe,https://www.foody.vn/ho-chi-minh/mien-dong-thao-cafe,"221A Nguyễn Trọng Tuyển, P. 8,  Quận Phú Nhuận, TP. HCM",Cả ngày   07:00 AM - 11:00 PM,20.000đ - 55.000đ,7.0,201
+249,Miền Thảo Mộc - Cafe Sân Vườn,https://www.foody.vn/ho-chi-minh/mien-thao-moc-cafe-san-vuon,"554E Minh Phụng, P. 9,  Quận 11, TP. HCM",08:00 AM - 11:00 PM,30.000đ - 60.000đ,7.1,105
+250,Mẹt Quán - Bún Đậu Mắm Tôm,https://www.foody.vn/ho-chi-minh/met-quan-bun-dau-mam-tom,"689B Nguyễn Văn Quá,  Quận 12, TP. HCM",11:00 AM - 10:00 PM,20.000đ - 100.000đ,7.3,23
+251,Moda House Coffee - Tô Ký,https://www.foody.vn/ho-chi-minh/moda-house-coffee-to-ky,"263/90 Tô Ký,  Quận 12, TP. HCM",07:00 AM - 10:30 PM,12.000đ - 50.000đ,7.9,24
+252,Monkey In Black Cafe - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/monkey-in-black-su-van-hanh,"698 Sư Vạn Hạnh,  Quận 10, TP. HCM",08:00 AM - 10:00 PM,17.000đ - 49.000đ,7.5,866
+253,Monkey In Black Cafe - Trần Quang Khải,https://www.foody.vn/ho-chi-minh/monkey-in-black,"263 Trần Quang Khải, P. Tân Định,  Quận 1, TP. HCM",08:00 AM - 10:00 PM,25.000đ - 100.000đ,7.5,"1,020"
+254,Moon Fast Food - Món Hàn - Xuân Hồng,https://www.foody.vn/ho-chi-minh/moon-fast-food-xuan-hong,"53 Xuân Hồng, P. 12,  Quận Tân Bình, TP. HCM",,12.000đ - 30.000đ,6.9,472
+255,Moon Hàng Nước - Bành Văn Trân,https://www.foody.vn/ho-chi-minh/moon-hang-nuoc-banh-van-tran,"181 Bành Văn Trân, P. 7,  Quận Tân Bình, TP. HCM",09:00 AM - 10:00 PM,20.000đ - 30.000đ,8.2,8
+256,Morico - Modern Japanese Restaurant Cafe - Crescent Mall,https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-crescent-mall,"Tầng 2 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",10:00 - 21:30,70.000đ - 165.000đ,7.8,284
+257,Morico - Modern Japanese Restaurant Cafe - Mplaza Saigon,https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-mplaza-saigon,"Mplaza Saigon, 39 Lê Duẩn, P. Bến Nghé,  Quận 1, TP. HCM",10:00 - 21:30,70.000đ - 165.000đ,7.7,330
+258,Morico - Modern Japanese Restaurant Cafe - Saigon Pearl,https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-saigon-pearl,"Saigon Pearl, 92 Nguyễn Hữu Cảnh,  Quận Bình Thạnh, TP. HCM",10:00 - 21:30,70.000đ - 165.000đ,7.9,120
+259,Morico - Modern Japanese Restaurant Cafe - Vincom Center,https://www.foody.vn/ho-chi-minh/morico-modern-japanese-restaurant-cafe-vincom-center,"Tầng B3 Vincom Center, 70 - 72 Lê Thánh Tôn, P. Bến Nghé,  Quận 1, TP. HCM",10:00 - 22:00,70.000đ - 220.000đ,7.6,459
+260,Motif Coffee,https://www.foody.vn/ho-chi-minh/motif-coffee,"167 Đường Số 6, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",08:00 AM - 10:00 PM,18.000đ - 35.000đ,8.3,18
+261,Mr.BBQ - Ẩm thực Hàn Quốc,https://www.foody.vn/ho-chi-minh/mrbbq,"137 Tôn Dật Tiên,  Quận 7, TP. HCM",10:00 AM - 10:00 PM,150.000đ - 330.000đ,7.4,191
+262,Mỳ 7 Tô - Nguyễn Duy Dương,https://www.foody.vn/ho-chi-minh/my-7-to-20-nguyen-duy-vuong,"Lầu 2, 20 Nguyễn Duy Dương, P. 8,  Quận 5, TP. HCM",10:00 AM - 10:00 PM,9.000đ - 49.000đ,7.0,312
+263,Mì Ốc Hến Dì Lan - Ngô Văn Sở,https://www.foody.vn/ho-chi-minh/mi-oc-hen-di-lan-ngo-van-so,"2/4 Ngô Văn Sở, P. 13,  Quận 4, TP. HCM",07:00 AM - 07:00 PM,20.000đ - 25.000đ,6.6,132
+264,Mì Ốc Hến Dì Lan - Tôn Thất Thuyết,https://www.foody.vn/ho-chi-minh/mi-oc-hen-di-lan,"92B/20 Tôn Thất Thuyết, P. 16,  Quận 4, TP. HCM",08:30 AM - 12:00 PM,25.000đ - 30.000đ,6.8,61
+265,Newdays Japanese Matcha Cafe - Vincom Plaza Lê Văn Việt,https://www.foody.vn/ho-chi-minh/newdays-matcha-coffee-le-van-viet,"Lô L4 - K5, Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt,  Quận 9, TP. HCM",08:30 AM - 10:00 PM,37.000đ - 60.000đ,7.5,23
+266,Ngọc Nga - Bánh Flan Thập Cẩm,https://www.foody.vn/ho-chi-minh/banh-flan-thap-cam,"63 Đường 20 Thước, P. 9,  Quận 4, TP. HCM",,5.000đ - 10.000đ,7.4,205
+267,Ngõ 8 - Trà Chanh & Lẩu Riêu Cua Đồng - Cù Lao,https://www.foody.vn/ho-chi-minh/ngo-8-tra-chanh-lau-rieu-cua-dong-cu-lao,"8 Cù Lao, P. 2,  Quận Phú Nhuận, TP. HCM",,20.000đ - 198.000đ,7.0,413
+268,Nhà Hàng Duyên Hải - Cần Giờ,https://www.foody.vn/ho-chi-minh/nha-hang-duyen-hai-can-gio,"551/2  Khu phố Miễu Ba, TT Cần Thạnh,  Cần Giờ, TP. HCM",,30.000đ - 400.000đ,7.3,2
+269,Nhi Nhi Quán - Đặc Sản Phan Rang,https://www.foody.vn/ho-chi-minh/nhi-nhi-quan-dac-san-phan-rang,"125/47 Lê Đức Thọ, P. 17,  Quận Gò Vấp, TP. HCM",,6.000đ - 14.000đ,7.1,209
+270,Nhạn Trắng - Quán Nhậu & Karaoke,https://www.foody.vn/ho-chi-minh/nhan-trang,"139 Duyên Hải, TT. Cần Thạnh,  Cần Giờ, TP. HCM",08:00 AM - 10:30 PM,100.000đ - 330.000đ,6.3,4
+271,Nhà Hàng Cánh Quạt - Hải Sản & Ẩm Thực Việt,https://www.foody.vn/ho-chi-minh/nha-hang-canh-quat-hai-san-am-thuc-viet,"166E Lê Văn Lương, Xã Phước Kiểng,  Nhà Bè, TP. HCM",10:00 AM - 10:00 PM,50.000đ - 350.000đ,7.6,17
+272,Nhà Hàng Ngân Đình - Windsor Plaza,https://www.foody.vn/ho-chi-minh/nha-hang-ngan-dinh-windsor-plaza,"Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",Tối  05:00 PM - 10:00 PM,80.000đ - 1.100.000đ,7.5,144
+273,Nhà Hàng Ngân Đình Sài Gòn,https://www.foody.vn/ho-chi-minh/nha-hang-ngan-dinh-sai-gon,"52 - 54 - 56 Đồng Khởi, P. Bến Nghé,  Quận 1, TP. HCM",11:00 AM - 01:00 AM,200.000đ - 1.000.000đ,7.4,14
+274,Nhà Hàng Phong Cua 2 - Bình Quới,https://www.foody.vn/ho-chi-minh/nha-hang-phong-cua-2-binh-quoi,"1067 Bình Quới,  Quận Bình Thạnh, TP. HCM",11:00 AM - 10:00 PM,200.000đ - 330.000đ,6.2,63
+275,Nhà Hàng Sân Vườn Bên Sông - Kha Vạn Cân,https://www.foody.vn/ho-chi-minh/nha-hang-san-vuon-ben-song-kha-van-can,"17/3 Kha Vạn Cân, P. Hiệp Bình Chánh,  Quận Thủ Đức, TP. HCM",08:00 AM - 10:00 PM,80.000đ - 165.000đ,7.1,78
+276,NiNi Bakery - Bánh Kem Pháp - Đường D2,https://www.foody.vn/ho-chi-minh/nini-bakery-banh-kem-phap-duong-d2,"190/6 Đường D2, P. 25,  Quận Bình Thạnh, TP. HCM",09:00 AM - 09:00 PM,200.000đ - 440.000đ,6.1,281
+277,No.96 - Quán 96 Lẩu & Nướng,https://www.foody.vn/ho-chi-minh/no-96,"117 Võ Văn Tần,  Quận 3, TP. HCM",10:00 AM - 11:30 PM,30.000đ - 220.000đ,7.2,297
+278,No.96 Corner,https://www.foody.vn/ho-chi-minh/no-96-lau-nuong-nguyen-tri-phuong,"481 Nguyễn Tri Phương,  Quận 10, TP. HCM",10:00 AM - 11:30 PM,30.000đ - 220.000đ,7.3,69
+279,Oasis Cafe,https://www.foody.vn/ho-chi-minh/oasis-cafe,"303 Lê Lợi, P. 3,  Quận Gò Vấp, TP. HCM",07:00 AM - 10:00 PM,15.000đ - 55.000đ,6.7,198
+280,Oishii Yogurt & Coffee - Quang Trung,https://www.foody.vn/ho-chi-minh/oishii-yogurt-coffee-quang-trung,"53 Quang Trung,  Quận 9, TP. HCM",08:30 AM - 10:00 PM,5.000đ - 35.000đ,7.5,21
+281,Oromia Coffee - Nam Kỳ Khởi Nghĩa,https://www.foody.vn/ho-chi-minh/oromia-coffee-nam-ky-khoi-nghia,"193A/D3 Nam Kỳ Khởi Nghĩa,  Quận 3, TP. HCM",07:00 AM - 10:30 PM,36.000đ - 146.000đ,7.9,"1,067"
+282,Osaka - Cơm Thố Nhật Bản,https://www.foody.vn/ho-chi-minh/osaka-com-tho-nhat-ban,"64 Nguyễn Thời Trung, P. 6,  Quận 5, TP. HCM",11:00 AM - 10:00 PM,30.000đ - 50.000đ,6.9,455
+283,Panda BBQ - Xiên Nướng Đồng Giá 5000 - Chợ Đêm Linh Trung,https://www.foody.vn/ho-chi-minh/panda-bbq-xien-nuong-dong-gia-5000-cho-dem-linh-trung,"1225E Tỉnh Lộ 43, P. Bình Chiểu,  Quận Thủ Đức, TP. HCM",,5.000đ - 5.000đ,_._,0
+284,Panda BBQ - Xiên Nướng Đồng Giá 5000,https://www.foody.vn/ho-chi-minh/panda-bbq-xien-nuong-dong-gia-5000-pham-hung,"C3/6 Phạm Hùng,  Bình Chánh, TP. HCM",,5.000đ - 70.000đ,7.4,56
+285,Panda BBQ 2 - Xiên Nướng Đồng Giá 5000,https://www.foody.vn/ho-chi-minh/panda-bbq-2-xien-nuong-dong-gia-5000,"137 Đường Số 9A, Khu Dân Cư Trung Sơn,  Bình Chánh, TP. HCM",,5.000đ - 70.000đ,6.7,171
+286,Panda BBQ 7 - Xiên Nướng Đồng Giá 5000,https://www.foody.vn/ho-chi-minh/panda-bbq-7-xien-nuong-dong-gia-5000,"255 Hòa Bình,  Quận Tân Phú, TP. HCM",,5.000đ - 50.000đ,7.7,25
+287,Papa's Chicken & Beer Thủ Đức,https://www.foody.vn/ho-chi-minh/papas-chicken-beer-thu-duc,"165 Thống Nhất, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",11:00 AM - 11:00 PM,50.000đ - 150.000đ,7.0,146
+288,Papa's Chicken - An Phú,https://www.foody.vn/ho-chi-minh/papa-s-chicken-an-phu,"15 Nguyễn Quý Đức, P. An Phú,  Quận 2, TP. HCM",09:00 AM - 10:00 PM,100.000đ - 220.000đ,7.0,81
+289,Papa's Chicken - Phú Mỹ Hưng,https://www.foody.vn/ho-chi-minh/papa-s-chicken,"S37-1 Hưng Vượng 2, Bùi Bằng Đoàn,  Quận 7, TP. HCM",10:30 AM - 12:00 AM,100.000đ - 165.000đ,7.1,466
+290,Papa's Chicken - Trường Sa,https://www.foody.vn/ho-chi-minh/papa-s-chicken-truong-sa,"346 Trường Sa, P. 2,  Quận Phú Nhuận, TP. HCM",09:00 AM - 10:00 PM,20.000đ - 400.000đ,6.6,275
+291,Papaxốt - Phạm Hùng,https://www.foody.vn/ho-chi-minh/papaxot-pham-hung,"8A Phạm Hùng, P. 4,  Quận 8, TP. HCM",08:00 AM - 10:00 PM,25.000đ - 180.000đ,7.4,86
+292,Paris Baguette - Cao Thắng,https://www.foody.vn/ho-chi-minh/paris-baguette-cao-thang,"2 Cao Thắng, P. 2,  Quận 3, TP. HCM",07:00 AM - 11:00 PM,10.000đ - 66.000đ,7.3,550
+293,Partea - English Tearoom,https://www.foody.vn/ho-chi-minh/partea-english-tearoom,"Tầng 4, 42 Nguyễn Huệ,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,50.000đ - 80.000đ,7.6,561
+294,Pepper Lunch - AEON Mall,https://www.foody.vn/ho-chi-minh/pepper-lunch-aeon-mall,"Tầng Trệt AEON Mall, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",09:00 AM - 09:30 PM,200.000đ - 550.000đ,7.3,119
+295,Peter Home - Coffee Shop,https://www.foody.vn/ho-chi-minh/peter-home-coffee-shop,"143/5 Nguyễn Ảnh Thủ, P. Trung Chánh,  Hóc Môn, TP. HCM",09:00 AM - 11:00 PM,30.000đ - 50.000đ,8.0,14
+296,Phố Biển - Hải Sản Tươi Sống - Tắc Suất,https://www.foody.vn/ho-chi-minh/pho-bien-hai-san-tuoi-song-tac-suat,"289 Tắc Suất, Khu Phố Miễu Nhì, TT. Cần Thạnh,  Cần Giờ, TP. HCM",06:00 AM - 10:00 PM,150.000đ - 330.000đ,5.0,2
+297,Phong Cua 1 - Cây Sứ Quán,https://www.foody.vn/ho-chi-minh/phong-cua-cay-su-quan,"1019A Bình Quới, P. 28,  Quận Bình Thạnh, TP. HCM",10:00 AM - 11:00 PM,200.000đ - 330.000đ,6.5,390
+298,Phở Quỳnh Mai - Củ Chi,https://www.foody.vn/ho-chi-minh/pho-quynh-mai-cu-chi,"Gần QL22 & Trần Văn Chấm,  Củ Chi, TP. HCM",07:00 AM - 07:00 PM,25.000đ - 55.000đ,7.0,10
+299,Phúc Long Coffee & Tea House - 42 Ngô Đức Kế,https://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-42-ngo-duc-ke,"42 Ngô Đức Kế, P. Bến Nghé,  Quận 1, TP. HCM",07:30 AM - 10:30 PM,25.000đ - 45.000đ,7.4,3
+300,Phúc Long Coffee & Tea House - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-aeon-mall-binh-tan,"Tầng 1, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",10:00 AM - 10:00 PM,30.000đ - 50.000đ,7.4,66
+301,Phúc Long Coffee & Tea House - Crescent Mall,https://www.foody.vn/ho-chi-minh/phuc-long-cafe-takeaway-crescent-mall,"Tầng G Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",09:00 AM - 10:30 PM,30.000đ - 50.000đ,7.4,330
+302,Phúc Long Coffee & Tea House - SC VivoCity,https://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-sc-vivocity,"41A - 41B, Tầng 1, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",07:00 AM - 09:00 PM,30.000đ - 100.000đ,7.5,173
+303,Phúc Long Coffee & Tea House - TTTM RomeA,https://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-tttm-romea,"TTTM RomeA, 117 Nguyễn Đình Chiểu, P. 6,  Quận 3, TP. HCM",07:30 AM - 10:00 PM,25.000đ - 80.000đ,7.1,3
+304,Pizza 4P’s - Pizza Kiểu Nhật - Lê Thánh Tôn,https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-le-thanh-ton,"8/15 Lê Thánh Tôn, P. Bến Nghé,  Quận 1, TP. HCM",Everyday  10:00 AM - 11:00 PM,250.000đ - 500.000đ,7.9,911
+305,Pizza 4P’s - Pizza Kiểu Nhật - Nguyễn Văn Linh,https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-nguyen-van-linh,"Lô MD2, Nguyễn Văn Linh, P Tân Phú,  Quận 7, TP. HCM",10:00 AM - 10:00 PM,200.000đ - 300.000đ,7.8,102
+306,Pizza 4P's - Pizza Kiểu Nhật - Saigon Centre,https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-saigon-centre,"01 - 2 Lầu 6 Saigon Centre, 65 Lê Lợi, P. Bến Nghé,  Quận 1, TP. HCM",10:00 - 23:00,250.000đ - 400.000đ,_._,0
+307,Pizza 4P's - Pizza Kiểu Nhật - Thủ Khoa Huân,https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-thu-khoa-huan,"8 Thủ Khoa Huân, P. Bến Thành,  Quận 1, TP. HCM",Chủ Nhật  10:00 AM - 11:00 PM,150.000đ - 300.000đ,8.1,113
+308,Pizza Hut - Crescent Mall,https://www.foody.vn/ho-chi-minh/pizza-hut-crescent-mall-ton-dat-tien,"Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",07:00 AM - 11:00 PM,200.000đ - 330.000đ,7.3,92
+309,Pizza Hut - Etown Cộng Hoà,https://www.foody.vn/ho-chi-minh/pizza-hut-etown-cong-hoa,"364 Cộng Hòa,  Quận Tân Bình, TP. HCM",10:00 AM - 10:00 PM,200.000đ - 330.000đ,7.3,5
+310,Pizza Hut - Lotte Mart Nam Sài Gòn,https://www.foody.vn/ho-chi-minh/pizza-hut-lotte-mart-nam-sai-gon,"Tầng Trệt Lotte Mart Nguyễn Hữu Thọ, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",10:00 AM - 09:00 PM,10.000đ - 330.000đ,7.3,127
+311,Pizza Hut - Lê Văn Sỹ,https://www.foody.vn/ho-chi-minh/pizza-hut-le-van-sy,"451 Lê Văn Sỹ, P. 12,  Quận 3, TP. HCM",09:00 AM - 10:00 PM,50.000đ - 300.000đ,7.5,4
+312,Pizza Hut - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/pizza-hut-nguyen-anh-thu,"151/2B Nguyễn Ảnh Thủ, Ấp Trung Chánh 2, Xã Trung Chánh,  Hóc Môn, TP. HCM",07:00 AM - 10:00 PM,45.000đ - 250.000đ,7.7,8
+313,Pizza Hut - Nguyễn Trãi,https://www.foody.vn/ho-chi-minh/pizza-hut-nguyen-trai,"264-266 Nguyễn Trãi,  Quận 5, TP. HCM",10:00 AM - 10:00 PM,150.000đ - 330.000đ,7.3,258
+314,Pizza Hut - Nơ Trang Long,https://www.foody.vn/ho-chi-minh/pizza-hut-no-trang-long,"130 Nơ Trang Long, P. 14,  Quận Bình Thạnh, TP. HCM",10:00 AM - 10:00 PM,150.000đ - 330.000đ,7.5,8
+315,Pizza Hut - Now Zone Nguyễn Văn Cừ,https://www.foody.vn/ho-chi-minh/pizza-hut-now-zone-nguyen-van-cu,"Lầu 3, 235 Nguyễn Văn Cừ,  Quận 1, TP. HCM",09:30 AM - 09:00 PM,200.000đ - 330.000đ,7.4,125
+316,Pizza Hut - Parkson CT Plaza,https://www.foody.vn/ho-chi-minh/pizza-hut-food-court-parkson-ct-plaza,"Tầng Hầm B1 Parkson CT Plaza, 60A Trường Sơn, p. 2,  Quận Tân Bình, TP. HCM",08:30 AM - 09:30 PM,200.000đ - 330.000đ,7.3,30
+317,Pizza Hut - Phổ Quang,https://www.foody.vn/ho-chi-minh/pizza-hut-pho-quang,"66 Phổ Quang, P. 2,  Quận Tân Bình, TP. HCM",09:00 - 22:00,50.000đ - 300.000đ,7.4,1
+318,Pizza Hut - Vincom Maximark 3 Tháng 2,https://www.foody.vn/ho-chi-minh/pizza-hut-maximark-3-thang-2,"Tầng 3, Vincom Maximark, 3 Đường 3 Tháng 2,  Quận 10, TP. HCM",10:00 AM - 10:30 PM,150.000đ - 330.000đ,7.3,51
+319,Pizza Hut - Vincom Maximark Cộng Hoà,https://www.foody.vn/ho-chi-minh/pizza-hut-maximark-cong-hoa,"Vincom Maximark Cộng Hoà, 15 – 17 Cộng Hòa,  Quận Tân Bình, TP. HCM",10:00 AM - 10:00 PM,200.000đ - 330.000đ,7.3,100
+320,Pizza Hut - Võ Văn Ngân,https://www.foody.vn/ho-chi-minh/pizza-hut-vo-van-ngan,"24 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",10:30 AM - 10:30 PM,50.000đ - 220.000đ,7.1,59
+321,Quán 100% Thiên Nhiên,https://www.foody.vn/ho-chi-minh/quan-100-thien-nhien,"10/82 Phan Đức , Ấp Long Thạnh, X. Long Hoà,  Cần Giờ, TP. HCM",07:00 AM - 10:00 PM,15.000đ - 200.000đ,7.4,5
+322,Quán 223 - Bánh Flan Thập Cẩm,https://www.foody.vn/ho-chi-minh/quan-223-banh-flan-thap-cam,"223 Trần Bình Trọng,  Quận 5, TP. HCM",,15.000đ - 22.000đ,6.9,385
+323,Quán Ăn Ly,https://www.foody.vn/ho-chi-minh/quan-an-ly,"Duyên Hải,  Cần Giờ, TP. HCM",00:00 - 0:00,50.000đ - 150.000đ,8.1,2
+324,Quán Ăn Thanh Lịch - Cần Giờ,https://www.foody.vn/ho-chi-minh/quan-an-thanh-lich-can-gio,"185 Tắc Xuất, KP. Miếu Ba, TT. Cần Thạnh,  Cần Giờ, TP. HCM",08:00 AM - 10:30 PM,100.000đ - 165.000đ,6.7,14
+325,Quán Ăn Tâm Ký - Huỳnh Tấn Phát,https://www.foody.vn/ho-chi-minh/quan-an-tam-ky-huynh-tan-phat,"1949 Huỳnh Tấn Phát,  Nhà Bè, TP. HCM",07:00 AM - 09:00 PM,18.000đ - 50.000đ,7.0,17
+326,Quán Bò Kho Mẹ Nấu,https://www.foody.vn/ho-chi-minh/quan-bo-kho-me-nau,"56/1 Phan Văn Hớn,  Hóc Môn, TP. HCM",05:30 AM - 11:30 PM,25.000đ - 48.000đ,9.4,14
+327,"Quán Cô Ba - Bánh Căn, Bánh Xèo Phan Rang",https://www.foody.vn/ho-chi-minh/quan-co-ba-banh-can-banh-xeo-phan-rang,"10 Khu A, CC Phú Thọ, Nguyễn Thị Nhỏ, P. 15,  Quận 11, TP. HCM",,8.000đ - 37.000đ,7.0,116
+328,Quán Khói - Xiên Que Lẩu Nhúng & Món Nướng,https://www.foody.vn/ho-chi-minh/quan-khoi-xien-que-lau-nhung-mon-nuong,"122/37/9 Vĩnh Khánh, P.10,  Quận 4, TP. HCM",,40.000đ - 120.000đ,7.2,105
+329,Quán Nướng Bò Cười - Phạm Hùng,https://www.foody.vn/ho-chi-minh/quan-nuong-bo-cuoi-pham-hung,"C1/21 - C2/23 Phạm Hùng,  Bình Chánh, TP. HCM",10:00 AM - 10:00 PM,50.000đ - 150.000đ,7.0,24
+330,Quán Siêu Thị Nướng BBQ - Olympus,https://www.foody.vn/ho-chi-minh/quan-sieu-thi-nuong-bbq-olympus,"Lầu 7, 99 Bình Thới, P. 11,  Quận 11, TP. HCM",,100.000đ - 300.000đ,8.5,183
+331,Quán Thi - Hải Sản & Các Món Nhậu Bình Dân,https://www.foody.vn/ho-chi-minh/quan-thi-hai-san-cac-mon-nhau-binh-dan,"165 Duyên Hải,  Cần Giờ, TP. HCM",09:00 - 21:00,25.000đ - 300.000đ,8.4,3
+332,Quán Trang - Mì Quảng & Bánh Bèo,https://www.foody.vn/ho-chi-minh/mi-quang-trang,"68/6 Lữ Gia, P. 15,  Quận 11, TP. HCM",02:30 PM - 09:00 PM,20.000đ - 60.000đ,6.5,116
+333,Quán Vườn Cau - Nước Mía Sầu Riêng & Củ Mì Hấp Cốt Dừa,https://www.foody.vn/ho-chi-minh/nuoc-mia-vuon-cau,"259A Quốc lộ 22, Tân Thông Hội,  Củ Chi, TP. HCM",06:30 AM - 08:00 PM,5.000đ - 15.000đ,6.7,37
+334,Quán Yoyo BBQ - Chuyên Các Món Nướng,https://www.foody.vn/ho-chi-minh/quan-yoyo-chuyen-cac-mon-nuong,"66 Đường Số 9, KDC Trung Sơn,  Bình Chánh, TP. HCM",,5.000đ - 99.000đ,6.7,34
+335,Riverside Palace - Tiệc Cưới & Hội Nghị,https://www.foody.vn/ho-chi-minh/riverside-palace,"360D Bến Vân Đồn,  Quận 4, TP. HCM",08:30 AM - 09:30 PM,3.200.000đ - 6.600.000đ,7.3,92
+336,R&J - Italian Lounge & Restaurant,https://www.foody.vn/ho-chi-minh/romeo-juliet-italian-restaurant-times-square,"57-69F Đồng Khởi (22-26 Nguyễn Huệ),  Quận 1, TP. HCM",,300.000đ - 1.000.000đ,8.6,29
+337,Rosemary Acoustic,https://www.foody.vn/ho-chi-minh/rosemary-garden-steak-cafe,"30 Đường 7A, KDC Nhân Phú, P. Tăng Nhơn Phú B,  Quận 9, TP. HCM",,19.000đ - 79.000đ,8.2,21
+338,SaiGon Chic Cafe,https://www.foody.vn/ho-chi-minh/saigon-chic-cafe,"82 Đường Số 27, P. 6,  Quận Gò Vấp, TP. HCM",08:00 AM - 11:00 PM,25.000đ - 55.000đ,7.3,100
+339,Saigon Juice - Ăn Luôn Ly,https://www.foody.vn/ho-chi-minh/saigon-juice-to-hien-thanh,"SA1.04 Toà Nhà Green Park, Đường Số 8, KDC Vĩnh Lộc, P. Bình Hưng Hoà B,  Quận Bình Tân, TP. HCM",06:30 AM - 10:30 PM,10.000đ - 40.000đ,7.4,160
+340,Sakura Việt Nam - Sushi Nhật Bản,https://www.foody.vn/ho-chi-minh/sakura-viet-nam-sushi-nhat-ban,"505 Sư Vạn Hạnh,  Quận 10, TP. HCM",11:00 AM - 10:30 PM,9.000đ - 132.000đ,7.1,400
+341,San Fu Lou - Cantonese Kitchen - Phan Xích Long,https://www.foody.vn/ho-chi-minh/san-fu-lou-cantonese-kitchen-phan-xich-long,"195 - 197 Phan Xích Long, P. 2,  Quận Phú Nhuận, TP. HCM",07:00 AM - 11:00 PM,30.000đ - 190.000đ,7.6,207
+342,San San - Mì Gà Quay - Hoàng Sa,https://www.foody.vn/ho-chi-minh/mi-ga-quay-hoang-sa,"1235 Hoàng Sa,  Quận Tân Bình, TP. HCM",,25.000đ - 35.000đ,7.0,311
+343,Say Coffee 24H - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/say-coffee,"756 Sư Vạn Hạnh,  Quận 10, TP. HCM",24/24  00:00 - 23:59,10.000đ - 35.000đ,7.2,526
+344,Seol Hwa - Bingsu Sữa Bào Tuyết Hoa,https://www.foody.vn/ho-chi-minh/bingsu-sua-bao-tuyet-hoa-seol-hwa,"28/1 Phạm Văn Nghị, Khu Phố Sky Garden 1, P. Tân Phong,  Quận 7, TP. HCM",11:00 AM - 10:00 PM,70.000đ - 200.000đ,7.8,143
+345,Sủi Cảo Ngọc Ý - Hà Tôn Quyền ,https://www.foody.vn/ho-chi-minh/sui-cao-ngoc-y,"187 Hà Tôn Quyền, P. 4,  Quận 11, TP. HCM",Trưa - Khuya  11:00 AM - 01:00 AM,30.000đ - 60.000đ,7.0,172
+346,Sủi Cảo Thiên Thiên - Hà Tôn Quyền,https://www.foody.vn/ho-chi-minh/sui-cao-thien-thien-ha-ton-quyen,"195 Hà Tôn Quyền, P. 4,  Quận 11, TP. HCM",,30.000đ - 45.000đ,7.0,234
+347,Sky 17 Cafe & Restaurant,https://www.foody.vn/ho-chi-minh/sky-17-cafe-restaurant,"27 Trường Chinh, P. Tân Thới,  Quận 12, TP. HCM",06:30 AM - 10:30 PM,27.000đ - 300.000đ,6.9,24
+348,Sky Garden - BBQ & Hot Pot,https://www.foody.vn/ho-chi-minh/sky-garden-bbq-hot-pot,"624 Lạc Long Quân, P. 5,  Quận 11, TP. HCM",09:00 AM - 11:00 PM,50.000đ - 300.000đ,7.3,146
+349,Smile Coffee - Nguyễn Hữu Cầu,https://www.foody.vn/ho-chi-minh/smile-coffee-nguyen-huu-cau,"56/1S Nguyễn Hữu Cầu,  Hóc Môn, TP. HCM",08:30 AM - 10:00 PM,13.000đ - 29.000đ,8.1,22
+350,Sobin - Mì Cay,https://www.foody.vn/ho-chi-minh/sobin-mi-cay,"210 Dương Bá Trạc,  Quận 8, TP. HCM",10:00 AM - 09:00 PM,35.000đ - 65.000đ,6.1,59
+351,Sorrento Cafe - Cafe Lãng Mạn,https://www.foody.vn/ho-chi-minh/sorrento-cafe,"91/6 Hòa Hưng, P.12,  Quận 10, TP. HCM",07:00 AM - 11:00 PM,25.000đ - 55.000đ,7.4,107
+352,Sukiya - Cơm Bò Hầm & Mì Ramen - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/sukiya-com-bo-ham-mi-ramen,"Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",09:00 AM - 10:00 PM,15.000đ - 99.000đ,7.9,69
+353,Sumo BBQ - Cao Thắng - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-cao-thang-buffet-nuong-lau,"59B Cao Thắng,  Quận 3, TP. HCM",11:00 AM - 10:00 PM,239.000đ - 378.000đ,6.7,184
+354,Sumo BBQ - Lê Lai - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-le-lai-buffet-nuong-lau,"134 - 136 Lê Lai, P. Bến Thành,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,100.000đ - 600.000đ,7.9,140
+355,Sumo BBQ - Lê Văn Sỹ - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-le-van-sy,"300 Lê Văn Sỹ, P. 1,  Quận Tân Bình, TP. HCM",Buổi tối  05:00 PM - 10:00 PM,300.000đ - 407.000đ,7.2,217
+356,Sumo BBQ - Nguyễn Đình Chiểu - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-nguyen-dinh-chieu,"120 Bis Nguyễn Đình Chiểu,  Quận 1, TP. HCM",Buổi tối  05:00 PM - 10:00 PM,300.000đ - 407.000đ,7.4,311
+357,Sumo BBQ - Phan Xích Long - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-phan-xich-long,"210 Phan Xích Long, P. 2,  Quận Phú Nhuận, TP. HCM",Buổi tối  05:00 PM - 10:00 PM,300.000đ - 407.000đ,7.1,193
+358,Sumo BBQ - Quang Trung - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-quang-trung-buffet-nuong-lau,"50 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",Buổi tối  05:00 AM - 10:00 PM,300.000đ - 407.000đ,7.4,94
+359,Sumo BBQ - SC VivoCity - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-buffet-nuong-lau-sc-vivocity,"Lô 02 - 39, Tầng 2, SC Vivo City, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",09:00 AM - 09:00 PM,300.000đ - 407.000đ,7.4,95
+360,Sumo BBQ - TTTM Đông Phương - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-tttm-dong-phuong-buffet-nuong-lau,"TTTM Đông Phương, 685 Âu Cơ, P. Tân Thành,  Quận Tân Phú, TP. HCM",10:00 AM - 10:00 PM,300.000đ - 500.000đ,6.7,4
+361,Sumo BBQ - Vincom Center - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-vincom-center-buffet-nuong-lau,"Tầng B3 Vincom Center, 72 Lê Thánh Tôn, P. Bến Nghé,  Quận 1, TP. HCM",Buổi tối  05:00 PM - 10:00 PM,300.000đ - 407.000đ,7.3,256
+362,Sumo BBQ - Vincom Mega Mall Thảo Điền - Buffet Nướng & Lẩu,https://www.foody.vn/ho-chi-minh/sumo-bbq-vincom-mega-mall-thao-dien-buffet-nuong-lau,"Tầng 4, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền,  Quận 2, TP. HCM",11:00 AM - 10:00 PM,300.000đ - 400.000đ,7.5,42
+363,Sushi Moon - Đường 10 Cư Xá Ra Đa,https://www.foody.vn/ho-chi-minh/sushi-moon-duong-10-cu-xa-ra-da,"107 Đường 10 Cư Xá Rada, P. 13,  Quận 6, TP. HCM",11:00 AM - 10:00 PM,25.000đ - 90.000đ,7.7,52
+364,SuShi Thủ Đức - Phú Châu,https://www.foody.vn/ho-chi-minh/sushi-thu-duc-phu-chau,"58 Phú Châu, P. Tam Phú,  Quận Thủ Đức, TP. HCM",11:30 AM - 08:00 PM,18.000đ - 231.000đ,6.9,61
+365,Sườn Cây Nướng & Beer - Kinh Dương Vương,https://www.foody.vn/ho-chi-minh/suon-cay-nuong-beer-kinh-duong-vuong,"99 Kinh Dương Vương, P. 12,  Quận 6, TP. HCM",11:00 AM - 10:30 PM,20.000đ - 200.000đ,7.5,73
+366,Swebi Cafe - Tên Lửa,https://www.foody.vn/ho-chi-minh/swebi-cafe-ten-lua,"116 Tên Lửa,  Quận Bình Tân, TP. HCM",07:00 AM - 10:00 PM,20.000đ - 40.000đ,8.4,56
+367,Tano Sushi - Phan Xích Long,https://www.foody.vn/ho-chi-minh/tano-sushi-3-phan-xich-long,"206 Phan Xích Long,  Quận Phú Nhuận, TP. HCM",,30.000đ - 260.000đ,7.3,223
+368,Texas Chicken - Hậu Giang,https://www.foody.vn/ho-chi-minh/texas-chicken-hau-giang,"176C-176D Hậu Giang, P. 6,  Quận 6, TP. HCM",09:00 AM - 09:00 PM,50.000đ - 220.000đ,7.1,82
+369,Texas Chicken - Nguyễn Văn Cừ,https://www.foody.vn/ho-chi-minh/texas-chicken-nguyen-van-cu,"217B Nguyễn Văn Cừ,  Quận 5, TP. HCM",10:00 AM - 10:00 PM,20.000đ - 275.000đ,7.3,313
+370,Texas Chicken - Phan Xích Long,https://www.foody.vn/ho-chi-minh/texas-chicken-phan-xich-long,"274 - 276 Phan Xích Long,  Quận Phú Nhuận, TP. HCM",09:00 AM - 09:00 PM,50.000đ - 220.000đ,7.3,463
+371,The Coffee House - 8Bis Hoàng Hoa Thám,https://www.foody.vn/ho-chi-minh/the-coffee-house-8bis-hoang-hoa-tham,"8Bis Hoàng Hoa Thám, P. 7,  Quận Bình Thạnh, TP. HCM",07:00 AM - 10:00 PM,19.000đ - 55.000đ,7.7,31
+372,The Coffee House - Bình Phú,https://www.foody.vn/ho-chi-minh/the-coffee-house-binh-phu,"111 - 113 Bình Phú,  P. 11,  Quận 6, TP. HCM",08:00 - 23:00,35.000đ - 60.000đ,7.7,3
+373,The Coffee House - Bùi Hữu Nghĩa,https://www.foody.vn/ho-chi-minh/the-coffee-house-bui-huu-nghia,"270 Bùi Hữu Nghĩa, P. 2,  Quận Bình Thạnh, TP. HCM",09:00 - 22:00,30.000đ - 60.000đ,8.9,7
+374,The Coffee House - Huỳnh Văn Bánh,https://www.foody.vn/ho-chi-minh/the-coffee-house-huynh-van-banh,"68 Huỳnh Văn Bánh,  Quận Phú Nhuận, TP. HCM",07:00 AM - 11:00 PM,30.000đ - 50.000đ,8.0,36
+375,The Coffee House - Lê Đại Hành,https://www.foody.vn/ho-chi-minh/the-coffee-house-le-dai-hanh,"403A - 405A Lê Đại Hành,  Quận 11, TP. HCM",07:00 - 23:00,20.000đ - 50.000đ,7.8,59
+376,The Coffee House - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-anh-thu,"95B Nguyễn Ảnh Thủ, Ấp Vạn Hạnh,  Hóc Môn, TP. HCM",07:00 - 22:00,30.000đ - 70.000đ,7.9,4
+377,The Coffee House - Nguyễn Thị Thập,https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-thi-thap,"313 Nguyễn Thị Thập,  Quận 7, TP. HCM",07:00 AM - 10:30 PM,35.000đ - 60.000đ,7.7,101
+378,The Coffee House - Nguyễn Thái Sơn,https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-thai-son,"41 Nguyễn Thái Sơn,  Quận Gò Vấp, TP. HCM",07:30 AM - 10:00 PM,30.000đ - 60.000đ,7.7,43
+379,The Coffee House - Ngô Tất Tố,https://www.foody.vn/ho-chi-minh/the-coffee-house-ngo-tat-to,"14B1 Ngô Tất Tố, P. 19,  Quận Bình Thạnh, TP. HCM",07:00 AM - 10:00 PM,29.000đ - 80.000đ,7.7,17
+380,The Coffee House - Thăng Long,https://www.foody.vn/ho-chi-minh/the-coffee-house-thang-long,"51 Thăng Long, P. 4,  Quận Tân Bình, TP. HCM",07:30 AM - 10:00 PM,30.000đ - 55.000đ,7.7,13
+381,The Coffee House - Trường Chinh,https://www.foody.vn/ho-chi-minh/the-coffee-house-truong-chinh,"559 Trường Chinh,  Quận Tân Bình, TP. HCM",07:00 AM - 10:30 PM,30.000đ - 50.000đ,7.9,11
+382,The Coffee House - Trần Huy Liệu,https://www.foody.vn/ho-chi-minh/the-coffee-house-tran-huy-lieu,"185 Trần Huy Liệu,  Quận Phú Nhuận, TP. HCM",08:00 AM - 10:00 PM,30.000đ - 50.000đ,8.1,21
+383,The Coffee House - Võ Văn Ngân,https://www.foody.vn/ho-chi-minh/the-coffee-house-vo-van-ngan,"114 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",07:30 AM - 10:00 PM,29.000đ - 69.000đ,7.5,92
+384,The Deck Saigon - Ven Sông Saigon,https://www.foody.vn/ho-chi-minh/the-deck-saigon,"38 Nguyễn Ư Dĩ, P. Thảo Điền,  Quận 2, TP. HCM",Sáng - Tối  08:30 AM - 11:30 PM,100.000đ - 385.000đ,7.5,140
+385,The Little Love - Ẩm Thực Hàn Thái Nhật,https://www.foody.vn/ho-chi-minh/the-little-love-am-thuc-han-thai-nhat,"56/1 Nguyễn Hữu Cầu, X. Trung Chánh,  Hóc Môn, TP. HCM",09:00 AM - 10:00 PM,50.000đ - 300.000đ,7.3,15
+386,The Long @Times Square,https://www.foody.vn/ho-chi-minh/the-long-times-square,"57 – 69F Đồng Khởi (22 - 36 Nguyễn Huệ ),  Quận 1, TP. HCM",10:00 AM - 12:00 AM,50.000đ - 200.000đ,8.2,58
+387,The Pizza Company - Hưng Phước 4,https://www.foody.vn/ho-chi-minh/the-pizza-company-hung-phuoc-4,"Hưng Phước 4, P. Tân Phong,  Quận 7, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 200.000đ,7.6,31
+388,The Pizza Company - Huỳnh Tấn Phát,https://www.foody.vn/ho-chi-minh/the-pizza-company-huynh-tan-phat,"346 Huỳnh Tấn Phát, P. Bình Thuận,  Quận 7, TP. HCM",09:00 - 22:00,50.000đ - 400.000đ,7.6,1
+389,The Pizza Company - Lê Đại Hành,https://www.foody.vn/ho-chi-minh/the-pizza-company-le-dai-hanh,"Lô 4, Khu B, Căn số 7, Chung cư Phú Thọ, Lê Đại Hành, P. 15,  Quận 11, TP. HCM",10:00 AM - 10:00 PM,100.000đ - 250.000đ,7.4,87
+390,The Pizza Company - Lê Văn Sỹ,https://www.foody.vn/ho-chi-minh/the-pizza-company-le-van-sy,"333 Lê Văn Sỹ,  Quận 3, TP. HCM",09:00 AM - 09:00 PM,100.000đ - 250.000đ,7.5,96
+391,The Pizza Company - Nguyễn Ảnh Thủ,https://www.foody.vn/ho-chi-minh/the-pizza-company-nguyen-anh-thu,"75/3 - 75/4 Nguyễn Ảnh Thủ, Xã Trung Chánh,  Hóc Môn, TP. HCM",09:00 AM - 10:00 PM,50.000đ - 200.000đ,7.3,14
+392,The Pizza Company - Nguyễn Thị Minh Khai,https://www.foody.vn/ho-chi-minh/the-pizza-company-nguyen-thi-minh-khai,"506 Nguyễn Thị Minh Khai, P. 2,  Quận 3, TP. HCM",10:00 AM - 10:00 PM,100.000đ - 250.000đ,7.4,482
+393,The Pizza Company - Nguyễn Thái Học,https://www.foody.vn/ho-chi-minh/the-pizza-company-nguyen-thai-hoc,"105 - 107 Nguyễn Thái Học,  Quận 1, TP. HCM",08:00 AM - 10:00 PM,100.000đ - 250.000đ,7.5,125
+394,The Pizza Company - Phan Văn Trị,https://www.foody.vn/ho-chi-minh/the-pizza-company-phan-van-tri,"527J Phan Văn Trị, P. 5,  Quận Gò Vấp, TP. HCM",10:00 - 22:00,50.000đ - 250.000đ,7.8,4
+395,The Pizza Company - Quang Trung,https://www.foody.vn/ho-chi-minh/the-pizza-company-quang-trung,"638 Quang Trung,  Quận Gò Vấp, TP. HCM",09:00 - 22:00,50.000đ - 250.000đ,7.8,18
+396,The Pizza Company - Tân Sơn Nhì,https://www.foody.vn/ho-chi-minh/the-pizza-company-tan-son-nhi,"456A Tân Sơn Nhì, P. Tân Quý,  Quận Tân Phú, TP. HCM",08:00 AM - 10:00 PM,100.000đ - 300.000đ,8.0,8
+397,The Pizza Company - Vincom Mega Mall Thảo Điền,https://www.foody.vn/ho-chi-minh/the-pizza-company-vincom-thao-dien,"Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền,  Quận 2, TP. HCM",08:30 AM - 10:00 PM,50.000đ - 200.000đ,7.4,48
+398,The Pizza Company - Võ Văn Ngân,https://www.foody.vn/ho-chi-minh/the-pizza-company-vo-van-ngan,"26 - 28 - 30 Võ Văn Ngân, P. Trường Thọ,  Quận Thủ Đức, TP. HCM",10:00 AM - 10:00 PM,90.000đ - 150.000đ,7.8,30
+399,The Royal Pavilion - Long Triều - Nhà Hàng Hoa,https://www.foody.vn/ho-chi-minh/the-royal-pavilion-long-trieu-nha-hang-hoa,"Tầng 4 Times Square, 57 – 69F Đồng Khởi (22 - 36 Nguyễn Huệ),  Quận 1, TP. HCM",Tối  06:00 PM - 11:00 PM,1.000.000đ - 5.000.000đ,8.3,29
+400,The Sushi Bar - Capri Hotel Residences,https://www.foody.vn/ho-chi-minh/the-sushi-bar-capri-hotel-residences,"C6B02-2, New South Urban City, P. Tân Phú,  Quận 7, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.8,18
+401,The Sushi Bar - Hoàng Văn Thái,https://www.foody.vn/ho-chi-minh/the-sushi-bar-hoang-van-thai,"73 Hoàng Văn Thái, P. Tân Phú,  Quận 7, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.4,27
+402,The Sushi Bar - Nguyễn Đình Chiểu,https://www.foody.vn/ho-chi-minh/sushibar-nguyen-dinh-chieu,"54 Nguyễn Đình Chiểu,  Quận 1, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.5,129
+403,The Sushi Bar - Nguyễn Trãi,https://www.foody.vn/ho-chi-minh/the-sushi-bar-nguyen-trai,"54 - 56 Nguyễn Trãi, P. Bến Thành,  Quận 1, TP. HCM",Buổi Tối  17:00 - 22:30,38.000đ - 500.000đ,6.9,2
+404,The Sushi Bar - Saigon Court,https://www.foody.vn/ho-chi-minh/sushibar-saigon-court,"149 Nguyễn Đình Chiểu ,  Quận 3, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.7,24
+405,The Sushi Bar - Thiên Quế - Lê Thánh Tôn,https://www.foody.vn/ho-chi-minh/sushibar-le-thanh-ton,"2 Lê Thánh Tôn,  Quận 1, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.5,349
+406,The Sushi Bar - Zen Plaza,https://www.foody.vn/ho-chi-minh/the-sushi-bar,"Tầng 1 Zen Plaza, 54 - 56 Nguyễn Trãi, P. Bến Thành,  Quận 1, TP. HCM",Buổi Tối  17:00 - 22:30,100.000đ - 330.000đ,7.7,150
+407,Thiên Ân - Bakery & Cafe,https://www.foody.vn/ho-chi-minh/thien-an-bakery,"127 - 129 Võ Văn Ngân, P. Linh Chiểu,  Quận Thủ Đức, TP. HCM",08:00 AM - 10:30 PM,30.000đ - 55.000đ,7.2,122
+408,Thiên Du & Sky Sushi - Trần Hưng Đạo,https://www.foody.vn/ho-chi-minh/sky-sushi-sushi-via-he-duong-pho,"1089A Trần Hưng Đạo, P. 5,  Quận 5, TP. HCM",11:00 AM - 10:00 PM,30.000đ - 110.000đ,7.2,373
+409,Thảo Ốc Quán Gốc,https://www.foody.vn/ho-chi-minh/oc-thao-hoang-dieu,"229 - 231 Hoàng Diệu,  Quận 4, TP. HCM",11:00 AM - 10:00 PM,70.000đ - 150.000đ,6.3,162
+410,Thuần Việt - Quán Ven Sông KDC Trung Sơn,https://www.foody.vn/ho-chi-minh/thuan-viet-kdc-trung-son,"3 Đường Số 1, Khu Trung Sơn,  Bình Chánh, TP. HCM",10:00 AM - 09:00 PM,30.000đ - 110.000đ,7.1,18
+411,Thềm Xưa Cafe - Nguyễn Cảnh Chân,https://www.foody.vn/ho-chi-minh/them-xua-ca-phe-san-vuon,"371D1 Nguyễn Cảnh Chân, P. Nguyễn Cư Trinh,  Quận 1, TP. HCM",09:00 AM - 10:00 PM,22.000đ - 47.000đ,7.0,41
+412,Thần Rồng Mì Nhật - Ramen,https://www.foody.vn/ho-chi-minh/than-rong-mi-nhat-tran-hung-dao,"245 Trần Hưng Đạo, P. 10,  Quận 5, TP. HCM",10:00 AM - 10:00 PM,48.000đ - 48.000đ,7.0,269
+413,Thùy Dương - Nhậu Bờ Sông - Gà Nướng Mắm Nhĩ,https://www.foody.vn/ho-chi-minh/thuy-duong-nhau-bo-song,"1 Đường Số 1, KDC Trung Sơn,  Bình Chánh, TP. HCM",10:00 AM - 11:00 PM,20.000đ - 275.000đ,7.2,10
+414,Tokori BBQ - Nhà Hàng Nướng Nhật Bản,https://www.foody.vn/ho-chi-minh/tokori-bbq-nha-hang-nuong-nhat-ban,"105 Ngô Quyền, P. 11,  Quận 5, TP. HCM",Buổi Tối  05:00 PM - 10:00 PM,50.000đ - 650.000đ,8.2,403
+415,Tokyo Deli - Trường Sơn,https://www.foody.vn/ho-chi-minh/tokyo-deli-truong-son,"4 Trường Sơn,  Quận Tân Bình, TP. HCM",11:00 AM - 10:00 PM,100.000đ - 165.000đ,7.6,158
+416,Tombo - Trà Sữa Nhật Bản,https://www.foody.vn/ho-chi-minh/tombo-tra-sua-nhat-ban,"627A Nguyễn Văn Quá, P. Đông Hưng Thuận,  Quận 12, TP. HCM",07:00 AM - 10:30 PM,55.000đ - 99.000đ,6.6,31
+417,Top Of The Town - Nhà Hàng & Bar - Windsor Plaza,https://www.foody.vn/ho-chi-minh/top-of-the-town-nha-hang-bar-windsor-plaza,"Tầng 25 Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",Nhà hàng  06:00 PM - 11:00 PM,100.000đ - 660.000đ,8.1,17
+418,Trà Sữa Âm 18ºC - Sư Vạn Hạnh,https://www.foody.vn/ho-chi-minh/tra-sua-am-18-c-su-van-hanh,"539 Sư Vạn Hạnh, P. 13,  Quận 10, TP. HCM",Cả ngày   08:30 AM - 11:00 PM,15.000đ - 55.000đ,6.5,379
+419,Trà Sữa Bobapop - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/tra-sua-bobapop-aeon-mall-binh-tan,"Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",09:00 AM - 10:00 PM,23.000đ - 48.000đ,7.3,50
+420,Trà Sữa Bòn Bon - Dương Đình Nghệ,https://www.foody.vn/ho-chi-minh/tra-sua-bon-bon-1-duong-dinh-nghe,"4 Dương Đình Nghệ,  Quận 11, TP. HCM",08:30 AM - 10:00 PM,15.000đ - 25.000đ,6.8,23
+421,Trà Sữa Bòn Bon - Minh Phụng,https://www.foody.vn/ho-chi-minh/tra-sua-bon-bon-duong-dinh-nghe,"529 Minh Phụng, P. 10,  Quận 11, TP. HCM",,8.000đ - 17.000đ,7.1,242
+422,Trà Sữa Cueicha - Kinh Dương Vương,https://www.foody.vn/ho-chi-minh/tra-sua-cueicha-kinh-duong-vuong,"2 Đường số 10, Cư Xá Rada, P. 13,  Quận 6, TP. HCM",08:30 AM - 10:00 PM,20.000đ - 45.000đ,7.1,98
+423,Trà Sữa Luân Mập - Lê Quang Sung,https://www.foody.vn/ho-chi-minh/tra-sua-luan-map-chi-lang-le-quang-sung,"199/1 Lê Quang Sung,  Quận 6, TP. HCM",10:00 - 22:00,10.000đ - 40.000đ,6.1,111
+424,Trà Sữa Mr. Tí Đô - Lê Thị Hà,https://www.foody.vn/ho-chi-minh/tra-sua-mr-ti-do-le-thi-ha,"57 Lê Thị Hà,  Hóc Môn, TP. HCM",08:00 AM - 10:00 PM,15.000đ - 40.000đ,6.8,27
+425,Trà Sữa Princess,https://www.foody.vn/ho-chi-minh/tra-sua-princess,"2G Cư xá Bùi Minh Trực, P. 5,  Quận 8, TP. HCM",07:00 AM - 11:00 PM,20.000đ - 55.000đ,7.1,38
+426,Tư Thủy - Mì Hến - Tôn Thất Thuyết,https://www.foody.vn/ho-chi-minh/tu-thuy-mi-hen,"91 Tôn Thất Thuyết,  Quận 4, TP. HCM",08:30 AM - 09:00 PM,10.000đ - 25.000đ,6.8,113
+427,Tâm Ngọc Resort - Cần Giờ,https://www.foody.vn/ho-chi-minh/tam-ngoc-resort-can-gio,"Ấp Đồng Hòa, Xã Long Hòa,  Cần Giờ, TP. HCM",,100.000đ - 330.000đ,7.6,2
+428,Uraetei BBQ - Phổ Đình - AEON Mall,https://www.foody.vn/ho-chi-minh/uraetei-pho-dinh-aeon-mall,"Tầng 1 AEON Mall, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",10:00 AM - 10:00 PM,150.000đ - 550.000đ,7.5,85
+429,Việt Sin - Ăn Vặt - Nguyễn Xuân Khoát,https://www.foody.vn/ho-chi-minh/viet-sin-nguyen-xuan-khoat,"102/C5 Nguyễn Xuân Khoát, P. Tân Thành,  Quận Tân Phú, TP. HCM",08:30 AM - 11:30 PM,5.000đ - 12.000đ,7.3,78
+430,White Palace - Tiệc Cưới & Hội Nghị,https://www.foody.vn/ho-chi-minh/white-palace,"194 Hoàng Văn Thụ, P. 9,  Quận Phú Nhuận, TP. HCM",Cả Ngày  07:00 AM - 11:00 PM,4.000.000đ - 11.000.000đ,7.9,121
+431,Windsor Spa & Massage - Windsor Plaza,https://www.foody.vn/ho-chi-minh/windsor-spa-massage-windsor-plaza,"Tầng 3, Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",11:00 AM - 12:00 AM,150.000đ - 2.000.000đ,_._,0
+432,Ẩm Thực Bên Sông - Nhà Bè,https://www.foody.vn/ho-chi-minh/ben-song-nha-be,"6/8 Nguyễn Hữu Thọ, Phước Kiểng,  Nhà Bè, TP. HCM",10:00 AM - 10:30 PM,100.000đ - 220.000đ,7.5,7
+433,Xiên Nướng Xê Kô - Đường 9A,https://www.foody.vn/ho-chi-minh/xien-nuong-xe-ko-duong-9a,"217 Đường 9a, KDC Trung Sơn,  Bình Chánh, TP. HCM",,5.000đ - 50.000đ,7.4,14
+434,Xuân Mai - Phở Lẩu Bò,https://www.foody.vn/ho-chi-minh/xuan-mai-pho-lau-bo,"63/3 Nguyễn Thị Nhỏ, P. 2,  Quận 6, TP. HCM",06:00 AM - 10:00 PM,35.000đ - 55.000đ,7.8,121
+435,Xôi Bình Tiên,https://www.foody.vn/ho-chi-minh/xoi-binh-tien,"88 Minh Phụng, P. 5,  Quận 6, TP. HCM",,10.000đ - 33.000đ,7.4,62
+436,Xôi Gà Bà Chiểu,https://www.foody.vn/ho-chi-minh/xoi-ga-ba-chieu,"Chợ Bà Chiểu, Bùi Hữu Nghĩa,  Quận Bình Thạnh, TP. HCM",,15.000đ - 28.000đ,6.4,436
+437,Yoogane Chicken Galbi - AEON Mall Bình Tân,https://www.foody.vn/ho-chi-minh/yoogane-chicken-galbi-aeon-mall-binh-tan,"Tầng 3, AEON Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",10:00 PM - 10:00 PM,100.000đ - 200.000đ,7.1,44
+438,Ăn Vặt Quán Ngon,https://www.foody.vn/ho-chi-minh/an-vat-quan-ngon,"34 Nguyễn Bá Tòng, P. 11,  Quận Tân Bình, TP. HCM",07:00 - 22:00,10.000đ - 20.000đ,7.5,"1,299"

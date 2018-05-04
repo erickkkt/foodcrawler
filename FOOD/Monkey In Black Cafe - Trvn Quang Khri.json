@@ -1,0 +1,576 @@
+{
+    "name": "Monkey In Black Cafe - Trần Quang Khải",
+    "link": "https://www.foody.vn/ho-chi-minh/monkey-in-black",
+    "address": "263 Trần Quang Khải, P. Tân Định,  Quận 1, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 100.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/monkey-in-black-cafe?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "1,020"
+    },
+    "foods": [
+        {
+            "name": "Ciu",
+            "price": "29,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Ciu Đội Nón Bảo Hiểm",
+            "price": "69,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mochi",
+            "price": "29,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Spinner Kim Loại 99K",
+            "price": "99,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Hộp Kẹo Galaxy",
+            "price": "290,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cục Kít",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Spinner Lõi Kim Loại",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Spinner 100% Kim Loại",
+            "price": "139,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Extra Gấu Nhỏ",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Móc Khóa Doraemon",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gấu lớn",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kẹo Galaxy",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Extra Nón Bảo Hiểm",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Extra Gấu Lớn",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Đào Vải",
+            "price": "49,000(đ)",
+            "total_orders": "256"
+        },
+        {
+            "name": "Yogurt Jelly VỪA",
+            "price": "45,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Yogurt Jelly KHỦNG",
+            "price": "65,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Yogurt Dưa Lưới VỪA",
+            "price": "49,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Macchiato Trà Đen",
+            "price": "35,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Macchiato Phô Mai Black Tea",
+            "price": "39,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Yogurt Dưa Lưới KHỦNG",
+            "price": "79,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "CF Nhai Luôn Ly",
+            "price": "45,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Macchiato Phô Mai Peach",
+            "price": "45,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Macchiato Trà Đào",
+            "price": "42,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Yogurt Đào Vải KHỦNG",
+            "price": "99,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Macchiato Trà Dâu",
+            "price": "42,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Macchiato Phô Mai Raspberry",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Marou ĐỒNG NAI 119k",
+            "price": "119,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Marou TIỀN GIANG 119k",
+            "price": "119,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bia Không Cồn - Tại Quán",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Super Manki",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mật Ong Gừng",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Marou LÂM ĐỒNG 119k",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê SỮA (vừa)",
+            "price": "35,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Bạc Xỉu (vừa)",
+            "price": "35,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Cà phê SỮA (nhỏ)",
+            "price": "29,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Cookies Coffee BLENDED",
+            "price": "42,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Bạc Xỉu (nhỏ)",
+            "price": "29,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cappucino ICED",
+            "price": "35,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Fresh Milk",
+            "price": "29,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Latte ICED",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Latte Coffee BLENDED",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cà phê ĐEN (vừa)",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Black Latte",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà phê ĐEN (nhỏ)",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Americano",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Robusta 100%",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xô Trà ĐÀO",
+            "price": "59,000(đ)",
+            "total_orders": "178"
+        },
+        {
+            "name": "Ly Trà ĐÀO",
+            "price": "42,000(đ)",
+            "total_orders": "157"
+        },
+        {
+            "name": "Ly Trà VẢI",
+            "price": "42,000(đ)",
+            "total_orders": "113"
+        },
+        {
+            "name": "Trà Sữa ĐÀO",
+            "price": "39,000(đ)",
+            "total_orders": "90"
+        },
+        {
+            "name": "Xô Trà VẢI",
+            "price": "52,000(đ)",
+            "total_orders": "85"
+        },
+        {
+            "name": "Ly Trà Sữa Olong",
+            "price": "32,000(đ)",
+            "total_orders": "69"
+        },
+        {
+            "name": "Xô Trà Sữa Olong",
+            "price": "42,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Ly Trà Sữa Bắp",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Xô Ép Đào Táo",
+            "price": "49,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Xô Trà Đào Đá Xay",
+            "price": "69,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Xô Trà Sữa Bắp",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ly Trà Sữa Vải",
+            "price": "39,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ly Trà Đào Dưa Lưới Jelly",
+            "price": "42,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ly Ép Đào Táo",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mango Iceberg",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Passion Iceberg",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xô Trà Đào Dưa Lưới Jelly",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xô Đá Tắc Sả",
+            "price": "39,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Xô Trà Đào ĐĐV",
+            "price": "69,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Xô Bạc Sỉu Lắc Đá CF",
+            "price": "47,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Ly Đá Tắc Sả",
+            "price": "32,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Ly Bạc Sỉu Lắc Đá CF",
+            "price": "37,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Ly Trà Đào ĐĐV",
+            "price": "49,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Xô Tuyết Đá Xay",
+            "price": "45,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Ly Tuyết Đá Xay",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "32,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Crepe Cầu Vồng",
+            "price": "45,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Nhai Luôn Ciu",
+            "price": "39,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Tiramisu Trà Xanh",
+            "price": "35,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Chậu Cây Tiên Tri",
+            "price": "49,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Hamburger CHOCOPIE",
+            "price": "55,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Crepe ĐÀO",
+            "price": "45,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Bánh Su Khổng Lồ",
+            "price": "49,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cheese Chua Chua",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Phúc Bồn Tử",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh Yến Mạch Nguyên Gói",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Combo Bánh Yến Mạch",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Trung Thu",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Extra ĐÀO",
+            "price": "15,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Extra VẢI",
+            "price": "10,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Extra Trân Châu",
+            "price": "10,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Extra Jelly Trắng",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Extra Xúc Xích",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Extra Jelly Đen",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Extra Bắp",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "COMBO \"Hun miếng\"",
+            "price": "155,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "CiU 1",
+            "price": "119,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "CiU 2",
+            "price": "135,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "COMBO \"Anh Yêu Em\"",
+            "price": "125,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "CiU 3",
+            "price": "169,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "GẤU Cưng 2",
+            "price": "129,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "GẤU Cưng 3",
+            "price": "135,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Lu Lu",
+            "link": "https://www.foody.vn/thanh-vien/lulu263",
+            "score": "8.4",
+            "comment": "Combo trà sữa olong và bánh tiramisu ngon nhất trong các quán mình đi. Cứ vào đây là gọi 2 món này. Thích gì đâu luôn á. Nhân viên ở đây dễ thương, nhạc thì cực hay luôn"
+        },
+        {
+            "user": "Dương Mi",
+            "link": "https://www.foody.vn/thanh-vien/duongmi",
+            "score": "8.0",
+            "comment": "Hẹn bạn ở đây, mình gọi trà sữa Olong và bánh tiramisu. Trà sữa thơm trà, béo và ngọt vì phải, nói chung là ngon. Còn bánh tiramisu khá béo, nhưng hơi ngọt, chắc tại mình uống trà sữa đã thấy ngọt mà ăn bánh nữa nên vậy. Nhân viên ở đây thái độ dễ thương, hiếu khách, phục vụ nhiệt tình. Nhìn chung mọi thứ khá tốt, mình rất thích chỗ này"
+        },
+        {
+            "user": "Thao Pham",
+            "link": "https://www.foody.vn/thanh-vien/jimii",
+            "score": "8.0",
+            "comment": "Lần đầu mình đến MIB Trần Quang Khải, ấn tượng đầu tiên là tốt nè. Nhân viên cực kỳ thân thiện và nhiệt tình. Hôm đó mình ghé buổi chiều nên không gian rất yên tĩnh để học và làm việc. Có một hôm khác sau đó mình ghé buổi tối thì đúng như động khỉ luôn ý =)))) Không gian MIB Trần Quang Khải có 2 lầu, mình prefer lầu dưới hơn lầu trên, khá rộng rãi. Bánh ở đây mình ăn thì luôn ngon, nước thì mình gọi trà sữa olong cũng ngon nè. MIB được decor theo phong cách vui nhộn nên có mấy câu trích dẫn funny, hài hước xả stress lắm. Giá cả ở MIB thì sẽ hơi cao xíu xiu nếu so với túi tiền HS-SV. Ngoài ra thì ở MIB hay có mấy event nhỏ vào buổi tối lắm. Bạn nào thích đông vui, nhộn nhịp thì có thể ghé nè. Mình thì thích ghé vào buổi chiều hơn :3"
+        },
+        {
+            "user": "Mi Mi",
+            "link": "https://www.foody.vn/thanh-vien/mimi19",
+            "score": "9.2",
+            "comment": "Mình thích tiramisu, nghe bà chị nói ơt đây ngon nên ghé ăn thử. Công nhận ngon lắm nha, ngọt vừa phải béo vừa phải lại thơm lắm, rất thích luôn í.2 đứa mà ăn 4 cái là hiểu rồi ha"
+        },
+        {
+            "user": "Ki Hà",
+            "link": "https://www.foody.vn/thanh-vien/galaxy_beautiful_lovely",
+            "score": 0,
+            "comment": "Quán nhân viên thân thiện dễ thương. Đồ ăn đồ uống ngon lắm man. Cơ mà mình đến vào hôm thứ 6 lại có cả acoustic nên đông mà quán chật không có chỗ ngồi phải ghép vô rất chật. Acoustic ở đây ồn dành cho học sinh nhiều. Mình thì thích yên tĩnh nhẹ nhàng nên thấy không hợp lắm ^v^"
+        }
+    ]
+}

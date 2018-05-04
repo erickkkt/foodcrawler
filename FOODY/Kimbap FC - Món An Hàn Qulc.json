@@ -1,0 +1,426 @@
+{
+    "name": "Kimbap FC - Món Ăn Hàn Quốc",
+    "link": "https://www.foody.vn/ho-chi-minh/kimbap-fc",
+    "address": "71/5 Điện Biên Phủ, P.15 ,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/kimbap-fc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.3",
+        "total_review": "280"
+    },
+    "foods": [
+        {
+            "name": "Kimbap bò",
+            "price": "35,000(đ)",
+            "total_orders": "680"
+        },
+        {
+            "name": "Kimbap trứng cuộn",
+            "price": "45,000(đ)",
+            "total_orders": "642"
+        },
+        {
+            "name": "Kimbap thanh cua",
+            "price": "39,000(đ)",
+            "total_orders": "381"
+        },
+        {
+            "name": "Kimbap cá ngừ",
+            "price": "39,000(đ)",
+            "total_orders": "378"
+        },
+        {
+            "name": "Kimbap tôm chiên",
+            "price": "39,000(đ)",
+            "total_orders": "332"
+        },
+        {
+            "name": "Kimbap heo chiên",
+            "price": "39,000(đ)",
+            "total_orders": "285"
+        },
+        {
+            "name": "Sushi trứng cuộn",
+            "price": "35,000(đ)",
+            "total_orders": "256"
+        },
+        {
+            "name": "Kimbap truyền thống",
+            "price": "30,000(đ)",
+            "total_orders": "193"
+        },
+        {
+            "name": "Sushi trứng cá bay",
+            "price": "49,000(đ)",
+            "total_orders": "135"
+        },
+        {
+            "name": "Kimbap lăn mè",
+            "price": "35,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Kimbap chiên",
+            "price": "45,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mì  đen",
+            "price": "45,000(đ)",
+            "total_orders": "550"
+        },
+        {
+            "name": "Miến trộn",
+            "price": "49,000(đ)",
+            "total_orders": "299"
+        },
+        {
+            "name": "Mì cay hải sản",
+            "price": "45,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "Mì cay bò nấm",
+            "price": "45,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Mì bibim kuksu",
+            "price": "55,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Mì dai",
+            "price": "49,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Mì sin ramen",
+            "price": "39,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cơm trộn bò",
+            "price": "49,000(đ)",
+            "total_orders": "554"
+        },
+        {
+            "name": "Cơm gà sốt chua ngọt kiểu Hàn",
+            "price": "49,000(đ)",
+            "total_orders": "263"
+        },
+        {
+            "name": "Cơm bạch tuộc xào cay",
+            "price": "47,000(đ)",
+            "total_orders": "111"
+        },
+        {
+            "name": "Cơm tonkatsu",
+            "price": "47,000(đ)",
+            "total_orders": "87"
+        },
+        {
+            "name": "Cơm bò xào",
+            "price": "59,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Cơm trộn cá ngừ",
+            "price": "49,000(đ)",
+            "total_orders": "70"
+        },
+        {
+            "name": "Cơm viên",
+            "price": "39,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Cơm mực xào cay",
+            "price": "49,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Cơm chiên kim chi",
+            "price": "49,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "49,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Gà phô mai",
+            "price": "59,000(đ)",
+            "total_orders": "347"
+        },
+        {
+            "name": "Gà hầm cay + 1 chén cơm",
+            "price": "59,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Gà viên",
+            "price": "55,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Hải sản xào cay",
+            "price": "75,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Cánh gà sốt cay",
+            "price": "65,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cánh gà sốt cay phomai",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp bánh cá + 1 chén cơm",
+            "price": "45,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Súp kim chi + 1 chén cơm",
+            "price": "49,000(đ)",
+            "total_orders": "372"
+        },
+        {
+            "name": "Súp đậu hũ",
+            "price": "49,000(đ)",
+            "total_orders": "88"
+        },
+        {
+            "name": "Canh bánh gạo há cảo",
+            "price": "59,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Súp tương đậu + chén cơm",
+            "price": "49,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Súp rong biểm thêm",
+            "price": "10,000(đ)",
+            "total_orders": "286"
+        },
+        {
+            "name": "Kim chi thêm",
+            "price": "10,000(đ)",
+            "total_orders": "142"
+        },
+        {
+            "name": "Cơm thêm",
+            "price": "7,000(đ)",
+            "total_orders": "69"
+        },
+        {
+            "name": "Rau thêm",
+            "price": "15,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Tokbokki phô mai",
+            "price": "49,000(đ)",
+            "total_orders": "423"
+        },
+        {
+            "name": "Tokbokki truyền thống",
+            "price": "35,000(đ)",
+            "total_orders": "280"
+        },
+        {
+            "name": "Tokbokki nhân phô mai",
+            "price": "49,000(đ)",
+            "total_orders": "191"
+        },
+        {
+            "name": "Ba rọi nướng",
+            "price": "75,000(đ)",
+            "total_orders": "175"
+        },
+        {
+            "name": "Tokbokki hải sản",
+            "price": "55,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Bánh xèo hải sản",
+            "price": "59,000(đ)",
+            "total_orders": "75"
+        },
+        {
+            "name": "Tôm cuộn khoai tây chiên",
+            "price": "55,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Há cảo chiên",
+            "price": "47,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Soup nấm thịt bò",
+            "price": "59,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Bánh xèo phô mai",
+            "price": "59,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Sườn heo nướng",
+            "price": "85,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Bò hầm miến",
+            "price": "65,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Bạch tuộc sốt cay phomai",
+            "price": "65,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Thịt chân giò hấp (nhỏ)",
+            "price": "69,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Thịt heo xào cay + chén cơm",
+            "price": "45,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Thịt chân giò hấp (lớn)",
+            "price": "149,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tempura - Tôm chiên xù",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca cola",
+            "price": "12,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "7up",
+            "price": "12,000(đ)",
+            "total_orders": "73"
+        },
+        {
+            "name": "Pepsi",
+            "price": "12,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Nước ép cà rốt",
+            "price": "20,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "C2",
+            "price": "12,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Nước ép dưa leo",
+            "price": "20,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Nước suối",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Rượu soju",
+            "price": "75,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Rượu makkoli",
+            "price": "130,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "somnus.thanh",
+            "link": "https://www.foody.vn/thanh-vien/somnus.thanh",
+            "score": "7.8",
+            "comment": "Quán nằm trong một hẻm trên con đường Điện Biên Phủ đi theo bản đồ là sẽ tìm thấy.  Quán có diện tích khá nhỏ , không gian chỉ có quạt không có máy lạnh nên nếu ngồi buổi trưa thì quá nóng . Nhân viên quán thì có vẻ không thân thiện , kêu nước mà khá lâu mới đem ra , đồ ăn ra cũng khá chậm trong khi quán có hai bàn là có người thôi .  Với giá tiền và mặt bằng chung như vậy là khá ổn .Quán có các món gà hầm nhìn chung thì hơi lạt không cay như các quán Hàn khác .Kimbap thì ngon , gói chặt tay , các món ăn kèm với đồ chiên thì tuyệt vời , kim chi ngon ."
+        },
+        {
+            "user": "Mèo Kwon",
+            "link": "https://www.foody.vn/thanh-vien/kwonmeo.x2706",
+            "score": "6.4",
+            "comment": "Quán nằm trong hẻm nhưng cũng khá dễ tìm. Không gian hơi nhỏ hợp với mấy bạn teen cà kê, mở nhạc Hàn nữa đó :3. Menu cũng phong phú. Nhỏ bạn với mình ghé qua tầm trưa, khá vắng, cũng mát mẻ.Món ăn khá nhiều, mỗi đứa tầm 80k ăn muốn bò về :3. Cơm trộn có miếng trứng ốp la phủ lên khá bắt mắt, có thịt bằm và rau củ khá nhiều. Lớp cơm cháy giòn giòn nhai vui vui. Canh chả cá bưng ra nóng hổi có chén cơm ăn kèm. Chả cá dai dai, có thêm 2 con nghêu.. nước súp đậm đà. Set 1 cơm cuộn khá ổn, béo béo. Tóm lại là quá ổn với mức giá như vậy :3"
+        },
+        {
+            "user": "Nguyen Tran",
+            "link": "https://www.foody.vn/thanh-vien/hnguyen.tr",
+            "score": "6.8",
+            "comment": "Mình đi ăn quán này 2 lần rùi, kêu có vài món mà no căng luôn. Mình thích cơm ở đây. Bất tiện xíu là hông có chỗ để xe :'( nhìn hơi phiêu. Nhân viên cũng dễ thương. Mình thích kimpad bò, chấm với sốt khá ưng. Chả cá mình thấy chưa đc dai lắm, mỳ thì hơi nhạt. Nhưng mà nhìn chung thì mình thấy quán ok, giá phù hợp với hssv, chất lượng ok"
+        },
+        {
+            "user": "Quỳnh Trâm",
+            "link": "https://www.foody.vn/thanh-vien/quynhtramjs",
+            "score": "9.0",
+            "comment": "Tụi mình ghé tới quán từ hồi năm nhất, sau đó đi ăn tá lả tùng xèng các quán Hàn khác rồi rồi cuối cùng trung thu năm ba cả đám lại quay về đây và kết luận đây là quán nấu ngon nhất rẻ nhất thực đơn phong phú nhất ❤❤❤Hôm qua 6 đứa đi ăn gọi khá nhiều món:- Cơm gà sốt chua ngọt- Cơm thịt heo sốt chua ngọt- Bạch tuộc phô mai sốt cay- Tokbokki nhân phô mai- Thịt chân giò - Bò hầm miến- Kimbap chiên xù- 2 chén cơm thêm- 5 nước ngọtĂn no cành hông mà chia ra mỗi đứa chưa tới 80k nữa :)) quá rẻ mà lại ngon bá cháy🖒Bởi vậy nên quán tuy nhỏ mà khách tới ăn đông, hết bàn vẫn chịu ở ngoài đợi (hồi tụi mình cũng từng đợi như vậy). Có một cái chi nhánh ở gần ga SG tụi mình cũng qua ăn rồi mà thực sự là hem có ngon bằng :))"
+        },
+        {
+            "user": "thy le",
+            "link": "https://www.foody.vn/thanh-vien/thyle1810",
+            "score": "7.8",
+            "comment": "Lâu rồi không ăn kimbap, hôm vừa rồi có mấy đứa bạn ghé qua, order 5 phần kimbap về ăn trưa. Cuộn cơm cuốn khá chặt tay, to và ngon. Ngon nhất là phần cơm cuộn trứng và cơm cuộn phủ mè. Quán còn cho free kimchi (có điều hơi ít) và 2 loại nước chấm: nước tương và sốt mayo khá ngon. Mỗi đứa 1 phần mà ăn không hết, nửa hộp là no lắm rồi, mấy bạn nam thì chắc là ăn hết 1 hộp. Địa chỉ quen thuộc khi muốn ăn kimbap. Sẽ còn ủng hộ quán lâu dài."
+        }
+    ]
+}

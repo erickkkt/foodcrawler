@@ -1,0 +1,276 @@
+{
+    "name": "Thuần Việt - Quán Ven Sông KDC Trung Sơn",
+    "link": "https://www.foody.vn/ho-chi-minh/thuan-viet-kdc-trung-son",
+    "address": "3 Đường Số 1, Khu Trung Sơn,  Bình Chánh, TP. HCM",
+    "open_time": "10:00 AM - 09:00 PM",
+    "price_range": "30.000đ - 110.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/thuan-viet?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "18"
+    },
+    "foods": [
+        {
+            "name": "Cơm chiên cá mặn",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì trứng xào hải sản",
+            "price": "89,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì gói xào thịt bò",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bún gạo xào Singapore",
+            "price": "89,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến xào thịt cua",
+            "price": "108,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo bò bằm",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo nghêu",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo hàu",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo lươn khoai môn",
+            "price": "148,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo ếch Singapore",
+            "price": "148,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực nướng muối ớt",
+            "price": "135,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực chiên giòn",
+            "price": "135,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực xào thập cẩm",
+            "price": "135,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực trứng chiên nước mắm",
+            "price": "135,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực trứng nhúng sả",
+            "price": "198,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm sú nướng muối ớt",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm sú rang muối Hồng Kông",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm sú hoàng kim",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm sú ủ muối",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá lóc nướng trui",
+            "price": "168,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá lóc hấp bầu",
+            "price": "198,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá kèo nướng muối ớt",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá kèo kho tộ",
+            "price": "108,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lươn bằm xúc bánh đa",
+            "price": "128,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lươn nướng sả ớt",
+            "price": "128,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch thui rơm",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch nướng",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ếch chiên nước mắm",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nghêu hấp sả",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nghêu xào cay",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc bươu nướng tiêu",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc giác xào rau muống",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc vú nàng xào sa tế",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc vú nàng hấp lá tía tô",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc bàn tay hấp gừng",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc bàn tay xào sa tế",
+            "price": "158,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hàu nướng phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hàu sống",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.4",
+            "comment": "Ăn hồi 14/3 cơ ... chiều mát được mấy ông anh chở qua đây . Mà công nhận ấn tượng với mặt bằng quán khá lớn lại ngồi ven sông thoáng mát . À mới vô thấy mấy rổ sò , ốc con nào con nấy to đùng mà tươi rói à ... mình ăn được vài món là sụn gà , sò huyết Tứ Xuyên (sốt khá ngon, sò huyết to), lẩu cá bớp măng chua (1 kí cá luôn), tôm nướng muối ớt (tôm tươi, ướp thấm lắm).. nói chung đồ ăn ngon, tươi, quán thì thoáng mát, toilet cũng sạch sẽ có điều nhân viên nữ mặc áo bà ba... hơi bị phản cảm 😂"
+        },
+        {
+            "user": "Yến Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/phiyencugiai87",
+            "score": "7.8",
+            "comment": "Lần đầu ghé quán, phải công nhận không gian quán cực kỳ thoáng mát do nằm sát bờ sông, nhân viên nhanh nhẹn, nhiệt tình, các cô phục vụ mặc áo bà ba rất xinh. Lúc nhóm mình đến thì quán rất đông, gọi 6 món mà mỗi lần đưa lên 1 món, ăn xong mới lên món tiếp theo, cũng lạ 😂😂😂 món ăn ngon, tuy hơi ít, mình thích nhất là món giò heo muối chiên giòn, da heo chiên giòn vừa phải, mỡ beo béo, thịt mềm vừa ăn, xong 1 dĩa lại muốn gọi thêm 😁😁😁 giá khá mềm, nhóm mình 6 người lớn và 2 bé ăn no hết hơn 800 nghìn. Lần sau sẽ trở lại để thử thêm các món khác."
+        },
+        {
+            "user": "Thi Huynh",
+            "link": "https://www.foody.vn/thanh-vien/vickyzao",
+            "score": "7.4",
+            "comment": "Công ty mình đi khoảng 7 người ăn hết hơn 1.2trieu tí. Mình đến trễ nên ăn được 5 món, chắc trước đó mọi người ăn trước 1 2 món gì đó rồiNhân viên phục vụ nhanh nhen mau mắn và món ăn cũng lên nhanh, không chờ lâu.Quán ngồi ngay sông mát lạnh, thực đơn phong phúChất lượng đồ ăn thì mình thấy k qua ngon nhưng được cái không gian ngồi thoải mái nên mình rất thích.Món vịt cuối cùng ăn với bún cũng khá lạ miệng"
+        },
+        {
+            "user": "Bio Chan",
+            "link": "https://www.foody.vn/thanh-vien/meoiumeomap",
+            "score": "6.8",
+            "comment": "+ Cơm chiên Thuần Việt (118k) : món này đc NV giới thiệu, cơm hạt màu xanh, lúc ăn cảm nhận hạt cơm thơm nước cốt dừa, béo béo khá ngon. + Gỏi hoa chuối hải sản (98k) : nước sốt chua chua ngọt ngọt siêu ngon. Tôm mực thấy cũng tươi. + Khô cá lóc (65k) + Lẩu dê (188k) : cái này cũng đc NV giới thiệu là đặc biệt của quán. Lẩu ngon, nước lẩu ngọt thanh, có khoai môn, đậu hũ non, củ sen,.... nhãn nhục nữa. Giá cũng OK, món ăn phục vụ nhanh. SG nóng quá nên đổ ra đây ngồi cho có gió sông tí"
+        },
+        {
+            "user": "Phương Quỳnh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/fuongwuynh219",
+            "score": "6.2",
+            "comment": "Món ăn ở đây cùng nguyên liệu ko ngon. Ngay cả đầu bếp chế biến nêm nếm cũng ko vừa miệng nữa. Nhà mình gọi mì xào thì mì trụng quán mềm và bị gãy tùm lum nhìn mất ngon. Miếng xào cua thì mặn. Món ba rọi nướng cuộn hải sản ăn bên trong chả nghe hải sản huhu. Món cơm chiên hải sản ok nhất.Chỉ được có mỗi không gian cạnh bờ sông khá là thoáng mát. Còn lại mình ko vừa ý chỗ này..Tuy nhiên giá cả khá rẻ. 8 người ăn no vừa phải tốn chỉ khoảng 1 triệu thôi."
+        }
+    ]
+}

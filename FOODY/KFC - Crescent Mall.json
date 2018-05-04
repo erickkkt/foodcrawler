@@ -1,0 +1,221 @@
+{
+    "name": "KFC - Crescent Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/kfc-crescent-mall",
+    "address": "Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "09:30 AM - 10:00 PM",
+    "price_range": "30.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/kfc-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "33"
+    },
+    "foods": [
+        {
+            "name": "Gà Giòn Cay",
+            "price": "34,000(đ)",
+            "total_orders": "1144"
+        },
+        {
+            "name": "Cánh Gà Giòn Cay",
+            "price": "47,000(đ)",
+            "total_orders": "790"
+        },
+        {
+            "name": "Gà Truyền Thống",
+            "price": "34,000(đ)",
+            "total_orders": "619"
+        },
+        {
+            "name": "Gà Quay Tiêu",
+            "price": "64,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Đùi Gà Quay Tiêu",
+            "price": "39,000(đ)",
+            "total_orders": "944"
+        },
+        {
+            "name": "Burger Zinger",
+            "price": "49,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Gà Truyền Thống KFC",
+            "price": "39,000(đ)",
+            "total_orders": "480"
+        },
+        {
+            "name": "Cơm Phi Lê Gà Quay Flava",
+            "price": "39,000(đ)",
+            "total_orders": "467"
+        },
+        {
+            "name": "Burger Gà Quay Flava",
+            "price": "45,000(đ)",
+            "total_orders": "414"
+        },
+        {
+            "name": "Khoai Tây Chiên",
+            "price": "12,000(đ)",
+            "total_orders": "1169"
+        },
+        {
+            "name": "Gà Viên",
+            "price": "35,000(đ)",
+            "total_orders": "813"
+        },
+        {
+            "name": "Bắp Cải Trộn",
+            "price": "12,000(đ)",
+            "total_orders": "766"
+        },
+        {
+            "name": "Cá Thanh 3 Miếng",
+            "price": "40,000(đ)",
+            "total_orders": "465"
+        },
+        {
+            "name": "Khoai Tây Nghiền",
+            "price": "10,000(đ)",
+            "total_orders": "459"
+        },
+        {
+            "name": "Xà Lách Gà",
+            "price": "19,000(đ)",
+            "total_orders": "407"
+        },
+        {
+            "name": "Bánh Trứng Nướng (4 Cái)",
+            "price": "45,000(đ)",
+            "total_orders": "1575"
+        },
+        {
+            "name": "Bánh Trứng Nướng",
+            "price": "15,000(đ)",
+            "total_orders": "898"
+        },
+        {
+            "name": "Gà Rán Giòn Cay",
+            "price": "79,000(đ)",
+            "total_orders": "1242"
+        },
+        {
+            "name": "Gà Rán Truyền Thống",
+            "price": "79,000(đ)",
+            "total_orders": "713"
+        },
+        {
+            "name": "Phần Ăn Family Meal 3",
+            "price": "245,000(đ)",
+            "total_orders": "521"
+        },
+        {
+            "name": "Phần Ăn Double Meal",
+            "price": "175,000(đ)",
+            "total_orders": "515"
+        },
+        {
+            "name": "Phần Ăn XL",
+            "price": "99,000(đ)",
+            "total_orders": "382"
+        },
+        {
+            "name": "Phần Ăn Gia Đình B",
+            "price": "158,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Phần Ăn Teen Choice",
+            "price": "63,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Combo Gà",
+            "price": "79,000(đ)",
+            "total_orders": "290"
+        },
+        {
+            "name": "Phần Ăn Gia Đình A",
+            "price": "242,000(đ)",
+            "total_orders": "138"
+        },
+        {
+            "name": "Phần Ăn Trẻ Em",
+            "price": "56,000(đ)",
+            "total_orders": "130"
+        },
+        {
+            "name": "Trà sữa Milkfoam Kacchiato",
+            "price": "29,000(đ)",
+            "total_orders": "119"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Vivian 89",
+            "link": "https://www.foody.vn/thanh-vien/vanvan8899",
+            "score": "9.0",
+            "comment": "Cửa hàng khá rộng có bàn dọc hành lang bên ngoài của quầy Food Court trong Cresent Mall luôn. Mình thử gần hết các món, các combo của KFC rồi. Gà rán giòn, ngon, khá ngon. Burger thì mình thích burger lava gì ah nhân gà quay ngọt thịt, mềm ngon. Chỉ có bắp cải trộn nhiều lúc hơi dở, ăn ngán 😭Giá cả chấp nhận được, nhân viên nhanh nhẹn.Cuối tuần thường full bàn. Nếu có dịp qua Cresent Mall chắc chắn mình sẽ quay lại.Hình bên dưới là tổng hợp từ nhiều lần mình đã ăn ở đây ☺️"
+        },
+        {
+            "user": "Nhung Phạm",
+            "link": "https://www.foody.vn/thanh-vien/heoconshynk",
+            "score": "7.4",
+            "comment": "Mỗi lần ghé vào Crescent Mall là thể nào cũng sẽ lết lên lầu 5 để gọi bánh trứng ăn ^^ rất thích ăn bánh trứng ở đây, theo mình cảm nhận thì nhân của bánh ở đây rất nhiều, nhiều hơn so với 1 vài KFC khác mà mìn từng ăn. Do nằm trong khu trung tâm thương mại nên không gian ngồi ăn uống cũng rất rộng rãi. Mình thường ngồi bên ngoài, mấy dãy ghế dọc hành lang hơn là vô trong quán riêng của KFC. Vừa ăn vừa ngắm mấy món ăn của các quán đối diện hoặc xung quanh nữa^^"
+        },
+        {
+            "user": "Be map Map",
+            "link": "https://www.foody.vn/thanh-vien/kristy.gi",
+            "score": 0,
+            "comment": "Chizza, quảng cáo ngất trời mà thực tế nhìn thì...Gà rán thì toàn làm từ gà đông lạnh, ăn khô nhám và bở"
+        },
+        {
+            "user": "Anhdan",
+            "link": "https://www.foody.vn/thanh-vien/Anhdan",
+            "score": 0,
+            "comment": "Cũng lâu rồi mình mới quay lại KFC ăn. Thực sự thì mình thấy quảng cáo về cái Món Chizza mới nên mình cũng muốn thử. Nhưng khi mang ra thì khá buồn. Miếng gà mang ra mà chả bằng 1/2 của cái quảng cáo nữa 😂😂😂 làm quảng cáo ghê vậy mà bán gì kì vậy trời. Làm người ta nhìn thèm nhỏ dãi mà cũng phải nuốt nước miếng ngậm ngùi ngồi ăn tiết kiệm đấy. 😢😢😢 Cũng đở là nhân viên phục vụ nhiệt tình nên mình cũng cảm thấy đở được phần nào. Thôi thì rút kinh nghiệm lần này."
+        },
+        {
+            "user": "Thảo Nguyên Phạm",
+            "link": "https://www.foody.vn/thanh-vien/secret.love163",
+            "score": "9.8",
+            "comment": "Gà rán thì ai cũng ăn hết rồiMình chỉ nói về món mới là Chizza, miếng gà ở dưới thật ra là miếng gà trong Buger Zinger, rồi lớp trên là phô mai mozzarella chảy và ít ớt chuôngCũng khá ngon đó chứ, món này rất ok, combo 2 người 136k"
+        }
+    ]
+}

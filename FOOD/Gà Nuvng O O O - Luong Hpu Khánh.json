@@ -1,0 +1,206 @@
+{
+    "name": "Gà Nướng Ò Ó O - Lương Hữu Khánh",
+    "link": "https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-luong-huu-khanh",
+    "address": "8 Lương Hữu Khánh, P. Phạm Ngũ Lão,  Quận 1, TP. HCM",
+    "open_time": "11:00 - 22:00",
+    "price_range": "50.000đ - 175.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/ga-nuong-o-o-o?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "59"
+    },
+    "foods": [
+        {
+            "name": "Salad trộn dầu chanh",
+            "price": "22,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Rong biển tươi sốt tương mè",
+            "price": "15,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Đậu nành non",
+            "price": "15,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Súp rong biển tươi",
+            "price": "36,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Súp lá chúc chua cay",
+            "price": "46,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Gà nướng ớt cay Địa Trung Hải (nguyên con)",
+            "price": "178,000(đ)",
+            "total_orders": "7756"
+        },
+        {
+            "name": "Gà nướng ớt cay Địa Trung Hải (nửa con)",
+            "price": "99,000(đ)",
+            "total_orders": "5988"
+        },
+        {
+            "name": "Gà nướng xá xíu (nguyên con)",
+            "price": "175,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Gà nướng xá xíu (nửa con)",
+            "price": "98,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Gà nướng lá chanh rượu Nhật (nguyên con)",
+            "price": "165,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Gà nướng chanh ngò gai (nguyên con)",
+            "price": "168,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Gà nướng sốt thảo mộc Thái (nguyên con)",
+            "price": "172,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Gà nướng sốt thảo mộc Thái (nửa con)",
+            "price": "96,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Gà nướng lá chanh rượu Nhật (nửa con)",
+            "price": "93,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Gà nướng chanh ngò gai (nửa con)",
+            "price": "94,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Gà nướng quế cà chua kiểu Mễ (nguyên con)",
+            "price": "162,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Gà nướng quế cà chua kiểu Mễ (nửa con)",
+            "price": "91,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh mì",
+            "price": "5,000(đ)",
+            "total_orders": "27553"
+        },
+        {
+            "name": "Kim Chi",
+            "price": "12,000(đ)",
+            "total_orders": "7821"
+        },
+        {
+            "name": "Dưa leo",
+            "price": "10,000(đ)",
+            "total_orders": "3740"
+        },
+        {
+            "name": "Cóc xí muội",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sting dâu",
+            "price": "20,000(đ)",
+            "total_orders": "151"
+        },
+        {
+            "name": "Aquafina",
+            "price": "15,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Oolong tea plus",
+            "price": "20,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "15,000(đ)",
+            "total_orders": "4"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Nhật Linh Trần Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/tranhoang.nhatlinh",
+            "score": "7.4",
+            "comment": "Vị trí: Lương Hữu Khánh khá là ngoằn ngoèo nên ko rành thì nhớ search đường trước khi đến nhaKhông gian: tầng trệt là chỗ giữ xe, hôm mình đi là có tính phí giữ xe. Trên lầu cũng khá thoáng, sáng sủaPhuc vụ: chưa 10h là kết bill rồi nha, lên món cũng nhanh áGiá cả: gà nguyên con 158k, nửa con 88k thì không có phần đầu cổ. Xôi 15k. Bánh mì 4k. Không có trà đáChất lượng: mình ăn gà nướng Địa Trung Hải, được đánh giá là rất cay mà hên quá không có cay quá đáng, nhẹ nhẹ đủ kích thích vị giác vì mình ăn cay không tốt lắm. Gà nướng cũng khá thấm vị. Kết nhất xôi ở đây, khá nhiều, nấu dẻo, chà bông và hành phi ngập tràn"
+        },
+        {
+            "user": "@trakity 1518",
+            "link": "https://www.foody.vn/thanh-vien/p3_can15",
+            "score": "6.6",
+            "comment": "Chi nhánh này dễ tìm, gần mình. Không gian cũng không nhỏ, cũng khá nhiều bàn, bày trí cũng ổn. Mình gọi gà xí muội nửa con 88k á, thêm xôi 15k và bánh mì  4k nữa là 2 đứa no nê. Mà một điều mệt mỏi là đang đói mà phải đợi lâu quá. Xôi, dưa leo và bánh mì lên trước ăn nhâm nhi muốn hết luôn rồi vẫn phải đợi 30 phút nữa mới có gà. Gà ăn ngon nên cũng bõ công đợi chờ. Thịt gà dai mềm đủ độ, da gà tẩm ướp ngon. Nướng vàng giòn, không ngán, nước chấm siêu siêu ngon luôn. Phục vụ bình thường à. Nước ngọt giá cao, tầm 18k/lon nha."
+        },
+        {
+            "user": "Thuong Le",
+            "link": "https://www.foody.vn/thanh-vien/thuong.le7361",
+            "score": "7.2",
+            "comment": "Hôm qua có cô và bé em ở dưới quê lên, loay hoay không biết chọn quán nào mời đi ăn thì nhớ ra có quán gà gần công ty.Buổi trưa ở đây lên lầu sẽ có máy lạnh nhé. Quán đa dạng món gà và lại còn có nhiều khuyến mãi. Hôm mình đi có chương trình mua 1 con tặng 1 con. Nhưng mình thấy ấn tượng nhất là món xôi. Xôi ở đây rất là ngon luôn, có chà bông và hành phi. Các món gà chất lượng tạm chứ không quá ngon. Trên lầu mang lại cảm giác khá \"phiêu lưu\" khi ngồi ăn, vì mỗi lần phục vụ hoặc khách đi qua là rung như động đất. Ngoài ra xe bỏ ngoài nắng và tốn xiền nữa nhé.Nói chung tạm ổn"
+        },
+        {
+            "user": "Bảo Ngọc Nguyễn Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/zuna.gai_ngoan",
+            "score": 0,
+            "comment": "Tìm thấy quán thì chạy xe lên lề trước cửa quán , thấy 2 bạn nhân viên ngồi ngay bàn thu ngân đang bấm đt . Gạt chống xe bước xuống bạn nữ mới ngước lên nhìn hỏi \" Chị ăn đây hay mang về \" . Trả lời \" Ăn ở đây \" rồi bạn ấy kêu \" Vậy qua đường gửi xe giùm em \" . Lúc này đã thấy bực rồi , lo bấm đt mà khách tông xe lên lề kế chỗ mình ngồi luôn cũng chưa biết , mà lùi xe ra khó khăn vì vướng cái thanh sắt chắn ngang . Trong khi đó nhân viên ko để ý khách đến để thông báo với khách sớm , để cố gắng dựng xe cho đã rồi mới nói . Lùi xe ra là cả 1 quá trình . Ông giữ xe thì ngồi chễm chệ kêu qua  lấy thẻ xe , xong ra lấy xe ngồi chễm chệ đó kêu đưa thẻ xe đây rồi thu 4k WTF 😤Còn nửa , mình đọc review 3 chi nhánh thì thấy mấy bạn bảo gọi cả con xong rồi 1 nửa làm vị này 1 nửa làm vị khác nhưng vẫn được tính tiền theo giá 1 con nguyên vị là 158k . Tới lượt mình bị tính nữa con 88k cả con là 176k , mình có hỏi nhân viên thì cô ấy bảo tính tiền theo nửa con , em có để trong menu rồi đó ạ . Rồi cũng Ừ chứ biết nói sao ?- Mình kêu nửa con vị xá xíu , nửa con vị Nam Bộ . Xá xíu ngon , Nam bộ lạt nhách , nước chấm xá xíu và muối ớt chanh ok , à kim chi thì dở tệ nhé , ko chua ko cay mà đắng .- 2 đứa gọi cả con nhưng chỉ ăn hết nửa con xá xíu , phần vì no , phần vì gà toàn thịt nên ngán , mất tiêu hết trơn da - Mình ngồi trên lầu ko gian cũng ok , nhưng khi có người di chuyển thì sàn nhà rung rinh .Nói chung nhân viên tệ ngay từ đầu , ông giữ xe cũng tệ , gà tạm , ko gian tạm , chả có gì để mình phải quay lại . Đã qua 2 ngày rồi mới review nhưng vẫn cai cái dụ nhân viên lo bấm đt khách tới cũng ko biết để thông báo gửi xe ở đâu ."
+        },
+        {
+            "user": "Phan Phương",
+            "link": "https://www.foody.vn/thanh-vien/pnuphuong",
+            "score": "7.4",
+            "comment": "Mình order qua delivernow. Nửa con gà cỡ 2 người ăn. Gà sốt chanh dây mật ong thơm và ngon, chấm với sốt đi kèm rất ngon. Thịt gà mềm không bở, không bị khô. Nói chung hài lòng."
+        }
+    ]
+}

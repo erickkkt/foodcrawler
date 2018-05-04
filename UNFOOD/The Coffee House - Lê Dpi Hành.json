@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Lê Đại Hành",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-le-dai-hanh",
+    "address": "403A - 405A Lê Đại Hành,  Quận 11, TP. HCM",
+    "open_time": "07:00 - 23:00",
+    "price_range": "20.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "59"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Ngân Trần",
+            "link": "https://www.foody.vn/thanh-vien/tp.tungan",
+            "score": "7.2",
+            "comment": "Đó h ít ra TCH, nhưng thấy món mới nên kéo bạn bè ra thử.Blacktea macchiato uống tạm ổn nhất trong 3 loại. Không gian ở đây yên tĩnh, thích hợp mấy bạn ra học bài hay làm việc. Nhân viên ở đây cũng dễ thương với thân thiện"
+        },
+        {
+            "user": "Agn Nart",
+            "link": "https://www.foody.vn/thanh-vien/ngatran.kt210",
+            "score": "7.0",
+            "comment": "Bữa có hẹn bạn ở quán. Nhận xét đầu là quán decor rất tinh tế, nhân viên phục vụ dễ thương, chỗ ngồi cũng thoải mái và yên tĩnh. Mình ún soda táo thấy cũng được không có gì xuất sắc lắm. Giá ở đây trung mình 35-45k, ly của mình là 45k cũng ổn. Nhìn chung có dịp mới qua chớ đây k phải nơi yêu thích của mình. Hehe"
+        },
+        {
+            "user": "zoro mù đường",
+            "link": "https://www.foody.vn/thanh-vien/zoromuduong",
+            "score": "6.2",
+            "comment": "Ấn tượng đầu tiên là quán rất rất đông, chắc do cuối tuần và hôm đó trời nắng nóng. Tụi mình đi 2 người mà vào không có chỗ ngồi, nhân viên phục vụ phải tìm chỗ ghép mãi mới ra. Mọi người tới đây chủ yếu làm việc hoặc học tập, không thích hợp cho các cặp đôi hẹn hò. Mình gọi trà chanh, bạn mình gọi cafe, đồ uống cũng tạm ổn, ly trà chanh 39k, với thương hiệu coffee house thì giá đó là bình thường rồi. Phục vụ lâu. Mình không thích không gian đông người như thế này nên chắc sẽ không quay lại lần nữa."
+        },
+        {
+            "user": "Tịnh Tịnh",
+            "link": "https://www.foody.vn/thanh-vien/01687429244",
+            "score": "8.0",
+            "comment": "Vô the coffee house là ko thể bỏ qua các loại bánh cheese cake được, tuy nhiên dạo này size bánh có vẻ nhỏ hơn nhiều. Mình thích black tea macchiato/ rasberry macchiato nhưng đang tạm ngưng bán nên mình ún trà đào. Bánh mới có loại coffee cheese nhìn giống caramel sợ ngán nhưng vị bánh ngon, ít ngọt. Mình cũng luôn gọi chocolate \"tróp phồ\" với vị bánh đắng + ngọt nhẹ, có hai miếng socola áp bên nữa. Dạo này hay xài Member Reward đủ điểm được tặng nước free. K/g vs pv bên này oke nhưng cuối tuần vs tối thì đông."
+        },
+        {
+            "user": "Song Cát",
+            "link": "https://www.foody.vn/thanh-vien/designchihoa",
+            "score": "7.4",
+            "comment": "Đến đây lần thứ 4 mới tìm được chỗ ngồi ưng ý cạnh cửa sổ tầng 2. Quán nằm ngay mặt tiền đường Lê Đại Hành dễ tìm nhưng đi từ 3 tháng 2 thì phải băng qua đường. Không gian khá yên tĩnh, lúc đông khách cũng ko quá ồn. Phục vụ vui vẻ, thân thiện."
+        }
+    ]
+}

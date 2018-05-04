@@ -1,0 +1,80 @@
+{
+    "name": "Goku Raku Ramen - AEON Mall Tân Phú",
+    "link": "https://www.foody.vn/ho-chi-minh/goku-raku-ramen-aeon-mall",
+    "address": "Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "28.000đ - 108.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/goku-raku-ramen-nha-hang-nhat-ban?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "169"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Duyen Ha",
+            "link": "https://www.foody.vn/thanh-vien/haduyen244",
+            "score": "8.0",
+            "comment": "Cuối tuần ghé Aeon TP chơi, nên ghé Goku Raku Ramen - AEON Mall Tân Phú ăn thử mì ramen. Không gian quán sạch sẽ, ấm áp,thích hợp cho gia đình, gọi món phục vụ lên khá nhanh. Món ăn giá cả cũng vừa túi tiền. Tuy nhiên thực đơn không đa dạng lắm. Mình gọi món mì ramen miso vị cay, không đặc biệt lắm. Vị vừa đủ cay dễ chịu, mình không ăn cay được nhưng mà ăn được món này. Trà free có nóng và lạnh, trà khá thơm. Giá món ăn trên thực đơn chưa bao gồm VAT 10%."
+        },
+        {
+            "user": "Luyen Luu",
+            "link": "https://www.foody.vn/thanh-vien/luyenluu",
+            "score": 0,
+            "comment": "Siêu ngon lại rẻ :\")) .Mấy món mỳ ở đây khá vừa túi tiền , bữa nào nghèo ghé qua đây là no tận răng ngon tận mặt để về. Nhìn tổng thể ngon nhất ở nước dùng và các mòn ăn kèm, nêm nếm vừa miệng. Thức uống cũng đc, nhưng nước uống trong các phần SET ABC... hơi nhạt và chả có vị. Không gian quán ấm cúng thêm mát mẻ, thích hợp cho các gia đình hay F.A :\")) ."
+        },
+        {
+            "user": "Nye Lulu",
+            "link": "https://www.foody.vn/thanh-vien/legendhero_superman1",
+            "score": "7.8",
+            "comment": "Quán ưa thích của mình luôn. Menu cũng nhiều món nè,đa phần là ramen các kiểu, còn có các món ăn kèm như bánh xếp, tôm chiên, các món tráng miệng. Mình hay gọi nhất là ramen bò đặc biệt. Nó giống như phở vậy, nước không đậm đà bằng thôi nhưng siêu ngon. Thịt mềm như tan trong miệng, trứng lòng đào hoà với nước mì bá cháy ăn chung với bắp, chả cá, rong biển. Ngoài ra còn có món cơm và ramen khô. Ramen khô tựa như mì quảng của Việt Nam vậy, chẳng đặc sắc như ramen nước. Các món tráng miệng cũng rất ngon như waffle trái cây, đậu hủ trái cây ( thực chất là panna cotta xốt dâu). Tôm chiên cũng rất ngon nhưng hơi ngấy, phải ăn hai người. Giá cả hơi cao, nếu là mì ramen đặc biệt thì hơn 100k lận nhưng mình thấy rất đáng tiền. Nhân viên thân thiện và phục vụ nhanh"
+        },
+        {
+            "user": "Beat Le",
+            "link": "https://www.foody.vn/thanh-vien/thaole.huflit",
+            "score": "7.4",
+            "comment": "Lần đầu ăn mì Ramen Nhật, thấy cũng lạ. Mình gọi một ramen bò và một ramen cay. Mình thấy nước của bò ngon hơn nước cay vì thật sự nước cay thì nó giống với mấy vị cay trong mì gói Hàn mình hay ăn chứ ko có đặc biệt lắm. Được cái thấy thịt siêu mềm và thơm, và điểm tuyệt đối cho trứng lòng đào nha, vô cùng ngon, vị trứng ko nồng tí nào mà độ lỏng rất vừa ăn, lòng trắng cũng ko hề cứng mà ăn rất chín tới. Không gian của khu foodcourt nên cũng cừa phải ko to, phục vụ cũng nhanh ko chờ lâu. Giá cả tầm 109k một tô. Ngồi nhưng hơi nóng một tí dù là khu máy lạnh."
+        },
+        {
+            "user": "Thanh Huyền Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/emchiyeuminhanh_3051294",
+            "score": "6.8",
+            "comment": "Không gian quán cũng ấm cúngNhân viên thì mình thấy không tậm tâm lắm, cũng phải coi bề ngoài của khách hàng mà phục vụ.Món ăn ngon, khá mắc nhưng đổi lại là ăn no, kêu 1 tô mà ăn no quá trời luôn"
+        }
+    ]
+}

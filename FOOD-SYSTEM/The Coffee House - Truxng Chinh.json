@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Trường Chinh",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-truong-chinh",
+    "address": "559 Trường Chinh,  Quận Tân Bình, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "30.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "11"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Trang Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/trang.nguyen2016",
+            "score": "7.4",
+            "comment": "Mình đi với bạn , trú mưa nên ngồi hơi lâu , vì vậy nên cảm giác ngồi trên lầu nhìn ra ngã 3 ở Trường Chinh Âu Cơ lúc trời đang mưa thấy rất khác, có cảm giác lạ lạ . Đồ uống thì k có gì đặc biệt , cách bà i trí ở đây cũng tương tự như các Coffee House khác , chỉ có vị trí quán khiến mình thích nhất , nhìn dòng ng chờ đèn giao thông , lướt qua nhau, rất đặc biệt , à có cái là wifi ở đây hơi tệ, nên mình toàn dùng 3g"
+        },
+        {
+            "user": "TrA PHAN",
+            "link": "https://www.foody.vn/thanh-vien/kathyanh20017419",
+            "score": "9.8",
+            "comment": "Thực ra so với chi nhánh khác chi nhánh ở TC khá nhỏ và cảm giác như xe bus, ô tô muốn đâm vào vì cái chỗ đó luôn luôn kẹt xe. Machiatto thì cũng giống như những quán khác, hình như nó hơi lạt hơn xíu. Nhân viên tự refill nước cho mình luôn, cute cực. Chú bảo vệ cũng rất nhiệt tình, vì gần nhà nên mình sẽ quay lại, sớm thôi. À mà ly này mình take away nè :v"
+        },
+        {
+            "user": "maianhthu510",
+            "link": "https://www.foody.vn/thanh-vien/maianhthu510",
+            "score": "9.6",
+            "comment": "Một nơi thích hợp để hộp nhóm mát lạnh luôn dù ngoài xe cộ ì ò nóng nắng =)) nhưng bên trong yên lặng rộng rãi. Nhân viên vui tính chuyên nghiệp. Mình cùng tụ bạn la cà ở đây cả ngày dù uống hết cả nước rồi nhưng vẫn được phục vụ tử tế và gót nước lọc thêm mãi. Chú ý nhỏ cửa nhà vệ sinh xém gây án mạng cho mình không hiểu sao bấm chốt rồi nhưng ở ngoài mở vào được hên là mình la nhẹ người ta biết mà bỏ chạy 🤣"
+        },
+        {
+            "user": "Khiêm Trương",
+            "link": "https://www.foody.vn/thanh-vien/bb.truong1789",
+            "score": "10",
+            "comment": "Thích nhất trà đào cam sả ở đây, mấy món khác lâu lâu đổi bửa cũng tạm. Nói chung oke thích TCH lắm ❤"
+        },
+        {
+            "user": "Minnie Pham",
+            "link": "https://www.foody.vn/thanh-vien/minnieprt",
+            "score": "7.0",
+            "comment": "Nghe nói món mới của The cofee house ngon lắm nè nên cũng mon men đi thử. Mình đi gần nhà, quán giữ xe trước cửa miễn phí. Quán này view đẹp lắm. Nhân viên cũng dễ thương. Nhưng về món này thì hơi ngọt mình ko thích lắm, thấy nó cứ sao sao nên thôi mình thử cho biết chứ để uống lại thì ko, ở đây được cái view thôi chứ ko thích tới vì nước ko ngon lắm ngay cả món mới cũng ko ngon. Bánh ở đây mới ngon nè, mà quên chụp vô rồi, chắc bánh mới nên mềm lắm hehe."
+        }
+    ]
+}

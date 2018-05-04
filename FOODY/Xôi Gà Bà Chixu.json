@@ -1,0 +1,87 @@
+{
+    "name": "Xôi Gà Bà Chiểu",
+    "link": "https://www.foody.vn/ho-chi-minh/xoi-ga-ba-chieu",
+    "address": "Chợ Bà Chiểu, Bùi Hữu Nghĩa,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "",
+    "price_range": "15.000đ - 28.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.4",
+        "total_review": "436"
+    },
+    "foods": [
+        {
+            "name": "Xôi gà xá xíu",
+            "price": "23,000(đ)",
+            "total_orders": "1684"
+        },
+        {
+            "name": "Xôi xá xíu",
+            "price": "20,000(đ)",
+            "total_orders": "473"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ty Ruchimita",
+            "link": "https://www.foody.vn/thanh-vien/tyruchimita",
+            "score": 0,
+            "comment": "Xem ai cucng khen ngon, lần đầu mình ăn cảm giác sợ sợ, gà thì đen đen còn thêm miếng báo dính trong gà ực ực. Kinh hồn. Lần đầu cũng như lần cuối. ........"
+        },
+        {
+            "user": "Hải Trân",
+            "link": "https://www.foody.vn/thanh-vien/Tnhtran",
+            "score": "7.0",
+            "comment": "Trên mạng thì cứ ghi là Chợ Bà Chiểu thôi chứ kh có số địa chỉ rõ ràng , mình từ quận khác qua nên kh rành tìm khó :( Xung quanh môi trường hơi dơ nên nhìn xôi cũng ngại . Mấy cô làm khác nhanh mua hộp xôi chưa mất 7s Vị nêm nếm ngon , xá xíu hơi mỡ , bạn nào thích ăn mỡ sẽ ngon hơn nữa . Giá cả khá hợp lí Có dịp vẫn quay lại"
+        },
+        {
+            "user": "Quốc Huy ♏️",
+            "link": "https://www.foody.vn/thanh-vien/QuocHuy94",
+            "score": "8.0",
+            "comment": "Trời mưa rả rít , lạnh lạnh mà được ăn hộp xôi trong lá chuối nóng nóng ấm ấm là hết xẩy .Mình mua 4 hộp xôi , 2 xá xíu , 2 hộp gà .Xá xíu thịt ngọt ngọt , ướp thấm lắm , ăn ngon cực .Gà thì sựt sựt . Lớp da giòn rụm ăn béo cực .Hộp xôi có đầy đủ hành lá , hành phi ,tôm khô cũng rất đẹp mắt .Tổng tiền 4 hộp cỡ 90,000 .Được cái quán bán nhanh , gọn . Không phải chờ đợi quá lâu .Chắc chắn sẽ quay trở lại ăn nữa ."
+        },
+        {
+            "user": "Lee",
+            "link": "https://www.foody.vn/thanh-vien/leduytuan",
+            "score": 0,
+            "comment": "Hôm qua tự dưng chạy qua test thử... Xá xíu thì ngon nhưng xôi thì không được ngon lắm... Vẫn chấp nhận được hết hehe"
+        },
+        {
+            "user": "Uyên Tuki",
+            "link": "https://www.foody.vn/thanh-vien/ngonhuuyen2812",
+            "score": 0,
+            "comment": "trời ơi điên người quá mà, tối đói bụng chạy ra mua gói xôi xá xíu, đinh ninh là xôi xá xíu nên mình về nhà ko coi lại do mình ăn chỗ này từ nhỏ nên cũng tin tưởng. Vậy mà về mở ra thì trời đất ơi, xôi đậu xanh bỏ mỡ hành với xá xíu... mặn ngọt trộn lẫn dị vl :'( kinh khủng :'( lâu lâu mới ăn lại 1 lần mà buôn bán vậy chắc thôi mình nghỉ ăn luôn :/"
+        }
+    ]
+}

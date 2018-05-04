@@ -1,0 +1,80 @@
+{
+    "name": "KFC - Central Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/kfc-central-plaza",
+    "address": "C6/27 Phạm Hùng, X. Bình Hưng,  Bình Chánh, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/kfc-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "23"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Anhthu 0902",
+            "link": "https://www.foody.vn/thanh-vien/anhthu0902",
+            "score": "7.6",
+            "comment": "Trưa qua mới ghé vô đây, đi khoảng 1h mấy trưa nên khá ít người. Nhân viên order bình thường, nhanh nhẹn nhưng mình thấy đa số các bạn nữ order ở đây không thân thiện với khách, order mà mặt lạnh tanh. Không gian cũng rộng rãi. Đồ ăn thì cũng bình thường như mọi khi, cũng ngon nhưng hơi nguội. Nay đang có chương trình khuyến mãi combo 49k cho 1 người, phù hợp túi tiền sinh viên ghê. Hình như quán đang chuẩn bị sinh nhật cho ai đó nên thấy có trang trí bảng này kia."
+        },
+        {
+            "user": "Anhthu 0902",
+            "link": "https://www.foody.vn/thanh-vien/anhthu0902",
+            "score": "7.4",
+            "comment": "Lần 2 ghé đây, nay tránh nắng chờ bạn nên vô đây kêu ly nước, nhân viên ở đây cũng nhanh nhẹn thiệt nhưng không thân thiện, nhiệt tình gì mấy."
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.6",
+            "comment": "Lâu lâu ghé đây ăn gà rán cũng vui , ăn hơn chục năm nên quen vị dù đôi khi cũng hơi ngán ngán mà không sao , KFC luôn không ngừng thay đổi và chịu khó nghiên cứu ra món mới lắm =))))))))) Tính ra cũng giá phải chăng , lâu lâu còn khuyến mãi nữa . Vô đây ăn xong lát lên chơi game và xem phim trên lầu cũng tiện lắm . Không gian chỉ 1 tầng nhưng nhìn cũng thoáng , không thấy toilet nhưng có khu vực rửa tay riêng ( có cả nước rửa tay ) nên cũng ổn ."
+        },
+        {
+            "user": "Khang Nguyen Minh",
+            "link": "https://www.foody.vn/thanh-vien/nguyenminhkhang12496",
+            "score": 0,
+            "comment": "-Ac còn 1 phần ... 1 lát e đem ra sau. Đợi 30p k thấy đâu thì nhắc 1 chị nhân viên đang thu dọn bàn kế bên, chị k trả lời. Tới quần nhắc thì mấy anh tl :\"ủa có hả\". Ok bỏ về"
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.8",
+            "comment": "Ăn trưa ở đây trước khi xem phim trên tầng 4 . Thấy giá rẻ hơn menu hay do mình đi trong khung giờ vàng , phần cơm gà quay tiêu chỉ 35k , thêm soup và nước có 10k nữa à ( trong menu ghi cơm 39k với thêm soup + nước là 15k nữa nha ) . Tiếc không có đùi nên đành ăn phile , được cái không xương , đỡ dơ tay . Kêu thêm 1 phần 6 viên phômai 39k , 4 viên 29k nên chọn 6 viên cho lợi 😂 ăn như phômai que thôi mà cũng đỡ nghiện cơn thèm . Nói chung ổn . Không có toilet riêng nhưng có chỗ rửa tay và wifi cũng mạnh , máy lạnh mát , chỗ ngồi nhiều ( dù không có lầu )"
+        }
+    ]
+}

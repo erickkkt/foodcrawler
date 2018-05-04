@@ -1,0 +1,76 @@
+{
+    "name": "Trà Sữa Mr. Tí Đô - Lê Thị Hà",
+    "link": "https://www.foody.vn/ho-chi-minh/tra-sua-mr-ti-do-le-thi-ha",
+    "address": "57 Lê Thị Hà,  Hóc Môn, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "15.000đ - 40.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "27"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "WindSkyXIII",
+            "link": "https://www.foody.vn/thanh-vien/WindSkyXIII",
+            "score": "7.6",
+            "comment": "Lần nào gặp bạn gái cũng chọn quán này cả, menu đa dạng, giá cả tuy hk yk thường xuyên nhưng cũng chấp nhận được, thích decor của quán nữa, cảm giác giống trong anime 5cm/s, thích nhất là chỗ ngồi, rộng rãi cho mình và bạn gái nằm ôm nhau được.Là lần thứ 4 quay lại đây, mình lúc nào cũng chọn Trà sữa phomai nhưng lần này thử Hồng trà Blue Sky cùng pudding trứng, vị siro khá đậm, pudding mềm nhưng hk béo vị trứng. Bạn mình gọi Trà vải có quả vải, ngọt thanh, quả vải cũng to nữa, ngọt dai nhai khá thích."
+        },
+        {
+            "user": "WindSkyXIII",
+            "link": "https://www.foody.vn/thanh-vien/WindSkyXIII",
+            "score": "7.2",
+            "comment": "Mình cùng bạn thân lâu ngày không gặp hẹn ra đây, gần trưa nên cũng gọi vài món. Maki thanh cua ăn rất được nhưng gà cay sốt phomai lại làm mình thất vọng rất là nhiều, vị cay không đậm, tobokki thì rất mềm, không dai như mấy quán mình ăn lúc trước, chỉ có trà đào uống ngon, miếng đào vừa miệng, chua chua ngọt ngọt rất thích. Thích không gian của quán, nhạc trẻ sôi động, mệt có thể nằm tại chỗ ngủ lun. Sẽ còn quay lại."
+        },
+        {
+            "user": "Phạm  Phạm",
+            "link": "https://www.foody.vn/thanh-vien/giang020901",
+            "score": "7.2",
+            "comment": "Đến quán thì đồ ăn cũng ngon nước uống cũng ngon. Mà chỉ không thích thái độ của nhân viên phục vụ, mình cảm thấy cứ không nhiệt tình sao ấy, với cả quán làm đồ ăn hay đồ uống gì cũng rất lâu chờ mà phát ngán luôn. Quán có hơi chật một tí nhưng mà không gây cảm giác khó chịu. Nước uống thì mình thấy uống trà sữa sôcla là ngon nhất. À còn nếu mà các bạn tới chủ yếu để ăn các món hàn thì nên chọn uống mấy phần combo cho hợp tiền với cũng đỡ bỏ đi tại đa số khi ăn nhiều thì các bạn sẽ uông không hết nước do no. Những ai ở khu hóc môn nếu mà thèm mấy mon cơm trộn hay toboki thì theo mình tới đây là được nhất."
+        },
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": "6.0",
+            "comment": "Điều đáng nói ấn tượng là gần nhà dễ đi thôikhông gian không đẹp mà ở mức trung bìnhnhân viên làm việc chậm quá , nhiều khi kêu tính tiền mà còn bận tám dóc với bạn, có lẽ vì đông nên mình hiểunước uống ngon nhưng mình không phải quá thích lắm,  không hợp khẩu vị, đồ ăn ngon, nhưng mà mỗi lần ăn lại 1 kiểu kháctrà sữa không ngon đâu ạ, menu phong phú cho mình lựa chọn nhiều loại lắm luôn nhéđi với bạn bè , có wifi là gì quên mất rồido gần nhà nên cũng khá dễ cho việc đi lại"
+        },
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": 0,
+            "comment": "Ăn ở đây nhiều khỏi nói rồi, vì gần nhà ahiihii, nhân viên làm việc thấy cũng ổn, tốt, có điều quán đông nên đi ngày đông thì chỉ có dắt xe đi về. Đồ ăn làm nhiều khi ngộ lắm, lúc thì thế này lúc thì thế kia nhưng chất lượng rất tốt. Trà sữa trân châu thì không ngon. Tốt tốt, duyệt"
+        }
+    ]
+}

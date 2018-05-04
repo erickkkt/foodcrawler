@@ -1,0 +1,56 @@
+{
+    "name": "The Pizza Company - Huỳnh Tấn Phát",
+    "link": "https://www.foody.vn/ho-chi-minh/the-pizza-company-huynh-tan-phat",
+    "address": "346 Huỳnh Tấn Phát, P. Bình Thuận,  Quận 7, TP. HCM",
+    "open_time": "09:00 - 22:00",
+    "price_range": "50.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Bánh Pizza",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-pizza"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-pizza-company?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "9.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "1"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Đôrêmông Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nhunguyen.doremon92",
+            "score": "7.6",
+            "comment": "Bữa cuối tuần tính qua P.C cũng đường Huỳnh Tấn Phát mà phía bên Coopmart để hưởng ưu đãi cơ, mà ko hiểu sao đi lộn qua đây, chi nhánh này nhìn khá hay, tách biệt hẳn ra như KFC CMT8 hay Pizza Kim ở BRVT nên nhìn sáng sủa và rất sang, mỗi tội hôm mình đi thì mưa thôi rồi. Bước vào quán trong tình trạng ướt nhẹp từ đầu đến chân như vừa bơi qua đây :)) Nv nhanh nhẹn ra đưa giấy, phục vụ tận tình, có bao nhiêu khuyến mãi cũng tư vấn nhiệt tình, mỗi tội hôm đó CN nên chỉ có KM Set Menu pizza phiền phomai xúc xích nhưng bạn mình lại ko mê nên thôi. Gọi 1 phần pizza shrimp cocktail, vì vắng thôi, mưa gió nên có khoảng 2-3 bàn nên món lên nhanh, 15 phút là có, lúc mang pizza lên còn giới thiệu bột phomai nhiệt tình, xong lúc tính tiền mình còn chẳng biết đến vụ thẻ VIP cái mấy bạn nhiệt tình làm tặng trước luôn ko cần hỏi. Nv bên này khá oke và nhẹ nhàng, lịch sự nên mình khá ấn tượng về mấy khoản như tặng thẻ VIP :)) đồ mình ươt hết trơn mà mình để trên ghế, vẫn lấy khăn lau cho mình bình thường, vẫn siêu lịch sự luôn. Điểm trừ là bên này dạng hơi giống quốc lộ vs đường mưa thì ngập quá, bảo vệ lúc vô lúc về cũng ko thấy nhiệt tình mấy bằng nv."
+        }
+    ]
+}

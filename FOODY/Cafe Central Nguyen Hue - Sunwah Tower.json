@@ -1,0 +1,80 @@
+{
+    "name": "Cafe Central Nguyen Hue - Sunwah Tower",
+    "link": "https://www.foody.vn/ho-chi-minh/cafe-central-nguyen-hue",
+    "address": "Sun Wah Tower, 115 Nguyễn Huệ,  Quận 1, TP. HCM",
+    "open_time": "07:00 AM - 11:59 PM",
+    "price_range": "50.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "61"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hạnh Dung",
+            "link": "https://www.foody.vn/thanh-vien/haemin1305",
+            "score": "7.0",
+            "comment": "Quán cafe ở toà nhà này có từ khá lâu rồi, ngày nào cũng đông đúc hết, mẹ mình rất thích ngồi ở đây. Mẹ kêu ngồi mát, nhìn người đi qua đi lại cũng vui🤣 Quán phục vụ cả đồ ăn và đồ uống nhưng thường mình chỉ uống thôi. Món mình hay gọi là kem và ts thái macchiato. Các loại trà uống cũng khá ổn. Giá cả khá cao so với chất lượng nhưng với địa thế vậy mình nghĩ ~100k/ly thì cũng đúng thôi. Mẹ mình còn thích bắp rang ở đây nữa, 1 phần khá lớn và thơm. Điểm trừ nhỏ nhỏ là nhà mình thích ngồi ngoài ngắm cảnh cho mát nhưng thienh thoảng mùi thuốc lá và khói bụi hơi nhiều làm mình hơi khó chịu😓tuy nhien cũng ko trách dc quán."
+        },
+        {
+            "user": "Vivian 89",
+            "link": "https://www.foody.vn/thanh-vien/vanvan8899",
+            "score": "9.0",
+            "comment": "Quán có ví trị đẹp ngay phố đi bộ Nguyễn Huệ, có phòng lạnh và bàn ngoài trời.Tầm tối thường khu vực ngoài trời lúc nào cũng đông khách.Menu cũng không nhiều món đâu, mình ăn món bò cũng tạm ko đặc sắc lắm cũng không đến nỗi tệ.Giá menu cũng tương đối cao vì vị trí đẹp mà 😂Nhân viện phục vụ nhanh nhẹn, nhiệt tình.Mỗi lần đi ngang đây mình thích ngắm mấy cái đèn trang trí thành cái ly bao quanh mấy cây dừa kiểng quanh nhà hàng, nhìn hay hay có điểm nhấn giống bên Lan Quế Phường ở Hồng Kong 😂"
+        },
+        {
+            "user": "Tuyết  Anh",
+            "link": "https://www.foody.vn/thanh-vien/huynhanh608",
+            "score": 0,
+            "comment": "Mình uống ở đây từ lúc còn nhỏ xíu, thường là cuối tuần muốn hóng gió. Thời xưa không hề có quán càe, trà sữa mọc lên như nấm các kiểu như bây giờ nên được uống cafe tại đây là sang chảnh lắm rồi. Cho đến bây giờ cũng vậy. Giá nước ở đây mắc, còn có thêm cả phí phục vụ và thuế VAT nên lại mắc hơn, mà chất lượng thì mình thấy không còn ngon nữa, dở tệ. Mà không hiểu sao cuối tuần vẫn đồn, vẫn full bàn. Mình nghĩ có lẽ là do không gian mở, ngồi ở ngoài trời, nhìn ngắm người đi qua đi lại tại vì ngay phố đi bộ. Nhưng nếu hỏi mình có quay lại không thì chắc là không."
+        },
+        {
+            "user": "Hương Thảo",
+            "link": "https://www.foody.vn/thanh-vien/huongthao146",
+            "score": "7.6",
+            "comment": "Nhà hàng khá đông khách, có phần ngồi ngoài vỉa hè Sunwah và phòng lạnh bên trong. Nhân viên dễ thương và tư vấn nhiệt tình. Menu không quá đa dạng nhưng giá vừa phải so với vị trí. Chất lượng ok"
+        },
+        {
+            "user": "thảo chi",
+            "link": "https://www.foody.vn/thanh-vien/thaochi345",
+            "score": 0,
+            "comment": "Nhân viên thì phục vụ hời hợt, mặt mày như ai chọc giận, bất lịch sự, gây ức chế cho khách hàng. Đồ uống thì vừa dở vừa mắc.Chưa từng thấy quán nào giá cả cao mà dịch vụ kém ntnNói chung là TỆ QUÁ QUÁ TỆ, dẹp tiệm đê"
+        }
+    ]
+}

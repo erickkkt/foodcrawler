@@ -1,0 +1,58 @@
+{
+    "name": "Điền Trang Quán - Hải Sản Tươi Sống",
+    "link": "https://www.foody.vn/ho-chi-minh/dien-trang-quan-hai-san-tuoi-song",
+    "address": "Thạnh Thới, Long Hòa,  Cần Giờ, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "30.000đ - 100.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "5.6",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Phương Nguyễn ngọc",
+            "link": "https://www.foody.vn/thanh-vien/nnp1905",
+            "score": 0,
+            "comment": "Đồ ăn mắc, chế biến không ngon, quán vắng teo,lúc mình vào chỉ có 2 tụi mình ăn, ngoài ra k có ai, dĩa cơm tôm rim 50k,đc 5,6 con tôm sú nhỏ, không có mùi vị j, tô canh cải 30k đc mấy miếng tôm cắt nhỏ, còn lại mấy món hải sản , lẩu mắc qá nên k kêu, vào chợ mua hải sản ăn sướng hơn"
+        },
+        {
+            "user": "Nguyễn Tiên",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthicamtien0410",
+            "score": "8.4",
+            "comment": "Từ ngã tư chạy thẳng vô biển 30/4 nhìn về phía tay trái sẽ thấy quán Điền Trang. Quán nhà lá nên rất mát mẻ, tuy có hơi nghịch đường 1 xíu. Quán có menu đa dạng từ món kho món xào món canh đến lẩu, hải sản tươi sống. Quán có chổ đậu xe rộng rãi, bên cạnh đó còn có võng cho tài xế nằm nghỉ ngơi."
+        }
+    ]
+}

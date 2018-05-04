@@ -1,0 +1,84 @@
+{
+    "name": "Pizza 4P’s - Pizza Kiểu Nhật - Lê Thánh Tôn",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-le-thanh-ton",
+    "address": "8/15 Lê Thánh Tôn, P. Bến Nghé,  Quận 1, TP. HCM",
+    "open_time": "Everyday  10:00 AM - 11:00 PM",
+    "price_range": "250.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-4p-s-pizza-kieu-nhat?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "911"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Lý Gia Yến",
+            "link": "https://www.foody.vn/thanh-vien/stephaniely98",
+            "score": "8.8",
+            "comment": "Nhắc đến Pizza 4P’s thì không ai còn xa lạ gì nữa rồi. Quán vốn nổi tiếng với các món ăn đuọc làm từ thực phẩm hoàn toàn hữu cơ do trang trại của chính chủ quán trên Đà Lạt gửi về. Những lần mình đến đây đều là vào giờ trưa. Quán rất đông khách nên lúc nào cũng phải đặt bàn trước. Mặc dù vậy nhưng nhân viên luôn vui vẻ nhiệt tình với khách. Nếu bạn phải ngồi đợi để được xếp bàn thì nhân viên sẽ phục vụ nước trong lúc chờ đợi. Nói chung là rất chu đáo. Đợt trước mình đến quán được dịp thưởng thức 3 món này. Về phần salad rất tươi và ngon. Bánh pizza mặn thì được chia đôi bánh ra để chọn vị. Dành cho những bạn nào đi ít người nhưng lại muốn thưởng thúc nhiều vị bánh như mình. Bánh ăn rất vừa miệng, topping thì đầy mặt và rất ngon. Nói chung là mình đã ăn qua rất nhiều lần và sẽ còn quay lại vì mình rất nghiện quán này. Highly recommend mọi người nhé"
+        },
+        {
+            "user": "TrangT",
+            "link": "https://www.foody.vn/thanh-vien/Tranggg1192",
+            "score": "7.6",
+            "comment": "Mình hay ăn ở đây tầm 1g trưa nên không cần phải gọi điện trước để đặt bàn ; nhân viên dễ thương ; nhiệt tình.Thíc nhất là món pizza four cheese & tôm mayo nên mình hay gọi half half. Tiếp theo là món fondue cheese ; cheese béo ngậy ăn cùng với rau củ; siêu ngon; như món khai vị nên các bạn nên an trước khi an pizza nhéSau cùng là món tráng miệng ; mình thíc nhất là món yogurt ; béo và thơm.Giá cả không quá đắt nên rất đáng để thử nhé"
+        },
+        {
+            "user": "@trakity 1518",
+            "link": "https://www.foody.vn/thanh-vien/p3_can15",
+            "score": "8.0",
+            "comment": "Quán nằm trong hẻm số 8 đi tới cuối luôn nha. Không gian khá yên tĩnh, sang trọng, thư giãn và thoải mái. Pizza ngon và hợp khẩu vị của mình, ăn không ngán vị lại vừa miệng. Bạn mình chọn 1 pizza 2 vị, mỗi nửa 1 vị khác ngau mix lại được luôn, vị gà và cá hồi cái nào cũng ngon, giá 250k cũng xứng đáng, 2 đứa ăn no nê, take away về đến nhà còn nóng do nhân viên nhậnđc order mới bắt đầu làm, vì vậy đợi lâu xíu.Nói chung hài lòng về mọi thứ, nhân viên dễ thương lắm, chắn chắn sẽ quay lại nè."
+        },
+        {
+            "user": "Phương Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/yenphuong2105",
+            "score": "9.2",
+            "comment": "Không gian tuy không rộng nhưng khá thoải mái. Nhân viên nhiệt tình với khách. Tuy mình chờ bạn hơi lâu order trễ nhưng nv không có thái độ gì. Mình cực thích pizza và spaghetti. Assorted cheese với mình hơi khó ăn có lẽ do không hợp khẩu vị nhưng trang trí khá ok. Mình sẽ quay lại."
+        },
+        {
+            "user": "foodee_fkd9i54x",
+            "link": "https://www.foody.vn/thanh-vien/yenphuong21051995",
+            "score": "8.8",
+            "comment": "Giá cả phù hợp chất lượng. Mình khá hài lòng về cach phục vụ nhiệt tình của nv ở đây. Sẽ quay lại."
+        }
+    ]
+}

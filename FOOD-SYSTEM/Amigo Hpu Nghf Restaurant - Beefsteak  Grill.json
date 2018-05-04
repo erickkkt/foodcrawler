@@ -1,0 +1,80 @@
+{
+    "name": "Amigo Hữu Nghị Restaurant - Beefsteak & Grill",
+    "link": "https://www.foody.vn/ho-chi-minh/amigo-restaurant",
+    "address": "55 - 57 Nguyễn Huệ, P. Bến Nghé,  Quận 1, TP. HCM",
+    "open_time": "11:00 AM - 11:00 PM",
+    "price_range": "200.000đ - 880.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-au"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "53"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "8.2",
+            "comment": "Nhà hàng nằm ở vị trí đắc địa của thành phố , quá lý tưởng luôn . Không gian rất sang trọng sang trọng , decor đẹp lắm , rất chất . Ngoài việc free salad trong lúc chờ món ăn thì beefsteak ở đây làm vừa đúng yêu cầu , trình bày đẹp . Kem decor dễ thương mà ăn cũng ngon miệng không kém ,  béo lắm luôn . Nhân viên phục vụ ân cần chu đáo , chuyên nghiệp , tư vấn cho khách tận tình lúc order món .Giá cả cao , lâu lâu có tiệc hay gì mới dám ghé hưởng thụ 1 lần ."
+        },
+        {
+            "user": "Bi Bi",
+            "link": "https://www.foody.vn/thanh-vien/kiss_rook",
+            "score": "7.8",
+            "comment": "quán nằm ngay bên Duxton hotel, mặt đườn Nguyễn Huệ nên dễ kiếm , nhân viên bảo vệ rất nhiệt tình, nhân viên phục vụ cũng niềm nở, chu đáo. Đồ ăn cũng được, sốt tiêu nhà hàng này làm hơi khác lạ tiêu nhiều quá, nói chung là k thích sốt tiêu ở đây, sốt nấm thì hơi ngọt .. đi 3 ng khoảng 5tr ... giá cũng chát nhémón chính: 1 sườn nướng 700g  = 1tr41 Bò Wagyu  150g = 1tr21 trai ruou vang"
+        },
+        {
+            "user": "Nguyen Ngoc",
+            "link": "https://www.foody.vn/thanh-vien/nttngoc71",
+            "score": "6.4",
+            "comment": "Hôm trước công ty mình đến đây ăn, mình ăn sườn nướng sốt Amigo cay, món ăn vị cũng được, không có gì đặc sắc, mình thấy chưa xứng với giá tiền mình bỏ ra. Nếu tự bỏ tiền mình sẽ không chọn ăn ở đây!"
+        },
+        {
+            "user": "Trang Trang Trần",
+            "link": "https://www.foody.vn/thanh-vien/TrangTrang241",
+            "score": "8.8",
+            "comment": "Cuối tuần nghỉ ngơi, gia đình mình có ghé quán ăn. Quán không quá lớn, nhưng nằm ngay mặt tiền phố đi bộ nên rât dễ tìm. Quán được trang trí có chút phong cách châu âu, rất sang. Từ chú bảo vệ cho đến nhân viên rất nhiệt tình, luôn niềm nở (kết nhất là anh nhân viên, tướng cai to, dễ thương và rất đẹp trai). Gia đình mình có gọi từ thịt bò úc cho đến thịt bò mỹ, thỉ cừu..mỗi loại một món. Cách trang trí rất đơn giản và tao nhã, món ăn rất vừa miệng và ngon, được phục vụ tận tình nữa. Chỉ có cái là do nằm ở phố nguyễn huệ nên giá cả hơi cao xíu. Tổng bill gia đình mình ăn là hơn 4tr. Trong đó có một món bị lỗi nên được bù lại một món khác và không tính tiền. 😊 Rất ưng ý!!"
+        },
+        {
+            "user": "Rin",
+            "link": "https://www.foody.vn/thanh-vien/rin9082",
+            "score": "7.0",
+            "comment": "Ôi me ơi giờ mới biết bún cua ở đây giá 868k/tô chưa thuế 😱😱 có cần phải mắc dữ thần như vậy hông 😱😱😱"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Du Miên Garden Cafe - Phan Văn Trị",
+    "link": "https://www.foody.vn/ho-chi-minh/du-mien-garden-cafe",
+    "address": "7 Phan Văn Trị, P. 10,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:00 AM - 11:00 PM",
+    "price_range": "40.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/du-mien-cafe?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "448"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tina Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/th1_1",
+            "score": "7.0",
+            "comment": "Không gian xanh mát lại rộng rãi, có nhiều khu riêng biệt thích hợp với mọi sở thích tầng lớp, chỗ nào cũng có cây xanh và nước nên rất mát mẻ và dịu mắt, nơi lý tưởng để xả stress, có cả khu vui chơi cho các bé gần đó có chuồng nuôi nữa. Đồ ăn và nước uống được giá hợp lý, thích cái nữa là gửi xe free."
+        },
+        {
+            "user": "Trang Cao",
+            "link": "https://www.foody.vn/thanh-vien/haiconcao03",
+            "score": "8.8",
+            "comment": "Lần đầu tiên được bạn dẫn lên đây uống cafe, ta nói hài lòng dễ sợ, không gian bao đẹp, vì quán rộng nên không gian rất thoải mái, ngồi tám là hết sảy, giá cũng hợp lý, sẽ còn quay lại!"
+        },
+        {
+            "user": "zhen hong chen",
+            "link": "https://www.foody.vn/thanh-vien/chen_zhihong",
+            "score": "10",
+            "comment": "Sorry for posing so many comment.Just wanna share with you more pictures taken here."
+        },
+        {
+            "user": "zhen hong chen",
+            "link": "https://www.foody.vn/thanh-vien/chen_zhihong",
+            "score": "10",
+            "comment": "Everyone comes to Saigon should come here once for sure."
+        },
+        {
+            "user": "zhen hong chen",
+            "link": "https://www.foody.vn/thanh-vien/chen_zhihong",
+            "score": "10",
+            "comment": "I love the fountain.Changeable colors and shapes."
+        }
+    ]
+}

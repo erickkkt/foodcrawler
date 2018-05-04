@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Lê Bình",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-binh",
+    "address": "39 Lê Bình,  Quận Tân Bình, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "15.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "28"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Phước Sang Lưu",
+            "link": "https://www.foody.vn/thanh-vien/luuphuocsangtl",
+            "score": "10",
+            "comment": "Không gian lí tưởng để thư giản và làm việc. Nước được pha chế rất ngon, uống vào rất vừa miệng.Sẽ ghé ủng hộ dài dài."
+        },
+        {
+            "user": "Huy Đoàn",
+            "link": "https://www.foody.vn/thanh-vien/g.huy2304",
+            "score": "8.8",
+            "comment": "Trà đeeeeee😁 thíc nhất trà ở hệ thống này, đậm dà lại còn thơm ngon nữa. Mình là khách ruột ở đây. Lần nào vào đây cũng chỉ trà trà trà thôiiiii. Nghe đâu có sản phẩm mới nữa nhưng mình chưa thử. Lần sau ghé sẽ thử liền nè. Ủng hộ dài dài vì nhân viên ở đây quá đỗi dễ thương và thân thiện😘😘😘😘😘"
+        },
+        {
+            "user": "Fooder",
+            "link": "https://www.foody.vn/thanh-vien/ivorybmt",
+            "score": "9.0",
+            "comment": "Quán ở vị trí dễ tìm. Không gian thoáng mát. Thoải mái. Thái độ nhân viên cũng lịch sự nữa. Nay trời trưa nóng vào quán mua ly mập lùn trà sữa đá xay sốt cafe giải khát. Đúng tuyệt cú mèo. Yupp. Sẽ ghé quán nhiều hơn để thử nhiều món nữa"
+        },
+        {
+            "user": "Huy Gia",
+            "link": "https://www.foody.vn/thanh-vien/huyydoann155",
+            "score": "8.8",
+            "comment": "Nhìn màu ly này đẹp quá è è 😋😋😋 sữa tươi sủi bọt mùi bạc hà đây ạ. Sữa tươi béo béo cộng thêm mùi bạc hà the the với buổi chiều mưa như vầy thì còn gì bằng nữa ạ. Quá ấm lòng. Không gian ở đây khá yên tĩnh, mình là khách quen của HC Lê Bình này luôn. Tuần phải đến vài ngày mới chịu nổi. Mình kết nhất trà ở đây, đi uống nhiều nơi rồi nhưng 2 loại trà ở đây vẫn là ngon nhất. Thương hay uống trà lắm nhưng nay đổi vị. Ở đây có thể kết hợp nhiều loại thức uống với nhiều mùi vị đa dạng, thực sự rất thíc luôn. Sẽ mãi ủng hộ nè😍😍😍😍"
+        },
+        {
+            "user": "Ánh Linh",
+            "link": "https://www.foody.vn/thanh-vien/anhlinh4749",
+            "score": "8.4",
+            "comment": "Trưa có ghé HC ở đường Lê Bình. Hừmmmmm. Mình có chút kiến về sản phẩm ở đây ạaaa. Ly mình mua là socola machiato,trời ơi ngon gì mà ngon dữ thần vậy hãaaaa. Kiểu này chắc tui tốn tiền dài dài đâyyy nè,nhân viên thì khỏi hải nói ròi har, de thương vô đối mà😝😝😝😝😝 yêu rồi nè. Sẽ ủng hộ dài dài nha☺️☺️☺️☺️☺️"
+        }
+    ]
+}

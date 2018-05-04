@@ -1,0 +1,76 @@
+{
+    "name": "Moda House Coffee - Tô Ký",
+    "link": "https://www.foody.vn/ho-chi-minh/moda-house-coffee-to-ky",
+    "address": "263/90 Tô Ký,  Quận 12, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "12.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "24"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Anh Dang",
+            "link": "https://www.foody.vn/thanh-vien/dangminhanh1904",
+            "score": "8.4",
+            "comment": "Chỗ này gần nhà mình, quán cofee bán giá phù hợp với sinh viên, có không gian để học rất tốt.Nhân viên, bảo vệ thân thiện, vui vẻ."
+        },
+        {
+            "user": "Angel Light",
+            "link": "https://www.foody.vn/thanh-vien/angellight",
+            "score": "8.4",
+            "comment": "Mới phát hiện ra quán :3 Quán đẹp, thái độ nvien phục vụ tốt, nhiệt tình thân thiện <3Nước uống tạm, chưa nổi trội lắm nhưng bánh thì khá ngon 🌸"
+        },
+        {
+            "user": "Nga Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhnga7826",
+            "score": "8.2",
+            "comment": "Đi vào 1 buổi trưa nắng chủ nhật, cũng khá đông nhưng vẫn tìm được chỗ ngồi lí tưởng. Đồ uống pha ngon vừa miệng. Giá cả hợp lý. Có cơm cháy siêu ngon. Nv dễ thương, thấy chạy tới chạy lui thương ghê ^^ nói chung ổn tất"
+        },
+        {
+            "user": "Vân Lỳ's",
+            "link": "https://www.foody.vn/thanh-vien/pevan_iunhok_nv",
+            "score": "8.8",
+            "comment": "Rất tuyệt vời lun . Mấy anh chị dễ thương lắm. Ghé qán nhìu nên qen mặt lun. Vào quán có cảm giác yêu đến lạ lun ák. Có thời giam rãnh là ra moda ngay tại gần nhà mình... I love Moda"
+        },
+        {
+            "user": "Hồng Nhung",
+            "link": "https://www.foody.vn/thanh-vien/hoanghonquebien",
+            "score": "8.0",
+            "comment": "Chẳng nhớ nổi đã bao nhiêu lần ghé quán rồi. Hình như từ thời quán còn mới và còn ít bạn biết tới thì phải. ^.^ Kể cả đi với bạn hay buồn buồn lượn lờ 1 mình. Ấn tượng trước giờ vẫn chưa thay đổi. Quán nhỏ nhưng phóng cách dễ thương, trang trí ổn, nhạc hay, nhân viên thân thiện, thức uống ngon,... Lại còn giảm giá cho thẻ thành viên nữa. 😍 Nhưng cũng vì quán hết sức dễ thương như thế nên đang ngày càng đông lên tạo cảm giác hơi không thoải mái chút xíu. Tuy vậy vẫn chưa có ý định tìm quán khác thay thế vì matcha đá xay với trà đào cực ngon. 😋"
+        }
+    ]
+}

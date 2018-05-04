@@ -1,0 +1,68 @@
+{
+    "name": "The Coffee House - Bình Phú",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-binh-phu",
+    "address": "111 - 113 Bình Phú,  P. 11,  Quận 6, TP. HCM",
+    "open_time": "08:00 - 23:00",
+    "price_range": "35.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "3"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Yen Nhi Le",
+            "link": "https://www.foody.vn/thanh-vien/leyennhi2210",
+            "score": "8.8",
+            "comment": "Do hay đến học bài với bạn nên mình thường uống nhất là cà phê! Với cá nhân mình thì riêng món cà phê thì Highland nhỉnh hơn 1 tẹo. Còn các món nước và bánh khác hình the coffee house tốt hơn! Không gian quán rộng rãi, nv thân thiện chăm nước lọc liên tục. sẽ ghé lại dài dài"
+        },
+        {
+            "user": "Nguyễn Ngọc Huy",
+            "link": "https://www.foody.vn/thanh-vien/romeohuy",
+            "score": "9.4",
+            "comment": "Chiều chủ nhật mình ghé quán, quán có view khá đẹp và nhiều cây xanh, chỗ để xe rộng rãicó tầng trệt, trên lầu và có 1 khu nhỏ để các bạn ngồi hóng khí trờiMình rất thích trà đào cam sả nên hầu như lần nào ghé the coffee house là mình gọi món này :)"
+        },
+        {
+            "user": "Yan Yan",
+            "link": "https://www.foody.vn/thanh-vien/evilove1988",
+            "score": 0,
+            "comment": "Quán sạch sẽ, thoáng mát, không ồn ào"
+        }
+    ]
+}

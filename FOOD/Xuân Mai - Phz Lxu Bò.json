@@ -1,0 +1,142 @@
+{
+    "name": "Xuân Mai - Phở Lẩu Bò",
+    "link": "https://www.foody.vn/ho-chi-minh/xuan-mai-pho-lau-bo",
+    "address": "63/3 Nguyễn Thị Nhỏ, P. 2,  Quận 6, TP. HCM",
+    "open_time": "06:00 AM - 10:00 PM",
+    "price_range": "35.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "121"
+    },
+    "foods": [
+        {
+            "name": "Bánh phở",
+            "price": "10,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Mì",
+            "price": "5,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Lẩu bò 3 - 4 người",
+            "price": "150,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Lẩu bò 4 - 6 người",
+            "price": "200,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Lẩu bò 2 người",
+            "price": "100,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Phở tô nhỏ",
+            "price": "40,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Phở tô đặc biệt",
+            "price": "55,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Thịt thêm",
+            "price": "25,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Phở  tô thường",
+            "price": "45,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Phở tô lớn",
+            "price": "50,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Tiết + trứng",
+            "price": "8,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trứng gà",
+            "price": "5,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tiết bò",
+            "price": "4,000(đ)",
+            "total_orders": "2"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "khoai khoai",
+            "link": "https://www.foody.vn/thanh-vien/khoaikhoai15",
+            "score": 0,
+            "comment": "Thấy comment nhiều nên háo hức đi ăn thử. Nói thiệt là thất vọng, 45k/ tô nhưng nước lèo ăn nhàn nhạt, chỉ được cái thịt nhìu thôi chứ mùi vị ko có gì đặc biệt. Gía đó thì ở Q6 có nhìu quán bán ngon hơn nhìu như phở cây dừa, phở Nguyễn Trãi, phở gia phú, phở Bãi sậy"
+        },
+        {
+            "user": "Linh Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/linhhoang2503",
+            "score": "8.6",
+            "comment": "Mình ăn ở đây mấy năm rồi, thiệt là ghiền luôn.Tô chà bá, nhiều bánh, đầy ấp thịt, ăn thịt mỏi răng, ăn thịt ngán luôn á, nước lèo đậm đà, ngon.Bò viên với gầu ở đây cực ngon nhé. Thịt tái đương nhiên là nhất nhất luôn rồi <3 Vị trí cũng khá dễ tìm, giờ có thêm cả nhà giữ xe, không phải chật vật đậu xe như xưa nữa.Phục vụ ở đây cực tốt, tính tiền như gió luôn, thiệt là mình phục mấy anh chị tính tiền, tính nhanh như gió.Lẩu ở đây cũng rất ngon nhé, giá rẻ bèo, rất rẻ so với chất lượng.Review có tâm nên review đến ly trà đá luôn, rất thơm, uống dô thơm mát lắm nhe ha ha."
+        },
+        {
+            "user": "Little little",
+            "link": "https://www.foody.vn/thanh-vien/thaomy_2015",
+            "score": "8.6",
+            "comment": "Lâu lắm mới quay lại quán,cơ mà đã quay lại thì phải ăn liên tục 2 bữa mới đã thèmMình hay ăn phở tái hoặc tái bò viên.1 tô 45k mà nhiều thiệt nhiều thịt,bò viên 2 cục to tổ chảng ăn sướng cả miệng.Còn món ăn kèm yêu thích của mình là trứng lòngg đào tái cũng cực béo,thơm hơn với súp trứng tái chỗ khác.À đặc biệt là sa tế ở đây cay ngon cực kì thích hợp với các bạn thích ăn cay như mình ^^Hồi xưa quán này dọn dẹp vs ko kĩ nên hôi lắm bởi vậy mà gần 1 năm mình ko quay lại nhưng bây h thì đã ko còn mùi nữa,chỗ để xe cũng rộng rãi thoáng mát.Ps:Ko lần nào nhớ chụp hình vì quá ham ăn"
+        },
+        {
+            "user": "Hồng Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/ruby14071990",
+            "score": "8.2",
+            "comment": "Sáng dậy mà thưởng thức một tô đầy phở bò viên Xuân Mai thì chẳng còn gì hơn. Thêm một chén trứng cực chất nữa là đủ năng lượng cho cả ngày dài học và làm việc nhé. Thích phở Xuân Mai, quán rộng, phục vụ dễ thương, giá quá được so với chất lượng. Nhìn viên bò viên thì cũng biết, tròn to, cắn ngập răng.#themlanhichcung7up"
+        },
+        {
+            "user": "Nick Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguyencatphuongvu",
+            "score": "8.8",
+            "comment": "Phở ngon. Quán nằm trong hẻm nhưng lúc nào cũng đông. Ở đây có bò viên rất đặc biệt, để nguyên cục tròn vo ăn đã luôn. Bò viên giòn, dai và rất thơm mùi bò. Một tô 45k ăn no nóc. Thịt nhiều lắm. Phục vụ nhanh. Để xe ngăn nắp trong nhà. 12h trưa trở đi có bán xí quách bò giòn béo ngon lắm. Chiều tối cũng hay ăn lẩu bò khá chất lượng. Đồ ăn nhiều và tươi"
+        }
+    ]
+}

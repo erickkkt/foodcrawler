@@ -1,0 +1,49 @@
+{
+    "name": "Pizza 4P's - Pizza Kiểu Nhật - Saigon Centre",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-saigon-centre",
+    "address": "01 - 2 Lầu 6 Saigon Centre, 65 Lê Lợi, P. Bến Nghé,  Quận 1, TP. HCM",
+    "open_time": "10:00 - 23:00",
+    "price_range": "250.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-4p-s-pizza-kieu-nhat?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "_._",
+        "total_review": "0"
+    },
+    "foods": [],
+    "user_comments": []
+}

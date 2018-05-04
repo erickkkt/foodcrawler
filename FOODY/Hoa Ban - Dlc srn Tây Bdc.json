@@ -1,0 +1,76 @@
+{
+    "name": "Hoa Ban - Đặc sản Tây Bắc",
+    "link": "https://www.foody.vn/ho-chi-minh/hoa-ban-dac-san-tay-bac",
+    "address": "101/45 Lê Văn Lương, Phước Kiển,  Nhà Bè, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "100.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tây Bắc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-bac"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "16"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Brian Truong",
+            "link": "https://www.foody.vn/thanh-vien/desiremmwekb10",
+            "score": "6.8",
+            "comment": "Bữa sinh nhật đứa em, cả nhà làm 1 con heo bản 12kg. Nấu ra 5 món ăn no ứ hự. Đồ ăn làm khá ngon. Chỗ ngồi mát. Hơi tối nhưng chắc vậy mới đúng phong cách Tây Bắc. Uống rượu sâu chít."
+        },
+        {
+            "user": "Bora",
+            "link": "https://www.foody.vn/thanh-vien/0903356309",
+            "score": "7.0",
+            "comment": "Trưa nay đi ăn với công ty do mọi người muốn thử món lạ.Do mình làm ở q7 nên đi qua cũng gần. Đường dễ đi.Nhà hàng nằm trong khu mới của Nhà Bè nên hơi vắng, yên tĩnh.Món ăn ngon, lạ. Giá cũng vừa. Nhưng đồ ăn hơi ít.Mình thích Cơm lam. cá suối ngon thiệt, thịt cá dai và ngọt. Khác hẳn cá chợ. Mình sợ thịt trâu dai, nhưng đem ra thịt trâu nướng ống tre, thịt mềm, ngọt và có thêm rau thơm thật lạ miệng.Điểm trừ: làm đồ ăn lâu quá. Ăn rồi dừng đũa ngồi đợi mấy lần.Mải ăn quên chụp hình nên up đỡ vài tấm hihihi."
+        },
+        {
+            "user": "Lực Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/demonntl",
+            "score": "6.8",
+            "comment": "Quán nằn khá sâu trong khu dân cư, đường vào nhỏ và hơi khó tìm.Các món ăn tây bắc đặc sắc, nguyên liệu lạ. Mùi vị khó ăn trong lần đầu, nhưng quen rồi sẽ thấy ngon. Các món đặc sản được giết và làm tại chỗ nên khá lâu, nên đặt trước khi đến. Không gian thoáng mát"
+        },
+        {
+            "user": "Vy Dinh",
+            "link": "https://www.foody.vn/thanh-vien/vydinh96",
+            "score": "9.0",
+            "comment": "Khách hàng khá quen thuộc của quán này, mấy năm đi du học về vẫn thích ngồi ở đây. Giua chốn đông đúc của Saigon thì lại có 1 quán yên tĩnh và khá riêng tư thế này. Không gian yên tĩnh, giá cả thì quá rẻ ( =.= nếu ko nói là rẻ hơn quán bình dân). Ăn cái tiệc 60ng, mà có 12 triệu. Phục vụ thân thiện, nước uống hoa quả rừng khá đa dạng và ngon. Mình sợ uống nước ngọt mà cũng ngán mấy loại ép trái cây bt rùi! View đẹp, thích hợp cho chụp choẹt selfie hé hé. 2 món kết nhất là rau rừng và heo bản! Bạn nào chưa đến thì mình recommend đến thử nhoé. ;)"
+        },
+        {
+            "user": "pham vi",
+            "link": "https://www.foody.vn/thanh-vien/cymntd",
+            "score": 0,
+            "comment": "Nhân viên quán phục vụ với thái độ chán lắm.Nhất là ko trung thực.Mình để quên đt ở quán, tìm ngay mà đã bị tắt nguồn và mất.Điện thoại Iphone dùng cũng một thời gian rồi, ko tiếc máy chỉ tiếc hình ảnh và clip kỉ niệm con mình trong đó."
+        }
+    ]
+}

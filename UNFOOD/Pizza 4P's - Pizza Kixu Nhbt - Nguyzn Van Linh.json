@@ -1,0 +1,88 @@
+{
+    "name": "Pizza 4P’s - Pizza Kiểu Nhật - Nguyễn Văn Linh",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-4p-s-pizza-kieu-nhat-nguyen-van-linh",
+    "address": "Lô MD2, Nguyễn Văn Linh, P Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "200.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Sang trọng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/sang-trong"
+        },
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản,",
+            "link": "https://www.foody.vn/ho-chi-minh/sang-trong-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/sang-trong-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-4p-s-pizza-kieu-nhat?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "102"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hân Đặng",
+            "link": "https://www.foody.vn/thanh-vien/nhocheo126",
+            "score": "8.0",
+            "comment": "Không gian sang trọng, đèn hơi tối, và đặc biệt là rất đông khách hơn nữa còn là cuối tuần. Gia đình đi ăn cũng khá nhiều.- Pasta cua: đến đây chính là vì món này không phải gì khác. Và nó thật sự không làm mình thất vọng. Sốt cua ngọt thịt đến tận đáy lòng luôn. - Pizza 4 loại cheese: có kèm mật ong rưới lên ăn ngon thiệt- Pizza hải sản: hải sản ngon nhưng vị sốt không thích lắm.Điểm chung: viền cứng, không có tương hay muối trên bàn để bảo toàn mùi vị pizza nhưng mình vẫn cứ thấy nhạt :(("
+        },
+        {
+            "user": "vivavi",
+            "link": "https://www.foody.vn/thanh-vien/vivavi123456",
+            "score": "7.2",
+            "comment": "4P - chi nhánh quận 7Ngay sân gold và hồ bơi nước mặn MaiaKhu quận 7 view thì khỏi nói rồi , rất đẹp và thoáng mát.Ăn trưa ngày thương thôi nhưng rất đông, đa phần là dân vp và khách nước ngoài, cần phải đặt phòng trước nếu đi đông, có khu vực phòng riêng cho nhóm 10 người, phục vụ rất chuyên nghiệp và nhanhCác món đều rất ngon , đặc biệt là phô mai tươi, tuy nhiên món pizza hải sản thì mình không thích, nước sốt trên bánh quá chua và không thơm nhiềuCác món nước soda sử dụng trái cây tươi để làm và ngon tuyệt"
+        },
+        {
+            "user": "Khuee Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/lankhuee",
+            "score": "9.2",
+            "comment": "Mình hay ngồi trên lầu. Đi vào buổi tối nhìn ra cảnh ngoài cửa kính rất đẹp Ánh sáng vàng, không sáng quá, rồi bàn cũng trang trí hoa hòe nhỏ nên nhìn lãng mạn lắm. Khách hàng thì mình thấy khá lịch sự, nói chuyện nhỏ đủ họ nghe. Mình đi mấy lần đều thấy vậy. Pizza ăn ngon, vị lạ. Đi hẹn hò vào buổi tối là đẹp."
+        },
+        {
+            "user": "Liao Xiyu",
+            "link": "https://www.foody.vn/thanh-vien/xiyu54188",
+            "score": "7.6",
+            "comment": "Chi nhánh này ở quận 7, gần gần sân gold gì đó còn khá vắng người, bạn mình đi xe grab car không kiếm được chỗ, chạy vòng vòng khá lâu mới kiếm được. Đổi lại thì không gian rộng rãi hơn các chi nhánh khác. Có bạn trong nhóm rất mê pizza ở đây, theo cảm nhận của mình thì pizza ở đây nên ăn khi còn nóng thì ngon, nguội rồi thì vỏ bánh sẽ cứng. Nhân viên nhà hàng rất chuyên nghiệp, nhẹ nhàng, nhiệt tình và cũng là lý do chính mình muốn quay lại nhà hàng."
+        },
+        {
+            "user": "Jay Jay",
+            "link": "https://www.foody.vn/thanh-vien/tram_0608",
+            "score": "8.6",
+            "comment": "Pizza của quán đặc biệt, có nhiều vị. Nhóm mình thử 3 vị: 4 cheese, salmon sashimi, salmon miso. Cả 3 đều hài lòng. Tuy nhiên phải ăn lúc còn nóng, nguội một xíu là k còn ngon nữa. Sốt kèm salad khá ổn, rau tươi. Không gian quán khá rộng rãi, bày trí rất đẹp. Đi buổi trưa mà cũng k đông lắm.Nhân viên nhiệt tình."
+        }
+    ]
+}

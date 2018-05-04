@@ -1,0 +1,56 @@
+{
+    "name": "Pizza Hut - Phổ Quang",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-pho-quang",
+    "address": "66 Phổ Quang, P. 2,  Quận Tân Bình, TP. HCM",
+    "open_time": "09:00 - 22:00",
+    "price_range": "50.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Bánh Pizza",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-pizza"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "1"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Mushroom Ashi",
+            "link": "https://www.foody.vn/thanh-vien/hothanhthuy28889",
+            "score": "7.4",
+            "comment": "-- KHÔNG GIAN: CN này mới khai trương hồi đầu tháng 8, là nhà hàng thứ 61 trong hệ thống Pizza Hut. Chi nhánh nhìn từ ngoài có vẻ rộng rãi nhưng bên trong thì cũng không rộng lắm tuy nhiên ánh sáng ở đây rất tốt, ngồi ban ngày là ánh sáng tự nhiên tràn ngập luôn.-- CHẤT LƯỢNG: nhóm mình 4 người gọi 2 cái pizza hải sản, chọn bánh đế dày ăn cho đã, hải sản rải rác thôi chứ không nhiều. Trong đó có 1 bánh nướng hơi bị quá nên bị cháy phía trên, phần hành tây cháy xém đen thùi lùi, ớt đà lạt cũng xém cháy, may phần cheese với vỏ bánh vẫn còn ăn được. Bánh còn lại là hải sản nấm thì ăn ngon.-- GIÁ CẢ: không quá cao, mới khai trương nên có nhiều chương trình khuyến mãi lắm.-- DỊCH VỤ: nhân viên thân thiện và nhanh nhẹn."
+        }
+    ]
+}

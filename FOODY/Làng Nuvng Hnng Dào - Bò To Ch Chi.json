@@ -1,0 +1,80 @@
+{
+    "name": "Làng Nướng Hồng Đào - Bò Tơ Củ Chi",
+    "link": "https://www.foody.vn/ho-chi-minh/lang-nuong-hong-dao",
+    "address": "171 Quốc Lộ 22, Ấp Trung, Xã Tân Thông Hội  ,  Củ Chi, TP. HCM",
+    "open_time": "08:00 AM - 10:30 PM",
+    "price_range": "150.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/bo-to-hong-dao?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "6"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.0",
+            "comment": "Đó giờ có dịp đi qua Củ Chi thì chắc chắn phải ghé làm 1 chầu bò tơ , thường mình đi bò tơ Xuân Đào . Kỳ này thì bạn mời và dẫn qua đây ăn , thử nghiệm mới cũng hay . Không gian quán rộng rãi , thoáng , có chỗ cho xe lớn đậu ( mấy chế đi ô tô , xe du lịch nên chú ý điểm này ) . Bò tơ ở đây thơm , mềm ngon . Rau ăn kèm nhiều , tươi xanh , xin thêm rau thì nhân viên cũng vui vẻ cho . Bò tơ bán nhiều giá khác nhau , phần 150k thì đủ 4 người ăn í ."
+        },
+        {
+            "user": "BẢO CHÂU HÀ",
+            "link": "https://www.foody.vn/thanh-vien/chau2201",
+            "score": "7.2",
+            "comment": "Bạn dắt mình qua đây ăn nhóm 5 người nên tha hồ gọi bò ngâm nươc mắm, bò hấp hành, lòng bò luộc với 1 mâm rau rừng tươi xanh, nước chấm cũng đa dạng như mắm nêm hoặc mắm cá, bổ sung thêm 1 cái sụn bò nướng (chế biến hơi lâu khoảng hơn 15p). Bò ngâm nước mắm hơi ngọt, bò hành hơi dai, lòng bò thì rất ngon, sụn bò ướp thấm, nói chung món ăn ngon. Nhân viên nhanh nhẹn nhiệt tình, món lên đầy đủ, chỗ ngồi hơi nhiều muỗi, khung cảnh thoáng mát, nói chung cũng bõ công đi xa ăn 1 bữa đã đời."
+        },
+        {
+            "user": "Hà Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/bichha.nguyen1905",
+            "score": "6.6",
+            "comment": "Bò tơ luộc ăn với bánh tráng , rau : rất ngon ( nước chấm mình thấy ko ngon lắm ) Bò nướng ngủ vị mềm , ko dai , vừa ăn . Giá cả ko mắc lắm . Không gian thoải mái , phục vụ rất tận tình , vui vẻ ."
+        },
+        {
+            "user": "Thao Le",
+            "link": "https://www.foody.vn/thanh-vien/thaothanhle43",
+            "score": "7.0",
+            "comment": "Đó giờ có dịp đi qua Củ Chi hay ghé bò tơ Xuân Đào, nhưng lần này được người quen sống ở Củ Chi chỉ vào đây ăn. Quán rộng rãi, có chỗ cho xe lớn đậu. Bò tơ ở đây thơm, mềm, rất ngon. Rau ăn kèm cho nhiều, tươi ngon, khách hỏi xin thêm rau phục vụ cũng vui vẻ cho nhiều. Bò tơ cuốn bánh tráng thì bán với nhiều giá khác nhau, mình ăn phần 150k thì thấy đủ 4 người ăn. Thịt bò nướng thì hơi dai, có salad ăn kèm. Món cá chiên trang trí đẹp lắm, cà rốt được tỉa như cái lưới trùm lên nguyên con cá."
+        },
+        {
+            "user": "Cindy Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/thuy_aqua",
+            "score": "7.4",
+            "comment": "Quán nằm ngay trên đường quốc lộ chạy từ hướng An Sương lên thì quán nằm phía tay trái nên phải chạy vòng lên trên khoảng nữa cây số mới quay đầu lại được. Không gian quán rộng rãi thoáng. Hài lòng về nhà vệ sinh khá sạch sẽ có máy lạnh nữa nha. Thực đơn quán đa dạng nhiều món gồm gà, heo, bò nhưng đã đến đây thì phải ăn bò. Bò thịt mềm tươi ăn ngon không bị dai. Bò hấp cuốn bánh tráng, thịt mềm rau cuốn là rau rừng nhìn dĩa rau tươi sạch rất bắt mắt. Giá 1 phần khoảng 130k. Bò nướng mọi thì tính theo kg 360kg, ăn bao nhiêu thì cân. Bò nướng mọi ăn kèm với dĩa rau xà lách dầu giấm. Giá cả ổn không quá mắc, chất lượng."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Pizza Hut - Lotte Mart Nam Sài Gòn",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-lotte-mart-nam-sai-gon",
+    "address": "Tầng Trệt Lotte Mart Nguyễn Hữu Thọ, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",
+    "open_time": "10:00 AM - 09:00 PM",
+    "price_range": "10.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "127"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "TheBICHPHAM .",
+            "link": "https://www.foody.vn/thanh-vien/phamtnbich",
+            "score": 0,
+            "comment": "Pizza Hut quản lý chất lượng thực phẩm rất nghiêm ngặt nên mình an tâm khi ăn uống tại nơi đây."
+        },
+        {
+            "user": "Azura Lee",
+            "link": "https://www.foody.vn/thanh-vien/azuralee",
+            "score": "7.2",
+            "comment": "Trước giờ muốn ăn pizza là chọn pizza hut ở lotte quận 7. Tối chủ nhật rất đông, nhưng bánh lên mau. Mình chỉ order cheesy pops với một pizza nhỏ. Đồ ăn có cải tiến, hải sản to hơn, quán được remodel rất đẹp. Lúc kêu tính tiền cũng rất mau. Quán được cải thiện nhiều về mọi mặt! Mình quên chụp ảnh pizza rồi!"
+        },
+        {
+            "user": "Bít Tết",
+            "link": "https://www.foody.vn/thanh-vien/masrurmuron",
+            "score": "8.0",
+            "comment": "Pizza thịt xông khói viền phomai rất ngon luôn, mặc dù ăn được chừng 4 5 ống phomai ở ngoài là đã chuyển sang giai đoạn ngán vì nhiều phomai kinh khủng :)))) có mấy vị trứng cá hay phomai gì ấy phủ lên thì giòn ngon, xốp xốp, hơi mặn tí, mì ý ở pizza hut bh mình mới thử, nói chung ko ngon như mình nghĩ, ăn khá nhạt so với khẩu vị của mình, sallad thì rất ngon, phục vụ tốt ko có gì để chê."
+        },
+        {
+            "user": "Khoa Tô",
+            "link": "https://www.foody.vn/thanh-vien/triadz",
+            "score": "7.8",
+            "comment": "trưa nắng nóng hai đứa lười ra đường nên gọi hai cái bánh size L về nhà ăn. Pizza hut có chương trình mua một tặng một nhưng phải mua kèm theo combo thêm salad và nước. Mình thích ăn hải sản nên gọi hai phần hơi hơi giống nhau. nhưng mà ngon lắm ạaaaa, bị cái nhiều quá ăn không nổi thôi."
+        },
+        {
+            "user": "Quyên Đàm",
+            "link": "https://www.foody.vn/thanh-vien/doremi3132000",
+            "score": "7.8",
+            "comment": "Quán nằm gần bãi giữ xe, ở tầng G lotte mart nhưng ở một khu khá biệt với siêu thịNhan viên nhiệt tình, còn hướng dẫn mình tải app pizza hut để nhận thêm khuyến mãi nữaGiá ko rẻ nhưng chấp nhận đượcMình gọi pizza sò điệp lúc đầu ăn thấy ngon nhưng ăn nhiều sẽ ngấy do nhiều phomai, nếu bạn là tín đồ của phomai thì nên thử nè, mình còn được tặng 1 hải sản pecto nhưng topping hơi ít, xà lách cá ngừ ăn ngon"
+        }
+    ]
+}

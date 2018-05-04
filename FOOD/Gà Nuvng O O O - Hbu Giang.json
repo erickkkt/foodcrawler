@@ -1,0 +1,206 @@
+{
+    "name": "Gà Nướng Ò Ó O - Hậu Giang",
+    "link": "https://www.foody.vn/ho-chi-minh/ga-nuong-o-o-o-hau-giang",
+    "address": "218 Hậu Giang, P. 9,  Quận 6, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 175.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/ga-nuong-o-o-o?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "40"
+    },
+    "foods": [
+        {
+            "name": "Salad trộn dầu chanh",
+            "price": "22,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Rong biển tươi sốt tương mè",
+            "price": "15,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Đậu nành non",
+            "price": "15,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Súp rong biển tươi",
+            "price": "36,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Súp lá chúc chua cay",
+            "price": "46,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Gà nướng ớt cay Địa Trung Hải (nguyên con)",
+            "price": "178,000(đ)",
+            "total_orders": "7756"
+        },
+        {
+            "name": "Gà nướng ớt cay Địa Trung Hải (nửa con)",
+            "price": "99,000(đ)",
+            "total_orders": "5988"
+        },
+        {
+            "name": "Gà nướng xá xíu (nguyên con)",
+            "price": "175,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Gà nướng xá xíu (nửa con)",
+            "price": "98,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Gà nướng lá chanh rượu Nhật (nguyên con)",
+            "price": "165,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Gà nướng chanh ngò gai (nguyên con)",
+            "price": "168,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Gà nướng sốt thảo mộc Thái (nguyên con)",
+            "price": "172,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Gà nướng sốt thảo mộc Thái (nửa con)",
+            "price": "96,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Gà nướng lá chanh rượu Nhật (nửa con)",
+            "price": "93,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Gà nướng chanh ngò gai (nửa con)",
+            "price": "94,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Gà nướng quế cà chua kiểu Mễ (nguyên con)",
+            "price": "162,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Gà nướng quế cà chua kiểu Mễ (nửa con)",
+            "price": "91,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh mì",
+            "price": "5,000(đ)",
+            "total_orders": "27553"
+        },
+        {
+            "name": "Kim Chi",
+            "price": "12,000(đ)",
+            "total_orders": "7821"
+        },
+        {
+            "name": "Dưa leo",
+            "price": "10,000(đ)",
+            "total_orders": "3740"
+        },
+        {
+            "name": "Cóc xí muội",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sting dâu",
+            "price": "20,000(đ)",
+            "total_orders": "151"
+        },
+        {
+            "name": "Aquafina",
+            "price": "15,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Oolong tea plus",
+            "price": "20,000(đ)",
+            "total_orders": "52"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "15,000(đ)",
+            "total_orders": "4"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Lê Thắng Vũ",
+            "link": "https://www.foody.vn/thanh-vien/thangvu236",
+            "score": 0,
+            "comment": "Chổ này ăn thì được, nhưng giao hàng theo cách lừa đảo, vừa gọi đặt xong, đồng ý phí ship này nọ, nhân viên tới quanh co đồ thêm 35k ship, dù trong bill có tiền ship mà có 20k. Lừa đảo cố ý và có hệ thống, vì đó là nhân viên quán chú ko phải nhân viên của Delivery now như thường lệ. Dịch vụ lừa đảo."
+        },
+        {
+            "user": "nguyen huynh",
+            "link": "https://www.foody.vn/thanh-vien/yoyo_ko_90",
+            "score": "8.6",
+            "comment": "Mình dùng gà của hệ thống nhà hàng này cũng khá nhiều lần. Hôm nay rảnh review cho các bạn tham khảo lun. Mình thì thường xuyên order về nhà dùng mà vẫn thấy rất ngon. Món mình thấy ngon nhất là gà nướng địa trung hải vì mình rất thích cay..hihi . Gà nướng tiêu của nhà hàng cũng rất ok. Nướng chanh thì thơm mùi chanh đúng với tên gọi. Tuy là delivery nhưng gà vẫn rất nóng nhan. Gà gói trong giấy bạc nên không bị khô. Cho đến 3 loại nước chấm nên có nhiều sự lựa chọn ak.Rất ưng ý. Kết lại sẽ ủng hộ tiếp . Ak. Khen lun mấy bạn delivery lun rất dễ thương ."
+        },
+        {
+            "user": "Ngọc Mai",
+            "link": "https://www.foody.vn/thanh-vien/0902469871",
+            "score": "8.0",
+            "comment": "Gà ở đây ngon  , nướng có bọc giấy bạc nên về đến nhà vẫn còn nóng hổi + thơm phức luôn  😝 Mình mua 2 con ,  1 nướng ớt 1 , nướng chanh dây . Quán khuyến mãi nên còn 99k /c thôi Phần gà nướng chanh dây thì nhìn không hấp dẫn = ớt ( nhìn khá khô ) , mà ăn vào thì thịt mềm , chín đều chứ không bị khô . Có mùi chanh rõ ràng ☺ Phần gà ớt thì . . . .  Cay cực :)) nhìn ướt ướt , thơm , hấp dẫn . Gà ướp đều , hợp khẩu vị ( chống chỉ định cho những người không ăn cay được)  😂 😂  😂"
+        },
+        {
+            "user": "Hung Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hungevil99",
+            "score": "7.8",
+            "comment": "Hôm nay lần đầu mình ăn, mình order 2 con gà cay trung hải, con đầu ăn rât ngon, tới con hai cũng ngon mà cay quá T.T mà mình ăn cay rất dở. Nước chấm thì tuyệt vời, gà ướp rất thấm gia vị. Ăn thì đặt trước 30' để chuẩn bị rồi mới ra lấy."
+        },
+        {
+            "user": "Nhu Dn",
+            "link": "https://www.foody.vn/thanh-vien/maitoflash",
+            "score": "7.8",
+            "comment": "Gà nướng gần như trở thành một món ăn quen thuộc đối với mình khi ở đất Sài Gòn.Đặc biệt, gà nướng ò ó o thật sự đã trở thành một thương hiệu nổi tiếng bao lâu nay. Bản thân mình cũng đã thưởng thức món gà của thương hiệu này ở nhiều chi nhanh khác nhau. Về cơ bản, mình thấy các loại gà nướng của quán khá ngon (hương vị còn khá nhạt so với mong muốn của mình). Mình rất thích các loại nước chấm kèm theo.Quán cũng thường xuyên chạy các chương trình giảm giá, khuyến mãi nên chắc hẳn lúc nào cũng đông khách cả. Mình đặt hàng quan Deliverynow, nhận thấy dịch vụ giao hàng đảm bảo đúng giờ, chất lượng món ăn được đảm bảo.Nhìn chung giá cả các món của quán ở tầm tương đối hợp lí (xôi tầm 15k, gà tầm 160k/1con), mình thích nhất là món gà xé cay. Hi vọng có nhiều cơ hội để thưởng thức nhiều hơn nữa các món của quán."
+        }
+    ]
+}

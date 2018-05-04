@@ -1,0 +1,526 @@
+{
+    "name": "IZZIBING Snow Dessert Coffee - Bingsu",
+    "link": "https://www.foody.vn/ho-chi-minh/izzibing-pho-quang",
+    "address": "49 Phổ Quang, P. 2,  Quận Tân Bình, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "32.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/izzibing-snow-dessert-coffee-bingsu?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "459"
+    },
+    "foods": [
+        {
+            "name": "Trà xanh",
+            "price": "140,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Socola",
+            "price": "140,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Dưa lưới",
+            "price": "140,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Dâu",
+            "price": "140,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trái cây",
+            "price": "140,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Xoài",
+            "price": "120,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Đào",
+            "price": "130,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sầu riêng",
+            "price": "140,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Việt quất",
+            "price": "160,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Nho",
+            "price": "140,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Vải",
+            "price": "140,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Ngũ cốc",
+            "price": "140,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Đậu nành",
+            "price": "100,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mít",
+            "price": "100,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mè đen",
+            "price": "140,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hoa hồng",
+            "price": "140,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà dâu",
+            "price": "32,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà Táo Đỏ Hàn Quốc",
+            "price": "47,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà đào",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Đậu Hàn Quốc",
+            "price": "47,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà vải",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe đen",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Capuccino",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Americano",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Latte",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép bưởi",
+            "price": "32,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nước ép dưa hấu",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nước ép ổi",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép thơm",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Izza matcha frappuccino",
+            "price": "49,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mocha cookie frapuccino",
+            "price": "49,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Caramel frapuccino",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coffee frappe",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố việt quất",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Soda glinter blueberry",
+            "price": "29,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soda glinter kiwi",
+            "price": "29,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Soda glinter strawberry",
+            "price": "29,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Aquafina",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sting",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "7up",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pepsi",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda glinter blueberry",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda glinter orange",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda glinter lychee",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cuộn bò BBQ",
+            "price": "75,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Cơm cuộn cá ngừ",
+            "price": "70,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Cơm cuộn phô mai",
+            "price": "75,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cơm cuộn gà mật ong",
+            "price": "65,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cơm cuộn ba rọi xông khói",
+            "price": "75,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cơm cuộn mực cay",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm cuộn jambong - thanh cua",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm cuộn heo cay",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trộn Hàn Quốc",
+            "price": "65,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Bánh gạo phô mai cay",
+            "price": "65,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mỳ Hàn Quốc",
+            "price": "55,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cơm chiên kimchi thịt xông khói",
+            "price": "60,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mỳ cay Hàn Quốc",
+            "price": "75,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Miến xào Hàn Quốc",
+            "price": "65,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cơm gà chiên nước mắm",
+            "price": "60,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mỳ đen Ja Jang",
+            "price": "65,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Bánh gạo cay",
+            "price": "55,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Miến kim chi Hàn Quốc",
+            "price": "65,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mỳ bò rong biển",
+            "price": "75,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mỳ chả cá Hàn Quốc",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mỳ hải sản Hàn Quốc",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mỳ trộn cay Hàn Quốc",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm cari Hàn Quốc",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mỳ cari Hàn Quốc",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh gạo lắc bột phô mai",
+            "price": "40,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Mực Chiên Giòn",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Khoai Tây Chiên",
+            "price": "30,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Bánh mì bơ tỏi",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh gạo lắc đậu phộng",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh gạo lắc bột tôm",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "35,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Bánh Chuối",
+            "price": "28,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Bánh Chậu Hoa",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Yogurt dâu",
+            "price": "20,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh phô mai việt quất",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Bánh phô mai chanh dây",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt kiwi",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh flan Pháp",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt việt quất",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt đào",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Nguyên Kha",
+            "link": "https://www.foody.vn/thanh-vien/nguynkha2868",
+            "score": "6.6",
+            "comment": "Mẹ mình nói thèm Bingsu nên mình chỉ qua chỗ này gần trường ĐH của mình. Vị trí : Ngay ngã rẽ, khó qua đường và nhiều xe nguy hiểm, góc khá khuất. Buổi tối đông nên giữ xe cả bên showroom ô tô đối diện, qua đường nguy hiểm, nhưng anh bảo vệ phục vụ tốt có thể dắt khách qua. Còn nếu đi với trẻ em thì được giữ xe ngay quán.Không gian : Quán có 2 lầu. Vì phục vụ cả đồ ăn nên bước vào quán nghe mùi thức ăn không được trong lành lắm. Sáng thì đỡ hơn. Tối rất đông khách. Không gian ổn. Trên lầu có phòng Smoking riêng. Phục vụ : Phục vụ tốt, gọi món xong có đưa mình một cái chuông để khi có đồ ăn người ta bấm chuông, chuông trên tay rung với chớp thì mình đi lấy, khá hiện đại nhỉ. Có món nhân viên sẽ bưng lên cho mình luôn. Tối khách đông nhưng trên lầu chỉ có 1-2 anh chị chạy đi chạy lại liên tục tội lắm, nhưng nhanh nhẹn.Đồ ăn : Cơm trộn ngon. Nhưng mẹ mình không ăn được đồ Hàn nên không thích. Bingsu trà xanh topping y chang vị kitkat trà xanh, thơm mùi trà dã man. Bingsu Socola thì topping giống mùi milo. Nói chung khá ngon, ở giữa còn có đậu đỏ. 1 phần 140k, cơm 65k. 2 người đi nên kêu 1 phần bingsu thôi. Mình và mẹ do muốn thử vị khác nhau nên kêu vậy là nhiều quá. Mình ăn chưa được 1 nửa đã không ăn nổi nữa. Ở trên lẫn dưới lầu đều có một quầy nhỏ để lấy trà, khăn giấy, sữa đặc nếu bạn thích thêm ngọt, tương ớt, xì dầu,... mình like điều này.Đây là một địa điểm tuyệt vời nếu bạn thèm Bingsu. Khá là nổi tiếng rồi."
+        },
+        {
+            "user": "Trâm Lê",
+            "link": "https://www.foody.vn/thanh-vien/cobekhangiay.xuxu",
+            "score": "8.6",
+            "comment": "Đi 1 đoạn đường dài mới tới nơi. Quán nằm ở vị trí đó cũng hơi bất tiện do đường đông xe rồi còn phải gửi xe bên đường. Nhưng bù lại quán có đội ngũ nhân viên bảo vệ rất thân thiện và nhiệt tình điểm cộng lớn cho quán. Ko gian đẹp trên lầu hơi nóng 1 chút. Về bingsu thì ưng ý hết sức à. Nhìn nhỏ nhỏ mà rất chất lượng. Đá bào mịn lắm luôn. Quả việt quất thì quá trời ăn đã luôn. Ở giữa có mứt ngọt nhẹ ngon cực. Kem mềm mịn nhưng ko ngon lắm. Wifi ko kết nối được. Giá cũng ngang bằng vs 1 số quán khác"
+        },
+        {
+            "user": "Khánh Vy Trần",
+            "link": "https://www.foody.vn/thanh-vien/gauhts1997",
+            "score": "7.8",
+            "comment": "Gần 2 năm sau mình mới trở lại đây ^^Lần đầu tiên là đi là ngày cuối cùng của năm 2015 với 1 người bạn thân, bây giờ quay lại chỗ này sau gần 2 năm cũng đi với bạn mà đi với 1 người bạn khác. Tới đây nhìn không gian cách bài trí của quán chẳng có gì là thay đổi cả nên cũng nhớ nhớ =))Lần đầu đi ăn mình ăn bingsu dưa lưới, lần đó ăn cảm thấy không ngon vì lạt lắm, không có ấn tượng gì mấy.Lần này đi ăn mình chọn bingsu trái cây, mọi thứ khác hẳn luôn :vBingsu trái cây rất rất ngon, mình không biết phải diễn tả ra sao nữa nhưng vừa ăn một muỗng là thấy thích rồi. Đi ăn hôm 29/09 mà giờ vẫn còn muốn quay lại ăn nữa lắm.Còn gọi thêm teokbokki cheese, do quán để hành sống nên mùi hành bay nồng nặc, mới đầu mình hơi dị ứng vì mùi hành quá nồng nhưng khi ăn rồi thấy teokbokki cũng không tệ, ăn được.Về vị trí quán thì dễ thấy dễ tìm, nhưng nằm ngay khúc cua hơi khó quẹo cũng nguy hiểm nữa, được một cái là quán có chỗ để xe vừa đủ rộng. Nhân viên thân thiện. Cách bố trí tầng 2 của quán nhìn rất ngộp, từ năm 2015 tới giờ cũng không thay đổi gì cả =)) Nhưng mà món ngon thì mình cũng thấy vui rồi :3Diễn tả nhiêu đó thôi cũng đủ để thể hiện là mình sẽ quay lại rồi ^^"
+        },
+        {
+            "user": "Nguyễn Thuý Bắc",
+            "link": "https://www.foody.vn/thanh-vien/bacnguyen2806",
+            "score": "7.2",
+            "comment": "Bingsu ổn, quán đông nên phục vụ hơi chậm, đến vào giờ cao điểm không có chỗ mà ngồi. thấy mấy bạn bảo bingsu dưa lưới ngon mà mình thấy chán òm, cực recommend bingsu phô mai luôn"
+        },
+        {
+            "user": "Mushroom Ashi",
+            "link": "https://www.foody.vn/thanh-vien/hothanhthuy28889",
+            "score": "8.4",
+            "comment": "Hai đứa mắt to hơn bụng, 2 đứa mà order 3 món ăn no cành hông suýt tí nữa khỏi đứng dậy nổi để đi về 😂 Ăn trưa nên ăn nhiều xíu, gọi miến kim chi hàn quốc, cơm trộn hàn quốc và cơm cuộn bò BBQ. Cơm trộn và món miến kim chi được đựng trong thố đá nên giữ nhiệt tốt ghê, nóng lâu thiệt là lâu. Cơm cuộn bò BBQ thì cuộn chắc tay ghê, thịt bò mềm và nhiều, chấm thêm nước tương và tương ớt ăn ổn cực. Khu này nhiều văn phòng và gần trường học nên quán lúc nào cũng khá đông đúc. Lên món khoảng 10-15p."
+        }
+    ]
+}

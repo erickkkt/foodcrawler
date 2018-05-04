@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Vincom Mega Mall Thảo Điền",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-vincom-mega-mall-thao-dien",
+    "address": "Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P.Thảo Điền,  Quận 2, TP. HCM",
+    "open_time": "08:30 AM - 10:15 PM",
+    "price_range": "2.000đ - 17.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "22"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "takarin lam",
+            "link": "https://www.foody.vn/thanh-vien/lam.takarin",
+            "score": "8.8",
+            "comment": "Thú vị"
+        },
+        {
+            "user": "Thạch Doãn",
+            "link": "https://www.foody.vn/thanh-vien/doanthach123456789",
+            "score": "8.4",
+            "comment": "Ok đấy. phục vụ vui tính"
+        },
+        {
+            "user": "Châu Minh",
+            "link": "https://www.foody.vn/thanh-vien/minhchau5777",
+            "score": "8.2",
+            "comment": "Quán dễ thương"
+        },
+        {
+            "user": "Lê Khước",
+            "link": "https://www.foody.vn/thanh-vien/lekhuoc01359",
+            "score": "9.8",
+            "comment": "Đây là một quán trà sữa mà mình hay uống nhưng mấy lần trước thỳ chỉ toàn đặt GH thui và  hôm nay có dịp tự đi mua thỳ mình thấy được cái quầy trưng bày topping của mấy bạn nhìn trong thật là phong phú và đa dạng có rất nhìu loại để mấy bạn chọn ! mình rất thik và mình chắc chắn sẽ quay lại đây"
+        },
+        {
+            "user": "Trung.hieu0236@gmail.com Trung.hieu1911@gmail.com",
+            "link": "https://www.foody.vn/thanh-vien/tt969327",
+            "score": "9.8",
+            "comment": "Ôi thật tuyệt vời rất ngon ! Đã tới rất nhiều lần rồi nhưng hôm nay mấy bạn lại có loại nước mới ! Woa và tuyệt hơn là có thêm đào miếng và trá vải tươi mình rất thik"
+        }
+    ]
+}

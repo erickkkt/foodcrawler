@@ -1,0 +1,337 @@
+{
+    "name": "Ốc Quỳnh - Nguyễn Thượng Hiền",
+    "link": "https://www.foody.vn/ho-chi-minh/oc-quynh-nguyen-thuong-hien",
+    "address": "A-26 Chung Cư Nguyễn Thượng Hiền, P. 1,  Quận Gò Vấp, TP. HCM",
+    "open_time": "",
+    "price_range": "30.000đ - 40.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        }
+    ],
+    "summary": {
+        "average_score": "8.3",
+        "total_review": "149"
+    },
+    "foods": [
+        {
+            "name": "Ốc hương",
+            "price": "50,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Sò huyết",
+            "price": "30,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Răng mực",
+            "price": "40,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Ốc mỡ",
+            "price": "40,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Nghêu hấp thái",
+            "price": "30,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Càng ghẹ",
+            "price": "40,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Ốc cà na",
+            "price": "30,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Bạch tuộc",
+            "price": "40,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Ốc móng tay",
+            "price": "45,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Sò lông",
+            "price": "35,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Ốc bông",
+            "price": "40,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Tóp mỡ",
+            "price": "30,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Ốc dừa",
+            "price": "50,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Ốc khế",
+            "price": "40,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Nghêu hấp sả",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Ốc tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ốc heo",
+            "price": "30,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bao tử cá",
+            "price": "40,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ốc giác",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Hào",
+            "price": "18,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Sò điệp",
+            "price": "35,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Sò dương",
+            "price": "35,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Sò lông",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Ốc heo",
+            "price": "30,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Ốc tỏi",
+            "price": "45,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Ốc khế",
+            "price": "40,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sò dẹo",
+            "price": "30,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Ốc hương",
+            "price": "50,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Ốc mặt trăng",
+            "price": "40,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Ốc vú nàng",
+            "price": "50,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Ốc nàng tiên",
+            "price": "40,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sò huyết",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sò tộ",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sò điệp nướng trứng vĩ",
+            "price": "45,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sò lông nướng trứng vĩ",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ốc tỏi nướng trứng vĩ",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nhím biển (nhum)",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò dương nướng trứng vĩ",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc khế nướng trứng vĩ",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc heo nướng trứng vĩ",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò lụa",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào ốc móng tay",
+            "price": "50,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mì xào ốc giác",
+            "price": "40,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Mì xào ốc khế",
+            "price": "45,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Mì xào sò điệp",
+            "price": "40,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mì xào ốc tỏi",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Mì xào ốc heo",
+            "price": "40,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mì xào sò lông",
+            "price": "40,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà đào",
+            "price": "20,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà nhãn",
+            "price": "20,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nước ngọt",
+            "price": "12,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hồng trà tắc",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "huynhgia",
+            "link": "https://www.foody.vn/thanh-vien/giabaohuynh890",
+            "score": "8.0",
+            "comment": "Bữa giờ cứ tối là mưa tầm mưa tã mưa xối xa mặt mài. Thèm óic đến nõi ko bit làm sao để được ăn. Thì lướt face thấy fd có giao hàng ốc quỳnh. Vô xem review là cương ko đc r đó. Nhà mình tút tân bình . Mặc kệ xa gần riền ship ra sao. Bất chấp order mua mang về . Cỡ 50p mới nhận đc đồ ăn nhưng kệ có còn hơn không. Mỡ ra thì thôi rồi ngon phớt. Mùi ốc bốc lên cái bụng nghe ộc ôc. Ngồi bập xuống đất mà xử liền. Công nhận là ngon thiệt. Thấy hp gì đâu . Cám on quán và foody nhé."
+        },
+        {
+            "user": "Vợ Chồng Lười",
+            "link": "https://www.foody.vn/thanh-vien/phuongtrantranthi",
+            "score": 0,
+            "comment": "Quán đối diện chùa, rộng rãi, có trong nhà nữa. Giá khá mắc, 1 dĩa chút éc hà :( Ốc móng tay ăn toàn cát, nghêu hấp thái cũng được. Các món nướng phô mai ngon. Ốc hương trứng muối làm không bằng Q4, bơ nhiều quá. Có ốc khế xào bắp lạ lạ. Mình không xài khăn cũng tính luôn, về rv mới thấy @@"
+        },
+        {
+            "user": "hung",
+            "link": "https://www.foody.vn/thanh-vien/hungphan092730",
+            "score": "9.2",
+            "comment": "Sò dương nướng phô mai. Đây là lần đầu tiên mình ăn phô mai ngon như vậy. Khác lạ lám. Nên mình gọi thêm 1 con phô mai ăn riêng cho đa miệng. Còn nhiu món nuóng ngon nua. Ăn nhiu lám mà quên chụp hình lại"
+        },
+        {
+            "user": "khoa",
+            "link": "https://www.foody.vn/thanh-vien/khoa.post1990",
+            "score": "8.2",
+            "comment": "Ốc to, tươi, mập. 1 phần đủ 2-3 ănGia vị đạm đà, vị ngọt sẽ mạnh hơn vị mặn( thix hợp ai thích ăn hợ ngọt ngọt miền tây) Sạch sẽ- yên tĩnh (ko òin ào như những quán nhậu)Nhân viên thân viện lích sự Giá cũng ở cỡ trung trung. Có thể dễ bị gây nghiện khi mới ăn lần đầu"
+        },
+        {
+            "user": "haphuong",
+            "link": "https://www.foody.vn/thanh-vien/haphuong01102017",
+            "score": "9.0",
+            "comment": "Đây là món mới ở quán tất cả các loại ôc đều nướng trứng vĩ được hết nhưng mình thjch nhất là sò điệp nương trứng giống như bánh khọt có vị beo béo và đat biệt có con guốc ngọt ngọt. Mình đi nhóm 4 người ăn rất nhiêu món"
+        }
+    ]
+}

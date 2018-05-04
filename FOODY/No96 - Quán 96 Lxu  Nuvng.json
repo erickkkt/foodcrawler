@@ -1,0 +1,426 @@
+{
+    "name": "No.96 - Quán 96 Lẩu & Nướng",
+    "link": "https://www.foody.vn/ho-chi-minh/no-96",
+    "address": "117 Võ Văn Tần,  Quận 3, TP. HCM",
+    "open_time": "10:00 AM - 11:30 PM",
+    "price_range": "30.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hà Nội",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-ha-noi"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/mon-ngon-ha-noi?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "297"
+    },
+    "foods": [
+        {
+            "name": "Lòng gà trứng non cháy tỏi",
+            "price": "95,000(đ)",
+            "total_orders": "412"
+        },
+        {
+            "name": "Sụn gà rang muối",
+            "price": "75,000(đ)",
+            "total_orders": "200"
+        },
+        {
+            "name": "Nem chua rán",
+            "price": "50,000(đ)",
+            "total_orders": "174"
+        },
+        {
+            "name": "Răng mực cháy tỏi",
+            "price": "70,000(đ)",
+            "total_orders": "110"
+        },
+        {
+            "name": "Mực sữa chiên nước mắm",
+            "price": "65,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Mực sữa chiên giòn",
+            "price": "65,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Chả mực Hạ Long",
+            "price": "80,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Cánh gà chiên nước mắm",
+            "price": "65,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Chân giò muối",
+            "price": "60,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Hột vịt lộn (quả)",
+            "price": "10,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Bắp bò muối",
+            "price": "80,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Tim, gan, cật xào củ hành",
+            "price": "85,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Khô mực chiên nước mắm",
+            "price": "75,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Giò tai rán",
+            "price": "50,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cánh gà rang muối",
+            "price": "65,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Chân gà muối chiên",
+            "price": "45,000(đ)",
+            "total_orders": "264"
+        },
+        {
+            "name": "Chân gà muối sả ớt",
+            "price": "45,000(đ)",
+            "total_orders": "104"
+        },
+        {
+            "name": "Đậu hủ rang muối",
+            "price": "40,000(đ)",
+            "total_orders": "58"
+        },
+        {
+            "name": "Ngô chiên",
+            "price": "30,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Nem tai thính",
+            "price": "60,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "12,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Trứng ngải cứu",
+            "price": "20,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Tré",
+            "price": "40,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Khô bò tắc",
+            "price": "30,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "40,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Cá viên chiên",
+            "price": "25,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Đậu hủ hoàng kim",
+            "price": "65,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cơm rang dưa bò",
+            "price": "65,000(đ)",
+            "total_orders": "154"
+        },
+        {
+            "name": "Phở cuốn",
+            "price": "40,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Phở chiên phồng",
+            "price": "50,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Mì xào bò cuộn trứng",
+            "price": "50,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Bún đậu mằm tôm",
+            "price": "30,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Bánh dày rán ruốc",
+            "price": "30,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Nộm rau muống thịt bò",
+            "price": "65,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Đọt su su xào tỏi",
+            "price": "65,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Rau luộc kho quẹt",
+            "price": "75,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Gỏi bò cà pháo",
+            "price": "75,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Đọt choại xào tỏi",
+            "price": "65,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ngồng tỏi xào",
+            "price": "65,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Lẩu riêu cua bắp bò",
+            "price": "210,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Lẩu riêu cua thập cẩm",
+            "price": "280,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Lẩu riêu cua sườn sụn",
+            "price": "240,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Lẩu cháo thập cẩm",
+            "price": "240,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Lẩu cháo sườn",
+            "price": "180,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tiger nâu",
+            "price": "17,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Heineken lon",
+            "price": "22,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Saigon special",
+            "price": "16,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Tiger bạc",
+            "price": "18,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Beck's beer",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Budweiser",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Corona",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sapporo",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua dẻo ca cao",
+            "price": "18,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "12,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Sữa chua nếp cẩm",
+            "price": "18,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Trà quất",
+            "price": "12,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Nước sấu đá",
+            "price": "18,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Tàu hủ Singapore",
+            "price": "12,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Nước mơ ngọt",
+            "price": "18,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Nước mơ mặn",
+            "price": "18,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "7up",
+            "price": "16,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sting dâu",
+            "price": "16,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Soda",
+            "price": "16,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Pepsi",
+            "price": "16,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Redbull",
+            "price": "16,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nước suối",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vodka men",
+            "price": "95,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Rượu táo mèo",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vodka Hà Nội",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Phi Phụng Phạm",
+            "link": "https://www.foody.vn/thanh-vien/phiphngphm",
+            "score": "7.8",
+            "comment": "Đồ ăn lạ mà ngon. Quán đông lắm luôn"
+        },
+        {
+            "user": "Cẩm Tú",
+            "link": "https://www.foody.vn/thanh-vien/cmt",
+            "score": "8.0",
+            "comment": "Ăn ở đây nhiều lần rùi mà chưa có viết review cho quán nạ. Hôm nay rãnh rỗi nên viết cho quán vài dòng nhen. Món ăn rất ngon không có gì bàn cãi,nhân viên dễ thương nhanh nhẹn. Không có gì để chê nhen 👏🏻👏🏻👏🏻"
+        },
+        {
+            "user": "Hoai Viet Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/viet.nguyen",
+            "score": "8.0",
+            "comment": "Nghe đồng nghiệp nói quán lẩu nướng này ngon, giá bình dân nên dịp cuối tuần ghé ăn thử. Menu nhiều món hen. Tụi mình gọi thịt bò xào rau muống, trứng non lòng gà cháy tỏi...Thịt bò xào rau muống vừa miệng, thịt bò mềm, rau muống giòn giòn cũng ngon, trứng non béo béo xào chung lòng gà đậm đà. Điểm cộng tiếp theo là không gian quán thoáng mát, nhân viên phục vụ nhanh lẹ.Chắc chắn sẽ ghé lại"
+        },
+        {
+            "user": "Tùng Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/tung.huynh",
+            "score": "7.4",
+            "comment": "Đồ ăn ngon nhất nên thử là lòng gà cháy tỏi  bao ngon, mình đến gọi món này đến 3 dĩa ăn cho đã.Nhân viên phục vụ nhiệt tình dễ thương, quán co không gian không được rộng nên đi đông hãy book bàn trước nhé."
+        },
+        {
+            "user": "Thảo Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/thaohp121996",
+            "score": "7.2",
+            "comment": "Tình cờ ghé quán khoảng 11h đêm cuối tuần. Ấn tượng đầu tiên là quán nhỏ nhưng rất đông khách, tràn ra cả vỉa hè. Món hot hit ở đây là lòng gà trứng non cháy tỏi nhưng mình thấy trong 4 món bàn mình gọi, món này là món duy nhất k ăn hết. Nụ bí xào tỏi ăn lạ và khá ngon, chả mực Hạ Long bàn mình ai cũng khen nhưng 1 phần khá ít. Nầm bò ở đây là nầm xào với bơ, hơi bất ngờ vì lúc gọi chúng mình nghĩ là nầm nướng 😂😂😂. Nói chung điểm cộng là quán làm đồ ăn ngon, nhân viên nhiệt tình, điểm trừ là gửi xe tính phí."
+        }
+    ]
+}

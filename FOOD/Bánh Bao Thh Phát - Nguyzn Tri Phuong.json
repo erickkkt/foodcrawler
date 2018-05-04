@@ -1,0 +1,287 @@
+{
+    "name": "Bánh Bao Thọ Phát - Nguyễn Tri Phương",
+    "link": "https://www.foody.vn/ho-chi-minh/banh-bao-tho-phat",
+    "address": "78 Nguyễn Tri Phương, P. 7,  Quận 5, TP. HCM",
+    "open_time": "05:00 AM - 11:59 PM",
+    "price_range": "15.000đ - 33.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "393"
+    },
+    "foods": [
+        {
+            "name": "Bánh Hoàng Kim",
+            "price": "10,000(đ)",
+            "total_orders": "7051"
+        },
+        {
+            "name": "Bánh xá xíu nhỏ",
+            "price": "10,000(đ)",
+            "total_orders": "2284"
+        },
+        {
+            "name": "Bánh bao cút muối",
+            "price": "15,000(đ)",
+            "total_orders": "1655"
+        },
+        {
+            "name": "Há cảo (tôm)",
+            "price": "3,000(đ)",
+            "total_orders": "1573"
+        },
+        {
+            "name": "Bánh bao kẹp thịt nướng",
+            "price": "16,000(đ)",
+            "total_orders": "1387"
+        },
+        {
+            "name": "Bánh bao nhân phô mai",
+            "price": "8,000(đ)",
+            "total_orders": "1381"
+        },
+        {
+            "name": "Bánh ca dé",
+            "price": "6,000(đ)",
+            "total_orders": "1142"
+        },
+        {
+            "name": "Bánh bao đặc biệt (có lạp xưởng)",
+            "price": "22,000(đ)",
+            "total_orders": "1072"
+        },
+        {
+            "name": "Xíu mại khô",
+            "price": "3,000(đ)",
+            "total_orders": "818"
+        },
+        {
+            "name": "Bánh giò",
+            "price": "10,000(đ)",
+            "total_orders": "817"
+        },
+        {
+            "name": "Há cảo (thịt)",
+            "price": "2,500(đ)",
+            "total_orders": "643"
+        },
+        {
+            "name": "Bánh bao trà xanh",
+            "price": "8,000(đ)",
+            "total_orders": "511"
+        },
+        {
+            "name": "Bánh bao (không lạp xưởng)",
+            "price": "18,000(đ)",
+            "total_orders": "466"
+        },
+        {
+            "name": "Bánh bao trứng cút, trứng muối",
+            "price": "18,000(đ)",
+            "total_orders": "393"
+        },
+        {
+            "name": "Bánh bao khoai môn",
+            "price": "6,000(đ)",
+            "total_orders": "390"
+        },
+        {
+            "name": "Dorayaki",
+            "price": "8,000(đ)",
+            "total_orders": "388"
+        },
+        {
+            "name": "Bánh bao bí đỏ",
+            "price": "6,000(đ)",
+            "total_orders": "331"
+        },
+        {
+            "name": "Bánh Bột Tròn (Màn Thầu)",
+            "price": "3,500(đ)",
+            "total_orders": "301"
+        },
+        {
+            "name": "Bánh cua xanh",
+            "price": "2,500(đ)",
+            "total_orders": "289"
+        },
+        {
+            "name": "Bánh bông lan hấp",
+            "price": "6,000(đ)",
+            "total_orders": "275"
+        },
+        {
+            "name": "Bánh bao đậu xanh",
+            "price": "6,000(đ)",
+            "total_orders": "158"
+        },
+        {
+            "name": "Bánh bao chay",
+            "price": "13,000(đ)",
+            "total_orders": "148"
+        },
+        {
+            "name": "Bánh mì cá",
+            "price": "16,000(đ)",
+            "total_orders": "123"
+        },
+        {
+            "name": "Bánh bao 2 trứng cút",
+            "price": "13,000(đ)",
+            "total_orders": "99"
+        },
+        {
+            "name": "Hamburger gà phô mai",
+            "price": "17,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Bánh bột tròn (màn thầu) chiên",
+            "price": "1,500(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Bánh mì phá lấu",
+            "price": "16,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh mì heo quay",
+            "price": "16,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh ướt",
+            "price": "16,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh mì thịt nguội",
+            "price": "16,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh mì chà bông",
+            "price": "16,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bánh mì xíu mại",
+            "price": "16,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bánh mì gà",
+            "price": "16,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh mì ốp la",
+            "price": "16,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh mì & Xôi",
+            "price": "16,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh mì bì",
+            "price": "16,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh mì xúc xích",
+            "price": "16,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xôi thập cẩm",
+            "price": "22,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Xôi phá lấu",
+            "price": "16,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Xôi gà",
+            "price": "16,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Xôi heo quay",
+            "price": "16,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Hamburger",
+            "price": "16,000(đ)",
+            "total_orders": "8"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Cao My",
+            "link": "https://www.foody.vn/thanh-vien/haiconcao05",
+            "score": "8.2",
+            "comment": "nhất định phải thử bánh bao nhân xá xíu ở đây nhá, nước sốt bao ngon và thơm luôn, ăn là ghiền ak. hehe"
+        },
+        {
+            "user": "Thị Phương Lê",
+            "link": "https://www.foody.vn/thanh-vien/phuong.le-thi",
+            "score": "6.2",
+            "comment": "Sáng sơm kẹt xe mà cũng ráng la lếch dậy sớm ghe quaThoj Phát mua bánh bao ăn sáng, mình mua 3 cái bánh bao kim sa và 1 bánh bao trà xanh.  Bánh bao kim sa có hơi ngọt, nhân kim sa thơm và dạng lỏng nên dễ chảy ra ngoài, lúc ăn cần cẩn thận vì nhân bên trong rất dẻo. Giá 10k Bánh bao trà xanh thơm đậm, và không quá ngọt như nhân kim sa. Giá 8k"
+        },
+        {
+            "user": "Vannie  Ng",
+            "link": "https://www.foody.vn/thanh-vien/vannienguyen26896",
+            "score": "7.4",
+            "comment": "Thích bánh bao thịt nướng ở đây, ngon lắm luôn, lại còn rẻ nữa tuy mua thì không tiện đường lắm vì khúc này 1 chiều phục vụ siêu nhanh luôn các loại bánh bao gì cũng có, gì cũng ngon, còn có nhiều món khác nữa"
+        },
+        {
+            "user": "Quang Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/quangnda",
+            "score": "8.0",
+            "comment": "Bánh bao ở đây thì ngon rồi, cứ chiều đói là lại đặt qua deli bánh ở đây nhiều loại tha hồ lựa chọn giá cũng ổn, đặt qua deli giao hàng nhanh"
+        },
+        {
+            "user": "Bảo Ngân",
+            "link": "https://www.foody.vn/thanh-vien/Hbaongan",
+            "score": "7.4",
+            "comment": "Mình biết đến bánh bao nhờ 1 người bạn. Bánh ở đây mua lúc nào cũng nóng. Lần nào lên thành phố cũng ghé mua cho được hihi. Chỉ 10k/bánh thôi nhenn"
+        }
+    ]
+}

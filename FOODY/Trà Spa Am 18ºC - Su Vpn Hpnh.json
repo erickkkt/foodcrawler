@@ -1,0 +1,591 @@
+{
+    "name": "Trà Sữa Âm 18ºC - Sư Vạn Hạnh",
+    "link": "https://www.foody.vn/ho-chi-minh/tra-sua-am-18-c-su-van-hanh",
+    "address": "539 Sư Vạn Hạnh, P. 13,  Quận 10, TP. HCM",
+    "open_time": "Cả ngày   08:30 AM - 11:00 PM",
+    "price_range": "15.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/tra-sua-am-18%C2%BAc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "6.5",
+        "total_review": "379"
+    },
+    "foods": [
+        {
+            "name": "Trà đào",
+            "price": "25,000(đ)",
+            "total_orders": "133"
+        },
+        {
+            "name": "Trà táo xanh",
+            "price": "25,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Trà dưa lưới",
+            "price": "25,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Trà dâu",
+            "price": "25,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Trà",
+            "price": "25,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Trà Thái đỏ",
+            "price": "25,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Trà kiwi",
+            "price": "25,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Trà bạc hà",
+            "price": "25,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Trà vải",
+            "price": "25,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Trà chanh dây",
+            "price": "25,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Trà dâu tằm",
+            "price": "25,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trà tắc",
+            "price": "25,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trà nho",
+            "price": "25,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà xoài",
+            "price": "25,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà dứa",
+            "price": "25,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "25,000(đ)",
+            "total_orders": "558"
+        },
+        {
+            "name": "Trà sữa dưa lưới",
+            "price": "25,000(đ)",
+            "total_orders": "270"
+        },
+        {
+            "name": "Trà sữa bạc hà",
+            "price": "25,000(đ)",
+            "total_orders": "108"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "25,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Trà sữa trà xanh",
+            "price": "25,000(đ)",
+            "total_orders": "92"
+        },
+        {
+            "name": "Trà sữa kiwi",
+            "price": "25,000(đ)",
+            "total_orders": "82"
+        },
+        {
+            "name": "Trà sữa dâu",
+            "price": "25,000(đ)",
+            "total_orders": "75"
+        },
+        {
+            "name": "Trà sữa khoai môn",
+            "price": "25,000(đ)",
+            "total_orders": "73"
+        },
+        {
+            "name": "Trà sữa táo xanh",
+            "price": "25,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Trà sữa chanh dây",
+            "price": "25,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Trà sữa dưa hấu",
+            "price": "25,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Trà sữa dâu tằm",
+            "price": "25,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà sữa vải",
+            "price": "25,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà sữa tắc",
+            "price": "25,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà sữa nho",
+            "price": "25,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà sữa xoài",
+            "price": "25,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà sữa thơm",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lục trà",
+            "price": "35,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Trà Thái đỏ",
+            "price": "35,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Thêm vị trái cây",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cream shake bạc hà",
+            "price": "27,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Cream shake dưa lưới",
+            "price": "27,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cream shake dâu",
+            "price": "27,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cream shake đào",
+            "price": "27,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cream shake táo xanh",
+            "price": "27,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cream shake chanh dây",
+            "price": "27,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cream shake kiwi",
+            "price": "27,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cream shake dâu tằm",
+            "price": "27,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cream shake xoài",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cream shake nho",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cream shake vải",
+            "price": "27,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cream shake tắc",
+            "price": "27,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cream shake thơm",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yo shake dưa lưới",
+            "price": "27,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Yo shake dâu",
+            "price": "27,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Yo shake chanh dây",
+            "price": "27,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Yo shake đào",
+            "price": "27,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Yo shake táo xanh",
+            "price": "27,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Yo shake kiwi",
+            "price": "27,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Yo shake bạc hà",
+            "price": "27,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Yo shake nho",
+            "price": "27,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Yo shake dâu tằm",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yo shake xoài",
+            "price": "27,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yo shake vải",
+            "price": "27,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yo shake tắc",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yo shake thơm",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trân châu đen",
+            "price": "6,000(đ)",
+            "total_orders": "538"
+        },
+        {
+            "name": "Thạch trái cây",
+            "price": "6,000(đ)",
+            "total_orders": "228"
+        },
+        {
+            "name": "Pudding trứng",
+            "price": "6,000(đ)",
+            "total_orders": "105"
+        },
+        {
+            "name": "Pudding chocolate",
+            "price": "6,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Nha đam tươi",
+            "price": "6,000(đ)",
+            "total_orders": "70"
+        },
+        {
+            "name": "Thạch thủy tinh nâu",
+            "price": "6,000(đ)",
+            "total_orders": "67"
+        },
+        {
+            "name": "Popping boba yogurt",
+            "price": "8,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Thạch cafe",
+            "price": "6,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Pudding khoai môn",
+            "price": "6,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Thạch trà xanh",
+            "price": "6,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Pudding dâu",
+            "price": "6,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Pudding thảo mộc",
+            "price": "6,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Pudding xoài",
+            "price": "6,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Popping boba chanh dây",
+            "price": "8,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Trân châu trắng",
+            "price": "8,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Popping boba vải",
+            "price": "8,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Popping boba xoài",
+            "price": "8,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nước ép cam",
+            "price": "25,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Nước ép dưa hấu",
+            "price": "25,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Nước ép cà chua",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà xanh đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Trà sữa cookie",
+            "price": "31,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Cafe choco",
+            "price": "31,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Ya-ua đá xay",
+            "price": "31,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Choco mint",
+            "price": "31,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Cafe sữa cookie",
+            "price": "31,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cafe sữa đá",
+            "price": "27,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cafe đá",
+            "price": "22,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm cuộn trứng",
+            "price": "40,000(đ)",
+            "total_orders": "891"
+        },
+        {
+            "name": "Nui xào bò",
+            "price": "40,000(đ)",
+            "total_orders": "527"
+        },
+        {
+            "name": "Mì yakisoba",
+            "price": "47,000(đ)",
+            "total_orders": "254"
+        },
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "36,000(đ)",
+            "total_orders": "137"
+        },
+        {
+            "name": "Spaghetti bò",
+            "price": "40,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Cơm chiên dương châu",
+            "price": "40,000(đ)",
+            "total_orders": "87"
+        },
+        {
+            "name": "Spaghetti chay",
+            "price": "43,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Khoai tây cuộn trứng",
+            "price": "36,000(đ)",
+            "total_orders": "401"
+        },
+        {
+            "name": "Tôm cuộn phô mai",
+            "price": "43,000(đ)",
+            "total_orders": "230"
+        },
+        {
+            "name": "Tokbokki lắc phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "30,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Phá lấu",
+            "price": "35,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "3 chàng ngự lâm khoai thủ",
+            "price": "35,000(đ)",
+            "total_orders": "31"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Phương Linh",
+            "link": "https://www.foody.vn/thanh-vien/phnglinh9495",
+            "score": 0,
+            "comment": "Dạ , xem lại cách phục vụ ạ . Cho dù có gì đi nữa thì tại sao lại làm khó khách như thế nhỉ . Kêu khách biến đi là sao đây . Không cần khách à . rốt cục chẳng hiểu nổi đông thế nào mà bảo khách là biến đi nhỉ ???"
+        },
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "7.0",
+            "comment": "Mình mới đi lại năm ngoái giờ mới nhớ review 😂 heheeĐồ ăn vẫn ngon,mình thích nhất ở quán là món nui xào bò ngon cực 🐮🐮 trà sữa thì vẫn như xưa bthg,chất lượng ko đổi có điều giờ giá lên thôi ⬆ quán view bình thường, ko có gì đẹp để sống ảo 📱📱📱 Còn thái độ nhân viên bây giờ mình k biết vì chưa đi lại nhưng hồi xưa lịch sự lắm, nc cũng dễ chịu cũng k có khó tính hay là hối thúc khách hàng 👤 nói chung quán ổn,tạm phù hợp vs sinh viên"
+        },
+        {
+            "user": "heo sữa Hà",
+            "link": "https://www.foody.vn/thanh-vien/thuhnguyn4735",
+            "score": 0,
+            "comment": "View quán bình thường,đa số là sinh viên ngồi nên hơi ồn. Thức uống dở. Ngày xưa cách 2 năm uống còn ngon h thì giá tăng mà chất lượng đi xuống. Được cái có bạn nhân viên nữ order món lịch sự lắm,ĐANG CHỌN MÓN MÀ CAU CÓ NÓI MỜI CHỊ GỌI MỜI CHỊ GỌI CHỊ CHỌN NHANH ĐI Ạ. Thái độ lúc tính tiền cũng rất bất lịch sự. Say good bye!!!"
+        },
+        {
+            "user": "Gi El",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthaonguyen126",
+            "score": 0,
+            "comment": "View khá ổn. . Hôm mình đến có thấy cái bảng rất to của chương trình Quà tặng Galaxy. Nhưng khi mình đến hỏi để tham gia thì nhân viên nằng nặc không chấp nhận. Nói là chưa được áp dụng. Nhưng nhìn cái bảng thì hôm mình đi đã có áp dụng. Giảm không bao nhiêu nên mình cũng chả đôi co làm gì. Mệt. Thức uống rất bình thường, chẳng có gì đặc sắc."
+        },
+        {
+            "user": "Elle Elle",
+            "link": "https://www.foody.vn/thanh-vien/ew.immaweirdo",
+            "score": "6.6",
+            "comment": "Không gì đặc sắc"
+        }
+    ]
+}

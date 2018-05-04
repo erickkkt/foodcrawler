@@ -1,0 +1,88 @@
+{
+    "name": "Buffet Windsor - Cafe Central An Dong - Windsor Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/buffet-windsor-cafe-central-an-dong-windsor-plaza",
+    "address": "Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",
+    "open_time": "Ala carte menu  06:00 AM - 10:00 PM",
+    "price_range": "449.000đ - 853.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Quốc tế",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-quoc-te"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "141"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Đạt  Mập",
+            "link": "https://www.foody.vn/thanh-vien/truongdat.baynotnhac",
+            "score": "7.6",
+            "comment": "Hôm qua mưa gió bão bùng, đi ăn buffer An Đông... khách đông ngườm ngượp!Khung cảnh ở đây thì khỏi bàn rùi...OK!Món ăn thì phong phú, nhưng đông quá 8h là hết những món đinh như tôm càng, cua.. phải đợi tới 8h45 mới lại ( Quản lý báo là mưa quá cháy hàng!!!)Khẩu vị thì rất Ok ròii, năm sao mà!Nói chung mọi thứ đều ổn!!!!!!Sẽ ghé đây nữa!!!"
+        },
+        {
+            "user": "Thang Duc Le",
+            "link": "https://www.foody.vn/thanh-vien/thang2804",
+            "score": "8.8",
+            "comment": "Mình mới đi sinh nhật hôm qua ở đây, Đồ ăn rất là tươi, nhân viên phục vụ cực kỳ nhiệt tình và thân thiện.Đồ ăn hải sản ở đây tươi ngon hơn những chỗ khác, Đa phần hải sản còn tươi sống, cách chế biến cũng đa dạng, phong phú, ăn cũng vừa miệng hơn. Điểm trừ duy nhất ở đây mà mình thấy là tôm cua không bự bằng những chỗ khác nhưng cũng không phải là nhỏ. Nhưng so ra với giá cả thì phải nói là hợp lí rồi.Mình cảm thấy vô cùng hài lòng 👍👏"
+        },
+        {
+            "user": "Kim Nhung Trần",
+            "link": "https://www.foody.vn/thanh-vien/kimnhungtrn",
+            "score": "8.8",
+            "comment": "Mình thích buffee nơi này nhất nhất luôn. Rất đáng đồng tiền. Đồ ăn đa dạng, phong phú. Không gian lich sự, ấm cúng. Nhân viên thân thiện. Nói chung là rất ưng. Chỉ có điều là giá mắc quá nên không phải lúc nào muốn ăn cũng được hihihi"
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": 0,
+            "comment": "Được mời đi ăn ở đây, nghe bảo là 5 sao nên cũng háo hức lắm.Không gian rộng rãi, không bị ngộp. Nhân viên dọn dĩa nhanh, thêm đồ ăn liên tục. Về thức ăn vì hơi ba chấm, nói chung không tệ nhưng chưa đến mức 5 sao. Hải sản chỉ có tôm, nghêu và ốc, mà cả 3 đều nhỏ và ốm nhách. Thịt và các món mặn khác cũng rất ít, chỉ được quầy đồ xào là hấp dẫn, mình ăn gì thì sẽ xào cho mình cái đó.Quầy đồ ngọt rất hấp dẫn, quầy ngon nhất mà mình ăn"
+        },
+        {
+            "user": "Tsuyoshi Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nobvn",
+            "score": 0,
+            "comment": "Tôi đi cùng gia đình tất cả gồm 4 người lớn và 1 bé tới đây ăn buffet trưa. Chắc có lẽ vào ngày thường nên lượng khách rất ít. Chỉ khoảng hơn 10 người. Món ăn thật tệ. Rất dở! Món nghêu tôi nhờ xào thì hơn 30 phút mới đem lại chắc có lẽ do đầu bếp quên nên khi nhắc mới làm. Mà gia vị xào thì thật sự, dở hơn cả người không chuyên nghiệp như tôi làm. Còn khi đi tới quầy thịt gà và thịt heo, anh nhân viên mặt nặng mặt nhẹ cắt thịt đưa cho khách. Cảm giác đưa đĩa ra nhận mấy miếng thịt đó như là đi ăn xin. Tôi không nghĩ đây là buffet 5 sao gì đâu! Thật tệ!"
+        }
+    ]
+}

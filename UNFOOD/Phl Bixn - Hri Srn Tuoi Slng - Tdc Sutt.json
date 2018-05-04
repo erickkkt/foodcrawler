@@ -1,0 +1,58 @@
+{
+    "name": "Phố Biển - Hải Sản Tươi Sống - Tắc Suất",
+    "link": "https://www.foody.vn/ho-chi-minh/pho-bien-hai-san-tuoi-song-tac-suat",
+    "address": "289 Tắc Suất, Khu Phố Miễu Nhì, TT. Cần Thạnh,  Cần Giờ, TP. HCM",
+    "open_time": "06:00 AM - 10:00 PM",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "5.0",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "loan",
+            "link": "https://www.foody.vn/thanh-vien/tieuthubian08",
+            "score": 0,
+            "comment": "Nhân viên phục vụ qua loa, khách vào k đưa menu k giới thiệu món. Khi thấy khách đem thức ăn vào ăn k thông báo phụ thu. Tới lúc tính tiền thì tính 200k tiền nước 300k tiền phụ thu. Đem vô 4 hộp tính phụ thu lên tới 10hộp, mỗi hộp 30k. Hỏi nhân viên tại sao ngay từ đầu k đưa menu hay thông báo thì cãi lại. Đợi khách ăn xong rồi chèn ép chặt chém. Ơ quán chỉ có 2 nhân viên bảo chị nhân viên kiu chủ ra chị đó nói ơ đây k ai quản lý hết, chị đó giảm xuống mỗi hộp 20k. Cứ thấy khách du lịch thì đè ra chém như vậy còn ai dám quay lại lần nữa."
+        },
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "9.0",
+            "comment": "Đây là 1 trong những quán cà phê tuyệt vời ở Cần Giờ. Bạn đến đây nhâm nhi 1 ly cà phê giá khoảng 15K mà rất ngon, ngồi ở quán từ sáng tới chiều với wifi miễn phí mạnh phà phà mà chả ai thèm đuổi bạn về. Mệt bạn cũng có thể thuê võng, giá 20K 1 cái và nằm thưởng thức gió biển. Quán nằm ngay bên bờ biển nên bạn có thể đi bộ dọc bờ biển rất thoải mái. Lúc nước lên thì gió lồng lồng thổi, mát tuyệt vời luôn.Có điều bạn nên cẩn thận muỗi. Muỗi ở đây nói riêng và Cần Giờ nói chung to khủng hoảng luôn"
+        }
+    ]
+}

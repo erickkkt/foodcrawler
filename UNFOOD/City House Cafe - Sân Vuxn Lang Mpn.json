@@ -1,0 +1,76 @@
+{
+    "name": "City House Cafe - Sân Vườn Lãng Mạn",
+    "link": "https://www.foody.vn/ho-chi-minh/city-house-cafe",
+    "address": "21 Huỳnh Khương An, P. 5,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "157"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tùng Kop",
+            "link": "https://www.foody.vn/thanh-vien/nguyendoantung311",
+            "score": "7.2",
+            "comment": "Quán được thiết kế với không gian nhiều đường đi lại lại có biển chỉ tên đường rất độc đáo. Rất nhiều không gian riêng tư để uống cafe. Trang trí cũng rất đẹp tuy nhiên có thể bố trí thêm đèn để sáng hơn và lung linh hơn. Nhất là ngoài cổng vào."
+        },
+        {
+            "user": "Trang Tạ",
+            "link": "https://www.foody.vn/thanh-vien/thanhtrangstu",
+            "score": 0,
+            "comment": "Phong cảnh được gọi là thoáng mát, đẹpNhưng chỉ được bề ngoài, mình đến vào tối, gọi trà gừng (như bột gừng bỏ đường ngọt gắt mình bị ho uống vào còn gắt cổ ho nhiều hơn) 1 ly trái cây dầm yogurt ( nhãn+ mít + lê gì vậy trái cây dầm yogurt mà nhìn như 1 mớ hỗn độn:(()Gọi beefsteak nguội thôi rồi, thịt chưa chín còn đỏ mình có gọi nv đem vào đem ra chỉ là bỏ vào lò vi sóng hâm nóng tệ thôi rồiMì xào hải sản rau có vị ỉu như để từ lúc nàoMọi đồ ăn đều nguội quá tiếc cho 1 chỗ view đẹp như thế này"
+        },
+        {
+            "user": "Bi Rên",
+            "link": "https://www.foody.vn/thanh-vien/bieva2",
+            "score": 0,
+            "comment": "Cảnh quan quán đẹp, lãng mạn. ( 8đ)Nhưng cũng thể bù đắp cho khâu phục vụ kém, và vệ sinh quán không được tốt ( 2đ) Hy vọng quán khắc phục được vấn đề này!"
+        },
+        {
+            "user": "Minh Cao",
+            "link": "https://www.foody.vn/thanh-vien/thinhcaominh",
+            "score": 0,
+            "comment": "Thất Vọng..Quán view khá đẹp vào ban đêm, nhưng NV phục vụ thì quá tệ. Mình đến đây cũng 4 lần rui mà lần nào cũng thấy ko hài lòng với thái độ và phong cách phục vụ của nhân viên. Khách vô quán ngồi mà đợi 15p mới có NV ra order, mình cũng vẫy tay hoài mà NV toàn lo tụ tập nc đùa giỡn. Khi ra order, bàn còn dơ do sữa của Khách trước đó làm đổ, mình nhờ NV lau giùm thì NV nhìn đi chỗ khác rui bỏ vô trong một hồi rồi ra order tiếp, nói chút sẽ lau rồi biến mất luôn. Đa số NV toàn tụ tập đùa giỡn, thiếu phong cách phục vụ. Chỉ có NV giữ xe là nhiệt tình.Tệ..!"
+        },
+        {
+            "user": "Dolce Trinh",
+            "link": "https://www.foody.vn/thanh-vien/hangdaobichtrinh",
+            "score": "8.4",
+            "comment": "View cực đã để... sống ảo, không gian thoáng đãng, tươi mát lắm luôn. Đúng như cái tên \"city house\", cách bày trí ở đây bắt mắt nhưng không màu mè. Nói chung mình thích nhất là view của quán. So với giá cả thì chất lượng thức uống chưa làm mình hài lòng. Mình gọi baileys coffee, không cảm nhận được gì ngoài vị đắng ngắt 😑 Còn ca cao sữa của bạn mình thì quá ngọt.Nhân viên giữ xe thì nhiệt tình, thích thêm điểm này nữa!"
+        }
+    ]
+}

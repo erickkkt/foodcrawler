@@ -1,0 +1,211 @@
+{
+    "name": "Marukame Udon - Đường 3 Tháng 2",
+    "link": "https://www.foody.vn/ho-chi-minh/marukame-udon-duong-3-thang-2",
+    "address": "300 Đường 3 Tháng 2,  Quận 10, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/marukame-udon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "57"
+    },
+    "foods": [
+        {
+            "name": "Mì udon bò & trứng",
+            "price": "86,900(đ)",
+            "total_orders": "294"
+        },
+        {
+            "name": "Mì udon bò",
+            "price": "86,900(đ)",
+            "total_orders": "238"
+        },
+        {
+            "name": "Mì udon thịt heo cay",
+            "price": "71,500(đ)",
+            "total_orders": "164"
+        },
+        {
+            "name": "Mì udon cà ri bò",
+            "price": "75,900(đ)",
+            "total_orders": "105"
+        },
+        {
+            "name": "Mì kake udon",
+            "price": "60,500(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Mì udon hải sản cay",
+            "price": "75,900(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Mì udon tonkotsu",
+            "price": "86,900(đ)",
+            "total_orders": "67"
+        },
+        {
+            "name": "Mì udon nghêu",
+            "price": "86,900(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Mì bukkake udon",
+            "price": "60,500(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Mì kamaage udon",
+            "price": "42,900(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Mì udon Tan Tan Miso",
+            "price": "75,900(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Mì Udon nấm đặc biệt",
+            "price": "76,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì Udon bò cà chua trứng",
+            "price": "97,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Udon bò cà chua",
+            "price": "86,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cà ri bò",
+            "price": "75,900(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Cơm thịt heo tẩm bột",
+            "price": "97,900(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Cơm bò",
+            "price": "97,900(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Tempura tôm",
+            "price": "26,400(đ)",
+            "total_orders": "253"
+        },
+        {
+            "name": "Tempura trứng gà",
+            "price": "19,800(đ)",
+            "total_orders": "153"
+        },
+        {
+            "name": "Tempura thanh cua",
+            "price": "19,800(đ)",
+            "total_orders": "127"
+        },
+        {
+            "name": "Tempura chả cá Nhật",
+            "price": "24,200(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Tempura khoai lang",
+            "price": "11,000(đ)",
+            "total_orders": "91"
+        },
+        {
+            "name": "Tempura gà",
+            "price": "19,800(đ)",
+            "total_orders": "90"
+        },
+        {
+            "name": "Tempura rau củ",
+            "price": "19,800(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Tempura cá hokki Nhật",
+            "price": "24,200(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Tempura cà tím",
+            "price": "13,200(đ)",
+            "total_orders": "20"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hà Minh Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/haminhngoc2015",
+            "score": "9.2",
+            "comment": "Cứ nghiện nghiện cái sợi mì Udon. Phải nói nó đã gì đâu luôn, đến gọi 2 phần mì bò trứng, là mì khô, dầm lòng đỏ trứng chưa chín hẳn với sợi mì Udon trộn lên phải nói ngon hết chỗ chê luôn, cứ béo béo, thơm thơm, thêm ít hành lá nữa là số 1 luôn. Nằm ngay trên mặt đường 3 tháng 2 nên rất tiện, giá cả đối với sinh viên như mình thì hơi mắc, nhưng phải nói đáng đồng tiền. Nhân viên phục vụ cũng hết sức nhiệt tình, chỉ cần ngoắc tay là có bạn vui vẻ chạy lại hỏi khách cần gì. Không gian khá ổn và và ấm cúng, đi với gia đình, bạn bè hay người yêu đều thích hợp. Điểm trừ duy nhất của quán là khi đứng đợi order món mình thấy bạn nhân viên kia tay trần đang nhào bột thả vào chảo dầu, thấy mất vệ sinh thế nào í. Nói chung là ngon, chắc chắn mình sẽ quay lại."
+        },
+        {
+            "user": "Duyen Tran",
+            "link": "https://www.foody.vn/thanh-vien/t.bichduyen",
+            "score": "8.0",
+            "comment": "Đi làm về hay chạy ngang qua đây mà nay mới vào ăn.  Món ngon, không gian ở dưới tuy nhỏ, nhưng ấm cúng. Ngoài các món mì, quán cũng có bán món tráng miệng,  nước kèm. Nay mình ăn mì kake, mì udon hải sản cay. Nếu ai không ăn cay được nhiều, thì cũng có thể nói quán làm bớt cay nha. Nói chung món ngon,  thơm, mình thấy ăn ko no. Có thể mới làm về đói chăng?  Đặc biệt mình dùng thử món tráng miệng crepe xoài, vị ngọt vừa phải quyện thêm lớp kem, thêm lát xoài nhỏ. Ngon lắm mọi người."
+        },
+        {
+            "user": "Huong Thao Flower",
+            "link": "https://www.foody.vn/thanh-vien/rosemary2403",
+            "score": "9.0",
+            "comment": "10đ cho chất lượng 7đ cho giá cả vì hơi cao. 70k cho 1 tô mi udon bò 10đ cho không gian 9đ cho phục vụ Khá tốt"
+        },
+        {
+            "user": "Đương Doãn",
+            "link": "https://www.foody.vn/thanh-vien/ngdon",
+            "score": "6.6",
+            "comment": "Đổi gió nên cuối tuần 2vc dắt nhau đi ăn món Nhật.Có nhiều option để mọi người tha hồ chọn theo khẩu vị yêu thích nhé.Món được chọn gồm : 1 cơm bò, 1 mì udon 1 trái cây và 1 trà xanh.Món cơm mình ăn  hơi ngán vì toping toàn thịt với carot thiếu rau cỏ xanh xanh đỏ đỏ cho em nhỏ nó mừng.Còn món mì của vợ  khởi sắc hơn với 3 màu: xám của thịt, màu xanh của hành ngò, màu trắng và vàg của trứng.Thức uống gọi kèm: ly trái cây tươi đủ loại họ hàng nhà quả chua: thơm, xoài, dâu, tắc, kiwi,....vị lạ thôi chứ không hợp khẩu vị mình lắm 39k/hủ nè. Ly trà xanh có vẻ hợp lý hơn với giá 8k/ly."
+        },
+        {
+            "user": "Henry Phan",
+            "link": "https://www.foody.vn/thanh-vien/henrie.phan",
+            "score": "8.0",
+            "comment": "Địa điểm: Mặt tiền đường 3/2. dễ kiếmKhông gian: Không rộng, nhưng ấm cúng. hôm mình đi khá vắng nên rất thoải mái.Món Ăn: Hôm đó mình gọi 1 Udon bò đặc biệt và 1 Udon cari, 1 Trứng lòng đào, 1 miếng cá gì đó rán quên mất tiêu :D. Mi vị cari có vẻ hơi mặn, mì bò nêm vừa miệng hơn. TT cái không thích duy nhất là 2 món chiên gọi kèm nguội ngắc :( .Ăn ko ngon gì cả. Quán cũng ko phụ vụ trà như bên Aeon. Phải mua nước thêm.Tóm lại không thích bằng bên Aeon, được cái có mấy góc chụp lên hình khá đẹp :D"
+        }
+    ]
+}

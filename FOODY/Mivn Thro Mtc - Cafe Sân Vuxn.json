@@ -1,0 +1,76 @@
+{
+    "name": "Miền Thảo Mộc - Cafe Sân Vườn",
+    "link": "https://www.foody.vn/ho-chi-minh/mien-thao-moc-cafe-san-vuon",
+    "address": "554E Minh Phụng, P. 9,  Quận 11, TP. HCM",
+    "open_time": "08:00 AM - 11:00 PM",
+    "price_range": "30.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "105"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tùng Kop",
+            "link": "https://www.foody.vn/thanh-vien/nguyendoantung311",
+            "score": "7.2",
+            "comment": "Quán có không gian đẹp, rộng, thoáng mát"
+        },
+        {
+            "user": "Dolce Trinh",
+            "link": "https://www.foody.vn/thanh-vien/hangdaobichtrinh",
+            "score": "9.0",
+            "comment": "Ấn tượng đầu tiên là không gian rất thoáng đãng và đẹp, rộng rãi cực kì thoải mái. Một nơi đáng để quay lại lần nữa và lần nữa ^^Sữa chua trái cây ngon, có dâu, xoài, táo... chua ngọt kích thích vị giác lắm. Soda kem vani cũng vậy, kem ngon. Giá hợp lý tầm 55k trở lên."
+        },
+        {
+            "user": "Raymond Phan",
+            "link": "https://www.foody.vn/thanh-vien/quy.phanngoc",
+            "score": "7.8",
+            "comment": "- Vị trí: nằm trên con đường Minh Phụng ko đông xe lắm- Gửi xe: ngay tại quán, quán to, chỗ giữ xe rộng, nhân viên giữ xe tận tình dắt xe cho khách- Không gian: quán rất rộng và đẹp, mình chọn mấy chỗ ngồi gần hồ nước rất đẹp và lãng mạng luôn- Nhân viên: tư vấn, phục vụ nhiệt tình rất dễ thương, luôn cười với khách, rót nước trà liên tục cho khách- Cà phê, sinh tố và kem ở đây ngon ko có gì phải phàn nàn cã- Giá cả: giá cả ko cao lắm- Dịch vụ: wifi mạnh ko giật ko lag, nhà vệ sinh sạch sẽ"
+        },
+        {
+            "user": "Hieu Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/ntdhieubackup",
+            "score": "6.8",
+            "comment": "Nhìn ở ngoài khá nhỏ, tuy nhiên vào trong rộng rãi và được chia thành nhiều khu vực và gu khác nhau, nhiều điểm nhấn và đẹp"
+        },
+        {
+            "user": "Mỹ Kim",
+            "link": "https://www.foody.vn/thanh-vien/mykimnguyenthi",
+            "score": "8.2",
+            "comment": "Mình cũng thường xuyên đến quán, nước uống Ok, giá hợp lí. Không gian đẹp, rộng rãi, thoáng. NHÂN VIÊN dễ thương: hôm thứ 4 mình có đến và hình như là ngồi phía ngoài lầu 1( hơi hầm 1 xíu ). Bạn PHỤC Vụ cao cao nhìn gióng lai nói chuyện ratdễ thương, tôn trọng khách, làm việc có tâm lắm trà đá chưa hết nữa là cho ngay ly đầy liền. Mấy lần trước đi ít khi nhân viên châm nước lắm mình kêu mới lại thôi .Mình voi bạn mình thấy thích và đã gởi banj vài chục. Nhưng qua nay lại không thấy bóng dáng đâu cả?? Quán cần những bạn như vậy"
+        }
+    ]
+}

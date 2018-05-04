@@ -1,0 +1,84 @@
+{
+    "name": "Sumo BBQ - Nguyễn Đình Chiểu - Buffet Nướng & Lẩu",
+    "link": "https://www.foody.vn/ho-chi-minh/sumo-bbq-nguyen-dinh-chieu",
+    "address": "120 Bis Nguyễn Đình Chiểu,  Quận 1, TP. HCM",
+    "open_time": "Buổi tối  05:00 PM - 10:00 PM",
+    "price_range": "300.000đ - 407.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sumo-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "311"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "heo bubu",
+            "link": "https://www.foody.vn/thanh-vien/haiconcho01",
+            "score": "8.2",
+            "comment": "Mình đi ăn với gia đình, không gian ở đây ấm cúng, combo món nhiều, ăn muốn xĩu, phục vụ chu đáo, thićh nhất phần tráng miệng có kem ko như những quán bbq khác.👍"
+        },
+        {
+            "user": "Anh Thư Tạ Hà",
+            "link": "https://www.foody.vn/thanh-vien/kuryu2604",
+            "score": "8.6",
+            "comment": "Quán nằm ngay mặt tiền đường Nguyễn Đình Chiểu nên khá dễ tìm, gửi xe trước quán, mình đi vào khoảng trưa nên cũng khá vắng, ăn giá 300k/người, quán nổi tiếng nên đồ ăn miễn chê, quá ngon nhưng khá ít, chắc quán tính trên đầu người, nhân viên phục vụ tận tình, nhanh nhẹn, order có ngay và thường kiếm tra than cho khách. Có quầy phục vụ đồ ăn tráng miệng như chè, kem,.. và các món ăn kèm (tự phục vụ). Sẽ ghé lại quán thêm lần nữa !"
+        },
+        {
+            "user": "Jessie Ngô",
+            "link": "https://www.foody.vn/thanh-vien/zumihara2009",
+            "score": "7.2",
+            "comment": "Được hôm Mẹ vắng nhà, Ba cùng mấy đứa nhỏ thèm BBQ, sau khi chọn lựa thì quyết định book chỗ ở Sumo BBQ Nguyễn Đình Chiểu. Do Gia Đình đi vào cuối tuần nên Nhà hàng khá đông nên bị xếp ngồi ở vị trí trong cùng, hong thích lắm.Nhân viên phục vụ nhiệt tình, thường hay để ý và thay vỉ khi vỉ nướng sắp bị cháy đen. Thái độ nhân viên niềm nở, vui vẻ và không khó chịu khi bị kêu đi kêu lại nhiều lần.Thịt bò ở đây tươi, mềm và rất ngon. Nước chấm thì không đa dạng và mình không thích vị nước chấm ở đây lắm.Ngoài BBQ còn có món lẩu đi kèm và có cả kem ăn tráng miệng vì vậy mình thấy giá cả hợp lý."
+        },
+        {
+            "user": "Kitty Lora",
+            "link": "https://www.foody.vn/thanh-vien/ngthththu1",
+            "score": "6.6",
+            "comment": "ai cũng khen ngon kêu tới đây ăn thử sao mình cảm thấy bình thường mà ta. Đồ nướng nhiều nhưng nêm nếm lạt lẽo không ngon gì cả. Mấy món bò lên rất lâu luôn không được ăn thoải mái như quảng cáo, chờ dài cổ mới thấy nhân viên đem ra 1 ít. Hải sản không tươi, nghêu sò chút éc. Lẩu cũng lạt nhách, khuyên mọi người chỉ nên kêu món nướng thôi chứ món phụ và lẩu không ngon. Giá tính ra mắc so với chất lượng"
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.4",
+            "comment": "Mùa mưa rất lý tưởng cho con nghiện BBQ và bò các loại , kiêng tinh bột nên rau xanh và đồ nướng là chuẩn rồi , được mời ngại gì hổng đi . Mua set sẽ được ăn thoải mái , đã vậy còn là bò và hải sản , nướng đủ thể loại thì còn gì bằng . Nước chấm của Sumo đúng ý mình . Tuy giá vé hơi cao nhưng đáng đồng tiền . Ý kiến cả mình là chi nhánh này ok , sánh ngang có khi nhỉnh hơn Hana luôn chứ không bên nào tệ cả , bị cái chi nhánh Nguyễn Đình Chiểu nằm ngay đường 1 chiều , không thuận lợi cho di chuyển lắm ."
+        }
+    ]
+}

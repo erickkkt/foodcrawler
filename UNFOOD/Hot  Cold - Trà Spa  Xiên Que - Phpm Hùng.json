@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Phạm Hùng",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-pham-hung",
+    "address": "123Bis Phạm Hùng, P. 14,  Quận 8, TP. HCM",
+    "open_time": "08:30 AM - 10:15 PM",
+    "price_range": "20.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "70"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "La Bình",
+            "link": "https://www.foody.vn/thanh-vien/bnhla",
+            "score": 0,
+            "comment": "Thật k thể hiểu nổi. Li có bánh flan mà k cho cái muỗng. Ăn bằng niềm tin hả. Wifi thì đang xài tắt mất tiêu. Nhà vệ sinh thúi qắc. Đề nghị xử li."
+        },
+        {
+            "user": "Khanh Diep",
+            "link": "https://www.foody.vn/thanh-vien/kwonzun612",
+            "score": 0,
+            "comment": "Xuống chân cầu là thấy quán ngay nhưng phải đi vòng mới được. Không gian quán cũng rộng rãi nhưng hơi cũ. Màu sắc bảng hiệu, bàn ghế có vẻ xuống cấp nhiều. Mà hình như đang sửa chữa hay sao, đồ bày tùm lum hết, nhếch nhác lắm.Tràpha lạt nhách, chả khác gì nước đá mà còn cho nhiều đá nữa. Đào miếng bị để lâu hay sao đó, bở, vị chua cũ.Nhân viên khó chịu, xin ít nước đường thì nói khách tự xuống quầy xin. Hơi mệt ngả lưng ra thì ngay lập tức tới yêu cầu mình ngồi dậy nhưng dùng ngón tay ngoắc rất bất lịch sự. Mà trong khi mình hơi ngả kiểu ngồi không thẳng, ngả ngớn chứ không nằm hẳn ra."
+        },
+        {
+            "user": "Minh Nhựt",
+            "link": "https://www.foody.vn/thanh-vien/steven170698",
+            "score": "8.6",
+            "comment": "Bữa trời mưa nên tiện ghé vào. Điều ấn tượng là không gian rộng và đẹp. Nhân viên thì cực dễ thương. Nước thì  rất ngon và ấn tượng là size chaba rất lớn tới 1 lít 1 mình uống không hết luôn. Quán còn có lầu không gian rộng và cách bố trí rất đẹp. Nhân viên thì phục vụ rất tận tình vì mình gọi size chaba mà uống không hết nên đem theo mà chị nhân viên lấy bỏ vô túi giùm cho dễ đem. Thường mình vào quán vào buổi sáng nên không đông khách. Chỗ ngồi còn rất nhiều"
+        },
+        {
+            "user": "Minh Hy Liêu",
+            "link": "https://www.foody.vn/thanh-vien/lieuminhhy",
+            "score": "8.4",
+            "comment": "Mình khá thích không giAn ở đây khi vừa đặt chân vào Rộng rãi nhưng hơi ồn vì các bạn mở nhạc khá lớn. Nhân viên ở đây thao tác nhanh và rất nhiệt tình. Mình thích uống trà dưa hấu ở đây vì mình thích uống vị ngọt thanh nhưng rất mát và tốt cho sức khoẻ. Giá cả phải chăng , wifi rất là ok. Nói chung sẽ ủng hộ Hot Cold lâu dài"
+        },
+        {
+            "user": "Minh Thư Đoànn",
+            "link": "https://www.foody.vn/thanh-vien/minhhtthu",
+            "score": "9.8",
+            "comment": "Trà sữa ở Hot&Cold rất ngon. Mình thích trân châu mật ong bởi vì nó vừa mềm vừa ngọt ngọt 💓. Pizza ở đây ăn cũg bình thườg ko có j đặc biệt. Giá cả thì cũg rất hợp lí nhân viên làm việc thao tác nhanh gọn lẹ✅. Có điều Hot & Cold cho đá hơi nhiều nên mỗi lần lại đây uốg là mình luôn uốg size bự chắc tại giá rẻ nên phải cho đá nhìu hoi. Không gian ở đây rất bự hình như có tới 2 lầu mỗi chỗ ngồi còn cho thêm mấy cái gối nữa nói chung là rất tuyệt. Xiên que ở đây giá cả cũg hợp lí nói chung mọi người nên thử 😙😙😙"
+        }
+    ]
+}

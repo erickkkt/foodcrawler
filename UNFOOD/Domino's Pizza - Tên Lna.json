@@ -1,0 +1,84 @@
+{
+    "name": "Domino's Pizza - Tên Lửa",
+    "link": "https://www.foody.vn/ho-chi-minh/domino-s-pizza-ten-lua",
+    "address": "348 - 350 Tên Lửa, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "49.000đ - 199.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-tay-au"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/domino-pizza?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "24"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Yen Nhi Le",
+            "link": "https://www.foody.vn/thanh-vien/leyennhi2210",
+            "score": "8.0",
+            "comment": "gần nhà nên mình ăn nhiều từ lúc khai trương nhưng chủ íu ăn vào t3 để mua 1 tặng 1. Mua về ăn hay ăn tại chỗ đều ổn hết. Nv nhanh nhẹn. so vs mặt bằng chungg pizza thì giá khá ổn nhỉ"
+        },
+        {
+            "user": "kan282",
+            "link": "https://www.foody.vn/thanh-vien/kan282.189",
+            "score": "8.0",
+            "comment": "Mình thường hay đặt giao hàng và rất hài lòng về dịch vụ giao hàng của Domino! Bánh thường có trước 30 phút còn nóng hổi và rất giònVề chất lượng của bánh thì rất ổn! 3 signature của Domino ngon không phải bàn, đặc biệt là Citrus Almond gì đó, ăn giống Seafood nhưng kèm sốt và hạnh nhân ăn rất thích. Mình thường dùng bánh đế mỏng và rất hài lòng với độ giòn tan của bánh.Chỉ riêng bánh Premium Beef thì bò viên hơi chín quá, nhìn màu không đẹp lắm, nhưng bù lại lớp phô mai siêu béo chắc chắn sẽ khiến bạn hài lòngGiao hàng miễn phí và nhân viên cũng rất dễ thương nên mình chắc chắn sẽ ủng hộ Domino dài dài"
+        },
+        {
+            "user": "Thuy Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thuythanh7719",
+            "score": 0,
+            "comment": "Xem mau banh"
+        },
+        {
+            "user": "My Thanh Cao",
+            "link": "https://www.foody.vn/thanh-vien/foodyuser_0dab603a",
+            "score": "9.2",
+            "comment": "Ăn ở đây nhiều lần lắm luôn rồi, ăn tại chỗ có, đến mua về có và hôm nay là gọi giao hàng. Chưa 1 lần mình thất vọng về cửa hàng Bình Tân~~Quán rộng, sạch sẽ. Bánh thơm, nóng, viền giòn, thêm phomai hay không đều ngon hết, cho tương ăn ngập mặt luôn:))Nhân viên dễ thương, nhiệt tình, chu đáo. Gọi xác nhận cũng nhanh nữa.Giao hàng nhanh vô cùng, bánh đến nhà nóng hừng hựng, nguyên vẹn, mình rất hài lòng!Mình ăn 2 cái 9\" và 1 lon coca zero tổng cộng 169k (chương trình khuyến mãi), thấy hợp lí mà!"
+        },
+        {
+            "user": "Ngọc Hân",
+            "link": "https://www.foody.vn/thanh-vien/hanngoc40",
+            "score": "7.8",
+            "comment": "T3 khuyến mãi mua 1 tặng 1 nên ham hố đi ăn-Mua 1 bánh Oceanmania được tặng một bánh Meat Lovers-Nghe đồn Oceanmania ăn ngon mà công nhận ngon thật-Không gian thoải mái, mát mẻ-Nhân viên phục vụ tận tình, chu đáo-Mà hình như chỉ khuyến mãi bánh thôi còn nước phải tự mua-Vị trí rất dễ tìm, cũng gần nhà nên đỡ mắc công tìm-Nhìn chung cũng ổn, giá tiền thích hợp cho HS-SV"
+        }
+    ]
+}

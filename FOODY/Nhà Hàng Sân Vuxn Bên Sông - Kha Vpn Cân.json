@@ -1,0 +1,76 @@
+{
+    "name": "Nhà Hàng Sân Vườn Bên Sông - Kha Vạn Cân",
+    "link": "https://www.foody.vn/ho-chi-minh/nha-hang-san-vuon-ben-song-kha-van-can",
+    "address": "17/3 Kha Vạn Cân, P. Hiệp Bình Chánh,  Quận Thủ Đức, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "80.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "78"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Đức Huy Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/huy11b7",
+            "score": "7.4",
+            "comment": "Được người quen giới thiệu quán này nên đi ăn thử, quán nằm sát bờ sông, hơi khó tìm do phải quẹo nhiều chỗ. Quán có không gian khá rộng rãi và thoáng mát do nằm cạnh bờ sông. Khách khá đông, chủ yếu đi theo gia đình. Nhân viên cũng đông nhưng đôi lúc phải chờ đợi lâu. Thực đơn phong phú với nhiều món ăn hấp dẫn. Đi ăn buổi tối có thể bị muỗi chích nhiều ... Thích hợp đi ăn cùng gia đình, nhóm hội."
+        },
+        {
+            "user": "sóc nhí",
+            "link": "https://www.foody.vn/thanh-vien/giangtien193",
+            "score": 0,
+            "comment": "Thức ăn ok. Giá cả ok. Tuy nhiên....nhân viên mặc dù đông nhưng toàn tụm năm tụm ba, cầm điện thoại, nói chuyện...không ai phục vụ, nguyên 1 chòi cả 6,7 bàn không kiếm ra 1 người phục vụ, gọi thì phẩy tay rội..măc kệ không quan tâm. Rất coi thường khách. Nguyên một buổi tôia chỉ toàn ngồi nói chuyện và chờ. Chờ lên món ( cách các món rất lâu luôn, món tôm sống mù tạt mà cũng phải chờ hơn cả tiếng), chờ khui bia, chờ lên đá @@ Nói chung là nhân viên tệ, phục vụ chán cực kì. Đi ăn mà chẳng ngon miệng nổi, chỉ thấy bực mình"
+        },
+        {
+            "user": "Trần Vân Anh",
+            "link": "https://www.foody.vn/thanh-vien/loli.gothic",
+            "score": "8.0",
+            "comment": "*Không gian:  8    Rộng , thoáng*Phục vụ: 8    Nhiệt tình, đồ ăn lên nhanh *Chất lượng : 8    Đồ ăn ngon và đa dạng. Recommend hai món là \"Chả bên sông\" - bánh tráng cuốn chả cá xong chiên lên, lạ mà ngon  và \"Sườn non nướng\". Gỏi sứa vị cũng vừa miệng. Riêng hai món đậu hủ chiên sả ớt với khoai môn chiên thì không ấn tượng cho lắm, đậu hủ chiên sả như chiên thường còn khoai môn chiên lên thì khô quá.*Giá cả : 10 Đi gia đình bốn người ăn bét nhè mà chỉ có 300k hơn"
+        },
+        {
+            "user": "Thủy Phan",
+            "link": "https://www.foody.vn/thanh-vien/thuthuy1502",
+            "score": 0,
+            "comment": "- Không gian: ok, rộng rãi thoáng mát- Địa điểm: hơi vòng vèo xíu nhưng cũng kiếm đc- Nhân viên: phục vụ chậm, ko nhanh nhẹn- Đồ ăn: cơm trắng nguội ngắt, đã vậy còn ra sau đồ ăn 10'. Kho quẹt ko đúng vị. Cá kèo kho ok. Canh cá bớp ok. Có kêu 2 phần trứng chiên nhưng lúc ăn xong hết mới thấy NV hỏi bàn có order trứng chiên đúng ko.Nói túm lại là lần đầu tới quán mà ko vui, ko hài lòng chút nào -.-"
+        },
+        {
+            "user": "Nguaomautrang",
+            "link": "https://www.foody.vn/thanh-vien/nguaomautrang",
+            "score": 0,
+            "comment": "Ngoài việc món ăn lên chậm, bill lên chậm, phục vụ bàn không tự giác khui bia cho khách nhưng lại không cho mượn đồ khui, không dọn chai rỗng trên bàn, trời mưa lớn không cho khách mượn dù vào quán, còn lại tạm ổn."
+        }
+    ]
+}

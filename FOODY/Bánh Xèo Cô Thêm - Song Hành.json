@@ -1,0 +1,80 @@
+{
+    "name": "Bánh Xèo Cô Thêm - Song Hành",
+    "link": "https://www.foody.vn/ho-chi-minh/banh-xeo-co-them-tran-minh-quyen",
+    "address": "154 Song Hành,  Hóc Môn, TP. HCM",
+    "open_time": "10:00 AM - 09:00 PM",
+    "price_range": "30.000đ - 72.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.1"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.3",
+        "total_review": "31"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Han Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hannguyen3732",
+            "score": 0,
+            "comment": "Thiệt tình quán bán đồ ăn ngon hợp khẩu vị của mình nhưng cách buôn bán quá ko ổn. mình bị tình trạng y chang như bạn @conheorung. Order ít thì nhân viên có thái độ ko hài lòng. bị ép ăn. tính thêm tiền 1 cách quá đang, ko hợp lý so với bảng giá. ko bao giờ quay lại"
+        },
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "7.6",
+            "comment": "Mình ăn lần đầu tiên cách đây được mấy tháng, nhớ lúc đó làm pg nên dc sup dẫn đi ăn, vì mình ăn lâu rồi nên mình k nhớ tên quán hnay vô tình kiếm quán lẩu trên đường song hành nên vô tình ra quán này 😂 vô review luôn Vị trí dễ tìm, phục vụ dễ thương, nhiệt tình, cô bưng đồ ăn cho mình chọc mình luôn 😑 mình ăn cái bánh xèo ( 2 người ăn) + chả giò, hình như có uống nước k nhớ uống nc gì vi k có chụp lại 😂 bánh xèo ở đây ăn lạ lắm, vị đậm đà ngon hơn những chỗ khác, chả giò thì ngon mà cũng k đặc biệt lắm, mình ăn bánh xèo vs cổ hủ dừa 40k 1 cái,chả giò 5k cái ^^ hợp lý =>👍 chịu"
+        },
+        {
+            "user": "Ny Hậu Đậu",
+            "link": "https://www.foody.vn/thanh-vien/niexynk.ngoan",
+            "score": 0,
+            "comment": "Ko bao giờ ghé lần 2. Đi 2 người đến gọi 10 cuốn chả giò tí nữa kêu thêm chắc là nghỉ gọi út hay sao rổ rau đem đến bàn mình rồi xách đem qua bàn khác! Kêu thêm bánh xèo mới cho rau. Ko lẽ đứng dậy đi về! Cư xử với khách kì cục"
+        },
+        {
+            "user": "conheorung",
+            "link": "https://www.foody.vn/thanh-vien/conheorung",
+            "score": 0,
+            "comment": "Mình đi 1 mình,gọi 1 cái bánh thì quán ko chịu,cứ ép gọi 3 cái,ăn gì hết,nói 1 hồi nó mới kêu quá chỉ bán phần 2 cái trở lên.Tính tiền thì tính sai,đã v còn tính tiền bánh tráng riêng,thà nói từ đầu chứ toàn đưa khách vào thế đã rồi,ko lẽ vô rồi bỏ về.KHÔNG BAO GIỜ QUAY LẠI"
+        },
+        {
+            "user": "Duy Huynh",
+            "link": "https://www.foody.vn/thanh-vien/hhduy1989",
+            "score": "8.6",
+            "comment": "Mình ăn 2 cái bánh xèo hải sản, cái 30k mà chưa đã thèm, nhưng ăn ko nổi nữa vì no... có tôm mực, cổ hũ dừa, bông bí luôn... Chưa thấy nước mắm ở đâu ngon như ở đây... có điều xa quá, tít Trung Chánh"
+        }
+    ]
+}

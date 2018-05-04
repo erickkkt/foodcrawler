@@ -1,0 +1,500 @@
+{
+    "name": "Effoc Cafe - Nguyễn Thượng Hiền",
+    "link": "https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-thuong-hien",
+    "address": "369 Nguyễn Thượng Hiền, P. 11,  Quận 10, TP. HCM",
+    "open_time": "Nguyên ngày  08:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/effoc-cafe-takeaway?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "169"
+    },
+    "foods": [
+        {
+            "name": "Tiramisu",
+            "price": "35,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Red Velvet Cheese",
+            "price": "35,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Brownie Cake",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Passion Cheese",
+            "price": "35,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Caramel Cheese",
+            "price": "35,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Matcha Mousse",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Corn Cheese",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha Ice Blended",
+            "price": "33,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Choco cooler ice blended",
+            "price": "33,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Choco mint cooler ice blended",
+            "price": "33,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Greentea Ice Blended",
+            "price": "33,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mocha hazelnut cooler cotton",
+            "price": "33,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Choco hazelnut cooler ice blended",
+            "price": "33,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cookies Ice Blended",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Choco strawberry cooler ice blended",
+            "price": "33,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Choco caramel cooler ice blended",
+            "price": "33,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Caramel sweeties Ice Blended",
+            "price": "33,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Frappe hazelnut ice blend",
+            "price": "33,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Frappe ice blend",
+            "price": "33,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mocha cooler cotton",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha caramel cooler cotton",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha Cooler Ice Blend",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha Caramel Cooler Ice Blend",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Frappe caramel ice blend",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cappuccino",
+            "price": "30,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cà phê sữa đá",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Americano",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Latte caramel",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Latte hazelnut",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà phê đá",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha caramel",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha hazelnut",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Frappe caramel ice blend",
+            "price": "50,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Cappuccino ice",
+            "price": "40,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Mocha hazelnut cooler ice blended",
+            "price": "50,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Cà phê sữa đá",
+            "price": "30,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Latte caramel ice",
+            "price": "45,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mocha cooler ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mocha caramel cooler cotton",
+            "price": "50,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Latte hazelnut ice",
+            "price": "45,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Mocha ice",
+            "price": "40,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Americano ice",
+            "price": "30,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cà phê đá",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Frappe ice blend",
+            "price": "45,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Frappe hazelnut ice blend",
+            "price": "50,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cappuccino Hot",
+            "price": "45,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mocha caramel ice",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Espresso",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Latte Caramel Hot",
+            "price": "50,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cappuccino milkfoam jelly",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha caramel hot",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha hot",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Americano hot",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Latte hazelnut hot",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cookies Ice Blended",
+            "price": "45,000(đ)",
+            "total_orders": "249"
+        },
+        {
+            "name": "Choco mint cooler ice blended",
+            "price": "50,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Choco cooler ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Choco mint ice",
+            "price": "45,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Choco caramel ice",
+            "price": "45,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Choco",
+            "price": "40,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Choco caramel cooler ice blended",
+            "price": "50,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Choco hazelnut cooler ice blended",
+            "price": "50,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Caramel sweeties Ice Blended",
+            "price": "50,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Choco strawberry cooler ice blended",
+            "price": "50,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Choco strawberry",
+            "price": "45,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Choco hazelnut ice",
+            "price": "45,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Vanilla milktea Milkfoam Jelly ice",
+            "price": "40,000(đ)",
+            "total_orders": "98"
+        },
+        {
+            "name": "Trà đào miếng đào",
+            "price": "45,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Trà vải thạch hibicus",
+            "price": "45,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Jasmine MilkFoam Jelly",
+            "price": "40,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "BlackTea MilkFoam Jelly Ice",
+            "price": "40,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Oolong MilkFoam Jelly Ice",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cappuccino MilkFoam Jelly",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt blueberry ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "73"
+        },
+        {
+            "name": "Yogurt blueberry",
+            "price": "40,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Yogurt raspberry ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Yogurt mango raspberry ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Yogurt raspberry",
+            "price": "40,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Yogurt jam ice blended",
+            "price": "45,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Yogurt jam",
+            "price": "40,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Softgreen",
+            "price": "55,000(đ)",
+            "total_orders": "9"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Bảo Nghi Lê",
+            "link": "https://www.foody.vn/thanh-vien/ltbaonghi.lop9a4.dt",
+            "score": 0,
+            "comment": "Thức uống: ổn, không ngon lắm 👍👍👍Không gian: sạch sẽ, đẹp nhưng hơi nhỏ, bí, nhà vệ sinh nghe có mùi gián rất khó chịu 👍Phục vụ: vui vẻ, hòa đồng, hơi tụ tập khi vắng khách 👍Giá cả: ổn, vừa với túi tiền sinh viên 👍👍👍Đánh giá chung: 💖💖"
+        },
+        {
+            "user": "matcha123",
+            "link": "https://www.foody.vn/thanh-vien/ngochue123",
+            "score": "7.2",
+            "comment": "Quán nằm sát trường nên trưa mình hay tạc qua nghỉ ngơi. Quán sạch sẽ và nước ngon giá cả phải chăng. Nhưng nhân viên phục vụ chưa thân thiện lắm."
+        },
+        {
+            "user": "Nguyễn Hoàng Vân Anh",
+            "link": "https://www.foody.vn/thanh-vien/biboaa_0706",
+            "score": "6.6",
+            "comment": "(+) Hương vị: Choco đá xay ngon - khá ngọt, đắng đắng, có mùi cacao nồng, xay mịn, uống tới cuối vẫn không bị nhạt - kem whipping ở trên thơm và cực béo.(+) Dịch vụ: Nhân viên lịch sự, nhiệt tình, cũng vui vẻ để cung cấp thông tin cho khách.(+) Giá cả: chấp nhận được - 55k/ly nhưng lượng khá nhiều.(+) Giữ xe miễn phí(-) Không gian: Quán 2 tầng, trang trí có hơi đơn điệu và bề bộn một chút, tầng 1 khá nóng.Tips: Đang có chương trình mua 1 tặng 1 món theo ngày."
+        },
+        {
+            "user": "Thái Thảo",
+            "link": "https://www.foody.vn/thanh-vien/thaithaotran111",
+            "score": "7.2",
+            "comment": "Effoc luôn là chuỗi cà phê cho teen mình rất thích vì giá rất hạt dẻ và thức uống cũng khá ổn :D nhưng mà effoc này không gian hơi bé, với hơi tối nên ko thích bằng các effoc khác :D mình ghé mua bánh mang về chứ ko ngồi lại :D nhân viên thì cũng vui vẻ ^^ effoc nước thì bình thường chứ bánh thì mình cực thích :D mình mua red velvet và cheesecake ^^ red velvet theo mình là loại ngon nhất ở effoc, giá lại rẻ có 35k/ miếng ăn rất thích luôn <3 sẽ luôn ủng hộ bánh effoc còn nước thì lâu lâu cũng uống cho vui hoy :p"
+        },
+        {
+            "user": "Duy Khang Huỳnh Hứa",
+            "link": "https://www.foody.vn/thanh-vien/lovelifethis",
+            "score": "6.8",
+            "comment": "Mình đến vào chiều thứ 4. Chỉ có 4-5 bàn là có người. Nhưng thực tế ai cũng nói chuyện y như không quan tâm đến ai cả. Ý thức khách hàng chỗ này tệ quá tệ.Nước uống ngon nhân viên cực kì dễ thương.Quán quá nhiều muỗi, bay vivu luôn."
+        }
+    ]
+}

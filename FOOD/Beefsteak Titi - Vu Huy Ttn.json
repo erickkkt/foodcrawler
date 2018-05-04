@@ -1,0 +1,324 @@
+{
+    "name": "Beefsteak Titi - Vũ Huy Tấn",
+    "link": "https://www.foody.vn/ho-chi-minh/beefsteak-titi",
+    "address": "67/4/118 Vũ Huy Tấn, P. 3,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "10:00 AM - 09:30 PM",
+    "price_range": "55.000đ - 110.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Pháp,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-phap"
+        },
+        {
+            "category": "Ý,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Châu Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/beefsteak-titi?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "785"
+    },
+    "foods": [
+        {
+            "name": "Beefsteak with pepper sauce",
+            "price": "70,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Lamb with bbq sauce",
+            "price": "85,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Shaky beef",
+            "price": "70,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Spaghetti bolognaise",
+            "price": "69,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Spaghetti carbonara",
+            "price": "65,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Shaky ostrich with bbq sauce",
+            "price": "75,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Beefsteak with blue cheese sauce",
+            "price": "95,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Striploin steak",
+            "price": "130,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Spaghetti with beef and vegetables",
+            "price": "60,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Venison steak pepper sauce",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Salmon cheese",
+            "price": "105,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Crocodile with bbq sauce",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Crispy smoked chicken thighs",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Crispy bacon",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Breast of duck with mulberry sauce",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Creme brulee",
+            "price": "32,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cheese chocolate",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Apple cake",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dừa tươi",
+            "price": "32,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sting",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda (lemon and sugar)",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Aprico juices",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sprite",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coke light",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coke",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt ice",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate ice",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk coffee ice",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ice coffee",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bread",
+            "price": "6,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Spaghetti and butter, garlic",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Garlic bread",
+            "price": "30,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Spaish style potato",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "French fries",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Minestrone soup",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Butter & sugar bread",
+            "price": "7,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mashed potatoes",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tomatoes and cream soup",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Egg",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad tuna cheese",
+            "price": "40,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mix salad",
+            "price": "25,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Salad tuna",
+            "price": "40,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Salad tuna sweet and spicy sauce",
+            "price": "40,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Feta cheese salad fresh",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad tuna bbq",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Linh Pika",
+            "link": "https://www.foody.vn/thanh-vien/tinahuynh2808",
+            "score": 0,
+            "comment": "Mấy ngày nay trời mưa ăn cơm lại thấy chán nên hôm nay đổi gió đi ăn bò. Mình kêu hai món là steak nai sốt tiêu và thịt cá sấu sốt bbq. Ngon lắm thịt cá sấu và thịt nai đều mềm vừa cộng thêm nước sốt đậm đà. Nhưng 1 điểm trừ là bánh mì ko được mềm như trước đây mà cứng như bánh quy ăn ko được ngon cho lắm bù lại thì món chính ăn ngon. À hôm nay quán có món nước mới là nước ép lựu và nước ép tổng hợp."
+        },
+        {
+            "user": "Nhan Truong",
+            "link": "https://www.foody.vn/thanh-vien/maddie.nhantruong",
+            "score": 0,
+            "comment": "Titi từng là nhà hàng beefsteak mà bạn mình rất thích. Nó recommend và thuyết phục mình tới tối qua. Nhưng tới nơi thì đúng là \"bad experience\" toàn tập.(1) Cách thiết kế bàn ngồi: người đi chung ngồi cùng 1 phía. Cái này rất lạ và gây khó chịu cho người ăn. Mình đã đặt bàn trước, nhưng đến nơi vẫn bị sắp xếp chia bàn với ng khác. Chia cũng được đi, mà mình và bạn mình không được ngồi đối diện nhau mà buộc phải ngồi cạnh. Khiến cho không gian trò chuyện không 1 chút riêng tư. Cách bố trí hoàn toàn không hợp lí.(2) Nhân viên phục vụ không niềm nở, tự động dọn chén, dĩa trên bàn ăn của khách mà chưa hỏi ý kiến. Lúc đó quán rất đông, nhân viên giống như muốn đuổi tụi mình để có chỗ cho khách mới.(3) Nhân viên thối thiếu tiền: bạn đó thu tiền nhiều bàn cùng 1 lúc, xong tới bàn mình thì đem ra thiếu đến 50k.(4) No wifi. Không có châm trà miễn phí như lúc trước.Mình và bạn mình sẽ không bao giờ quay lại quán vì còn nhiều lựa chọn khác. Thức ăn ở đây không đến nỗi xuất sắc để phải chịu đựng thứ criminal service như vậy. Không ngờ nhà hàng đã 10 năm và có hơn 10 chi nhánh khắp Việt Nam mà tệ vậy."
+        },
+        {
+            "user": "An Phan",
+            "link": "https://www.foody.vn/thanh-vien/vohauyen",
+            "score": "8.2",
+            "comment": "Trưa nay lại ghé lại quán, buổi trưa thì vắng hơn tối rồi nên khá thoải mái, cũng ko cần phải đợi bàn hay đợi món lâu. Mình gọi bò sốt tiêu - cách trình bày vẫn như mọi lần. Bò ko được nguyên lát mà là những miếng nhỏ vụn hơn. Mới thử sốt tiêu thì thấy chua, chua lắm. Vì đã từng ăn bên trần cao vân nên mình nhớ sốt tiêu không đến nỗi chua vậy. Mình nhờ bạn phục vụ kiểm tra, sau một chút thì có 1 bạn khác đến giải thích, phần nước sốt này bếp đã kiểm tra không có vấn đề gì, quán vẫn bán từ sáng đến giờ không vấn đề gì. Mình hỏi, có phải thành phần trong nước sốt có giấm ko vì mình thấy chua. Bạn bảo không, chỉ là có rượu thôi, nếu minhg ko dùng được có thể đổi sốt BBQ. Mình đổi sốt mà bạn vui vẻ mang ra phần mới, vị chua dịu nhẹ hơn nhiều và khá vừa miệng. Trên thìa còn một ít sốt tiêu, mình có nhờ ox nếm lại (bắt ox uống nước lọc cho sạch trước khi nếm) và ox cũng đồng ý là chua do nêm quá tay, không phải vì hư. Quán đổi và vẫn billed là 1 phần. Cách xử lý rất hơp lý và mình hài lòng với dịch vụ ở quán."
+        },
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "6.6",
+            "comment": "Vị trí nằm trong hẻm, hơi khuất ,quán nhỏ,đi đông phải xếp hàng chờ,mình ăn quán này từ năm 2013 đến giờ,phục vụ tốt,lịch sự, dễ thương, ko nhiệt tình lắm, mỗi lần đi ăn bò gia đình mình đều ăn quán này, giá ở đây từ 55k trở lên, quán k có nhiều chỗ để xe nên k thích lắm nhưng đồ ăn ngon,bò mềm, thấm gia vị, nấu theo phong cách tây nên giá này mình thấy hợp lý 👍"
+        },
+        {
+            "user": "Tiên Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/tinnguyn0792",
+            "score": "7.0",
+            "comment": "Fan beefsteak chắc chắn ko thể bỏ qua địa điểm này. Đây là lần thứ 2 mình ăn ở Titi. Mình đi vào buổi chiều tối và quán đã khá đông khách cho dù là ngày thường. Menu của quán chuyên về beefsteak, ngoài ra còn có thêm mì ý, salad, tráng miệng, menu nước cũng khá đa dạng nhiều sự lựa chọn...Mình đi 2 người gọi 3 phần Bò BBQ, Cừu BBQ, mì ý bò xào rau củ ăn kèm với salad sốt dâu tầm. Nước thì mình dùng thử whisky ( giá khá mềm chỉ 37k cho 1 ly). 1 phần thường đc phục vụ thêm khoai tây chiên và bánh mì nữa. Tổng cộng chỉ có 303k....Mùi vị thơm ngon, nhưng khá nhạt hơn so với lần đầu mình ăn. Không gian nhỏ nên đông khách sẽ cảm thấy khá ngột ngạt. Sẽ ngon hơn nếu quán điều chỉnh lại khẩu vị, vì thức ăn quá nhạt. Sẽ tiêp tục ủng hộ quán ^^"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "name": "Lava Coffee - Quang Trung",
+    "link": "https://www.foody.vn/ho-chi-minh/lava-coffee-quang-trung",
+    "address": "61 Quang Trung, P. 10,  Quận Gò Vấp, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "17.000đ - 41.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "276"
+    },
+    "foods": [
+        {
+            "name": "Mocha kem",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cà phê sữa",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cà phê bánh flan phô mai xay",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Rich caramel",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cà phê đen truyền thống",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa tươi",
+            "price": "31,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Latte kiểu Ý",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà lài phômai macchiato",
+            "price": "35,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Trà đen Macchiato",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà xoài macchiato",
+            "price": "39,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà đào macchiato",
+            "price": "39,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà oloong macchiato",
+            "price": "39,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà chanh dây macchiato",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà đen sữa trân châu đường nâu",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà sữa bánh flan phô mai đá xay",
+            "price": "45,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà sữa caramel đá trân châu đường nâu",
+            "price": "41,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Oolong sữa sương sáo",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Đào",
+            "price": "37,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà Nhiệt Đới",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Vải",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Macchiato",
+            "price": "39,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Matcha sữa đá xay",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Matcha Chip",
+            "price": "48,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Matcha Xoài Macchiato",
+            "price": "41,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Matcha Yogurt",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Double Chocolate Brownie",
+            "price": "45,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Menthe Chip Chocolate",
+            "price": "45,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Caramel",
+            "price": "49,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ổi đào",
+            "price": "49,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Xoài",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dưa lưới",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kiwi",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Mỹ Duyên",
+            "link": "https://www.foody.vn/thanh-vien/aiphung98",
+            "score": "8.8",
+            "comment": "🍃 Địa điểm: Khá dễ tìm, nằm ngoài mặt tiền đường.🍃 Không gian: Quán không rộng rãi nhưng sạch sẽ, thoáng mát, có lầu, view cũng khá ok. Trước quán thì không có chỗ giữ, chỉ mua mang đi thì để được, còn mua tại chỗ thì phải giử chỗ gần đó.🍃 Nhân viên: Khá dễ thương, hòa đồng, nói chuyện dễ thương, niềm nở.🍃Chất lượng: Rất tốt. Vị trà thơm, thanh mát. Macciato béo ngậy, vừa phải.🍃Giá cả: phải chăng, giá cũng khá sinh viên."
+        },
+        {
+            "user": "Thuỷ Tiên Dang",
+            "link": "https://www.foody.vn/thanh-vien/tien.dht0627",
+            "score": "6.2",
+            "comment": "Uống lần đầu tiên cũng ngon,pha đậm đà. Đi 8 với bạn bè là hết sảy luôn Quán nhỏ,vị trí dễ tìm Chổ gửi xe ít, có bảo vệ Quán cũng được, ko quá xấu, chụp hình cũng okNhân viên nc được, okGiá nước ok"
+        },
+        {
+            "user": "Ánh Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhu24198",
+            "score": "9.4",
+            "comment": "- Trà lài phô mai matchiato: vị trà ngon , thơm mùi lài , hơi nhạt , kem phô mai ko quá mặn rất ngon , có thêm trân châu trắng.- Trà vải : hơi ngọt , vị trà thanh , có nhiều topping ăn kèm như là vải , thơm ...- Trà ôlong matchiato : rất đắng , matchiato có vị mặn vừa , uống hơi ngán , có trân châu trắng👍🏻Không gian : tầng trệt nhìn khá lộn xộn , lầu 1 không gian thoáng mát , decor dễ thương ,ấm cúng nhưng hơi ít bàn ghế , ko quá ồn ào , thích hợp để làm việc và trò chuyện , quán có tầng thượng nhưng mình chưa lên👍🏻 Nhân viên: dễ thương , nhiệt tình , lịch sự👍🏻Giá cả : đồ uống giá khá ok , có matchiato nhưng vẫn rẻ hơn các quán có thương hiệu khác . Bánh thì hơi đắt , đều 35k ."
+        },
+        {
+            "user": "Nhàn Đặng",
+            "link": "https://www.foody.vn/thanh-vien/Thanhnhan1705",
+            "score": "7.4",
+            "comment": "1. Đồ uống:  Trà lúa mạch rất nhẹ nhàng, ngọt vừa phải, hơi chút béo béo của lớp phủ. Trà sen cũng nhẹ nhàng. Món mới ở lava cho dịp trung thu rất đáng thử. Nhưng mình thấy bạn nào hảo ngọt sẽ không thích lắm. Bánh chocolate cam mềm mịn, không quá ngán tuy nhiên lớp phủ socola hơi béo một chút. Hôm nay ghé lava rất hài lòng2. Không gian: mình viết review cho sân thượng nhé, trên sân thượng không có wifi nhưng mà cảnh đẹp, chụp choẹt rất ảo nhưng mà do bàn ghế làm bằng gỗ nên có vài cái nổi mốc rồi, lava nên thay hoặc đổi sang không dùng ghế bàn gỗ cho mưa gió sân thượng không bị mất mỹ quan như vậy. 3. Nhân viên: thái độ của nhân viên thì ổn, mình đi nhiều lần rồi, lần nào cũng thấy vậy, không quá niềm nở cũng không quá lạnh nhạt. Mình nghĩ mình khá thoải mái và thích nhân viên ở đây.4. Giá cả: tầm trung, k quá đắt ok so với k gian và thức uống"
+        },
+        {
+            "user": "Quyên Khánh",
+            "link": "https://www.foody.vn/thanh-vien/khanhquyen1610",
+            "score": "8.4",
+            "comment": "Thích nhất là Lava vì cái gì ở đây mình cũng thích hết. Từ nước uống tới nhân viên , anh chủ nữa ai cũng dễ thương hết.không gian thì khỏi chê nhe.Nói chung nên ghé để tự cảm nhận nè :))))"
+        }
+    ]
+}

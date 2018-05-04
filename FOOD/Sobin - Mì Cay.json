@@ -1,0 +1,167 @@
+{
+    "name": "Sobin - Mì Cay",
+    "link": "https://www.foody.vn/ho-chi-minh/sobin-mi-cay",
+    "address": "210 Dương Bá Trạc,  Quận 8, TP. HCM",
+    "open_time": "10:00 AM - 09:00 PM",
+    "price_range": "35.000đ - 65.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "6.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.1",
+        "total_review": "59"
+    },
+    "foods": [
+        {
+            "name": "Mì Cay Sobin",
+            "price": "57,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Mì Cay Bò Mỹ",
+            "price": "43,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Mì Cay Hải Sản",
+            "price": "47,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Mì Xào Sobin",
+            "price": "53,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mì Cay Bò Viên",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mì",
+            "price": "19,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Rau Nấm",
+            "price": "17,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "KimBap",
+            "price": "39,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mực sữa",
+            "price": "37,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Chén Bò Viên",
+            "price": "32,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Kim Chi",
+            "price": "17,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Trà Sữa Thái",
+            "price": "21,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sữa Tươi",
+            "price": "17,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà đào",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Pepsi",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Blue Berry",
+            "price": "21,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Blue Ocean",
+            "price": "21,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước suối Aquafina",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ngọc Mai",
+            "link": "https://www.foody.vn/thanh-vien/0902469871",
+            "score": "6.2",
+            "comment": "Vị trí : dễ tìm , xuống cầu NVC đi xíu là tới , cùng chiều luôn . Bất tịên ở chỗ không có chỗ giữ xe (trước quán)  mà phải đi tới gần Domino pizza gửi lận . Tốn tiền mà còn bị ướt nhẹp vì trời mưa nữa huhu Không gian : không rộng lắm, có lên lầu. Có chỗ để dép nhưng mà sàn nhiều cát quá , không sạch sẽ 👎 bù lại quán trang trí dễ thương , có dán Pass wifi luôn 😂 Đồ ăn không nhiều, chủ yếu là mì cay nước với mì xào khô. Còn có kimpab hay mực chiên gì đó. Mì cay ( cấp 3 với cấp 5 ) : nhìn không hấp dẫn như lúc c VH pr , hơi ít đồ ăn thì phải.....đối với m cảm thấy cấp 5 chưa cay lắm, nước không có mùi ớt mà giống như toàn bột ớt với sa tế í >…< Bò thì ngon , thịt mềm ,  có tầm 3 4 miếng nhỏ thôi. Sợi mì to , lúc bưng lên là nong hổi . Ăn tạm được. Mì xào nhìn hấp dẫn hơn nè. Sợi mì nhỏ, dai giống như mì gói HH 😂 😂 bông cải chín quá nên mềm ' xèo ' , ăn lạ lạ . Nói chung có món này là độ mặn ngọt hợp khẩu vị ."
+        },
+        {
+            "user": "Xuân ngọc Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ngocga1331995",
+            "score": 0,
+            "comment": "Là do mình thấy ko ngon nếu ko muốn nói là dở ẹc hay tại mỗi người mỗi khẩu vị khác nhau :))) Lần đầu mình đc ăn mì cay là ở đây và có thề là ko bao giờ quay lại nữa :))) Lần sau đc bạn rủ đi ăn mì cay nữa thì mình hơi e ngại, nhưng cũng may nó dắt mình qua Sasin ăn thử thì mình thấy khá ngon, mình thích ăn mì cay bên Sasin hơn"
+        },
+        {
+            "user": "Timmy Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/TimmyNguyen1001",
+            "score": "6.6",
+            "comment": "Quán ở cạnh trà sữa Ming Cha. Mặt tiền đường Dương Bá Trạc. Các bạn đi từ cầu Nguyễn Văn Cừ sang thì nó ở cùng phía bên tay phải luôn.Order xong ngồi chờ mang ra. Nhân viên quán phục vụ nhanh, nhiệt tình.Mì thì không ngon. Sợi mì mềm, mình không thích lắm, dai dai sẽ ngon hơn. Nước dùng thì hơi mặn, quán nên thêm vị chua sẽ ngon hơn. Thịt thà cũng vừa đủ, không quá nhiều cũng không quá ít.Cơm cuộn chắc tay, nhưng vị không ngon lắm. Nhưng cũng ok.Điểm trừ: gửi xe ở tận phía Domino pizza (có bảng chỉ) hết 3k.Giá như các tiệm mì cay bình thường."
+        },
+        {
+            "user": "Hoàng Quyên",
+            "link": "https://www.foody.vn/thanh-vien/buithihoangquyen1997",
+            "score": 0,
+            "comment": "Vị rất khác những quán mì cay khác. Lạ. Cũng tạm. Nhưng bỏ đồ ăn rất ít ăn ko đủ. Gửi xe phải đi lại 1 đoạn nữa hơi bất tiện. Bữa mình gửi chỗ domino pizza hết 5k :))"
+        },
+        {
+            "user": "Cà Ry Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ntx371",
+            "score": "7.8",
+            "comment": "Mỗi người có khẩu vị khác nhau ... Nhưng theo mình thì rất thích vị ở đây!! Nhân viên cực dễ thương 😍Đặc biệt có hành boaro cực thơm (mấy quán khác không có) Độ cay khi cay khi không mặc dù cùng cấp độ (chắc do bếp làm) Có dịp sẽ ghé thường xuyên ... 😇"
+        }
+    ]
+}

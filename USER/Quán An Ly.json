@@ -1,0 +1,36 @@
+{
+    "name": "Quán Ăn Ly",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-an-ly",
+    "user_comments": [
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "8.2",
+            "comment": "Cô chủ thân thiện, đồ ăn tươi ngon, rất tuyệt vời :v\n...Xem thêm"
+        },
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "8.0",
+            "comment": "Quán ăn nhỏ và khá khuất nên nếu không biết bạn có thể bỏ qua. Nhưng ghé vào ăn 1 lần rồi chắc chắn bạn sẽ phải ăn lần nữa. Hải sản tươi rói, làm tại chỗ luôn nên cảm giác rất khác so với ăn hải sản đông lạnh. ngon tuyệt vời. chị chủ quán cũng rất dễ thương niềm nở nữa. có cảm giác như ăn ở nhà người thân vậy đó. Giá cả cũng rất phải chăng. Có điều không gian quán không được sang trọng đâu, bạn sẽ ngồi ăn theo kiểu rất dân dã, mấy con cho con mèo sẽ bu lại ăn ké vỏ ốc vỏ cua bạn vứt ra nữa đấy nhé. bạn đừng shock\nTrước khi đến nơi bạn nên gọi cho chị chủ hỏi xem hôm nay có món gì ngon, chị sẽ chừa cho bạn, hoặc chuẩn bị trước những thứ cần thiết. Số điện thoại của chị là 01658789761\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

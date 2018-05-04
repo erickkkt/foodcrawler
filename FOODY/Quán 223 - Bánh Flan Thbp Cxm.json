@@ -1,0 +1,222 @@
+{
+    "name": "Quán 223 - Bánh Flan Thập Cẩm",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-223-banh-flan-thap-cam",
+    "address": "223 Trần Bình Trọng,  Quận 5, TP. HCM",
+    "open_time": "",
+    "price_range": "15.000đ - 22.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "385"
+    },
+    "foods": [
+        {
+            "name": "Bánh flan trứng sữa (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "305"
+        },
+        {
+            "name": "Bánh flan trứng sữa (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "294"
+        },
+        {
+            "name": "Bánh Flan Thập Câm (trứng sữa, phô mai, chocolate, trà xanh, sầu riêng) (5 cái)",
+            "price": "35,000(đ)",
+            "total_orders": "282"
+        },
+        {
+            "name": "Bánh flan trà xanh (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "83"
+        },
+        {
+            "name": "Bánh flan phô mai việt quất (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "76"
+        },
+        {
+            "name": "Bánh flan phô mai phúc bồn tử (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "bánh flan phô mai( 1 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Bánh flan phô mai chanh dây  (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Bánh flan trứng sữa (cái)",
+            "price": "10,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Bánh flan trà xanh (cái)",
+            "price": "10,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Bánh flan phô mai kiwi (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Bánh flan trà xanh (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Bánh flan phô mai việt quất (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Bánh flan phô mai chanh dây (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Bánh flan socola (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Bánh flan socola (cái)",
+            "price": "10,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Bánh flan socola (2 cái)",
+            "price": "15,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Bánh flan phô mai chanh dây (1 cái)",
+            "price": "10,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Bánh flan phô mai việt quất (1cái)",
+            "price": "10,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Bánh flan phô mai phúc bồn tử (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Bánh flan phô mai kiwi (3 cái)",
+            "price": "20,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Bánh flan phô mai phúc bồn tử (1cái)",
+            "price": "10,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Bánh flan phô mai kiwi (1cái)",
+            "price": "10,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Chè khúc bạch trái vải",
+            "price": "15,000(đ)",
+            "total_orders": "138"
+        },
+        {
+            "name": "Tàu hủ hạnh nhân",
+            "price": "15,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Chè khúc bạch trái cây",
+            "price": "15,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Trứng cút xào",
+            "price": "15,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Yogurt trái cây",
+            "price": "15,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Yogurt đá",
+            "price": "15,000(đ)",
+            "total_orders": "16"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "@trakity 1518",
+            "link": "https://www.foody.vn/thanh-vien/p3_can15",
+            "score": "7.4",
+            "comment": "Quán nằm trên đường TBT dễ tìm, có giữ xe trước cửa.  Bữa trước mấy đứa tụi mình tới tầm 5h chiều là học sinh sinh viên tan học ra nên đông lắm. Chất lượng quán khá tốt thôi, về bánh plan trà xanh thì không ngon lắm, được cái lớp bánh mịn và ngọt nhẹ thôi, ăn không ngán. Phô mai sữa thì hơi béo so với khẩu vị của mình nhưng cũng rất ngon, có lớp sốt đào phía trên, ăn cỡ 2-3 cái thôi thì ngon chứ ăn nhiều dễ ngán. Giá cả cũng ổn, 6 người gọi tùm lum thứ chia ra người có 15k ah 👍👍"
+        },
+        {
+            "user": "kimthi",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthikimthi",
+            "score": "6.4",
+            "comment": "Thấy mấy đứa bạn khen nên xa xôi cũng ráng đi ăn thử. Phục vụ lâu, mình ngồi đợi 10 phút mà cũng ko ai hỏi han gì, thấy có vẻ ưu tiên mua mang về. Đến lúc 7h hơn mà flan trứng với phô mai hết, đành phải ăn trà xanh, sầu riêng và socola. Vừa ăn miếng socola đầu tiên là thấy hụt hẫng, ăn có cảm giác bột bột sao đó, 2 loại kia thì ăn tạm. Chắc ko phải gu của mình rồi."
+        },
+        {
+            "user": "Tina",
+            "link": "https://www.foody.vn/thanh-vien/Tina163",
+            "score": 0,
+            "comment": "- Chất lượng: dưới trung bình. Bánh bột nhiều, hương liệu nhiều, chẳng có nghe mùi trứng luôn. Bạn nào ghiền bánh flan chạy qua chợ Hồ Thị Kỷ sát đó ăn. Bao ghiền. - Không gian: dơ, nóng, đông - Giá: bình thường, ko rẻ"
+        },
+        {
+            "user": "Raymond Phan",
+            "link": "https://www.foody.vn/thanh-vien/quy.phanngoc",
+            "score": "7.0",
+            "comment": "- Vị trí: nằm gần ngã tư Trần Bình Trọng - An DƯơng Vương- Gửi xe: ngay trên vỉa hè của quán luôn, có bác chủ nhà dắt xe và giữ xe nhiệt tình vui vẻ- Không gian: quán khá nhỏ và nóng, khách quá đông nên chỗ ngồi chật chội- Nhân viên vui vẻ nhiệt tình, các bạn phục vụ hơi chậm, hỏi tư vấn thì còn lóng ngóng- Bánh Flan phô mai rất ngon, thơm và béo vị phô mai lắm nha, bánh flan sầu riêng rất lạ bên trong là nguyên 1 miếng sầu riêng thơm thơm béo béo, pannacotta béo, dẻo ăn vừa miệng, chè khúc bạch ko ngon vị hơi lạt và loãng quá- Giá cả: giá ko cao lắm, giá rất hạt dẻ- Wifi: wifi mạnh, ko giật ko lag rất tốt"
+        },
+        {
+            "user": "Thảo Anh",
+            "link": "https://www.foody.vn/thanh-vien/anhjune82",
+            "score": "6.6",
+            "comment": "Hôm bữa bạn trai mình thèm ăn bánh plan nên qua đây ăn thử, ghi là quán bánh plan nhưng menu cũng phong phú. Mình kêu 2 bánh plan truyền thống, 2 bánh plan trà xanh, 1 chè khúc bạch, 1 panna cotta peach. Kếtvquar là chỉ có mỗi plan truyền thống là ngon, nhưng nếu so ra thì cũng như những quán khác. Bánh plan trà xanh thì đúng ra phải ghi là pudding or rau câu mới đúng -.- chả thấy tí gì gọi là bánh plan cả. Chè khúc bạch thì bình thường, không ngon bằng những chỗ mình hay ăn, khúc bạch không mềm và không có vị béo. Panna cotta cũng không ngon, vì đúng ra panna cotta là loại kem sữa chỉ cần một ít bột rau câu hoặc bột tạo đông để định hình bánh, nên bánh phải mềm, ngọt nhẹ và có độ béo. Nhưng panna cotta ở đây hơi cứng và cũng không béo, được cái ngọt nhẹ, sốt đào trên bánh thì gắt và chua, cho dù có ăn chung cũng không thể nào dung hòa được giữa sốt và bánh. Chắc sẽ không quay lại."
+        }
+    ]
+}

@@ -1,0 +1,546 @@
+{
+    "name": "Jollibee - Coopmart Quang Trung",
+    "link": "https://www.foody.vn/ho-chi-minh/jollibee-coopmart-quang-trung",
+    "address": "Tầng 2, Coopmart Quang Trung, 304A Quang Trung, P. 11,  Quận Gò Vấp, TP. HCM",
+    "open_time": "08:00 AM - 09:00 PM",
+    "price_range": "20.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Philippines",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-philippines"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/jollibee-thanh-pho-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "32"
+    },
+    "foods": [
+        {
+            "name": "1 Gà + 1 Pepsi",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "2 Miếng Gà Rán + 1 Mỳ ý vừa + Khoai phô mai nhỏ + 2 Pepsi + 2 Kem vani",
+            "price": "99,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "1 Miếng Gà Rán + 2 Mỳ ý vừa + Khoai phô mai nhỏ + 2 Pepsi + 2 Kem vani",
+            "price": "99,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cơm gà rán + soup gà + pepsi",
+            "price": "50,000(đ)",
+            "total_orders": "347"
+        },
+        {
+            "name": "3 miếng gà giòn không xương",
+            "price": "30,000(đ)",
+            "total_orders": "276"
+        },
+        {
+            "name": "2 miếng gà rán + khoai tây vừa + nước ngọt",
+            "price": "75,000(đ)",
+            "total_orders": "226"
+        },
+        {
+            "name": "2 miếng gà rán + khoai tây lớn + pepsi",
+            "price": "80,000(đ)",
+            "total_orders": "174"
+        },
+        {
+            "name": "1 miếng gà rán",
+            "price": "30,000(đ)",
+            "total_orders": "150"
+        },
+        {
+            "name": "2 miếng gà rán",
+            "price": "58,000(đ)",
+            "total_orders": "127"
+        },
+        {
+            "name": "1 miếng gà rán + khoai tây vừa + pepsi",
+            "price": "50,000(đ)",
+            "total_orders": "82"
+        },
+        {
+            "name": "Cơm gà rán",
+            "price": "42,000(đ)",
+            "total_orders": "67"
+        },
+        {
+            "name": "4 miếng gà rán",
+            "price": "116,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Cơm gà rán + nước ngọt",
+            "price": "46,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "6 miếng gà rán",
+            "price": "174,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Mì Ý sốt bò bằm lớn",
+            "price": "40,000(đ)",
+            "total_orders": "982"
+        },
+        {
+            "name": "Mì Ý sốt bò bằm",
+            "price": "30,000(đ)",
+            "total_orders": "694"
+        },
+        {
+            "name": "Combo 1",
+            "price": "57,000(đ)",
+            "total_orders": "481"
+        },
+        {
+            "name": "Combo 2",
+            "price": "65,000(đ)",
+            "total_orders": "399"
+        },
+        {
+            "name": "Combo 11",
+            "price": "75,000(đ)",
+            "total_orders": "309"
+        },
+        {
+            "name": "Combo 9",
+            "price": "65,000(đ)",
+            "total_orders": "270"
+        },
+        {
+            "name": "Combo 8",
+            "price": "55,000(đ)",
+            "total_orders": "243"
+        },
+        {
+            "name": "Combo 12",
+            "price": "85,000(đ)",
+            "total_orders": "232"
+        },
+        {
+            "name": "Combo 7",
+            "price": "45,000(đ)",
+            "total_orders": "220"
+        },
+        {
+            "name": "Combo 10",
+            "price": "75,000(đ)",
+            "total_orders": "165"
+        },
+        {
+            "name": "Combo 4",
+            "price": "70,000(đ)",
+            "total_orders": "110"
+        },
+        {
+            "name": "Combo 3",
+            "price": "37,000(đ)",
+            "total_orders": "106"
+        },
+        {
+            "name": "Combo 5",
+            "price": "80,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Combo 6",
+            "price": "50,000(đ)",
+            "total_orders": "77"
+        },
+        {
+            "name": "2 miếng gà giòn cay",
+            "price": "58,000(đ)",
+            "total_orders": "268"
+        },
+        {
+            "name": "1 miếng gà giòn cay",
+            "price": "30,000(đ)",
+            "total_orders": "220"
+        },
+        {
+            "name": "2 miếng gà giòn cay + Khoai Tây Lớn + Nước",
+            "price": "80,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "1 miếng gà giòn cay + cơm + nước + súp",
+            "price": "50,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Cơm gà giòn cay",
+            "price": "42,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "1 miếng gà giòn cay + Khoai Tây + Nước",
+            "price": "50,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Combo 7",
+            "price": "50,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "1 miếng gà sốt cay + cơm tỏi + súp + nước ngọt",
+            "price": "50,000(đ)",
+            "total_orders": "619"
+        },
+        {
+            "name": "2 miếng gà Sài Gòn sốt cay",
+            "price": "62,000(đ)",
+            "total_orders": "440"
+        },
+        {
+            "name": "1 miếng gà Sài Gòn sốt cay",
+            "price": "32,000(đ)",
+            "total_orders": "422"
+        },
+        {
+            "name": "2 miếng gà sốt cay + khoai tây + nước ngọt",
+            "price": "75,000(đ)",
+            "total_orders": "282"
+        },
+        {
+            "name": "1 miếng gà sốt cay + cơm tỏi",
+            "price": "42,000(đ)",
+            "total_orders": "110"
+        },
+        {
+            "name": "1 miếng gà sốt cay + khoai tây + nước ngọt",
+            "price": "50,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "1 miếng gà sốt cay + cơm tỏi + nước ngọt",
+            "price": "51,000(đ)",
+            "total_orders": "104"
+        },
+        {
+            "name": "Cơm tỏi + Gà SG sốt cay + soup + pepsi",
+            "price": "55,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Cơm tỏi + Gà SG sốt cay + pepsi",
+            "price": "51,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Cơm tỏi + 1 Pcs gà sốt cay  + Veggies",
+            "price": "45,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Cơm cá sốt ngũ vị + Súp gà + Nước ngọt",
+            "price": "35,000(đ)",
+            "total_orders": "387"
+        },
+        {
+            "name": "Cơm cá sốt ngũ vị",
+            "price": "25,000(đ)",
+            "total_orders": "281"
+        },
+        {
+            "name": "Cơm gà viên chiên xù",
+            "price": "20,000(đ)",
+            "total_orders": "223"
+        },
+        {
+            "name": "Bơ gơ thịt nướng BBQ",
+            "price": "30,000(đ)",
+            "total_orders": "203"
+        },
+        {
+            "name": "Burger gà giòn + Nước Ngọt",
+            "price": "30,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Bơ gơ gà giòn + khoai tây + nước ngọt",
+            "price": "40,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Bơ gơ gà giòn",
+            "price": "25,000(đ)",
+            "total_orders": "73"
+        },
+        {
+            "name": "Bơ gơ thịt nướng BBQ + nước ngọt",
+            "price": "35,000(đ)",
+            "total_orders": "70"
+        },
+        {
+            "name": "Bơ gơ thịt nướng BBQ + Khoai Tây + Nước Ngọt",
+            "price": "45,000(đ)",
+            "total_orders": "51"
+        },
+        {
+            "name": "Khoai tây lắc vị phô mai kem sữa (lớn)",
+            "price": "35,000(đ)",
+            "total_orders": "261"
+        },
+        {
+            "name": "Khoai tây lắc vị phô mai kem sữa (vừa)",
+            "price": "20,000(đ)",
+            "total_orders": "243"
+        },
+        {
+            "name": "Khoai tây chiên (lớn)",
+            "price": "25,000(đ)",
+            "total_orders": "215"
+        },
+        {
+            "name": "Khoai tây chiên (vừa)",
+            "price": "18,000(đ)",
+            "total_orders": "148"
+        },
+        {
+            "name": "7 miếng mực ống chiên giòn",
+            "price": "35,000(đ)",
+            "total_orders": "526"
+        },
+        {
+            "name": "Bánh xếp gà quay",
+            "price": "12,000(đ)",
+            "total_orders": "506"
+        },
+        {
+            "name": "Gà Viên Chiên Xù (135gram)",
+            "price": "35,000(đ)",
+            "total_orders": "341"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "5,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Súp gà rau củ",
+            "price": "15,000(đ)",
+            "total_orders": "300"
+        },
+        {
+            "name": "3 Khoanh Mực Ống Chiên Giòn + Khoai Tây (20gram)",
+            "price": "20,000(đ)",
+            "total_orders": "298"
+        },
+        {
+            "name": "Cơm tỏi",
+            "price": "10,000(đ)",
+            "total_orders": "248"
+        },
+        {
+            "name": "Sà lách dầu giấm",
+            "price": "20,000(đ)",
+            "total_orders": "136"
+        },
+        {
+            "name": "Gà Viên Chiên Xù (80gram) + Khoai Tây Vừa",
+            "price": "35,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Bánh xếp gà quay + Khoai tây + nước ngọt",
+            "price": "25,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Bánh Pie Nhân Khoai Môn",
+            "price": "10,000(đ)",
+            "total_orders": "410"
+        },
+        {
+            "name": "Trà Sữa Thái Đỏ",
+            "price": "10,000(đ)",
+            "total_orders": "178"
+        },
+        {
+            "name": "Trà Đào (Ly lớn)",
+            "price": "20,000(đ)",
+            "total_orders": "154"
+        },
+        {
+            "name": "Pepsi",
+            "price": "10,000(đ)",
+            "total_orders": "148"
+        },
+        {
+            "name": "Trà Sữa Thái Xanh",
+            "price": "12,000(đ)",
+            "total_orders": "143"
+        },
+        {
+            "name": "Pepsi (lớn)",
+            "price": "17,000(đ)",
+            "total_orders": "129"
+        },
+        {
+            "name": "Trà Sữa Thái Xanh Thạch Nha Đam (nhỏ)",
+            "price": "15,000(đ)",
+            "total_orders": "120"
+        },
+        {
+            "name": "Ca Cao Sữa Đá (lớn)",
+            "price": "22,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "Ca Cao Sữa Đá (nhỏ)",
+            "price": "18,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Kem Mirinda",
+            "price": "15,000(đ)",
+            "total_orders": "45"
+        },
+        {
+            "name": "Kem Pepsi",
+            "price": "15,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Trà Sữa Thái Đỏ Thạch Nha Đam",
+            "price": "12,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Trà Đào (Ly nhỏ)",
+            "price": "15,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Mirinda (lớn)",
+            "price": "17,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "7up (lớn)",
+            "price": "17,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Mirinda",
+            "price": "10,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "7up",
+            "price": "10,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Soda Việt Quất (lớn)",
+            "price": "20,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Nước suối Aquafina",
+            "price": "8,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Soda Việt Quất (nhỏ)",
+            "price": "15,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Kem Xá xị",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Xá xị (lớn)",
+            "price": "17,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Xá xị",
+            "price": "10,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Đổi từ nước ngọt trong combo => Soda việt quất lớn",
+            "price": "14,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Đổi từ nước ngọt trong combo => Soda việt quất nhỏ",
+            "price": "9,000(đ)",
+            "total_orders": "8"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Tiên Vy",
+            "link": "https://www.foody.vn/thanh-vien/huthvy",
+            "score": "7.0",
+            "comment": "Mình rất thích ăn gà Jollibee vì nó sạch , an toàn . Lúc trước mình hay ăn ở Biên Hoà và chi nhánh ở quận 5 , rất ngon . Không biết sao gần đây ăn ở Cộng Hoà cả Quang Trung đều cảm thấy không ngon như trước nữa , gà có vị hơi nhạt , lạnh tanh không còn đậm đà . Điều bất tiện ở đây là không có dao và thay vào đó là muỗng , rất khó ăn . Nước cả nhân viên đều ổn . Hôm mình ăn đc dùng thử một gói khoai tây lắc phômai , khoai giòn ngon , phômai mặn mặn thơm thơm rất vừa ăn ."
+        },
+        {
+            "user": "My Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/han.nh5699",
+            "score": "7.0",
+            "comment": "Được bữa trời chiều mát nên order Jollibee trực tiếp trên web chứ k qua delivery vì freeship 😂Mình order combo 109k gồm 4 miếng gà (tùy ý chọn gà giòn gà giòn cay hay gà sốt cay. Riêng gà sốt cay thì mỗi miếng thêm 2k), mình chọn 2 gà giòn cay 2 gà sốt cay, trong combo có 2 ly nước luôn, tc là 113k freeship.Ship khá nhanh vì mình chọn mục giao càng sớm càng tốt và lưu ý 5.30 đi học nên giao trc 5h, lúc mình đặt là 4h hơn, cỡ trc 5h là tới rồi. Gà giòn cay vỏ giòn, ngon, thấm gia vị, k bị nhũn đi vì ship cũng do jollibee gần nhà mình, k chảy mỡ, dày bột như kfc. Gà mềmGà sốt cay thì vẫn cay xè hăng mùi ớt như thường, ngon :3Dịch vụ ship nhanh gọn nên nói chung duyệt hết"
+        },
+        {
+            "user": "Nhụy Thịnh Châu",
+            "link": "https://www.foody.vn/thanh-vien/congchua_bian55",
+            "score": "8.6",
+            "comment": "Mình ghiền gà sốt cay của Jollibee nhất, sau đó nới tới mỳ ý. Hôm đưa ba mẹ mình đi ăn, ce mình kêu cả gà cay và gà ko cay, 2 mỳ và 2 hăm-bơ-gơ, nước thỳ có kêu 1 ly Việt quất, 3 ly còn lại thỳ là nước ngọt. Ba mẹ mình ko thích đồ ăn nhanh mà vẫn ăn sạch sành sạch rồi khen ngon vậy nên mình thích lắm."
+        },
+        {
+            "user": "Mio Phan",
+            "link": "https://www.foody.vn/thanh-vien/trucmai1107",
+            "score": "7.4",
+            "comment": "*Ưu điểm: Chắc hẳn mọi người chả xa lạ gì với jolibee nữa ạ,em gọi như trong ảnh mà hình như có hơn 300k,nước pepsi thì oke không phải chê,gà thì e lấy 2 loại truyền thống + sốt cay, gà bình thường truyền thống ăn hơi khô nhưng gà bên trong không bị bở,da rất giòn,còn gà sốt cay thì phải nói là rất rất rất cay e ăn 1 miếng đã phát sợ vì ở jolibee họ tẩm khá chu đáo và đậm đà.Còn nói về mì ở jolibee thì không thể chê được,sốt trên mì ăn rất ngon,sợi mì chín tới,ăn hoà quyện với nhau đúng là số 1,còn khoai thì khá giòn, ngoài ra bọn e còn gọi cả 2 soda việt quất với soda dưa hấu ổi gì đó thì uống rất ngon nhưng e quên k chụp hihi ❤️*Khuyết điểm:Khoai thì hơi mặn, e gọi thêm 1 hăm bơ gơ bò, ăn kinh lắm,bánh thì ỉu xìu xìu,bò thì ăn bở tơi,rau với sốt thì nhũn nhèo nhèo như kiểu họ để lâu rồi xong quay lại ấy"
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": "8.0",
+            "comment": "Ăn thử set mới ra của Jollibee. Nước soda khá ngon, mình sợ mập nên rất ít khi uống nước ngọt khi ăn gà rán, uống soda có vẻ ok hơn :v Dưới đáy còn có mứt việt quất ăn chua chua ngon lắm. Lớp bột bên ngoài khá lạt như không nêm gì cả, ăn với tương thì vừa, mỳ ý ăn vị khá lạ,không thích lắm, cũng khá ít nữa. Set này ăn lưng bụng thôi chứ không no được.Nhân viên nhiệt tình lắm, quán rất đông nhưng vẫn vui vẻ, mình thấy ở đây training nhân viên tốt hơn kfc với lotte nhiều"
+        }
+    ]
+}

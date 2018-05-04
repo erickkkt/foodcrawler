@@ -1,0 +1,252 @@
+{
+    "name": "Kimbap Hoàng Tử",
+    "link": "https://www.foody.vn/ho-chi-minh/kimbap-hoang-tu",
+    "address": "337/2 Lê Văn Sỹ, P.1,  Quận Tân Bình, TP. HCM",
+    "open_time": "",
+    "price_range": "30.000đ - 66.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "198"
+    },
+    "foods": [
+        {
+            "name": "Kimbap hoàng tử tươi",
+            "price": "30,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Kimbap hoàng tử xù",
+            "price": "38,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Miến trộn bulgogi",
+            "price": "45,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Mì udon hải sản",
+            "price": "45,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Mì jajang",
+            "price": "40,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mì ramen hải sản",
+            "price": "45,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mì ramen siêu cay",
+            "price": "45,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Miến trộn truyền thống",
+            "price": "40,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Mì ramen kim chi",
+            "price": "40,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà gia vị phô mai",
+            "price": "125,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Gà tẩm gia vị",
+            "price": "95,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Gà cay mắm tỏi Jeju",
+            "price": "95,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Gà kikoman",
+            "price": "95,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cơm trộn bulgogi",
+            "price": "45,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Cơm trộn truyền thống",
+            "price": "40,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Tokbokki truyền thống",
+            "price": "30,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Tokbokki phô mai",
+            "price": "40,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Tokbokki đút lò",
+            "price": "50,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Tokbokki ramen đút lò",
+            "price": "55,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Mực sasuke",
+            "price": "70,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Soup kim chi",
+            "price": "45,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Thịt ba chỉ nướng",
+            "price": "90,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Lẩu kim chi nấm",
+            "price": "105,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Kim chi thêm",
+            "price": "10,000(đ)",
+            "total_orders": "62"
+        },
+        {
+            "name": "Cơm thêm",
+            "price": "5,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Mì gói Hàn thêm",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì udon tươi",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau nấm lẩu thêm",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa gạo",
+            "price": "25,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Rượu gạo Makgeolly",
+            "price": "120,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Coke",
+            "price": "15,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "7up",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước suối",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Rượu Soju",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nha đam",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Thanh Đào",
+            "link": "https://www.foody.vn/thanh-vien/girlquay90",
+            "score": "7.8",
+            "comment": "Hồi còn chỗ cũ, mình ghé nhiều hơn. Đây là lần đầu ghé khi quán đổi qua chỗ mới: rộng rãi hơn, sạch sẽ hơn. Đồ ăn hương vị không đổi, vẫn ngon như xưa. Mình thích cách nêm nếm ở đây lắm, đậm vị, cay vừa phải nên ai cũng ăn được. Giá sinh viên, Gửi xe miễn phí nha.Có 1 nhược điểm duy nhất mình thấy từ còn ở tiệm cũ là đồ ăn lên hơi lâu...mà không sao, ăn ngon là duyệt goy :) ak lúc tính tiền còn đc cho kẹo the Thái ăn thơm miệng 👍🏻"
+        },
+        {
+            "user": "Kiko  Chan",
+            "link": "https://www.foody.vn/thanh-vien/nguynnhi5617",
+            "score": "7.2",
+            "comment": "Kimbap Hoàng Tử, biết quán này đã lâu từ hồi quán còn nhỏ cơ nhưng từ khi quán sửa và nâng cấp lên thì mình chưa đến lại chỉ toàn order deli thôi🏏 menu quán có vẻ cũng như cũ nhưng có thêm thịt nướng hay sao ấy, thấy quán có vài món đặc trưng rất ngon Tụi mình đặt deli giao nhanh cực chỉ trong vòng 30' thôi, chứ bình thương trên 45' không à🏏 đồ ăn được bỏ vào hộp rất là chỉnh chu cẩn thận, khi đem tới còn nóng sốt luôn nhìn hấp dẫn vô cùngGọi 3 món:+ cơm trộn: rau tươi xanh, sạch sẽ và vị vừa ăn. Ngon+ mì tương đen: món này cũng bình thương không đặc sắc + kimbap chiên xù lần đầu mình ăn món này ở đây: rất ngon, giòn, được cuốn chắc tay và sốt chấm béo"
+        },
+        {
+            "user": "Trần Tấn Hưng",
+            "link": "https://www.foody.vn/thanh-vien/wwwvlxxcom",
+            "score": 0,
+            "comment": "Đồ ăn ngon lắm nha. Phục vụ dễ thương nhưng mỗi tội bảo vệ ko có trách nhiệm, mình để xe voo ăn xong ra xe mình bị bể 1 bên kính, xước 1 bên mạn xe. Hỏi bác bảo vệ thì nhận được câu trả lời là : nãy có nhỏ kia làm ngã xe cháu bể chứ chú ko biết gì cả. Fine!!  Nên xem lại"
+        },
+        {
+            "user": "Hen Lu",
+            "link": "https://www.foody.vn/thanh-vien/henlu",
+            "score": "8.0",
+            "comment": "✅Kimbap chiên giòn rụm, không bị nhiều dầu. Tok nhiều chả cá. Miến trộn có nấm đông cô nè, trứng nè, rau củ xào, khá ngon✅ Giá hạt dẻ ✅ Điều hoà mát mẻ, nhạc Hàn Quốc xịn xịn"
+        },
+        {
+            "user": "Teuchan",
+            "link": "https://www.foody.vn/thanh-vien/Teuchan",
+            "score": "8.0",
+            "comment": "Chỉ 3 từ đã nói lên tất cả = ))Mặt bằng chung đồ ăn rẻ hơn so vs các quán khác. Thay vì ăn ngoài lề đường thì nay đã có quán mát mẻ để ngồi 😂, trai đẹp để ngắm (nay vô thấy em phục vụ này mới).Ăn nhiều lần lắm r k đếm nổi = )))"
+        }
+    ]
+}

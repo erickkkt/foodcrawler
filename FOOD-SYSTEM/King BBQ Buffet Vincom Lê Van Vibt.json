@@ -1,0 +1,84 @@
+{
+    "name": "King BBQ Buffet Vincom Lê Văn Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/king-bbq-buffet-vincom-le-van-viet",
+    "address": "Vincom Lê Văn Việt, 50 Lê Văn Việt,  Quận 9, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "200.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/buffet-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/king-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "34"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Hôm bưax chủ nhật, mẹ mình, mình và bạn trai của mẹ vào đây ăn. Vì chủ nhật chỉ có 2 mức giá sau nên mình chọn 3 phần 279k. Đồ ăn hôm nay khá tươi, line lên món cũng đầy đủ. Món nóng lên nhanh, trà đào thì mẹ mình khen ngon quá trời. Hôm đó có kem khoai môn tráng miệng, kem ngon, mẹ mình thích lắm. Về dịch vụ thì khỏi nói, nhân viên ở đây siêu thân thiện, mình hài lòng vô cùng. Mình sẽ còn ghé lại nữa ^^"
+        },
+        {
+            "user": "Thục Đan",
+            "link": "https://www.foody.vn/thanh-vien/luna.kieuoanh",
+            "score": "7.4",
+            "comment": "Lần thứ 2 ghé ăn King BBQ Lê Văn ViệtCác món ăn ở line đa dạngNhân viên phục vụ niềm nở. Điều này thì ở mấy nhà hàng King mình từng ăn đều tốt.Không gian đẹp và lịch sự"
+        },
+        {
+            "user": "Mi Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/quynhpnd15404",
+            "score": "8.0",
+            "comment": "Từ hôm đi ăn King bên Lê Văn Việt ròii thì hết muốn quay lại King bên Vincom TĐ nữa. Vẫn như mọi khi, thịt ngon, phục vụ siêu nhiệt tình. Nói chubg k có gì để chê hết :)))"
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "8.2",
+            "comment": "Mình ăn vào thứ 4 tuần trước, giờ mới nhớ post. Hihi. Vẫn mức giá cũ, 199k, 2 đứa ăn quá trời no mức lết luôn. Vì đi buổi tối, khách đông nên thịt xả đông không kịp, độ tươi không cao lắm và ướp không đậm đà lắm. Nhân viên rất dễ thương, thay vĩ liên tục, thường xuyên, hay hỏi mình dùng tiếp món nướng không để lên thang. Bữa chị quản lí ra hỏi mình dùng món có vừa miệng không nữa, cười tươi lắm. Nói thiệt là trong tất cả các chi nhánh thì mình ưng chi nhánh này nhất về khoản dịch vụ, nhân viên làm mình mát ruột gì đâu. Hihi. Mình sẽ còn ghé."
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "8.4",
+            "comment": "Mình hay đi ăn ở đây lắm, đi riết muốn quen mặt nhân viên luôn. Hôm nay là thứ 3, ngày thành viên nên mình được giảm 15% tổng bill, free refill nước ngọt. Mình chọn mức giá 199k, món ăn đủ để 2 đứa ăn no cành hông. Đi vào buổi sáng có vẻ đồ tươi hơn. ^^ ngon, đậm đà hơn. Nhân viên nhiệt tình, thay vỉ liên tục, cười tươi lắm. ^^ mình sẽ còn ghé dài dài"
+        }
+    ]
+}

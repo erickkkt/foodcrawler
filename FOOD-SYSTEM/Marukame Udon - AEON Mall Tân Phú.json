@@ -1,0 +1,211 @@
+{
+    "name": "Marukame Udon - AEON Mall Tân Phú",
+    "link": "https://www.foody.vn/ho-chi-minh/marukame-udon-aeon-mall",
+    "address": "Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "60.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/marukame-udon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "417"
+    },
+    "foods": [
+        {
+            "name": "Mì udon bò & trứng",
+            "price": "86,900(đ)",
+            "total_orders": "294"
+        },
+        {
+            "name": "Mì udon bò",
+            "price": "86,900(đ)",
+            "total_orders": "238"
+        },
+        {
+            "name": "Mì udon thịt heo cay",
+            "price": "71,500(đ)",
+            "total_orders": "164"
+        },
+        {
+            "name": "Mì udon cà ri bò",
+            "price": "75,900(đ)",
+            "total_orders": "105"
+        },
+        {
+            "name": "Mì kake udon",
+            "price": "60,500(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Mì udon hải sản cay",
+            "price": "75,900(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Mì udon tonkotsu",
+            "price": "86,900(đ)",
+            "total_orders": "67"
+        },
+        {
+            "name": "Mì udon nghêu",
+            "price": "86,900(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Mì bukkake udon",
+            "price": "60,500(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Mì kamaage udon",
+            "price": "42,900(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Mì udon Tan Tan Miso",
+            "price": "75,900(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Mì Udon nấm đặc biệt",
+            "price": "76,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì Udon bò cà chua trứng",
+            "price": "97,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Udon bò cà chua",
+            "price": "86,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cà ri bò",
+            "price": "75,900(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Cơm thịt heo tẩm bột",
+            "price": "97,900(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Cơm bò",
+            "price": "97,900(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Tempura tôm",
+            "price": "26,400(đ)",
+            "total_orders": "253"
+        },
+        {
+            "name": "Tempura trứng gà",
+            "price": "19,800(đ)",
+            "total_orders": "153"
+        },
+        {
+            "name": "Tempura thanh cua",
+            "price": "19,800(đ)",
+            "total_orders": "127"
+        },
+        {
+            "name": "Tempura chả cá Nhật",
+            "price": "24,200(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Tempura khoai lang",
+            "price": "11,000(đ)",
+            "total_orders": "91"
+        },
+        {
+            "name": "Tempura gà",
+            "price": "19,800(đ)",
+            "total_orders": "90"
+        },
+        {
+            "name": "Tempura rau củ",
+            "price": "19,800(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Tempura cá hokki Nhật",
+            "price": "24,200(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Tempura cà tím",
+            "price": "13,200(đ)",
+            "total_orders": "20"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Thủy Duyên Mai",
+            "link": "https://www.foody.vn/thanh-vien/maithuyduyen912",
+            "score": "8.2",
+            "comment": "Sợi mì ở đây được làm tại chỗ ngay bếp luôn. Bếp ở đây dạng mở nên đi ngoài vào hay đi ngang qua đều có thấy quá trình bếp làm ra sợi mì Udon. Mình ăn mì Udon bò. Theo mình thấy nước lèo đậm đà và ngon nhưng thịt bò thì hơi ít. Quán có để 1 quầy gia vị riêng có thể lấy thoải mái lấy bao nhiêu cũng được mà không tính thêm phí. Nước uống cũng được lấy uống thoải mái luôn.Không gian quán cũng rộng rãi thoải mái. Mình đi 4 người gọi mỗi người 1 tô là ăn no nê luôn."
+        },
+        {
+            "user": "Thuong Le",
+            "link": "https://www.foody.vn/thanh-vien/thuong.le7361",
+            "score": "8.2",
+            "comment": "Cuối tuần lang thang với bạn tại siêu thị gần nhà đói meo râu thì quẹo vào quán này giữ một rừng các quán ăn đa phong cách ở siêu thị eaon Tân Phú. Không gian quán rất mở và thoáng. Đặc biệt là quầy bếp \"lộ\" ngay trước mắt khách hàng , khá thú vị khi chứng kiến các đầu bếp trong trang phục Nhật Bản \"Làm mì\" và chết biến món ăn. Thực đơn quán khá đa dạng, giá cả cũng phải chăng, đầy đủ dưỡng chất cho cả nhà. Trà đã miễn phí cũng là một điểm cộng. Chắc chắn sẽ ghe lại lần hai."
+        },
+        {
+            "user": "Như Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/daibanhbao",
+            "score": "6.4",
+            "comment": "Sinh nhật được bạn đãi chỗ này. Nước lèo tạm, đậm nhưng không hợp khẩu vị lắm, thỉnh thoảng ăn thì được. Đặt biệt chỗ này có 1 bàn gia vị riêng, hành phi rất ngon, miễn phí trà đá. Không gian thoáng đãng, nhân viên lịch sự, wifi tốt. Khi chọn món nhớ phải xếp hàng. À tô nhỏ 50k, tô lớn 75k. Ai ăn nhiều nhớ chọn tô lớn chứ tô nhỏ ăn không đủ đâu. Đôi đũa ở đây rất giống ở Nhật Bản, có điều hơi khó bẻ một chút. Sẽ quay lại nếu có ai mời ⊙▽⊙"
+        },
+        {
+            "user": "Hoang Duy",
+            "link": "https://www.foody.vn/thanh-vien/hoangduytienloc1971",
+            "score": "7.4",
+            "comment": "Trước giờ toàn ăn mì hải sản của Marukame Udon ở các nơi cùng hệ thống, thấy vị nc lèo đều giống nhau. Riêng chổ này thì khác đông hơn, nói chung ăn cũng đc, kg đậm đà như các loại nc lèo của mình. Quán để sẳn các lạoi gia vị để bạn tự nêm nến. Đầu tiên vào chọn món, để vào khay chuyển qua quầy kế bên tính tiền, xong ra chổ để gia vị có thể thêm hành lá, rau ngò thơm, làm chén nước chấn rồi bưng ra bàn ngồi thưởng thức. Nhớ xếp hàng khi chọn món nha các bạn."
+        },
+        {
+            "user": "Thạch Thảo",
+            "link": "https://www.foody.vn/thanh-vien/tpmthu",
+            "score": "6.0",
+            "comment": "Lần đầu tiên ăn thử mì udon, trước giờ mình rất thích ẩm thực nhật bản nhưng lần này thật sự là không hợp khẩu vị mình =.= Món này ăn là lạ, vị nó khó tả, không dở nhưng cũng không ngon. Mình chả nhớ món này là gì nữa nhưng mình không thích udon. Giá thì không hề rẻ, khá mắc đó, 1 tô cũng 50k rồi mà khá ít, ăn 1 tô không no đâu. Nhân viên vui vẻ nhiệt tình, phục vụ nhanh. Sẽ không ăn udon thêm lần nào nữa đâu =.="
+        }
+    ]
+}

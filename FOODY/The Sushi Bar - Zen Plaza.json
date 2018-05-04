@@ -1,0 +1,80 @@
+{
+    "name": "The Sushi Bar - Zen Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/the-sushi-bar",
+    "address": "Tầng 1 Zen Plaza, 54 - 56 Nguyễn Trãi, P. Bến Thành,  Quận 1, TP. HCM",
+    "open_time": "Buổi Tối  17:00 - 22:30",
+    "price_range": "100.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-bar?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "150"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Như Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nhuquynhnguyen_88",
+            "score": "7.4",
+            "comment": "Một trong những chuỗi nhà hàng Nhật đầu tiên nổi tiếng ở SG. Hồi xưa cứ đi ăn đồ Nhật là nhớ tới chỗ này. Bây giờ thật sự là nhà hàng quán ăn đồ Nhật quá nhiều rồi, và có nhiều nhà hàng sang chảnh hơn, đắt tiền hơn thậm chí là tươi ngon hơn nhiều. Tuy nhiên Sushi Bar vẫn tồn tại và có một lượng khách nhất định. Mình nghĩ là xứng đáng vì giá cả không quá đắt, chất lượng khá ổn định (mặc dù bây giờ những nhà hàng Nhật khác họ nhập nguồn thực phẩm ở đâu mà tươi roi rói và có nhiều thứ hiếm không phải chỗ nào cũng có mà bán). Nhưng nhất là thái độ phục vụ đó giờ luôn rất tốt như nhau ở tất cả chi nhánh. Đó là điều mình rất thích khi đến một nhà hàng ăn uống, huống chi là chuỗi nhà hàng thì càng khó để giữ được những tiêu chuẩn này.Có lần mình vô tình đi ăn đúng vào kỷ niệm thành lập nhà hàng ở chi nhánh Kumho. Mỗi một khách vào ăn đều được tặng một chai rượu Nhật nhỏ có vàng bên trong! Khá bất ngờ, không phải vì giá trị chai rượu mà là vì cách họ thể hiện sự trân trọng khách hàng và sự trung thành của khách hàng đối với thương hiệu. Đúng là phong cách dịch vụ người Nhật không thể chê được :) Cho nên đi ăn vòng vòng chỗ nào thì mình cũng sẽ quay lại ăn ở đây."
+        },
+        {
+            "user": "Inno Trần",
+            "link": "https://www.foody.vn/thanh-vien/camnhientran1993",
+            "score": "9.2",
+            "comment": "Sushi bar là một trong những hệ thống nhà hàng sushi đầu tiên của Sài Gòn. Và cho đến thời điểm này, mình vẫn luôn hài lòng với chất lượng đồ ăn và phục vụ ở đây. Cứ thèm món Nhật là tới the sushi bar :)"
+        },
+        {
+            "user": "Bụng Phệ",
+            "link": "https://www.foody.vn/thanh-vien/khuong85",
+            "score": "7.8",
+            "comment": "Hôm nay dẫn bạn đi ăn sinh nhật đúng dịp nhà hàng có món mới cá trích ép trứng. Chất lượng món ăn ngon nhưng tùy thuộc vào đầu bếp. Nhân viên vui vẻ, phục vụ nhiệt tình chu đáo. Không gian đẹp. Giá có tăng so với lúc trước"
+        },
+        {
+            "user": "Ngo Celine",
+            "link": "https://www.foody.vn/thanh-vien/celine.no20",
+            "score": "6.8",
+            "comment": "Mình là khách hàng quen của sushi bả, ăn từ lúc 2013 đến tận giờ. Xưa là tuần ăn 2-3 lần vì đồ ăn rất ngon, tươi giá ok và phục vụ quá đc. Kì ăn lần nhất là với bạn buổi trưa. Ko đông nhưg sao phục vụ hơi chậm. Mình order set sashimi ( bạch tuộc, cá ngừ và cá hồi) soup miso, sushi chiên, cơm lươn, và phần mì udon. Sashimi hôm đó ăn ko ngon và k tươi. Phần trang trí làm ko bắt mắt. Vớt vác đc sushi chiên. Mình ăn nước của miso soup với mì udon thì thấy nêm nếm nhạt ko ngon như trước. Còn về phần cơm lươn, thì lươn làm ăn rất bở, sốt lươn lạt ăn rất ngán. Hình như mới đổi đàu bếp hay sao. Mì udon nấu bở nữa. Lúc tính bill ra 1tr mấy, thấy giá càg tăng. Nhân viên ngoài phục vụ chậm ra nhưg rất dễ thương."
+        },
+        {
+            "user": "Kim Chi",
+            "link": "https://www.foody.vn/thanh-vien/kmch_nguyen",
+            "score": "8.0",
+            "comment": "So với việc phải chọn tokyo deli hay sushi bar cho những nhà hàng Nhật giá tầm trung thì mình thích Sushi bar hơn.Mỗi khi thèm sushi là mình lại ra đây ăn.Không gian: Mình thích chỗ này vì được chia ra làm hai khu vực có hút thuốc và không hút thuốc, những tấm ván cách bàn này với bàn khác làm cho khách cảm giác được riêng tư hơn.Đồ ăn: tất nhiên không khi nào mà không gọi sushi bar roll, signature của quán. Mình mê tít luôn ý :)). Sushi chiên cũng ngon nữa, cái sốt rưới lên trên thấm vào rất ngon. Mặc dù chuyên về sushi nhưng udon ở đây cũng ngon lắm nha. Mà đám mình thích ăn xào, giá khá cao nhưng cái dĩa đem ra cũng tương xứng lắm, to đùng luôn ý:)). Mình chỉ không thích bánh xèo ở đây, vì bột mỏng nên đôi khi hay bị cháy đế bánh làm đắng, mà cái bánh xèo cũng mini quá :((.Điểm trừ : gửi xe tốn 10k. Quá mắc luôn ý. Mình nghĩ nhà hàng nên xem lại việc này vì khách cũng đã trả khá nhiều cho 1 bill mà còn bị tính phí giữ xe thì thiệt ko hài lòng chút nào."
+        }
+    ]
+}

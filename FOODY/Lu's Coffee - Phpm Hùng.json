@@ -1,0 +1,76 @@
+{
+    "name": "Lu's Coffee - Phạm Hùng",
+    "link": "https://www.foody.vn/ho-chi-minh/lu-s-coffee-pham-hung",
+    "address": "229B Phạm Hùng, P. 4,  Quận 8, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "59"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Rebecca Doan",
+            "link": "https://www.foody.vn/thanh-vien/xuan.doan.tk",
+            "score": "7.2",
+            "comment": "Mình hay đến quán vì đồ uống ổn so với mức giá bình dân. Không gian hơi nhỏ, xuống cấp đôi chỗ nhưng nhìn chung vẫn khá ổn và có gu so với mức giá của quán. Nhân viên dễ thương, thi thoảng có ban nhạc nhỏ đến chơi cũng vui"
+        },
+        {
+            "user": "Bình Kim",
+            "link": "https://www.foody.vn/thanh-vien/saducng",
+            "score": "8.0",
+            "comment": "Hồi đầu bạn mình có giới thiệu quán này nói bảo xem trên foody , quán yên tĩnh nước giá cũng ok nên kím để học. Nhưng chạy hoài không thấy quán đâu nên cũng không ghéĐược kịp nhỏ bạn biết quán nên chạy tý là tới ngay Vào thì nhân viên quán rất niềm nở và dễ thương. Mình rất thích uống capuchino nên hỏi quán , thì chị phục vụ giới thiệu có ngọt và đăng. Mình yêu cầu đắng =)) nhưng không hiểu sao lát ly hai đứa lại ngọt ngay =)) nhưng vị thì rất ngon khỏi chê luônSẽ ghé lại quán lần sau ạ"
+        },
+        {
+            "user": "lovefood",
+            "link": "https://www.foody.vn/thanh-vien/kieuvy1011",
+            "score": "9.0",
+            "comment": "Phải nói là lớp kem ở đây ngon nhất mấy quán mình từng đi , mình đi nhiều quán nước lắm rồi mà vẫn thích kem ở đây nhất , mình hay uống mocha ở đây ngon giá có 35k mà cực chất lượng , cookie matcha ở đây cũng ngon lắm thơm mùi trà xanh . Giá từ 30-40 mà chất lượng tốt hơn cả khối quán nước bây giờ , lúc nào đi uống mình cũng phải mua thêm kem để ăn không =))) một phần kem riêng là 7k . Nhân viên là ai cũng dễ thương hết , hình như cuối tuần còn có aucostic nữa mà phải đóng thêm 20k phí nghe nhạc ."
+        },
+        {
+            "user": "Byn Bobbie",
+            "link": "https://www.foody.vn/thanh-vien/bynng",
+            "score": "8.2",
+            "comment": "Quán nằm gần trường Lương Văn Can hơi nhỏ nhưng không gian lại rất ấm cúng,nhạc mở du dương,rất yên tĩnh cho dù bên ngoài ồn ào cỡ nào,phong cách trang trí cổ điển,rất thơ và cung rất đẹp,nhân viên thì thôi khỏi bàn ai cũng dth và quý mên từ nhân viên giữ xe cho đến phục vụ luôn tươi cười và thân thiện,thức uống đa dạng mang phong cách châu Âu đặc biệt giá cả rất hợp lí cho sinh viên học sinh là nơi lý tưởng khi cần học bài làm việc.Món thức uống ưa thích và là món ruột của mình mỗi khi đi đâu là cookie n cream nên mình hay đánh giá các quán nước qua món này tuy đôi khi nhìu món khác ngon hơn tùy theo mỗi quán.Nhưng mình luôn theo sở thích của mình và Lu đã làm mình hài lòng về món này cookie rất ngon ko qua béo ko quá ngọt lớp kem rất mềm thơm mịn"
+        },
+        {
+            "user": "Hồng lĩnh Trần",
+            "link": "https://www.foody.vn/thanh-vien/heochuot88",
+            "score": "6.4",
+            "comment": "quán cà phê quen thuộc . không gian rất ổn . nhỏ . nhưng không ồn ào lắm . t5 có nhạc acostic phụ thu thêm 20 k nha"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Bò Tơ Trường Lạc",
+    "link": "https://www.foody.vn/ho-chi-minh/bo-to-truong-lac",
+    "address": "Trung Lập,  Củ Chi, TP. HCM",
+    "open_time": "10:30 AM - 09:30 PM",
+    "price_range": "100.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "13"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Lan Vy",
+            "link": "https://www.foody.vn/thanh-vien/nguyenvolanvy031003",
+            "score": "8.2",
+            "comment": "Quán tuy xa nhưng không uổng công đi đâu nha. Không gian quán rộng rãi. Nhân viên phục vụ còn chậmBò luộc cuốn bánh tráng ngon, mắm nêm vs mắm chua okBò nướng ngũ vị ướp vừa miệng lắm, món này vừa đem ra nên ăn liền để lâu bò sẽ dai hơi khó ănBò cuộn lá lốt cũng ngon không kém:>Đến đây không thể nào không ăn lẩu đuôi bò đc:< nước dùng thanh, vừa miệng cực. Thịt khá nhiềuTổng cộng hết khoảng 800k hết cho 4 ng rất đán đồng tiền. 4 ng với khẩu phần như vậy thì khá nhiều so với sức ăn bth.Nên đi vào những ngày thường hay lúc vắng khách, mấy ngày cuối tuần hay chiều tối quán rất đông. Đồ ăn kh chất lượng bằng những ngày thường."
+        },
+        {
+            "user": "Lê Như",
+            "link": "https://www.foody.vn/thanh-vien/phamthuycm83",
+            "score": "7.8",
+            "comment": "Có dịp đi địa đạo củ chi  mình có ghé bò tơ trường lạc nghe người dân ở đó khen ngon nên cũng tìm để thưởng thức . Cảm nhận đầu tiên là không gian thoáng mát - thức ăn ngon -giá phải chăng . Nói chung vậy là được rồi . Có dịp mình ghé ăn tiếp"
+        },
+        {
+            "user": "Út Haha",
+            "link": "https://www.foody.vn/thanh-vien/hanh.ut.7",
+            "score": "6.2",
+            "comment": "Dịp ghé Củ Chi nên phải ăn bò Tơ, thấy review nên quyết định đến đâyGọi bò tơ luộc quấn bánh tráng, ngon.Quán đơn giản theo kiểu xưa, miền quê thân thiện, thoáng mát.Nhân viên...>< cứ kiểu như ban phát gì đồ ăn ak. Mặt hầm hầm, lạnh lạnh, cao quý 1 cách khó tả. Ngồi đây thì để đồ ăn bên kia...\" Chị ơi cho em hỏi chỗ rửa tay ở đâu\" hất mặt chỉ \" bên kia\". Bạn mình nói thôi thông cảm cho ngta làm mệt. =.= Dạ, tụi e ăn trả tiền và cũng hỏi đáp đàng hoàng vs mấy chị mak, ít ra cũng đối xử lại cho đúng phép lịch sự chứ.Tụi e cũng từng đi làm phục vụ nhưng xl, e k như c đc đâu ạ. =.= Hết 150k 2 đứa cho món bò luộc. (Sợ gọi thêm mấy chị la. :3)"
+        },
+        {
+            "user": "HXC HXC",
+            "link": "https://www.foody.vn/thanh-vien/dmuitran",
+            "score": "7.6",
+            "comment": "Hôm trước đi taxi về Củ Chi nghe bác tài giới thiệu quán này đúng chất bò nên quyết tâm đến ăn thử. Đi xa nhưng thật không bỏ công. Mình đi 2 người gọi bắp bò hấp, bò nướng y và cơm cháy bò kho là no căng bụng. Lát bắp bò vừa gân vừa thịt thêm da sựt sựt ăn đã thiệt là đã. Bò nướng thịt mềm và ngọt nhưng nước chấm chưa được ngon lắm. Thèm ăn sườn nướng với vú nướng mà no quá, hi vọng sẽ có dịp ăn thử lần sau. Mỗi món 120k, chắc ăn tận gốc nên giá tương đối mềm. Tc 2 ng hết 423k. Điểm trừ là quá xa."
+        },
+        {
+            "user": "Lâm Hiền",
+            "link": "https://www.foody.vn/thanh-vien/esenhuthe",
+            "score": "8.2",
+            "comment": "Tính tìm bò Kim Dung ăn tại gần địa đạo,mà tới địa đạo r mới té ngửa bò Kim Dung nằm mé gần QL22 @@Search Foody thấy Bò TL củng gần,chạy vô thửQuán nằm trong hẻm hút mà 4 bánh chạy dô đậu dữ lắm,mình vs gấu mình đi xe số dô ăn cảm thấy lo sợ về giá :))-Gọi 2 món+Bò nướng y 120k+Lẩu bò 150k+Free trà đá-Bò nướng y mình tưởng tự nướng,ai dè qán nướng sẵn,bò ngọt,nhưng dai qá :))-Lẩu bò ngon,ngọt nước,đồ ăn kèm hơi ít :)),rau xanh tươi mượt mà :3,ăn hệt rau luộn :3Giá tiền mắc hơn các qán Kim Dung,Hồng Đào tầm 20k,ok,không quá đáng2 chị Pv vui vẽ và rất nhiệt tình,thích khoản này nhất :3"
+        }
+    ]
+}

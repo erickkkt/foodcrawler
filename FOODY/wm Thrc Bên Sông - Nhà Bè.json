@@ -1,0 +1,80 @@
+{
+    "name": "Ẩm Thực Bên Sông - Nhà Bè",
+    "link": "https://www.foody.vn/ho-chi-minh/ben-song-nha-be",
+    "address": "6/8 Nguyễn Hữu Thọ, Phước Kiểng,  Nhà Bè, TP. HCM",
+    "open_time": "10:00 AM - 10:30 PM",
+    "price_range": "100.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "7"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Elisa Ng",
+            "link": "https://www.foody.vn/thanh-vien/anh1602",
+            "score": "8.0",
+            "comment": "Quán nằm đối diện trung tâm PMH rất tiện, gọi điện là nv lấy đò chở qua sông liền, cảm giác cũng thích lắm.Quán khá rộng rãi, vuổi trưa ngồi khu nhà chòi rất mát, các món ăn nêm nếm vừa ăn không ngon không dở, nói chung các món nấu khá đều, giá bình dân. Rất phù hợp họp mặt gia đình tiệc v.vNgồi ở quán gần sông rất thoáng mát cảm giác như đang ở Miền Tây rất thích,Nv pv nhanh nhẹn, thân thiện, giới thiệu món ăn rõ ràngChấm 8/10"
+        },
+        {
+            "user": "Dũng Lê",
+            "link": "https://www.foody.vn/thanh-vien/dung_tabu",
+            "score": "6.8",
+            "comment": "Khung cảnh thật đẹp...Món Cua  Ran me ở đây cũng ngon...Có dịp vụ đò taxi cũng thú vị...mang chất miền tây sông nước...cũng hay !!!"
+        },
+        {
+            "user": "Mít Ti",
+            "link": "https://www.foody.vn/thanh-vien/t_n_h_612",
+            "score": "8.0",
+            "comment": "_Quán này nằm ở ngay quận 7, khu Phú Mỹ Hưng, đi từ Nguyễn Văn Linh ra Nguyễn Đức Cảnh (Chưa tới Cầu ánh sao) Nhìn qua đối diện phía bờ hồ sẽ Thấy Quán bên sông. Chỉ cần alo cái là họ đón ghe liền :D . _Ở quán này mình kết nhất phần không gian, mình đến quán này lúc 4h00, rất yên tỉnh, mát mẻ, sông cũng sạch nữa, nếu đi với Gấu sẽ rất là tuyệt, ngoài ra thì đi với bạn thân cũng rất rất vui :D , Ngoài ra buổi tối thì phải nói là rất rất đẹp, rất lung linh, dòng sông phản chiếu ánh đèn của các tòa nhà nhìn cực kì lộng lẫy luôn._Còn về phần phục vụ thì miễn chê, rất ok, luôn niềm nỡ với khách, mình và nhỏ bạn tới đó chụp hình tới banh quán luôn mà họ vẫn k tỏ ra thái độ j, rồi lúc về, lúc mình kiu họ ra lấy ghe chở về, nhỏ bạn mình  vẫn ghiền tự sướng, vậy mà anh nhân viên ngồi đợi mà vẫn k hề nói j, cứ im ru tới khi nào mình xõa xong hết thì thôi. :D_Đồ ăn thì mình kiu 1 súp tôm + 1 súp hào(28k/chén), 1 mực nướng j đó quên rùi(95k) với ếch chiên giòn. (75k) thì mình kết nhất là món ếch, thị ngọt, ngon béo phải nói là hết xảy :)) còn súp thì hơi mặn nhưng hào với tôm thì ngon :D còn mục nướng vì họ cho nhìu bột ngọt mà mình thì dị ứng với bột ngọt nên cũng k bik ngon ko! Nói chung là mình thấy đi ra quán này rất đáng đồng tiền :D"
+        },
+        {
+            "user": "Dinh Đinh Hà",
+            "link": "https://www.foody.vn/thanh-vien/lydinh1188",
+            "score": "8.2",
+            "comment": "Quán này nằm ngay bên quận 7, khu phú mỹ hưng . Cái đoc đáo của quán là phải đi bằng đò qua. Nếu ăn tới tối là phải đi bộ bằng đường bộ đó . Vì 7h là hết đò. Mình bị đi bộ mà tởn tới già. Đi hết gàn 1 cây số mới ra tới đường để đón taxi . Món ăn ở đây cũng bình thường. Không có gì đặc săc. Chủ yếu mát mẻ và ngồi ngắm cảnh xung quanh . Giá cũng tương đối ổn. Hôm đó mình đi 4 người . Ăn hết khoảng 600"
+        },
+        {
+            "user": "Như Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhuhuynh1001",
+            "score": "7.2",
+            "comment": "Quán này mình từng đi cũng lâu rồi, hôm đó đi ăn sinh nhật nhỏ bạn! Thú vị nhất là phải đi đò qua sông! Nói chung quán ngay mé sông nên rất mát mẻ! Thức ăn làm cũng được! Giá cả thì hôm đó nhỏ bạn nó trả cũng ko rành nhưng nghe nó nói là cũng rất hợp lý! Có điều hôm đó tụi mình chờ thức ăn lên hơi lâu nhưng mãi lo ngắm nhìn sông nước nên cũng ko có ai cằn nhằn gì! Nói chung đây là 1 nơi rất là lý tưởng"
+        }
+    ]
+}

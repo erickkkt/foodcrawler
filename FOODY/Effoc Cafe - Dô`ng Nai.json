@@ -1,0 +1,80 @@
+{
+    "name": "Effoc Cafe - Đồng Nai",
+    "link": "https://www.foody.vn/ho-chi-minh/effoc-cafe-dong-nai",
+    "address": "92 Đồng Nai, P. 15,  Quận 10, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "25.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/effoc-cafe-takeaway?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "17"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Dung Dang",
+            "link": "https://www.foody.vn/thanh-vien/dangngocphuongdung",
+            "score": 0,
+            "comment": "Bản thân mình k thích chi nhánh này lắm về pha chế, lượng đá trong thức uống khá nhiều,  mình uống đá xay ở chi nhánh khác dù là đường đá bth vẫn ngon và không bị buốt răng. Ở đây cho đá nhiều và uống vào rất buốt. Mình uống kem sữa thì cho ít hơn những chi nhánh khác, và đá cũng nhiều. Mình muốn ở đây rút kinh nghiệm và pha chế ngon hơn ạ."
+        },
+        {
+            "user": "Huyền  Autumn",
+            "link": "https://www.foody.vn/thanh-vien/nanocen",
+            "score": "7.8",
+            "comment": "Mình học thể dục ở công viên ltr xong đang muốn kiếm quán vô ngồi, thì nhớ ra quán này hehe, Effoc chi nhánh này dễ tìm, ngay ngã tư nhỏ nhỏ, lần đầu mình đi bên đây, nhân viên lịch sự, bảo vệ nhiệt tình. Mình được giảm 20% do có thẻ sinh viên, trà sữa thái ngon béo béo thêm milkfoam mặn mặn nhưng không quá ngấy, nói chung là ngon, wifi thì không ổn cho lắm nhé. View đẹp, trang trí cũng oke."
+        },
+        {
+            "user": "Ánh Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/nhu24198",
+            "score": "7.0",
+            "comment": "Mình đến quán cũng được 3 lần . Đá xay rất ngon, vị ngọt vừa, kem mặn mặn. Trà sữa milkfoam jelly cũng ngon , có thạch jelly giống như bên Highland. Có hôm mình gọi món mới là Pinacolada , quá chua, có vài lát thơm, có thạch jelly nữa. -Bánh ở đây hơi khô , hình như do để lâu quá thì phải.-Quán dễ tìm, có chỗ để xe rộng rãi-Không gian: có 2 tầng , không gian thoải mái, tầng trên view đẹpSẽ đến thường xuyên😘😘"
+        },
+        {
+            "user": "Ánh Hồng Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/barbi_kute12",
+            "score": "8.0",
+            "comment": "Mình đi thứ 5 nên tất cả dòng ice blended ly lớn 38k, ly nhỏ 33kNếu bạn nào có thẻ thành viên thì up size freeMatcha: đúng vị matcha, ngon, thơm nhé, ngọt thanh, béo vừa :))) mình thích lớp kem ở đây, nó tan vừa không có dạng dầu :)Choco: mình có 1 lần uống ly to vậy rồi ứ hự luôn, kiểu mình cảm giác uống nóng người luôn á, choco đặc, ngon không ngọt quá nhưng mình thấy uống nhiều ngán lắm, ai không hảo choco thì đừng uống ly to ^^Greentea: mùi vị giống trà xanh không độ, thơm ngọt, ngọt vừa, vẫn thích greentea ở effoc nhất :)Giá cả vừa phải ngang với mặt bằng chung :)"
+        },
+        {
+            "user": "Ngọc Anh Trương Thị",
+            "link": "https://www.foody.vn/thanh-vien/foodee_d92d757a",
+            "score": "8.2",
+            "comment": "-vị trí: dễ tìm.-chỗ giữ xe: nhỏ, vừa đủ cho lượng khách vào quán.-cách phục vụ của nhân viên: ổn.-không gian: bé xinh, ấm cúng. view đẹp, trang trí ổn.-chất lượng: không cần nói nhiều thì các bạn cũng biết nhen. mình thích effoc vì các món nước ở đây ngon miệng, béo béo smoothie, smoothie không quá ngọt cũng không quá béo, vị vừa đủ để bạn không ngán nhen. size M thì như là size L của các quán khác vậy. uống một lần là no nê, thích mê. bánh passion cheese được làm từ chanh dây, lớp sốt chanh dây phía trên mỏng mịn, chua chua ngọt ngọt của chanh dây, phần bánh bông lan mềm xốp, có cục chocolate đen ăn cứng cứng ngon ngon lắm.-giá cả: quá ok.-các chương trình ưu đãi và khuyến mãi: hình như là mỗi ngày đều có chương trình khuyến mãi hay sao í, mình không kịp chú ý nữa."
+        }
+    ]
+}

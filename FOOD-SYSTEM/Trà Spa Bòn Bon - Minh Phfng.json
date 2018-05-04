@@ -1,0 +1,276 @@
+{
+    "name": "Trà Sữa Bòn Bon - Minh Phụng",
+    "link": "https://www.foody.vn/ho-chi-minh/tra-sua-bon-bon-duong-dinh-nghe",
+    "address": "529 Minh Phụng, P. 10,  Quận 11, TP. HCM",
+    "open_time": "",
+    "price_range": "8.000đ - 17.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/tra-sua-bon-bon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "242"
+    },
+    "foods": [
+        {
+            "name": "Trà sữa Bòn Bon",
+            "price": "16,000(đ)",
+            "total_orders": "1976"
+        },
+        {
+            "name": "Trà sữa thập cẩm",
+            "price": "12,000(đ)",
+            "total_orders": "632"
+        },
+        {
+            "name": "Trà sữa thạch phô mai(5 viên)",
+            "price": "13,000(đ)",
+            "total_orders": "276"
+        },
+        {
+            "name": "Trà sữa thạch củ năng",
+            "price": "12,000(đ)",
+            "total_orders": "217"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "8,000(đ)",
+            "total_orders": "160"
+        },
+        {
+            "name": "Trà sữa thạch phô mai(7 viên)",
+            "price": "15,000(đ)",
+            "total_orders": "140"
+        },
+        {
+            "name": "Trà sữa phô mai",
+            "price": "13,000(đ)",
+            "total_orders": "124"
+        },
+        {
+            "name": "Trà sữa socola thạch phô mai",
+            "price": "18,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Trà sữa socola",
+            "price": "11,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Trà sữa socola thạch phô mai tươi",
+            "price": "16,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Trà sữa siro",
+            "price": "10,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Hồng trà tắc",
+            "price": "8,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Hồng trà Bòn Bon",
+            "price": "16,000(đ)",
+            "total_orders": "89"
+        },
+        {
+            "name": "Hồng trà thập cẩm",
+            "price": "12,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Hồng trà thạch phô mai",
+            "price": "13,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Hồng trà phô mai",
+            "price": "13,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Hồng trà siro",
+            "price": "10,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà xanh Bòn Bon",
+            "price": "18,000(đ)",
+            "total_orders": "111"
+        },
+        {
+            "name": "Trà xanh sữa thập cẩm",
+            "price": "14,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Trà xanh sữa",
+            "price": "10,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Trà xanh sữa phô mai",
+            "price": "15,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Trà xanh sữa thạch phô mai",
+            "price": "15,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Sữa chua Bòn Bon",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Socola sữa Bòn Bon",
+            "price": "18,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Socola sữa thập cẩm",
+            "price": "14,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Socola sữa thạch phô mai",
+            "price": "16,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Socola sữa phô mai",
+            "price": "16,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Socola sữa",
+            "price": "12,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Soda chanh muối / xí muội",
+            "price": "10,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Soda tắc",
+            "price": "8,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Soda Bòn Bon",
+            "price": "15,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Soda thạch phô mai",
+            "price": "13,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soda thập cẩm",
+            "price": "10,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Soda siro",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda phô mai",
+            "price": "13,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Flan",
+            "price": "5,000(đ)",
+            "total_orders": "315"
+        },
+        {
+            "name": "Bánh flan dầm trà sữa",
+            "price": "15,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Bánh flan dầm socola sữa",
+            "price": "18,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Bánh flan dầm sữa tươi",
+            "price": "15,000(đ)",
+            "total_orders": "21"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ngân Trần",
+            "link": "https://www.foody.vn/thanh-vien/ngangemini116",
+            "score": "6.0",
+            "comment": "Trà sữa hơi ngọt, để đá tan ra uống là vừa, thạch phô mai ăn cũng được"
+        },
+        {
+            "user": "Kim Loan",
+            "link": "https://www.foody.vn/thanh-vien/loan99",
+            "score": "8.2",
+            "comment": "phải nói là cực nhiều topping  mình mua thêm 10k topping mà đầy ly,  hút lên lúc nào cũng có chân trâu và thạch 😂nhiều đến nỗi phải bỏ đi vì uống nhiều quá no 😁 thạch phomai thơm ngon, chân trâu dai mềm. Có 1 điều nhỏ không hài lòng là ít trà sữa và ly hơi nhỏ. Nếu mua thêm topping thì trà sữa sẽ ít và không đủ bỏ đá. Nói chung trà sữa của quán ngon, rẻ. Chỉ cần ly dài hơn xí để bỏ thêm trà sữa và đá là tuyệt vời ông mặt trời rồi😅"
+        },
+        {
+            "user": "khoai khoai",
+            "link": "https://www.foody.vn/thanh-vien/khoaikhoai15",
+            "score": 0,
+            "comment": "Trà sữa ở đây quá ngọt, vị ngọt gắt. Cho quá trời đá vẫn ko hết ngọt, uống ko nổi.Phục vụ tệ , mình kêu TS socola, . Nhân viên đem ra , socola nằm ở dưới, TS ở trên ,nhân viên tiết kiệm công đến nỗi không khuấy được ly TS cho socola tan đều. Mình phải tự lắc. Thiệt chán chưa từng thấy."
+        },
+        {
+            "user": "Như",
+            "link": "https://www.foody.vn/thanh-vien/peapea__",
+            "score": "7.6",
+            "comment": "Khá ngon. Nhưng gần đây thấy mùi vị có vẻ hơi đi xuống.  K ngon như trước nữa. Quán khá nhỏ,  chật,  tuy nhiên làm trà sữa lẹ."
+        },
+        {
+            "user": "MyMy181290",
+            "link": "https://www.foody.vn/thanh-vien/vuonglinh2112",
+            "score": 0,
+            "comment": "Trà sữa Bòn Bon là quán con bạn mình giới thiệu, quen uống bên DƯơng Đình Nghệ thôi. Từ hồi đó là kiểu trà sữa bán cho học sinh ở trường Chu Văn An, chỉ là 1 cái ly trơn rất bt, giá 15k rồi tới cả lúc nó lên cái ly in tên quán trên đó, đó giờ rất hài lòng, bạn bè nào cũng giới thiệu tới đó.Biết chi nhánh 2 cũng lâu rồi nhưng nhà gần chi nhánh 1 hơn nên thường là đi bên Dương Đình Nghệ thôi, mọi chuyện vẫn bình thường cho đến ngày hôm qua.Sau 1 thời gian chuyển sang trà sữa gần trường, bạn mình hứng lên nói thèm Bòn Bon, vậy là 2 đứa dắt nhau đi, mà nó đang gần chi nhánh 2 nên thôi cũng qua đó cho biết.Đi dọc đường tìm quán, lúc thấy lướt ngang thật tình mình không muốn vô lắm, chìm hơn so với các quán khác, lại nhìn không sạch sẽLúc vào thì thấy anh dắt xe cũng nhiệt tình, ok. Vào tới nhìn cái menu trên tường, lên giá rồi, nhưng vật giá leo thang, lên có 1k thì cũng ko đáng nói, ok. Tới màng gọi nước siêu hấp dẫn, nhân viên 3-4 ng mà ai cũng mặt như cái mền, 1 đống ra đó, có 2 bà nội nhìn khách có kiểu nửa con mắt thôi làm mình vô vùng khó chịuĐi tầm 9h nên không còn gì nhiều, chỉ có chân trâu với vài cục thạch rất bt, ko có gì đặc sắc, nói thẳng ra là nhìn mắc chán luôn, mấy cái khác còn châm chước, nhưng kẹo cũng không còn luôn, nói chung quá nản, mình có xem mấy bài review gần đây của các bạn, cũng còn kẹo nè, có này có kia nhưng thật sự thì CHẤT LƯỢNG VẪN GIẢM so với lúc trướcXong tính tiền, bảng giá 16k tính 18k hỏi vì sao thì nói do ngồi lại phòng máy lạnh, uh, cũng chấp nhận, tới khi vô phòng đó thì hỡi ơi mình CHỈ MUỐN BƯỚC RA NGAY. Phòng có mùi hôi, trang trí nhìn chán ko tưởng. Xuống cấp ko chịu sửa sang. CHỉ duy nhất cái chữ foody hay food gì đó chà bá mà nó xấu thôi roìi, thêm 2 bức hình mầy ly trà sữa nữa. Hết. Có mấy cái kệ, ko để làm gì hết, ko có 1 cái gì trên đó, nhìn vô duyên vô cùng.Quan trọng nữa là mấy cái giẻ lau bàn treo tè le trong phòng đó. Trời. Siêu mất mỹ quan & còn có chút mất vệ sinh nữa.bàn ở đây là kiểu bánh xe ô tô lắp kính lên, ngồi bệt cũng hay hay. Tầm 6~8 bàn, lúc đó 2 bàn có người, còn lại bàn nào cũng có ly ko ai thèm dọn, còn đúng 1 cái.Ngồi đó mà tức cho 2k tiền ngồi lại. KHOKNG CÓ BAO NHIÊU NHƯNG ngôì căn phòng như vậy, thà MUA VỀ NHÀ HAY RA BỜ KÈ NGỒI CHO MÁTkhông chỉ vậy, cái này về khách thôi nhưng cũng nói luôn là 1 đám khách ngồi đánh bài la lối um sùm luôn, làm khó chịu ghê.Còn nữa, menu không biết đời tám cố nào bong tróc tùm lum cũng ko buồn đổi cái mới đi trờiWifi thì nản ơi là nản, cứ chập chờn, buôn bán trà sữa đừng nói tiết kiệm tiền wifi nhaRồi ngồi 1 hơi cái là nhân viên lên \"nay quán e đóng cửa sớm đó nha\" tgì biết đám kia là khách quen rồi, nhưng còn mình với bạn mình chi?!? Ăn nói vậy hả trời >\"<Quán nào có cái kiểu phục vụ đó thì mình say goodbye luônVậy thôi đó, uống nhanh rồi về chứ ớn quáLúc có người nhờ mua về 2 ly đó mà thấy vậy thôi nghỉ, đi chỗ khác mua còn hơn, uổng cho lúc đầu phân vân giữa Lê Quang Sung với bòn bonÀ, vớt cho điểm cộng là a dắt xe ha, với bạn mình nói ở đây cho phô mai nhiều. Hết!Đây là lần cuối mình đến đây!!!"
+        }
+    ]
+}

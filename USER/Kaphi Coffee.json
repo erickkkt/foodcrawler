@@ -1,0 +1,42 @@
+{
+    "name": "Kaphi Coffee",
+    "link": "https://www.foody.vn/ho-chi-minh/kaphi-coffee",
+    "user_comments": [
+        {
+            "user": "Lài Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/gohan1995",
+            "score": "8.0",
+            "comment": "Matcha ở đây rất ngon, kem thơm, không quá ngọt...thử lần đầu tiên mà thích lun :D \r\nhầu như món nào cũng ok cả.....nước trà ở đây thơm và đặc biệt là có 1 quả nho ở trong... ^_^\r\nquán tuy hẹp nhưng không gian đẹp (tha hồ chụp choẹt) , cảm giác thoải mái, yên tĩnh ....\r\ngiá bình dân....anh nhân viên thân thiện :)))))))))))))\n...Xem thêm"
+        },
+        {
+            "user": "Huong Huong",
+            "link": "https://www.foody.vn/thanh-vien/huonghuong",
+            "score": "8.8",
+            "comment": "Vị trà xanh Nhật giống ở Phúc Long quá. Thích. Quán nho nhỏ nhưng cảnh đẹp nhiều.\nChụp cháy máy luôn.\n...Xem thêm"
+        },
+        {
+            "user": "Henry Tang",
+            "link": "https://www.foody.vn/thanh-vien/tangminhtri80",
+            "score": "7.2",
+            "comment": "Quán có không gian nhỏ nhưng ấm cúng. Không gian đẹp, hài hoà. Đồ uống cũng tạm . 😉 \nChụp hình check-in khỏi chê\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

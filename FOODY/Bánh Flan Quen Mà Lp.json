@@ -1,0 +1,307 @@
+{
+    "name": "Bánh Flan Quen Mà Lạ",
+    "link": "https://www.foody.vn/ho-chi-minh/banh-flan-quen-ma-la",
+    "address": "195 - 210 Lê Quang Sung, P. 6,  Quận 6, TP. HCM",
+    "open_time": "",
+    "price_range": "6.000đ - 15.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "61"
+    },
+    "foods": [
+        {
+            "name": "Flan truyền thống",
+            "price": "7,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Flan phô mai",
+            "price": "7,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Flan sầu riêng",
+            "price": "7,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Flan trà xanh",
+            "price": "7,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Flan chanh dây",
+            "price": "7,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Flan cà phê",
+            "price": "7,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Flan dứa",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Flan socola",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Flan mứt nho",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Flan mứt dâu",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Flan kiwi",
+            "price": "7,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Rau câu socola phô mai",
+            "price": "7,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Rau câu phô mai",
+            "price": "7,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Rau câu sầu riêng",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rau câu trà xanh flan",
+            "price": "7,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rau câu trái cây",
+            "price": "7,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Rau câu trà xanh phô mai",
+            "price": "7,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau câu quy linh cao",
+            "price": "7,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tàu hủ đào",
+            "price": "12,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Tàu hủ trà xanh",
+            "price": "12,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Tàu hủ truyền thống",
+            "price": "12,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tàu hủ socola",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tàu hủ dưa gang",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tàu hủ khoai môn",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tàu hủ dâu",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nui xào (sườn + trứng)",
+            "price": "23,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bột chiên (2 trứng)",
+            "price": "18,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tàu hủ (1 phần)",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xúc xích (1 cây)",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá viên chiên",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh hẹ, môn, sắn (dĩa)",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh sắn (cái)",
+            "price": "7,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh môn (cái)",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh hẹ (cái)",
+            "price": "7,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bột môn (trứng)",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bột môn (sườn)",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bột môn",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì gói xào",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nui xào (bò)",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nui xào (sườn)",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nui xào",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hủ tiếu xào (sườn + trứng)",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hủ tiếu xào (bò)",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hủ tiếu xào (sườn)",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hủ tiếu xào",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bột chiên (1 trứng)",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Nghia Tran",
+            "link": "https://www.foody.vn/thanh-vien/GaRi1993",
+            "score": "7.4",
+            "comment": "Quán bên 210 nhưng giữ xe bên 195.flan ăn cũng đc.nên thử rau câu trái cây,20k/1 cái ăn rất đáng đồng tiền.còn quy linh cao ăn vị hơi giống sương sáo.bn nào ko ăn quen thì ko nên kêu"
+        },
+        {
+            "user": "Chú Hề Đơn Độc",
+            "link": "https://www.foody.vn/thanh-vien/tuancaysao4",
+            "score": "8.6",
+            "comment": "Đường đang sửa nên đi hơi trơn. Gửi xe cách đó vài căn phía bên kia đường, có người canh nên yên tâm nhé.Quán nhỏ thôi, chỉ có 4 bàn trong nhà nên chỉ ngồi được tầm 12-16 người. Còn lại ngồi lề đường cũng mát mẻ, nhưng ngày nắng thì khá là bụi đấy.Bánh flan mềm, béo và thơm, ngọt vừa đủ cộng thêm nước dừa nên khá béo. Flan phô mai rất ngon, đậm vị phô mai, flan kiwi thì chua nhẹ vị phô mai, trà xanh đắng nhẹ thôi. Puding phúc bồn tử cũng ngon. Quán có thêm mấy món ăn nhẹ và ăn no như mì và nui và bột chiên. Thử dĩa nui xào sườn trứng thì nui hơi mềm, được cái nêm ngon và vừa miệng, thịt nướng ngon. Nhược điểm là cho mỡ hơi nhiều."
+        },
+        {
+            "user": "AnhKhoa",
+            "link": "https://www.foody.vn/thanh-vien/anhhkhoavip",
+            "score": "6.2",
+            "comment": "Quán khá đông , mấy cô nhiệt tình lại vui tính . Có điều quán nằm ở khá xa trung tâm nên đi hơi cực"
+        },
+        {
+            "user": "Vi Lam",
+            "link": "https://www.foody.vn/thanh-vien/tuongvi220698",
+            "score": "6.0",
+            "comment": "Vì gần nhà nên mình hay sang đây ăn, nay quán dời vào nhà rồi chứ không còn để ngoài sân bán nữa. Có chỗ giữ xe vẫn ở nguyên vị trí cũ. Đi tối nên quán đông lắm, nhưng mà sau khi kêu xong ra bàn ngồi thì bánh được bưng đến ngay.Mình gọi 2 flan phomai, 1 socola và 1 cà phê. Thì mình thấy phomai ngon nhất, còn socola và cà phê không rõ mùi lắm. Phần nước dừa sữa cà phê hôm nay có hơi ngọt hơn mọi lần hay ăn.Giá mỗi cái là 7k nên cứ nhân lên theo số lượng ăn thôi."
+        },
+        {
+            "user": "foodyuser_450187fe",
+            "link": "https://www.foody.vn/thanh-vien/foodyuser_450187fe",
+            "score": "6.2",
+            "comment": "Rất thích ăn bánh flan ở đây ngon mà rẻ.ghé quán lúc tối tối đông k có chỗ ngồi luôn.vị trí quán khá dễ tìm.nói chung rất ok"
+        }
+    ]
+}

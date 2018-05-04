@@ -1,0 +1,686 @@
+{
+    "name": "Moon Hàng Nước - Bành Văn Trân",
+    "link": "https://www.foody.vn/ho-chi-minh/moon-hang-nuoc-banh-van-tran",
+    "address": "181 Bành Văn Trân, P. 7,  Quận Tân Bình, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/moon-fast-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "8"
+    },
+    "foods": [
+        {
+            "name": "Trà sữa sốt kem phô mai",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hồng trà sốt kem phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà xanh sốt kem phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục trà xanh sốt kem phô mai",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục trà sữa sốt kem phô mai",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào sốt kem phô mai",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao sốt kem phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha sốt kem phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua cacao",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sữa chua dâu đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đào đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua vải đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua việt quất đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua kiwi đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua xoài đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa dâu",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa đào",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa vải",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa việt quất",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa kiwi",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa dừa xoài",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito chanh",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito dâu",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito đào",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito vải",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito việt quất",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito kiwi",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito xoài",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà dâu dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà vải dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà việt quất dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà kiwi dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà xoài dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà ổi",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào tươi",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà trái vải",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà hoa Atiso",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà mật ong",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà bạc hà",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục trà chanh",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Deep Blue",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Blue mint",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda dâu",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda đào",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda vải",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda kiwi",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda xoài",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda hoa Atiso",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dâu dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Xoài dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước dâu dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước đào dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước vải  dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước việt quất dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước kiwi dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước xoài dằm",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đào dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vải dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Việt quất dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kiwi  dầm sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa phô mai tươi",
+            "price": "22,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "17,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lục trà sữa",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa dâu",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa vải",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa việt quất",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa kiwi",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa xoài",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa sương sáo",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa thạch",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa pudding trà xanh",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa pudding cacao",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa pudding dừa",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa pudding sầu riêng",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha hạt dẻ",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cacao sữa",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà phê đen đá",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa đá",
+            "price": "19,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê dừa",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê 3 tầng",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha mint",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha latte",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dừa xay trái cây",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dừa xay cacao",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dừa xay cà phê",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dừa xay sầu riêng",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha xay",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha mint",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cookie xay",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola Dynamite",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola dừa",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola sầu riêng",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola khoai môn",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola chuối",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha xay",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha Oreo",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha dừa",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha chuối",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha cà phê",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha mint",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Smoothie dâu đá xay",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Smoothie đào đá xay",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Smoothie việt quất đá xay",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Smoothie kiwi  đá xay",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Smoothie sữa xay",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh đá xay",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Phô mai xay socola",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Phô mai xay dâu",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Phô mai xay đào",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Phô mai xay việt quất",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Phô mai xay kiwi",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh nướng nhân trứng sữa",
+            "price": "8,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh nướng nhân phô mai",
+            "price": "8,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh nướng nhân phô mai chà bông",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh nướng nhân cà ri gà xé",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh nướng nhân gà xé nấm",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Thoa Trần",
+            "link": "https://www.foody.vn/thanh-vien/kimthoabca",
+            "score": "7.0",
+            "comment": "Quán trang trí cũng dễ thương, khá đơn giản, sống ảo ok luôn, có chia khi vực bên ngoài cho ai hút thuốc. Hôm mình đi ngồi cả buổi tối ko có thêm khách nào, vắng tanh. Vì ko có khách nên chị chủ tắt máy lạnh, có người vào mới mở, nên hơi có mùi xíu và muỗi. Đồ uống đa dạng, cũng khá ngon, mà hơi loãng, giá rẻ, hợp lí cho các bạn học sinh sinh viên."
+        },
+        {
+            "user": "Hoàn  Đinh",
+            "link": "https://www.foody.vn/thanh-vien/lucy.bin2401",
+            "score": "9.0",
+            "comment": "Đường Bành Văn Trân gần khúc vào nhà thờ Chí Hòa, gần quán ăn Thiên Ân gần đó. Moon hàng nứơc là bắt nguồn từ Moon Fast Food nhưng thuộc về lĩnh vực nứơc uống. Menu rất đa dạng, tùy sở thích, đá xay, trà sữa, trái cây dằm,... Quán khá rộng, nhiều bàn ghế, có máy lạnh, nhạc yên tĩnh, mới mở nên chưa đựơc nhiều người ghé, quán đôi khi còn hơi vắng, phù hợp cho ai thích không gian yên tĩnh. Moon hàng nứơc với trà sữa kèm trân châu là auto trâm châu trắng, ăn khá là ngon, phô mai tươi hơi béo nhưng ok. Nếu không biết chọn gì thì có thể nhờ nhân Viên gợi ý, nhân Viên ở đây nhịêt tình, năng động, hay vui cườiGiá của quán thuộc tầm trung, rẻ, phù hợp vs sinh Viên học sinh. Sẽ ghé lại"
+        },
+        {
+            "user": "Thủy Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/thynguyn2545",
+            "score": "9.2",
+            "comment": "Hôm nay ghé uống thử trà sữa sốt phô mai thấy béo ngon. Quán bị khuất vs bảng hiệu tối nên khó thấy. Sau này sẽ ghé tiếp"
+        },
+        {
+            "user": "Hoàn  Đinh",
+            "link": "https://www.foody.vn/thanh-vien/lucy.bin2401",
+            "score": "6.0",
+            "comment": "Vị trí rất dễ thấy, gần chỗ học thêm cũ của mình, quán khá vắng chắc có lẽ vì mới mở, khá yên tĩnh, thích hợp cho các bạn học bài vào các dip thi. Nứơc ở đây uống tạm nhưng là đúng với mức giá như v. Nhân Viên khá thân thiện, có lẽ sẽ quay lại"
+        },
+        {
+            "user": "Nhi Lê",
+            "link": "https://www.foody.vn/thanh-vien/lenhi4396",
+            "score": "9.2",
+            "comment": "Quán mới mở nên còn khá vắng. Menu đa dạng nhiều loại nước giá hạt dẻ. Mình thử 2 loại là mocha vs trà sữa uống rất ngon béo béo thơn thơm đặc biệt ở quán có trân châu trắng giòn giòn ăn lạ miệng. Quán chia 2 khu: hút thuốc ngồi ở ngoài còn không hút thuốc ngồi bên trong máy lạnh. Bên trong trang trí dễ thương,không gian thoải mái yên tĩnh."
+        }
+    ]
+}

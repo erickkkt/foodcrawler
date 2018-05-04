@@ -1,0 +1,80 @@
+{
+    "name": "Gogi House - Quán Nướng Hàn Quốc - Vincom Thủ Đức",
+    "link": "https://www.foody.vn/ho-chi-minh/gogi-house-quan-nuong-han-quoc-vincom-thu-duc",
+    "address": "Tầng 3 Vincom Thủ Đức, 216 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "79.000đ - 250.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/gogi-house-quan-nuong-han-quoc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "94"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hannah Vũ",
+            "link": "https://www.foody.vn/thanh-vien/chocolate_love2401",
+            "score": "8.4",
+            "comment": "Lâu r mới quay lại quán. Chất lượng đồ ăn vẫn rất ngon mà hôm nay chắc do quán đông nên đồ ăn lên chậm quá. Đặt bàn trước mà bị ngồi ngay góc trong của quán k có máy lạnh mà ăn đồ nướng nên nóng ghê gớm. Nhân viên khá thân thiện lịch sự. Sẽ ủng hộ quán"
+        },
+        {
+            "user": "Tank Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/tanknguyen00",
+            "score": "7.8",
+            "comment": "Ở đây chắc đã đổi quản lý, cách phục vụ chưa tốt, phải yêu cầu thay vỉ, dù khách không đông nhưng không quan tâm khách như trước. Còn mọi thứ khác vẫn ok"
+        },
+        {
+            "user": "Huy Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/moriyasu",
+            "score": "7.6",
+            "comment": "Không gian sang trọng, rộng rãi. Nhân viên nhanh nhẹn nhiệt tình. Đồ ăn ra nhanh. Nước sốt ngon. Thịt tươi ngon. Có món ăn kèm khá ngon. Giá cả phù hợp cho gia đình đi ăn."
+        },
+        {
+            "user": "Yến Nhi Nguyễn Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/myxinhdep96",
+            "score": "8.8",
+            "comment": "Trong các nhánh Gogi mình thích và hay đi nhánh Thủ Đức nhất. Do ở đây panchan đầy đủ hơn, gọi món ra nhanh hơn, nhân viên phục vụ nhanh nhẹn và chu đáo hơn. Chất lượng món ăn thì nhánh nào chắc cũng như nhau. Ở đây t2-t6 buổi trưa có set trưa rẻ hơn ở một số nhánh khác. Tuy nhiên thỉnh thoảng hải sản có không được tươi. Như ở dưới hình đính kèm là hôm bạch tuột tươi ấy, hôm nào không tươi mình không chụp. Nhìn chung là mình khá hài lòng với nhánh Gogi này."
+        },
+        {
+            "user": "Tiên",
+            "link": "https://www.foody.vn/thanh-vien/tiensunny",
+            "score": 0,
+            "comment": "Tuần trước mình có cùng bạn đi GoGi house chi nhánh này. Có lẽ vì là ngày thứ bảy nên khách khá đông. Mình có gọi 3 phần cơm trộn và đồ nướng và lần đầu tiên mình thất vọng với gogi house ! Cơm trộn đợi lâu là điều hiển nhiên nên mình không nói tới. Nhưng mà cơm nhạt giống như gia vị ko đủ nên ko đậm đà như những lần trước mình ăn. Cả thịt nướng cũng vậy. Lần đầu mình gọi thịt thì nhạt. Lần hai mình gọi thỳ vừa ăn chút. Gia vị lúc này lúc kia."
+        }
+    ]
+}

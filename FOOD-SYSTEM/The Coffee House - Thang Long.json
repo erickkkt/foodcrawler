@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Thăng Long",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-thang-long",
+    "address": "51 Thăng Long, P. 4,  Quận Tân Bình, TP. HCM",
+    "open_time": "07:30 AM - 10:00 PM",
+    "price_range": "30.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "13"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hà Minh Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/haminhngoc2015",
+            "score": "6.6",
+            "comment": "Không nói về đồ uống ở hệ thống TCH nữa, vì ở đâu cũng giống nhau và rất ngon. Mình chỉ bàn đến không gian, so với những chi nhánh TCH mình hay ngồi thì chi nhánh Thăng Long khá nhỏ, ngày mình đi là ngày trong tuần nên không quá đông và cảm thấy ngột ngạt. Bàn ghế ở chi nhành này đa số là bàn thấp ngang ghế, mình không thích lắm, nhưng bàn cao thì rất ít. View ở đây cũng không thích như những chi nhánh khác, nói chung chắc sẽ không quay lại chi nhánh này vì mình không thích không gian ở đây."
+        },
+        {
+            "user": "Minh Hang",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthiminhhang2403",
+            "score": 0,
+            "comment": "Mình đi hệ thống cfh nhìu rồi, lần này đi thử bên đây vì thấy review cũng tốt. Đi vào cuối tuần nên quán đông. Mình đến chủ yếu để học mà bàn ghế ở đây đa số nhỏ và thấp. Máy lạnh thì lạnh muốn teo, chị ngồi cạnh bàn mình phải trùm kính từ đầu tới chân. Không gian cũng khá ồn vì có gia đình và con nít.Mình order trà đào size nhỏ mà cuối cùng ra bill size lớn ==. Cũng chẳng có ai châm nước cả.Nói chung là đi thử cho biết chứ chắc ko quay lại vì ko ấn tượng lắm."
+        },
+        {
+            "user": "UT UT",
+            "link": "https://www.foody.vn/thanh-vien/uyentrinh1102",
+            "score": "8.2",
+            "comment": "Quán này mằm ngay trước nhà mình nên rất hay ra uống. Không gian quán thoáng, nhiều chỗ ngồi khá yên tĩnh rất thích hợp cho việc học nhóm, bàn công việc. Quán còn có view nhìn ra ngoài đường rất đẹp, mỗi lần trời mưa nhìn ra đường thì rất tuyệt vời 👍🏻👍🏻👍🏻. Đồ uống thì tại các the coffee house thì đều vừa miệng, giá tương đối ổn định. Nhân viên ở đây thì cực kì thân thiện, mình rất thích cách phục vụ này. Mọi người có thể đến đây buổi sáng hoạc tầm chiều tối nên né lúc 17h00 vì lúc này ở đây kẹt xe. Chúc mọi người ngon miệng ☺️☺️☺️"
+        },
+        {
+            "user": "Đặng Trung",
+            "link": "https://www.foody.vn/thanh-vien/hoangtu_panda1994",
+            "score": "8.4",
+            "comment": "👉🏻món mới: xoài dừa đá xay 👉🏻hút một hơi là cảm nhận ngay hương dừa thơm lừng ngọt dịu bên trên là lớp xoài đươc cắt miếng vừa ăn chua chua ngọt ngọt ăn là ghiền đó. Kèm theo là 1 tách sirup xoài nữa rưới lên trên ăn kèm đóLạnh quá thôi chứ ngon nhé59k cho buổi sáng chủ nhật nhẹ nhàng và đậm vị K chụp ảnh quán vì quán đẹp rồi"
+        },
+        {
+            "user": "Nga Trần",
+            "link": "https://www.foody.vn/thanh-vien/pebap_lovely",
+            "score": "9.0",
+            "comment": "Quán này gần nhà nên mình hay ghé. Mà đoạn đường này ko phải mặt tiền lớn nên ko bị đông như những chi nhánh khác. Bữa nay có app tích điểm của TCH rồi nha nên xài lun. Uống TCH cũng nhiều rồi nói chung là món nào cũng ưng hết._Black Tea Macchiato - 38k là món ruột mỗi khi đến quán và chưa bao giờ làm mình thất vọng._Mocha Ice Blended - 59k chọn món này vì cái ly nhìn quá hấp dẫn. Nhìn đẹp uống cũng ngon nha. Ko có gì để chê._Muffin - 19k bánh ngon và to.Nhân viên dễ thương, wifi mạnh, không gian rộng và đẹp. Có quầy nước lọc tự phục vụ."
+        }
+    ]
+}

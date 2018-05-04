@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Bùi Hữu Nghĩa",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-bui-huu-nghia",
+    "address": "270 Bùi Hữu Nghĩa, P. 2,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "09:00 - 22:00",
+    "price_range": "30.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "9.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "9.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "9.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.1"
+        }
+    ],
+    "summary": {
+        "average_score": "8.9",
+        "total_review": "7"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Buổi chiều đó mình ghé quán để có không gian đọc thêm 1 số tài liệu, và tất nhiên món mình order vẫn là black tea Macchiato. Mình thích món này vì lớp kem béo, trà đậm vị và chiếc li dễ thương này. ^^ nhân viên ở đây thì cực kì dễ thương, càng tiện lợi hơn khi quán nằm ngay đầu hẻm nhà mình. View đẹp, không gian yên tĩnh, không quá đông, thích hợp cho những ai muốn tìm không gian học hay làm việc như mình ^^"
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Mình thích Black tea machiato ở đây lắm, hôm nay ly bự form đẹp, li nhựa cứng dễ thương ghê. Kem foam béo, thơm, trà đen đậm vị, ngọt vừa, mình thích lắc lên rồi uống, ngon hơn. Hi nhân viên ở đây dễ thương, view đẹp, đặc biệt là gần nhà ngoại. Mình thích và sẽ quay lại"
+        },
+        {
+            "user": "Nhung Phạm",
+            "link": "https://www.foody.vn/thanh-vien/heoconshynk",
+            "score": "8.4",
+            "comment": "Nhờ mconnect cho mã giảm 20k nên ghé quán mua bánh mì chà bông trứng muối huyền thoại về ăn^^*Vị trí: ngay góc của vòng xoay bùi hữu nghĩa, rất dễ tìm thấy quán.*Không gian: do quán mới sửa lại, nên nhìn rộng rãi, thoáng mát hơn hẳn, có rất nhiều chỗ ngồi, có lầu nữa. Còn hồi trước vừa bước vô quán cảm thấy hơi choáng ngợp, quán hơi nhỏ về diện tích, nên rất chật hẹp.*Thức ăn: món bánh này thì khỏi phải chê rồi, gồm lớp kem trứng muối ngọt beo béo + lớp chà bông cay cay hòa quyện^^*Giá: 25k/ 1 cái bánh không quá mắc.*Phục vụ: bác bảo vệ và cả nhân viên ai cũng vui vẻ, nhiệt tình."
+        },
+        {
+            "user": "Mỹ Anh Nguyễn Thị",
+            "link": "https://www.foody.vn/thanh-vien/myanh6a2tvo",
+            "score": "8.2",
+            "comment": "chi nhánh mới của The Coffee House hay sao ấy tại lâu rồi mình quay lại khu này thì mới thấy mở. Nhìn không gian chung thì cũng đc. có anh nhân viên kia phục vụ cũng nhiệt tình. lúc đầu thấy đồ sạc mình để xa tầm tay bất tiện nên chỉ mình chỗ ổ cắm khác dưới gầm bàn rồi cúi xuống cắm dùm mình luôn. thật sự cảm ơn anh nhân viên ấy rất nhiều"
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Chi nhánh này mới mở được tầm 1 tháng, vì đầu hẻm nhà ngoại mình nên khá tiện cho mình. Hihi. Hôm đó là chủ nhật, trong lúc chờ đợi photographer tới thì mình ên lết vô đây, do hôm thư 7 uống machiato nhiều rồi nên đổi món, gọi soda việt quất với 1 tiramisu đổi món. ^^ việt quất là dạng trái ngâm, còn cái chứ không phải là siro không, nên uống rất thích, ngọt vừa, đậm vị. Bánh ăn ok, giá rẽ so với chất lượng. Nhân viên rất dễ thương, đặ biệt là anh quản lí cực kì nhiệt tình và lịch sự. Không gian quán rộng đẹp. ^^ nhân viên bảo vệ cũng bao dễ thương. Hi sẽ ghé dài dài"
+        }
+    ]
+}

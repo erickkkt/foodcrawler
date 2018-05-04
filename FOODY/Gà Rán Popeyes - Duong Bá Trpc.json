@@ -1,0 +1,316 @@
+{
+    "name": "Gà Rán Popeyes - Dương Bá Trạc",
+    "link": "https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-duong-ba-trac",
+    "address": "222 Dương Bá Trạc, P. 2,  Quận 8, TP. HCM",
+    "open_time": "09:30 AM - 09:00 PM",
+    "price_range": "40.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/ga-ran-popeyes?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "51"
+    },
+    "foods": [
+        {
+            "name": "Gà không xương - Giờ vàng giảm giá 50%. Từ 14h - 17h hàng ngày (trừ thứ 4)",
+            "price": "69,000(đ)",
+            "total_orders": "108"
+        },
+        {
+            "name": "2 miếng gà giòn + 1 ly nước",
+            "price": "91,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "3 miếng gà giòn + 1 ly nước",
+            "price": "127,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Cơm gà giòn",
+            "price": "39,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Cơm gà giòn không xương",
+            "price": "39,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Burger gà Cajun",
+            "price": "39,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Burger gà Creole",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cơm phi-lê cá rán",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cơm cà ri thái",
+            "price": "45,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Combo 2 người - Gà phủ cà ri Thái",
+            "price": "99,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Combo 1 người - Gà phủ cà ri Thái",
+            "price": "86,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Gà phủ cà ri Thái",
+            "price": "38,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Combo 3 người - Gà phủ cà ri Thái",
+            "price": "159,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Gà giòn không cay",
+            "price": "36,000(đ)",
+            "total_orders": "318"
+        },
+        {
+            "name": "Combo gà giòn không cay (3 miếng)",
+            "price": "110,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Combo gà giòn không cay (2 miếng)",
+            "price": "82,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Gà giòn cay",
+            "price": "36,000(đ)",
+            "total_orders": "645"
+        },
+        {
+            "name": "Combo gà giòn cay (3 miếng)",
+            "price": "110,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Combo gà giòn cay (2 miếng)",
+            "price": "82,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Combo gà không xương 5 miếng",
+            "price": "89,000(đ)",
+            "total_orders": "211"
+        },
+        {
+            "name": "3 miếng gà không xương",
+            "price": "55,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "5 miếng gà không xương",
+            "price": "75,000(đ)",
+            "total_orders": "170"
+        },
+        {
+            "name": "Combo gà không xương 3 miếng",
+            "price": "69,000(đ)",
+            "total_orders": "151"
+        },
+        {
+            "name": "Combo A",
+            "price": "299,000(đ)",
+            "total_orders": "190"
+        },
+        {
+            "name": "Combo B",
+            "price": "299,000(đ)",
+            "total_orders": "107"
+        },
+        {
+            "name": "Phi lê cá rán",
+            "price": "46,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Combo phi lê cá rán",
+            "price": "62,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Burger tôm",
+            "price": "39,000(đ)",
+            "total_orders": "185"
+        },
+        {
+            "name": "Burger gà cajun",
+            "price": "54,000(đ)",
+            "total_orders": "77"
+        },
+        {
+            "name": "Combo Burger gà",
+            "price": "72,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Burger cá cajun",
+            "price": "54,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Burger gà creole",
+            "price": "54,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Combo Burger tôm",
+            "price": "63,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Combo Burger cá cajun",
+            "price": "72,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "29,000(đ)",
+            "total_orders": "694"
+        },
+        {
+            "name": "Bánh nướng mật ong",
+            "price": "9,000(đ)",
+            "total_orders": "466"
+        },
+        {
+            "name": "Khoai tây nghiền",
+            "price": "19,000(đ)",
+            "total_orders": "254"
+        },
+        {
+            "name": "Bắp cải trộn",
+            "price": "19,000(đ)",
+            "total_orders": "230"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "10,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Coca cola",
+            "price": "19,000(đ)",
+            "total_orders": "160"
+        },
+        {
+            "name": "Coca cola light",
+            "price": "19,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Sprite",
+            "price": "19,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Fanta",
+            "price": "19,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Dasani",
+            "price": "19,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Fanta 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Coca 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sprite 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Zen Bấybì",
+            "link": "https://www.foody.vn/thanh-vien/zenbaby",
+            "score": "6.4",
+            "comment": "Đến quán vào lúc trưa Cảm nhận đầu tiên là quán đôngGà ướp vị vừa miệng thấm vào thịt. Thích nhất là điểm refill nc ngọt với lại các nhân viên rất nhiệt tình . Rất thích anh quản lý nước chuyện rất ngọt tận tình với kháchLúc rảnh sẽ đến ủng hộ tiếpCó gọi thêm phần cơm gà với khoai tây nhưng quên chụp mất tiêu oy"
+        },
+        {
+            "user": "sky nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/sky.nt05",
+            "score": 0,
+            "comment": "Lần đầu tiên đến thẳng tiệm ăn và có vài điều muốn nói:1. Bạn mình chưa biết gọi món gì nên đứng chần chờ 1 tí thì bạn nhân viên nữ đang đứng order cho mình vẻ mặt khó chịu rồi bỏ đi chỗ khác, 1 bạn nhân viên nam khác thấy vậy nên chạy lại order cho tụi mình. Lúc đó tình trạng quầy order chỉ có 2 đứa mình nên không có gì gấp gấp mà làm vẻ mặt đó với tụi mình.2. Mình đi 2 người, kêu 2 phần nhưng mà phần bánh trong congo hết nên bạn nhân viên nam gợi ý đổi sang cái khác và tụi mình quyết định ăn cơm. Đi 2 đứa mà để 2 cục cơm múc sẵn vào 1 CÁI ĐĨA, muốn tụi mình ăn làm sao? Mình nhờ bạn nhân viên nữ để riêng 2 đĩa dùm thì mặt bạn đó tiếp tục khó chịu.3. Lúc đó trong tiệm có 1 nhóm trẻ em quậy, phá nên rất ồn, các bạn nhắc hoài không được nên bực mình, ok mình cũng bực nhưng làm ơn đừng trút cái bực lên mình. Phần ăn mình mới dùng xong, ly nước mới rốt đầy, mình đứng dậy đi rửa tay, bạn mình vẫn ngồi đó thì bạn nhân viên nam từ đâu đi tới đẹp luôn cái mâm có luôn ly nước mới rốt của mình đi 1 hơi mà không hỏi bạn mình lấy 1 câu. Mình lại quầy nói thì các bạn cười trừ đưa mình 1ly khác rồi xin lỗi cho qua như chuyện bình thường.Cũng là làm dịch vụ như các bạn mà mình chưa dám có thái độ như vậy với khách hàng bao giờ. Lần đầu cũng là lần cuối. Mình không dám quay lại đâu."
+        },
+        {
+            "user": "ninhktran",
+            "link": "https://www.foody.vn/thanh-vien/ninhktran",
+            "score": "6.8",
+            "comment": "mình thấy gà ngon lắm lại hay có nhiều giảm giá nữa. nhưng còn phục vụ thì chưa tốt lắm. lúc mình vào bàn và sàn rất dơ bẩn, có vẻ như không có quét dọn gì nhiều. còn đối với nhân viên thì rất thân thiện, tận tình"
+        },
+        {
+            "user": "Du Lam",
+            "link": "https://www.foody.vn/thanh-vien/sag_nohy",
+            "score": "6.6",
+            "comment": "Có coupon của foody nên đi mua ăn.Được 2 miếng gà, 1ly pepsi refill với giá 57k. Gọi thêm khoai chiên 29k nữa là 86k. Tính ra coupon còn mắc hơn mua bằng combo bình thường. Combo bằng giá mà còn thêm bánh. ;( Gà hơi mặn, wasabi hăng hăng. Tổng thể thì giống ăn kèm gói gia vị của mì gói :v Gà to, da giòn.Khoai tây thì chắc mình chạy xe về nên bị mềm hết ngon, chứ bình thường thích khoai tây Popeyes lắm. Mà kỳ này cảm giác ít ít.2 miếng gà và khoai tây mà cho có 1 gói tương ớt 1 tương cà à :( hok tâm lý j hết"
+        },
+        {
+            "user": "Phuong Yen",
+            "link": "https://www.foody.vn/thanh-vien/yenphuong402",
+            "score": "8.6",
+            "comment": "Mình rất thích ăn Gà tại địa chỉ này. Quán dễ tìm, nổi bật và luôn đông khách. Nhất là thứ 4, phải mua mang về chứ không có chỗ ngồi luôn. Vì đông khách nên lúc nào gà cũng nóng và ngon. Mình hay tranh thủ đi vào thứ 4 hoặc lấy voucher trên foody nên tiết kiệm được 1 khoản chi phí. Nhân viên vui vẻ, nhiệt tình. Chỗ gửi xe rộng rãi. Thỉnh thoảng thèm ăn Gà là ghé ngay."
+        }
+    ]
+}

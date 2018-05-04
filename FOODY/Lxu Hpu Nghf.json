@@ -1,0 +1,76 @@
+{
+    "name": "Lẩu Hữu Nghị",
+    "link": "https://www.foody.vn/ho-chi-minh/lau-huu-nghi",
+    "address": "149 Tùng Thiện Vương, P. 11,  Quận 8, TP. HCM",
+    "open_time": "",
+    "price_range": "50.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "52"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Vũ Võ",
+            "link": "https://www.foody.vn/thanh-vien/vovu1995",
+            "score": "7.4",
+            "comment": "Nói chung lần đầu ăn và cảm thấy rất ok á nha.giá cà thì cũng tạm thôi chứ sinh viên mình mà ăn 2 đứa gần 200k cho 1 cái lẩu.bù cái đó chính là ngon và nhìn thấy cũng sạch sẽ nữa,. nước dùng thì cũng ngon và rau các thứ thì cũng được không có gì phải chê hết á.dịch vụ thì tốt và nhanh nhẹn.khi ăn hải sản thái thì thấy không cay lắm và rất vừa miệng ăn. nói chung nước dùng thì ốn lắm luôn.điều khen nhất chính là phần hải sàn bên trong thì cảm thấy nó còn tươi và ngọt ngon của vị tự nhiên.lần đầu ăn ở quán và cảm thấy tin dùng các món ở đây rồi.chắc lần sau tranh thù ghé ăn một số món lẩu khác tại quán thêm nữa.cũng khuyên mọi người tới quán để thưởng thức các món ăn ngon tại nơi này đi nhé. để có những trãi nghiệm giống mình nè."
+        },
+        {
+            "user": "Yoo Cáo",
+            "link": "https://www.foody.vn/thanh-vien/girl_ngungo21",
+            "score": "7.6",
+            "comment": "Lẩu nêm ngon, đậm đà, các món ăn khác nêm cũng khá ok. Ghế hơi thấp và sát, ngồi bên trong hơi khó chịu, ổn và hầm, ngồi ngoài thì sẽ mát hơn ạ."
+        },
+        {
+            "user": "Oh Yuri",
+            "link": "https://www.foody.vn/thanh-vien/zminhquan01",
+            "score": 0,
+            "comment": "Đã ăn ở Lẩu Hữu Nghị khá lâu nhưng cũng đến lúc phải suy nghĩ lại- Phục vụ tệ- Ăn không được tự nhiên khi mà N.v cứ nhìn Chằm Chằm hoài (Vị trí ngồi ngoài)- Quán bán lẩu rất ngon nhất là Lẩu Uyên Ương- Hi vọng sẽ quay trở lại..."
+        },
+        {
+            "user": "Zu Ngoan Ngoãn",
+            "link": "https://www.foody.vn/thanh-vien/zu.lun3b",
+            "score": "7.2",
+            "comment": "Hồi đó mình tòan ăn bên lẩu 60 nhưng từ khi ăn thử bên đây thì bỏ 60 luôn ăn bên đây thôi.* Quán buổi tối đông lắm luôn, quán rộng nhưng mà nhiều khi không còn chỗ ngồi. Do quán cũng bình dân nhưng nhìn không sạch sẽ lắm nhưng không sao.* Mình hay ăn lẩu uyên ương, bên lẩu thái bên thập cẩm. Nứơc lẩu thái chua cay ngon, nứơc lẩu thập cẩm thơm cunng ngon thấm mùi. Mực chiên gìon nhìn ngon mà ăn cũng ổn nữa.* Tính lẩu với mực rồi thêm mì nứoc ngọt các thứ cũng khỏang 200k 2 người tính ra cũng không mắc cho 1 nồi lẩu ngon với no căng. 😀* Nhưng lưu ý tí về khâu tính tìên ghi tờ gíây tính mà đọc có nhìêu chỗ không hiểu phải đóan đại không với lại nhiều khi tính tìên cũng hơi ẩu tốt nhất nên kỉểm tra kĩ lại bill. ☺"
+        },
+        {
+            "user": "Kat Trịnh",
+            "link": "https://www.foody.vn/thanh-vien/kattrinh1906",
+            "score": "6.0",
+            "comment": "Lẩu ở đây thì ngon rồi, Lúc nào cũng đông, giá hợp lý, 2 người ăn cỡ <300 là no căng. Mà mình khuyên các bạn k nên ăn tôm ở đây, nhìn con tôm là biết có tiêm thuốc, ăn vào giòn như rau câu. Vì quán bình dân nên phải chịu cách phục vụ k niềm nở rồi."
+        }
+    ]
+}

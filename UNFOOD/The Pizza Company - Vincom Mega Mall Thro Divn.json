@@ -1,0 +1,84 @@
+{
+    "name": "The Pizza Company - Vincom Mega Mall Thảo Điền",
+    "link": "https://www.foody.vn/ho-chi-minh/the-pizza-company-vincom-thao-dien",
+    "address": "Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền,  Quận 2, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "50.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Tiệc tận nơi",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiec-tan-noi"
+        },
+        {
+            "category": "Tây Âu",
+            "link": "https://www.foody.vn/ho-chi-minh/tiec-tan-noi-phong-cach-tay-au"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-pizza-company?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "48"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Thành Bùi",
+            "link": "https://www.foody.vn/thanh-vien/lookoveryou71096",
+            "score": "8.0",
+            "comment": "Lần đầu ăn ở pizza company tuy có hơi đắt hơn pizza hut hay domino nhưng chất lượng đi đôi với giá cả. Nay gọi combo 399k với 2 mì ý. Mình đi 3 người thực sự lỡ mồm gọi nhiều quá nên ăn ko hết. Pizza bánh giòn. Phô mai ăn rất đã. Cái bánh nhìn gần giống như trong hình không như một số quán khác treo đầu dê bán thịt chó. Mì ý sợi mềm vừa phải không bị cứng hay mềm quá. Salad sốt rất vừa ăn. Tuy nhiên cánh gà chiên hơi mặn. Phục vụ ok. Sạch sẽ. Sẽ quay lại 👍👍👍"
+        },
+        {
+            "user": "Thùy Thân",
+            "link": "https://www.foody.vn/thanh-vien/thanthuy2608",
+            "score": "7.6",
+            "comment": "Pizza thì mình rất thích Pizza ở đây ăn ở đây cũng tầm 3 4 lần , do làm vừa ăn không bị ngán như những tiệm khác, các quán khác mình chỉ ăn được 1-2 miếng, do ngán quá. Pizza đây làm mềm, topic ngon! Mình thích pizza đế dày hơn, ăn nghe rõ vị hơn, thích hơn! Ngoài ra thì spagetti ở đây cũng rất ngon. Ăn nó cứ béo béo nhưng không gây ngán. Phục vụ thì mình không thích cho lắm. Chắc có lẽ do lúc đó đông quá nên chờ kêu được 1 nguwoif để chăm nước thêm cũng khó kêu được. Vị trí thì nằm trong TTTM nên cứ shopping thả ga đi rồi khi nào đói thì lết vào ăn thôi.Không gian thì khỏi phải bàn rồi. Ok vô cùng!"
+        },
+        {
+            "user": "Donut",
+            "link": "https://www.foody.vn/thanh-vien/ahdaong",
+            "score": "9.0",
+            "comment": "Bánh ngon lắm ạ. Và cực thích cách phục vụ của anh chị nhân viên ở đây luôn. Lúc về mình có nhờ chỗ gửi đồ anh chị cũng giữ đồ giúp giùm mình. Nói chung là GOOD!!!! \rSẽ quay lại."
+        },
+        {
+            "user": "Tee Lee",
+            "link": "https://www.foody.vn/thanh-vien/thi.deo1405",
+            "score": "7.4",
+            "comment": "Bữa mình được bạn mời đi ăn nên phải tranh thủ hí hí. Mình đi cách đây 2 tuần trước thì đang chạy deal sinh viên 49k/bánh tính ra ăn cũng ok đó. Tụi mình gọi Salad đặc sắc size nhỏ 49k: khá chất lượng ăn kèm mayo dễ ăn nèMỳ ý cay với thịt xông khói: huhu, riêng món này thiệt buồn vì ăn nó ko cay vị thì bình thường mà mì còn bị rã kiểu bị cắt khúc nhỏ :( mình nghĩ do chia phần sẵn ròi để vô micro quay lại thôi nên vừa order xong đã bưng ra trước cả pizza :((Pizza đế siêu mỏng cá ngừ: dù màu sắc ko được bắt mắt nhưng thề là ăn ok lắm đó mấy bạnPizza đế siêu mỏng xúc xích: cái này thì màu sắc lung linh hơn xíu nhưng ăn thì bình thường lắmPanna cotta: ăn cũng ok nè nhìn dễ thương❤️Chốt thì pizza tầm phân khúc vừa tiền thì với mình Company nhất ❤️"
+        },
+        {
+            "user": "Cachua Cachon",
+            "link": "https://www.foody.vn/thanh-vien/comahirake",
+            "score": "8.0",
+            "comment": "Pizza kiểu chicago đế dầy nhưng dòn. Phô mai thì nhiều khỏi chê.Xốt nền rất ngon và nhiều nên ăn bánh không có cảm giác khô.Combo này hợp lí cho trường hợp đi ít người."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Nguyễn Thị Thập",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-thi-thap",
+    "address": "313 Nguyễn Thị Thập,  Quận 7, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "35.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "101"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "foodee_j1s9bi0d",
+            "link": "https://www.foody.vn/thanh-vien/foodee_j1s9bi0d",
+            "score": "7.6",
+            "comment": "Trong số các TCH thì ở đây rộng rãi thoải mái nhất nè! Mấy loại trà mới nhìn khá hấp dẫn. Giá cả thì chấp nhận được nhưng cafe thì tất nhiên không ngon bằng so với Starbuck rồi, tuy nhiên so với bean hay highland thì vẫn ok nha nha mọi ngườiMình thích uống mấy cái trà bên này hơn, bánh thì không phong phú và.  C cũng không c có ngon cho lắn mấy. Mấy quán ở ngoài trung tâm thì siêu đông luôn vô nhiều khi không có chỗ để ngồi, phải đợi một lúc. Nhưng bên nguyễn thị thập thì rộng rãi"
+        },
+        {
+            "user": "Hana Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/giaahaan0610",
+            "score": "7.4",
+            "comment": "Không gian rộng rãi , thức uống ổn , nhân viên nhanh nhẹn"
+        },
+        {
+            "user": "Ngân MoMo",
+            "link": "https://www.foody.vn/thanh-vien/momo.nttn4048",
+            "score": "8.8",
+            "comment": "Mình cực kỳ thích The Coffee House bởi không gian và nhân viên. Có thể thức uống không đặc biệt hay màu sắc bắt mắt nhưng buổi sáng dành chút thời gian ghé The Coffee House, thưởng thức bộ đôi Cappuccino và bánh mì chà bông cay thì mình đã đủ năng lượng cho cả ngày dài mệt mỏi với công việc.Cappuccino thơm nhàn nhạt mùi cà phê và bọt sữa, thường mình hay thêm 1 gói đường nâu thôi vì mình thích đắng. Bánh mì chà bông siêu ngon, khác lạ hơn các loại bánh mì ở bakery thông thường là nó có nhân kem bên trong. Cực kỳ thích luôn, béo ngậy kết hợp với chà bông hơi cay bánh mì mềm thì không chê vào đâu được 😍Lần nào ngồi lâu cũng được nhân viên dọn dẹp bàn và rót nước lọc rất chu đáo, TCH ở Nguyễn Thị Thập rộng rãi nên mình hay ghé thường xuyên để làm việc."
+        },
+        {
+            "user": "Ngoc Le",
+            "link": "https://www.foody.vn/thanh-vien/katrina11906",
+            "score": "7.0",
+            "comment": "Bình thường mình hay uống trà đào hoặc cà phê, mấy món này hầu như uống ở đâu cũng ổn hết. Hôm nay thử sang sinh tố việt quấtVị chua và ngọt, nhưng ngọt quá nên uống ngấy lắm :(Ly sinh tố khá chất lượng, đậm đặc."
+        },
+        {
+            "user": "Tiên Đào",
+            "link": "https://www.foody.vn/thanh-vien/tien.nguyen091296",
+            "score": "6.8",
+            "comment": "Hôm nay ghé thử CH. Gọi Black Tea Macchiato 38k (món quen thuộc đi chỗ nào cũng order) và mình không thích Macchiato ở đây. Không phải dở vì bạn mình khen ngon, chỉ là không hạp khẩu vị mình. Mình thích váng phô mai không thích váng sữa. Và váng sữa ở đây cũng k béo lắm. Như bọt vậy à 😂Bánh mì phô mai nhân trứng muối. Nhân không ngon lắm không thuần trứng muối. Bị pha nhiều. Ở trên rắc chà bông có bột phô mai cay hay s á ăn cay cay. 1 ổ 25k như vậy là rẻ. Không gian branch này siêu rộng. Nhiều bàn lắm. Thoáng nhưng nếu đông khách thấy hơi ngộp. Bàn xếp kín hết quán. Nv nhanh, dễ thương"
+        }
+    ]
+}

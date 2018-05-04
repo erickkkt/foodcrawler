@@ -1,0 +1,84 @@
+{
+    "name": "Hana BBQ & Hot Pot Buffet - Nguyễn Quý Đức",
+    "link": "https://www.foody.vn/ho-chi-minh/hana-buffet",
+    "address": "65 Nguyễn Quý Đức, P. An Phú,  Quận 2, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "120.000đ - 220.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hana-buffet?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "86"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hoai Viet Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/viet.nguyen",
+            "score": "8.0",
+            "comment": "Cuối tháng được xếp đãi đi ăn buffet đã quá chời ha. Menu nhiều món hen, nhìn món nào cũng hấp dẫn. Hàu nướng phô mai béo ngậy, hàu tươi nữa. Thịt bò nướng ngon, thịt mềm tan trong miệng hà. Ăn xong no căng bụng. Điểm cộng nhân viên ở chi nhánh này phục vụ nhanh nhẹn, nhiệt tình. Đi tầm trưa rẻ hơn buổi tối chỉ 236k thui"
+        },
+        {
+            "user": "Vy Tran",
+            "link": "https://www.foody.vn/thanh-vien/vy.tran.3990",
+            "score": "7.2",
+            "comment": "Không biết là lần thứ bao nhiêu đi ăn hana rồi Giờ chỉ còn mỗi chi nhánh dưới Vũng Tàu là chưa ăn thôi, còn ở Hồ Chí Minh là đi đủ cả rồi Mỗi lần ăn ở hana về là chỉ thấy lăn thôi, đi không nổi nữa Nhiều món quá nên mình gọi tá lả luôn Tráng miệng, lẩu, pizza, pasta free hết Chỉ có tính tiền nước uống thôi Mình thấy giá vậy là ok so với các quán nướng dạng vậy rồi Nước chấm rất ngon Mà đặc biệt không hiểu sao lại thích ăn đậu hũ trứng chiên lắm, hàu sống cũng ngon luôn"
+        },
+        {
+            "user": "Mai Mai",
+            "link": "https://www.foody.vn/thanh-vien/kun.ngoluv",
+            "score": "7.6",
+            "comment": "Mình ăn ở chi nhánh này cũg vài lần rồi và đây cũng là chi nhánh hana mà mình thích nhất. Thịt ướp vừa miệng, thích nhất là sườn bò nên kêu liên tục. Nhân viên thì cực kì dễ thương, vui vẻ, nhiệt tình, thay vỉ liên tục. Đây cũng là điểm mà mình kết nhất ở chi nhánh này. Tuy nhiên cũng có điểm trừ là hải sản không tươi cho lắm. Sẽ quay lại ủng hộ."
+        },
+        {
+            "user": "Trang Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/michellangel1210",
+            "score": "7.4",
+            "comment": "Trước đây bạn mình có nói là quận 2 đồ ăn ko được như ở trung tâm thành phố. Nhưng vừa rồi mình và công ty ghé ăn thì thấy không phải vậy, các món đều tươi, nêm nếm vừa miệng. Không gian thì có vẻ hơi nhỏ, mình đi 18 người thì phải chia 3 bàn cách xa nhau, bù lại nhân viên rất chịu khó chạy qua chạy lại phục vụ không sót bàn nào. Với lại đợt đó bên mình đặt gấp mà các bạn vẫn sắp xếp được chỗ. Mình còn nhớ tên anh nhân viên tên Phi rất tận tâm :))) chỉ có là bữa đó mình ăn sò điệp thấy ko dc tươi lắm, còn lại tất cả đều tuyệt."
+        },
+        {
+            "user": "Bích Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/bchngc0726",
+            "score": "8.0",
+            "comment": "Trong tất cả các chỗ Buffet hiện nay thì mình thích hana nhất. Tính ra hana có giá thị trường ổn hơn tất cả các chỗ khác, mà rẻ nữa vì có thêm hải sản. Mình đi 2 người, nhân viên rất tận tình giới thiệu các món ăn cho mình. Thực đơn của Hana rất đa dạng, tuy là thịt ướp không ngon lắm nhưng phần hải sản thì khá tươi và ngon. Ăn xong mình được tráng miêng thêm kem. Kem dâu ở đây không ngon nên mình hay gọi kem yogurt. Không gian quán khá sang trọng. Chắc chắn mình sẽ ghé lại dài dài."
+        }
+    ]
+}

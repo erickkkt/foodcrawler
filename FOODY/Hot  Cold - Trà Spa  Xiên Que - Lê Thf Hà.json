@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Lê Thị Hà",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-thi-ha",
+    "address": "22/5 Lê Thị Hà, Xã Tân Xuân,  Hóc Môn, TP. HCM",
+    "open_time": "08:00 - 22:30",
+    "price_range": "5.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "9.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.8"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.6"
+        }
+    ],
+    "summary": {
+        "average_score": "8.8",
+        "total_review": "19"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tiên Trần",
+            "link": "https://www.foody.vn/thanh-vien/fdyhcnat6",
+            "score": "10",
+            "comment": "Nay lại rủ bạn ra quán quen thuộc uống. Cũng ngon như ngày nào. Nay cuối tuần quán đông nên order phải xếp hàng dài. Nhưng mấy bạn nhân viên vẫn làm nhiệt tình để nhanh có nước giao cho khách. Rất thích không gian, sản phẩm lẫn nhân viên nơi đây. Mình uống nhiều đến nỗi mà nhân viên quen luôn cả mặt mình. Sẽ là khách hàng dài lâu của quán"
+        },
+        {
+            "user": "Bin Trịnh",
+            "link": "https://www.foody.vn/thanh-vien/fdyhcnat5",
+            "score": "10",
+            "comment": "Mình rất thích uống hồng trà ở đây. Làm rất vừa miệng mình. Mỗi lần mình uống toàn uống ly Chaba mới đã khát. Rất đáng đồng tiên"
+        },
+        {
+            "user": "nguyễn nam",
+            "link": "https://www.foody.vn/thanh-vien/fdyhcnat1",
+            "score": "9.4",
+            "comment": "Bình thường đến quán mình toàn uống trà, nay muốn đổi khẩu vị nên nhờ bạn nhân viên tư vấn thử cho mình. Bạn đó tư vấn cho mình món matcha machiato ngon cực kỳ đậm vị matcha có vị béo béo của kem ở trên uống rất ngon. Sẽ đến thử nhiều món nữa ."
+        },
+        {
+            "user": "duyanh",
+            "link": "https://www.foody.vn/thanh-vien/hoangtuanduyanh",
+            "score": "10",
+            "comment": "Quán gần nhà mình nên mình cũng rất hay ra uống, sẵn tiện ngồi học bài luôn . Quán không gian đẹp. Thức uống ngon. Topping rất nhiều món cho mình lựa chọn. Bác bảo vệ ở đây cực kì thân thiện. Nhân viên chào hỏi rất nhiệt tình."
+        },
+        {
+            "user": "huyhuy",
+            "link": "https://www.foody.vn/thanh-vien/huyhuy0207",
+            "score": "9.0",
+            "comment": "nhân viên thì nhiệt tình, thức uống lại ngon. Tiện đường nữa chứ, các bạn đã tới đây thưởng thức chưa"
+        }
+    ]
+}

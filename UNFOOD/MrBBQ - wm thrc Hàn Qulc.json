@@ -1,0 +1,76 @@
+{
+    "name": "Mr.BBQ - Ẩm thực Hàn Quốc",
+    "link": "https://www.foody.vn/ho-chi-minh/mrbbq",
+    "address": "137 Tôn Dật Tiên,  Quận 7, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "191"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "John Le",
+            "link": "https://www.foody.vn/thanh-vien/letranvinhhien",
+            "score": "8.6",
+            "comment": "Phong cách Hàn Quốc, đi spa xong ăn tuyệt vời. Cảnh quan đẹp, menu đa dạng, phục vụ tốt, dù mình đi buổi trưa :). Giá tương đối so với vị trí và dịch vụ."
+        },
+        {
+            "user": "nkliinhhh",
+            "link": "https://www.foody.vn/thanh-vien/nkliinhhh",
+            "score": "8.4",
+            "comment": "Hai chị em mình rất thích đồ ăn ở đây, ngon, hợp khẩu vị, nhân viên phục vụ tận tình, nhẹ nhàng . Không gian yên tĩnh, sạch sẽ, bàn ngồi kiểu Hàn Quốc, cảm giác như đang ở HQ. Mình sẽ thêm bạn bè đến đây lần sau."
+        },
+        {
+            "user": "Thanh binh Ngo",
+            "link": "https://www.foody.vn/thanh-vien/ntbinh05101978",
+            "score": "8.8",
+            "comment": "Cả nhà lần nào đến spa cũng thích vào ăn ở đây, thức ăn ngon, lạ. Nhân viên cực kỳ dễ thương, nhanh nhẹn, tận tình với khách. Cả nhà mình gọi 04 món, trung bình khoảng 75k/ người. Chắc chắn sẽ quay lại . Cảm ơn nhà hàng."
+        },
+        {
+            "user": "Yên Vi",
+            "link": "https://www.foody.vn/thanh-vien/nguyenleyenvi",
+            "score": "8.0",
+            "comment": "Vì đang tận hưởng Spa mà đói quá nên xuống ăn luôn :D Đồ ăn ngon, phục vụ dễ thương ~ ❤️"
+        },
+        {
+            "user": "Thùy Trâm",
+            "link": "https://www.foody.vn/thanh-vien/thuytramdtn",
+            "score": "8.2",
+            "comment": "Tụi mình đi 3 người, order 2 món và 2 phần cơm, ăn no lắm luôn ^^Về phục vụ: nhân viên thân thiện, dễ thương.Món ăn: một phần ân khá to, ăn 2 người vẫn ổn. So với khẩu vị mình thì hơi nhạt một xíu, nhưng ổn so với mặt bằng chung."
+        }
+    ]
+}

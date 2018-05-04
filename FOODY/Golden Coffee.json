@@ -1,0 +1,84 @@
+{
+    "name": "Golden Coffee",
+    "link": "https://www.foody.vn/ho-chi-minh/golden-coffee",
+    "address": "CV Phần Mềm Quang Trung, Tô Ký,  Quận 12, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 43.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Hà Nội,",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-ha-noi"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-y"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "26"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Vy Tròn Ủm",
+            "link": "https://www.foody.vn/thanh-vien/Thuyvy.nn996",
+            "score": "7.6",
+            "comment": "Golden chủ yếu dành cho mấy bạn sinh viên hoặc công nhân viên chức trong khuôn viên Phần mềm QT thôi. Thời còn đi học, lâu lâu có đến họp hành, còn giờ dù mình tốt nghiệp rồi, cũng không đi làm trong này nhưng hôm nay có việc nên ghé quán ngồi đợi bạn. Quán sạch sẽ, lịch sự, có không gian sân vườn lẫn máy lạnh, nhạc trẻ trung, nhân viên thân thiện. Trước mình hay uống đá xay, có matcha ngon nè, bánh cũng okay, hôm nay thì mình order 1 ly trà nha đam. Hình như quán pha bằng trà sen, siêu thơm, không ngọt, có hạt nha đam nhai sựt sựt và thạch gì đó không biết nhưng mềm, thơm. Uống mát rượi, đã khát lắm, mùi hương khiến mình kiểu như được relax, thư giãn đầu óc, còn có topping nhai vui miệng nên mình bồ kết nha. Lần sau có ghé thì vẫn sẽ order trà nha đam nữa. Có 39k thôi còn được tặng thêm 1 voucher bánh mì giảm 50%nhóe."
+        },
+        {
+            "user": "Thanh Nhã Trần",
+            "link": "https://www.foody.vn/thanh-vien/nha.ttt3566",
+            "score": "6.6",
+            "comment": "Gần trường nên đi uống cà phê kết thúc môn với thầy và các bạn cùng lớp.Vị trí: Đường số 2 CVPM Quang Trung.Không gian: nhỏ nhưng trang trí đẹp, nhìn phong cách vintage, cổ điển kiểu âu. Có bàn ở trong và ngoài. Phía ngoài có dù che nhìn ra là mảng xanh nhiều cây cối mát mắt, đường nội bộ nên ít xe ra vào không bụi bặm.Đồ uống cũng như các quán cafe phổ biến, giá từ 40-60k, bánh rẻ ăn kèm trong lúc ngồi buôn chuyện cũng vui miệng. Mùi vị cũng bình thường không ngon lắm cũng không tệ. Nhưng vì trong khu CVPM chỉ có quán là nổi bật nên uống tạm cũng được.Nhân viên thân thiện vui vẻ và niềm nở, đối tượng khách hàng là nhân viên văn phòng, sinh viên nên lịch sự. Wifi chập chờn :)))"
+        },
+        {
+            "user": "Thu Thảo Đổng",
+            "link": "https://www.foody.vn/thanh-vien/Love.teuk.oppa98",
+            "score": "6.6",
+            "comment": "Mình có hẹn bạn trong quán này và đó cũng là lần đầu tiên mình vào quán.Ấn tượng đầu tiên là không cực kỳ yên tĩnh và thoải mái. Từ mặt tiền của quán đã rất thoáng đãng, có nhiều cây xanh trông mát mắt. Khi vào trong thì quan không đông lắm nên yên tĩnh, thích hợp để học tập hoặc làm việc.Đồ uống ở đây bình thường không có gì đặc biệt. Nếu xét về giá và chất lượng thì có lẽ hơi đắt. Trà xanh đá xay hơi ngọt quá và mùi trà xanh không thật.Nhân viên phục vụ lịch sử không có gì để phàn nàn.Chung qui thì quán này rất tốt về phần không gian thoải mái."
+        },
+        {
+            "user": "Quỳnh Như Nguyễn Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/Quynhmui96",
+            "score": 0,
+            "comment": "Địa điểm nằm hút trong khu công viên phần mềm quang trung nên ít người qua lại, mình là sv Hoa Sen nên hay đi ngang vô uống. Không gian mang chút gì hơi hướng châu âu trang trí bởi gạch và bàn ghế gỗ mang lại sự ấm cúng cho khách hàng. Nhân viên khá tận tình, giới thiệu món mới cho khách nhưng bắt phải order trc khi vào ngồi ( khá không thoải mái vì có nhiều lần đã uống nước với đi ăn chỗ khác, đến đó để học nhóm thôi). Nước cũng bình thường, không đặc sắc nhiều khi bạn mình chê nước bị quá tay hơi ngọt. Bữa đi ăn có order bánh redvelvet ăn kèm. Nhưng bánh đưa ra được bao phủ 1 màu nâu, tưởng là đưa lộn choco or browny gì đó, phải hỏi lại nv, đưa bánh không hỏi có muốn rắc thêm cacao bên trên không. Sự kết hợp giữa red velvet với cacao là 1 sai lầm bự của quán vì ăn vừa đắng, cacao át đi mùi thơm bơ sữa của red velvet, bánh cũng không được mềm, xốp."
+        },
+        {
+            "user": "Diễm Trương",
+            "link": "https://www.foody.vn/thanh-vien/duahau1493",
+            "score": "8.0",
+            "comment": "Vị trí: dễ tìm, trong công viên phần mềm Quang Trung, do mình học Hoa Sen, chạy qua chạy lại nhiều nên thấy cũng quen thuộcKhông gian: cũng không rộng lắm đâu, có bên trong và bên ngoài nhưng mình với mấy đứa bạn học xong tạt qua uống vào lúc trưa nên không thấy ai bu ngoài ngồi uống cả, trưa mà cũng khá là đông khách nên hơi ồnMenu: cũng khá nhiều món, giá cả tầm tầm những quán khác thôi Nhân viên: thân thiện, vui vẻ, thân thiệnNước uống: uống cũng được, có chỗ mát mẻ mà ngồi tám, bánh ăn thì được thôi chứ không co quá ngon, mà uống coffee có miếng bánh kèm theo nhâm nhi thì cũng được"
+        }
+    ]
+}

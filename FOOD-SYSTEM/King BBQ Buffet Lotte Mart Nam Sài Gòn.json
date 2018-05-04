@@ -1,0 +1,80 @@
+{
+    "name": "King BBQ Buffet Lotte Mart Nam Sài Gòn",
+    "link": "https://www.foody.vn/ho-chi-minh/king-bbq-buffet-lotte-mart-nam-sai-gon",
+    "address": "Lầu 3 Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "100.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/king-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "17"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Chantal Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/ngcngngoy",
+            "score": "7.2",
+            "comment": "Mình ăn ở đây cn này lần đầu. Mới vào full bàn ngồi chờ pv rất dt cứ lại nói xin chờ chút nên cũng ráng chờ...Mình kêu set 199k do mới ăn no r nên ăn set này cho đỡ phí. Pv cực kỳ nhiệt tình thay vỉ liên tục cho khách k phải đợi kêu. Có điều là lên nhầm món do đông quá hay nên rối. K gian ok nhất mình đã ăn. Rộng rãi riêng tư view tốt. Đồ trên line luôn đc châm khi gần hết.Có thẻ giảm giá 100k nên tính ra đứa 200k cho buổi tối."
+        },
+        {
+            "user": "ychi",
+            "link": "https://www.foody.vn/thanh-vien/hongnhu96",
+            "score": "9.6",
+            "comment": "Điểm cộng lớn của chỗ này là nhân viên phục vụ, vui vẻ và chu đáo, độ hiện diện vừa phải đúng nhu cầu, thường xuyên đến hỏi thăm xem có cần gọi thêm món gì không. Mình đến mấy lần, gọi menu giá cao hay rẻ, phục vụ vẫn nhiệt tình như nhau. Điểm cộng lớn thứ hai là chỗ ngồi, góc nào cũng yên tĩnh, không gian ấm cúng, khá riêng tư, không bị ồn rất hợp ý. Điểm cộng lớn thứ ba là menu dễ ăn dễ gọi. Các món bày sẵn trên quầy cũng đủ đa dạng, nước chấm ngon. Nói tóm lại mình rất vừa ý. Thích những nơi có thể ngồi nhẩn nha không phải chỉ để ăn cho xong rồi đi. Mong bạn này tồn tại lâu dài để mỗi khi vào tp vẫn còn cơ hội đến ăn."
+        },
+        {
+            "user": "foodee_41aadcde",
+            "link": "https://www.foody.vn/thanh-vien/foodee_41aadcde",
+            "score": "8.0",
+            "comment": "Đồ ăn ở đâu rất vừa miệng trừ cơm trộn không ngon . Về nhân viên thì siêu tận tình , thay vỉ nướng liên tục mình chỉ không thích ở chổ lúc trước khi nghỉ thì nhân viên có lại hỏi mình muốn dùng gì không thì mình bảo có kêu rất nhiều món mà cuối cùng chỉ đem ra duy nhất món cơm trộn và không nói gì với mình 1 lời là hết . Không gian quán rộng thoáng rất dễ chịu . Vị trí thì gần nhà nên có lẽ sẽ ghé thêm và rút kinh nghiệm là sẽ đi sớm để không gặp tình trạng như trên ."
+        },
+        {
+            "user": "Nguyen Hang",
+            "link": "https://www.foody.vn/thanh-vien/hang.nguyen050799",
+            "score": "8.0",
+            "comment": "thịt ướp nhạt hơn khẩu vị của mình mặc dù đã chấm tương ,cảm giác như ăn thịt nào cũng giống nhau mấy chị nhân viên siêu dễ thương và nhiệt tình .hết"
+        },
+        {
+            "user": "Phương Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/ngocphuongvo210994",
+            "score": "8.0",
+            "comment": "Mình đến king hôm chủ nhật phải nói là nhân viên siêu dễ thương siêu nhiệt tình , thay vỉ liên tục luôn nha. Thik canh rong biển ở đây (rong biển cực nhiều luôn á ^^). 2 đứa ăn mà no đến đi chẳng nổi luôn. Lo ăn chẳg chụp tấm hình nào nên chụp đỡ cái bill tính tiền vậy. Lúc về hầu như nhân viên nào đi ngag cũng hỏi ăn ngon miệng ko hết nên thik cực 👍👍👍👍👍"
+        }
+    ]
+}

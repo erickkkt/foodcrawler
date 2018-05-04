@@ -1,0 +1,76 @@
+{
+    "name": "Thiên Ân - Bakery & Cafe",
+    "link": "https://www.foody.vn/ho-chi-minh/thien-an-bakery",
+    "address": "127 - 129 Võ Văn Ngân, P. Linh Chiểu,  Quận Thủ Đức, TP. HCM",
+    "open_time": "08:00 AM - 10:30 PM",
+    "price_range": "30.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "122"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nguyễn Thuý Bắc",
+            "link": "https://www.foody.vn/thanh-vien/bacnguyen2806",
+            "score": "7.0",
+            "comment": "Hai vợ chồng rảnh rỗi chạy đi mua bánh kem không nhân dịp gì hết tại đang thèm ngọt dễ sợ. thấy tiệm bánh này mấy đứa bạn hay khen lại gần nhà nên ghé qua mua.bánh kem ngon, mua cái bánh kem >200k mà hai đứa ăn 3 ngày mới hết. phục vụ thì hơi khó chịu, mình đi mua bánh mà mặt cứ chù ụ như mình đi xin bánh của tiệm vậy."
+        },
+        {
+            "user": "@trakity 1518",
+            "link": "https://www.foody.vn/thanh-vien/p3_can15",
+            "score": "8.0",
+            "comment": "Thiên Ân bakery ở Võ Văn Ngân – thủ Đức là tiệm bánh mình thích nhất và hay đến nhất ở đây, hôm ấy tới ăn sanh nhựt bạn nên ghé đây mua tặng cái bánh kem. Bánh ở thiên ân rất là phong phú đa dạng luôn, nhiều kiểu nhiều loại từ ngọt đến mặn. Giá bánh kem dao động từ 150-350k là có 1 cái bánh siêu ưng rồi. Mình mua 1 cái 165k, trang trí bắt mắt mà về ăn ngon luôn, kem không nhiều mà bông lan nhiều đúng kiểu mình thích, bông lan mềm mịn, ăn đã thèm gì đâu à ; )) giá như vầy là quá rẻ so với chất lượng.Nhân viên viết chữ lên rồi tính tiền nhanh lẹ, có bảo vệ giữ xe free."
+        },
+        {
+            "user": "Shine Ú Nu",
+            "link": "https://www.foody.vn/thanh-vien/tojyeubjenvjaj",
+            "score": "7.2",
+            "comment": "Có ghé Thiên Ân mua bánh ngọt nhiều lần rồi nhưng là lần đầu tiên mình đặt bánh sinh nhật. Mình đặt bánh kem bắp, lúc ghi thì mình k biết có trang trí kèm giống kẹo, khi tính tiền thấy có mình có nhắc nv thì chị giới thiệu bảo chị nv tên Vinh ghi thêm cho mình, mình hỏi đi hỏi lại rất chắc chắn, nhận bánh thì y nguyên như bth k trang trí gì 😔."
+        },
+        {
+            "user": "Mad Team",
+            "link": "https://www.foody.vn/thanh-vien/hunghunter23",
+            "score": "9.0",
+            "comment": "- Vị trí: quán nằm trên đường Võ Văn Ngân, sát bên thế giới di động, bảng hiệu to nên rất dễ tìm..- Quán xó chổ giữ xe và giữ free nhé. - Chất lượng: đây là tiệm bánh mình thích nhất ở Thủ Đức, các bánh trong đây đều tươi ngon, đảm bảo về chất lượng, độ ngọt, độ béo vừa phải, mỗi loại bánh có độ mềm, độ xốp nhất định, ăn không bị ngán. Mình hay đặt mua bánh sinh nhật ở đây, giá từ 100k trở lên, tùy size mình đặt. Còn các loại bánh mì, bánh ngọt ăn ổn cả nhé. Giá cả rất phù hợp với chất lượng.- Không gian rộng rãi, có cả bàn ghế phục vụ khách ăn tại chổ. - Thái độ nhân viên tốt, hài lòng, những lúc khách đông đợi xếp hàng tính tiền hơi lâu."
+        },
+        {
+            "user": "Trinh tring",
+            "link": "https://www.foody.vn/thanh-vien/trinh6913",
+            "score": "8.0",
+            "comment": "Đây là bánh kem hôm sinh nhật e đc tặng . cám ơn chị nào đã cất công nặn giùm lũ bạn e những dòng chữ này 😂😂😂"
+        }
+    ]
+}

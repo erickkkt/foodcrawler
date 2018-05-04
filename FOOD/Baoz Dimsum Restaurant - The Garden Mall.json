@@ -1,0 +1,616 @@
+{
+    "name": "Baoz Dimsum Restaurant - The Garden Mall",
+    "link": "https://www.foody.vn/ho-chi-minh/baoz-dimsum-restaurant-the-garden-mall",
+    "address": "Tầng Trệt The Garden Mall, 190 Hồng Bàng, P. 12,  Quận 5, TP. HCM",
+    "open_time": "09:00 - 23:00",
+    "price_range": "50.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Trung Hoa",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-trung-hoa"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/baoz-dimsum-restaurant?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.6",
+        "total_review": "21"
+    },
+    "foods": [
+        {
+            "name": "Há cảo sò điệp",
+            "price": "45,000(đ)",
+            "total_orders": "1157"
+        },
+        {
+            "name": "Xíu mại gạch cua",
+            "price": "45,000(đ)",
+            "total_orders": "1097"
+        },
+        {
+            "name": "Há cảo thủy tinh",
+            "price": "45,000(đ)",
+            "total_orders": "1069"
+        },
+        {
+            "name": "Chân gà hấp tàu xì",
+            "price": "45,000(đ)",
+            "total_orders": "728"
+        },
+        {
+            "name": "Tàu hủ ki tôm chiên",
+            "price": "45,000(đ)",
+            "total_orders": "513"
+        },
+        {
+            "name": "Bánh Bao Kim Sa",
+            "price": "45,000(đ)",
+            "total_orders": "431"
+        },
+        {
+            "name": "Há cảo tôm hẹ",
+            "price": "45,000(đ)",
+            "total_orders": "362"
+        },
+        {
+            "name": "Bánh bao xá xíu hấp",
+            "price": "45,000(đ)",
+            "total_orders": "342"
+        },
+        {
+            "name": "Bánh xếp tôm chiên",
+            "price": "50,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Bánh bao xá xíu nướng",
+            "price": "50,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Xôi gà trân châu trứng muối",
+            "price": "45,000(đ)",
+            "total_orders": "242"
+        },
+        {
+            "name": "Sườn non hấp tàu xì",
+            "price": "45,000(đ)",
+            "total_orders": "226"
+        },
+        {
+            "name": "Tàu hủ ki tôm hấp dầu hào",
+            "price": "45,000(đ)",
+            "total_orders": "221"
+        },
+        {
+            "name": "Bánh bao sữa trứng",
+            "price": "40,000(đ)",
+            "total_orders": "145"
+        },
+        {
+            "name": "Bánh bao súp Thượng Hải",
+            "price": "45,000(đ)",
+            "total_orders": "140"
+        },
+        {
+            "name": "Bánh trứng nướng",
+            "price": "35,000(đ)",
+            "total_orders": "128"
+        },
+        {
+            "name": "Khoai môn chiên xù",
+            "price": "45,000(đ)",
+            "total_orders": "119"
+        },
+        {
+            "name": "Bánh xếp súp hải sản",
+            "price": "58,000(đ)",
+            "total_orders": "95"
+        },
+        {
+            "name": "Bánh bột củ cải chiên",
+            "price": "35,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Bánh bột khoai môn chiên",
+            "price": "35,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Bánh hấp Triều Châu",
+            "price": "45,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Bánh xếp áp chảo",
+            "price": "50,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Bánh bao chay thập cẩm",
+            "price": "20,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Chân vịt sốt bào ngư",
+            "price": "60,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Bánh bao Tuyết Sơn",
+            "price": "55,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh cuốn tôm tươi",
+            "price": "50,000(đ)",
+            "total_orders": "710"
+        },
+        {
+            "name": "Bánh cuốn sò điệp",
+            "price": "50,000(đ)",
+            "total_orders": "223"
+        },
+        {
+            "name": "Bánh cuốn xá xíu",
+            "price": "45,000(đ)",
+            "total_orders": "154"
+        },
+        {
+            "name": "Bánh cuốn chiên xì dầu",
+            "price": "45,000(đ)",
+            "total_orders": "137"
+        },
+        {
+            "name": "Bánh cuốn dầu cháo quẫy tôm tươi",
+            "price": "50,000(đ)",
+            "total_orders": "127"
+        },
+        {
+            "name": "Cua cuộn rong biển",
+            "price": "60,000(đ)",
+            "total_orders": "64"
+        },
+        {
+            "name": "Mì khô vịt quay Hong Kong",
+            "price": "75,000(đ)",
+            "total_orders": "391"
+        },
+        {
+            "name": "Sủi cảo Hong Kong",
+            "price": "65,000(đ)",
+            "total_orders": "299"
+        },
+        {
+            "name": "Dầu hào xá xíu",
+            "price": "55,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "Hoành thánh",
+            "price": "60,000(đ)",
+            "total_orders": "163"
+        },
+        {
+            "name": "Bò kho Hong Kong",
+            "price": "60,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Hải sản",
+            "price": "65,000(đ)",
+            "total_orders": "58"
+        },
+        {
+            "name": "Cật heo",
+            "price": "55,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Giò heo chao đỏ",
+            "price": "60,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Tôm tươi",
+            "price": "60,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Thập cẩm",
+            "price": "65,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Cá phi lê",
+            "price": "55,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sa tế Hong Kong",
+            "price": "60,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Cơm chiên hải sản sò điệp",
+            "price": "89,000(đ)",
+            "total_orders": "226"
+        },
+        {
+            "name": "Cơm Tam Bửu",
+            "price": "118,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cơm gà Baoz Dimsum",
+            "price": "98,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cơm heo quay",
+            "price": "98,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm xá xíu",
+            "price": "98,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cơm vịt quay",
+            "price": "98,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cháo thịt xé bách thảo",
+            "price": "45,000(đ)",
+            "total_orders": "146"
+        },
+        {
+            "name": "Cháo cá miếng bách thảo",
+            "price": "45,000(đ)",
+            "total_orders": "62"
+        },
+        {
+            "name": "Cháo hải sản",
+            "price": "50,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Cháo thập cẩm",
+            "price": "50,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Cháo bạch quả sò điệp khô",
+            "price": "45,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Hủ tiếu La Hán",
+            "price": "120,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Đậu hủ nấm tay cầm",
+            "price": "120,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cải Hong Kong dầu hào",
+            "price": "45,000(đ)",
+            "total_orders": "156"
+        },
+        {
+            "name": "Cải thìa dầu hào",
+            "price": "45,000(đ)",
+            "total_orders": "79"
+        },
+        {
+            "name": "Phật nhảy tường",
+            "price": "290,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Tôm trái thơm",
+            "price": "168,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Vịt quay HK",
+            "price": "200,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Sườn sốt BBQ dấm đỏ",
+            "price": "128,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Bún xào Triều Châu",
+            "price": "89,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Miến cua tay cầm",
+            "price": "250,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Tôm viên sốt Long Châu",
+            "price": "168,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Đậu hủ Tứ Xuyên",
+            "price": "128,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Heo quay Bàn Cờ",
+            "price": "168,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Miến tôm tay cầm",
+            "price": "168,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Hủ tiếu xào bò áp chảo",
+            "price": "168,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Vịt xào tương X.O",
+            "price": "100,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Lẩu bào ngư thủy mộc",
+            "price": "299,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mì thêm",
+            "price": "10,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Tủy bò",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gân heo",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt bò",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đùi gà",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm bào ngư",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm kim châm",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm đùi gà",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm Linh Chi",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm Bạch Lộ",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xà lách xoong",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chè khúc bạch",
+            "price": "35,000(đ)",
+            "total_orders": "219"
+        },
+        {
+            "name": "Chè đậu đỏ hạt sen",
+            "price": "30,000(đ)",
+            "total_orders": "107"
+        },
+        {
+            "name": "Chè nếp than sầu riêng",
+            "price": "30,000(đ)",
+            "total_orders": "77"
+        },
+        {
+            "name": "Pudding cá chép uyên ương",
+            "price": "35,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Cao quy linh mật ong",
+            "price": "25,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Bánh tuyết lạnh",
+            "price": "40,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sữa chua chanh dây",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sữa chua dâu",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sữa chua đào",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cam vắt",
+            "price": "30,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Chanh muối",
+            "price": "22,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cacao sữa đá",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Pepsi",
+            "price": "22,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cafe sữa đá",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Coca",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cafe đá",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton chanh đá",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đá chanh",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh đường",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "7Up",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước suối",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa Hong Kong",
+            "price": "25,000(đ)",
+            "total_orders": "172"
+        },
+        {
+            "name": "Trà bông cúc",
+            "price": "25,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Trà đào",
+            "price": "25,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Lien Khong",
+            "link": "https://www.foody.vn/thanh-vien/khonglien123",
+            "score": "7.2",
+            "comment": "Quán nằm ngay tầng trệt của Garden Mall. Không gian không đặc sắc lắm. Nhân viên phục vụ chưa đến mức hoàn hảo nhưng cũng tạm chấp nhận được.Giá cả hơi cao xíu nhưng đồ ăn ngon, chất lượng.+ Sườn sốt BBQ dấm đỏ 128k, 1 dĩa khá nhiều, sốt ngon, sườn cắt miếng vừa ăn.+ Bánh cuốn tôm tươi 50k, há cảo sò điệp 45k, xíu mại gạch cua 45k, bánh xếp tôm chiên 50k ăn khá bình thường.+ Khoai môn chiên xù 45k giòn xốp rất ngon.+ Bánh trứng nướng 35k ăn hơi bị dở, ngán lắm luôn, mà 1 cái cũng nhỏ xí à.+ Chè khúc bạch 35k ngon tuyệt vời, khúc bạch béo béo ăn đã lắm.+ Pudding cá chép 35k là pudding dừa, vị khá béo, làm thành hình con cá chép nhìn rất bắt mắt.+ Trà bửu lỷ 35k nguyên ấm trà nóng siêu bự, ngọt ngọt dễ uống.Nói chung đồ ăn ngon tuy nhiên vài món cũng không đặc sắc cho lắm."
+        },
+        {
+            "user": "Li Liang Yin",
+            "link": "https://www.foody.vn/thanh-vien/liangyin0816",
+            "score": "8.0",
+            "comment": "Baoz ở garden mall mơi mở, đi thu cho biet, mình thấy ở đây chr có baoz với một nhà hang nữa là co đồ ăn. Đi 7h tôi đêm trung thu đông qua trời luôn, xêp bàn ngồi ngoà, cucng đc nhưng có điều hút thuốc hơi kho chịu. Baoz menu chủ yếu dimsum và cũng có nhiêù món ăn Quảng đông, thây mọi nguời hay gọi vịt quay. Nhà mfnh thì chủ yếu ăn điểm tâm thôi. Nước thì kêu 1 bình trà sen 35k.Món đầu tiên rau choisum xào tỏi, ok. Ha cảo sò điệp xinh, ngon, vỏ ko dày và kết dính với nhân. Món bánh bao súp thượng hải thf tuy đẹp nhưng k ngon lắm, vỏ dày, canh k đủ nhiều, nhân nhạt nhẽo. Bánh xếp nước thì ngon bù, cả bánh xếp, nhân và canh đều ngon. Món tôm trái thơm mong đợi thì cắn vào tuy ngon nhưng ăn lại thấy vỏ ngoài bột dày quá mà tôm k tươi lắmMón tâm đắc nhất là bánh bao nướng nhân khoai môn. Fan khoai môn nên món gì khoai môn mình cx thích. Nhân khoai môn dẻo, thơm, làm từ thịt khoai môn thật. Bánh bao nướng rất thơm gìon khoái khẩu, ăn hoài k ngán. Món nấm và rau củ hầm chay ăn cũng ok, k qua mặn, mình nghx ăn vs cơm sẽ ngon hơn. Cuối cùng vơ đét lại là tráng miệng, pudding con cá mùi dừa (?) vưà đẹp lại vừa ngon, béo ngọt vừa phải, mềm dẻo như khúc bạch v á.Phục vụ thì bt thôi nhà hàng đông k comment gì nhiều. Giá tiền ok chỉ có 600k cho 1 bua ngon thôi."
+        },
+        {
+            "user": "Hải Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/7nguyenngochai",
+            "score": "6.4",
+            "comment": "Quán nằm ở tầng trệt của trung tâm, rất dễ tìm. Nhưng đi gửi xe hơi xa, hôm mình đi là trời mưa nên khá bất tiện.Không gian rộng rãi, đa số là bàn dành cho khách nhóm đông người. Có cả ngoài trời và bên trong. Bày trí ổn, nội thất và dụng cụ đẹp.Món ăn, cũng giống như Menu bên Nguyễn Tri Phương, đa phần là món Trung. Đồ ăn ngon, bày trí đẹp. Nhưng tốc độ lên món quá chậm, mặc dù lúc mình đến nhà hàng khá vắng.Giá cả ổn, mình đi 2 người gọi 3 món và 1 nước, tổng hoá đơn chưa đến 250.000.Phục vụ tạm được, không nhiệt tình và niềm nở lắm."
+        },
+        {
+            "user": "Nhật Thi Nguyễn Duy",
+            "link": "https://www.foody.vn/thanh-vien/nguyenduynhatthi",
+            "score": "8.0",
+            "comment": "Baoz dimsum in Garden mall"
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.6",
+            "comment": "Chi nhánh này mới hoạt động gần đây thôi , khi Thuận Kiều cũ sửa thành The Garden Mall , gần trường cấp 3 cũ của mình , vị trí lý tưởng bán các món Dimsum vì khu này tập trung nhiều người Hoa lắm . Không gian khá sang trọng . Menu các món Dimsum đa dạng , trình bày cũng đẹp mắt mà khích thích vị giác lắm luôn . Mình kêu cho 2 người ăn mà hài lòng lắm , nêm nếm vừa miệng và nguyên liệu tươi ngon . Nhân viên phục vụ ok lắm luôn . Giá khá ổn so với mặt bằng chung các quán bán Dimsum ở Sài Gòn ."
+        }
+    ]
+}

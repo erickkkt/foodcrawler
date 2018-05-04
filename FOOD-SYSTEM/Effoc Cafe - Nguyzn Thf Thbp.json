@@ -1,0 +1,80 @@
+{
+    "name": "Effoc Cafe - Nguyễn Thị Thập",
+    "link": "https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-thi-thap",
+    "address": "158 Nguyễn Thị Thập,  Quận 7, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 70.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/effoc-cafe-takeaway?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "18"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Bảo Hậu",
+            "link": "https://www.foody.vn/thanh-vien/baohau1998",
+            "score": 0,
+            "comment": "Hơi thất vọng xíu, mình gọi matcha đá xay như hình như nhân viên ở đây quên bỏ đường cho mình hay s í, matcha nhưng lại không có hương matcha mà thay vào đó là hương trà lài"
+        },
+        {
+            "user": "Trương Huỳnh Hạnh",
+            "link": "https://www.foody.vn/thanh-vien/trnghunhminhhnh",
+            "score": "7.0",
+            "comment": "Gần sát nhà, tia cũng lâu rồi mà mãi mới có thời gian ra thưởng thức ^_^Không gian quán đẹp, yên tĩnh, nhân viên đẹp troai xinh gái, nói chuyện dễ thương và phục vụ tốt, a giữ xe rất galant và nhiệt tình ^^Xét về thương hiệu thì giá khá ổn, nhưng chất lượng thì không ổn lắm, mình order greentea vì nghe nói greentea ở đây ngon hơn Matcha, giá là 45k, nhìn bắt mắt, ly trang trí nhìn cưng nhưng uống thì thấy hơi thất vọng :((( mùi vị nhạt nhoà, có thơm mùi greentea và thoảng hương lài nhưng uống thì thấy lạt nhách, không ấn tượng lắm :(((Uống cho biết chứ không quay lại! ;)"
+        },
+        {
+            "user": "Bình Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/kdz.46134347",
+            "score": "8.2",
+            "comment": "Mình ở q7 lâu rồi, thường đi The coffee house, nhưng ồn quá. Effoc yên tĩnh, trang trí đẹp, mát mẻ, giá nước cũng ổn. Duy wifi hơi yếu và menu treo tường nền đỏ hơi khó nhìn"
+        },
+        {
+            "user": "Minh Thuận Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/01212141459",
+            "score": "9.4",
+            "comment": "Đây là chi nhánh effoc mình thích nhất trong tất cả chi nhánh.Không gian đẹp, thoải mái, có nhiều góc ngồi để lựa chọn theo sở thích, máy lạnh phà phà cực mát.Thức uống pha ngon và chất lượng luôn được duy trì, mình đến quán rất nhiều lần nhưng hương vị vẫn không đổi, rất thích.Nhân viên rất dễ thương, nhiệt tình và vô cùng thân thiện."
+        },
+        {
+            "user": "Nguyen Khoa",
+            "link": "https://www.foody.vn/thanh-vien/nguyen_khoa5491",
+            "score": "7.4",
+            "comment": "Mọi thứ đều Ok, chỉ trừ phần âm nhạc, ngồi ở bàn nhóm dưới trệt không tập trung học nổi vì quá ồn. Mình nghĩ nên giảm âm lượng lại hoặc sử dụng nhạc nhẹ thì sẽ tốt hơn!"
+        }
+    ]
+}

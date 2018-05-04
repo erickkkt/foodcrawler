@@ -1,0 +1,147 @@
+{
+    "name": "Quán Cô Ba - Bánh Căn, Bánh Xèo Phan Rang",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-co-ba-banh-can-banh-xeo-phan-rang",
+    "address": "10 Khu A, CC Phú Thọ, Nguyễn Thị Nhỏ, P. 15,  Quận 11, TP. HCM",
+    "open_time": "",
+    "price_range": "8.000đ - 37.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "116"
+    },
+    "foods": [
+        {
+            "name": "Bánh căn thập cẩm",
+            "price": "37,000(đ)",
+            "total_orders": "140"
+        },
+        {
+            "name": "Bánh căn hải sản",
+            "price": "40,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Bánh căn trứng",
+            "price": "25,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Bánh căn trứng cút",
+            "price": "28,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Bánh căn thịt",
+            "price": "32,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Bánh bèo ngọt",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chả cuốn",
+            "price": "8,000(đ)",
+            "total_orders": "266"
+        },
+        {
+            "name": "Bánh xèo (4 cái)",
+            "price": "37,000(đ)",
+            "total_orders": "143"
+        },
+        {
+            "name": "Bánh bèo chén (8 chén)",
+            "price": "15,000(đ)",
+            "total_orders": "69"
+        },
+        {
+            "name": "Bánh canh chả cá",
+            "price": "20,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Trà tắc",
+            "price": "7,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Rượu nho",
+            "price": "10,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Pepsi",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Coca",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "ĐỨC NGUYỄN",
+            "link": "https://www.foody.vn/thanh-vien/andriyshevchenko203",
+            "score": "7.0",
+            "comment": "Chiều nay vừa ghé đánh chén tí, làm 1 phần bánh căn và 2 cái bánh xèo, ăn xong thì kết luận chuẩn xác rằng có lẽ quán làm bánh căn ngon hơn bánh xèo. Món bánh xèo hơi bị nghèo nàn về chất lượng, ít nhân, chủ yếu là giá - hjhj giống món chay ghê. Dù sao vẫn rất vui vì một bữa ăn no bụng. Có thể sẽ quay lại quán."
+        },
+        {
+            "user": "Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/pepi_kul92",
+            "score": 0,
+            "comment": "Bánh căn bột hơi dày ko ngon như trên Đà Lạt lắm nên hơi ngán, nước chấm thì ko có xíu mại chỉ có mắm nêm thôi... Nói chung mình thấy ăn cũng bình thường ko ngon, ko dở."
+        },
+        {
+            "user": "Katherine  Phanhuynh",
+            "link": "https://www.foody.vn/thanh-vien/phanhuynhnhatchau",
+            "score": "7.6",
+            "comment": "Tiện đường nên ghé ăn, quán nằm trên dãy quán ăn kế nhau. Nếu chạy không chịu khó nhìn dễ đi qua luôn  đóKhông gian: quán khá rộng, sáng, bàn ghế gỗ sạch sẽ Chất lượng: bánh căn thập cẩm ăn khá vừa miệng, nhân tôm , thịt tôm tươi nên khá ngọt vị tôm nha. Hương vị ổn lắm. Chả cuốn to , đầy ụ nhân 8k ( giá hợp lí quá nè) . Bánh canh chả cá 17k tô vừa đủ thưởng thức nhen, dành bụng ăn món khác nữa. Nhân viên hơi lạnh lùng chút nhưng nhanh nhẹn, kêu gì là có liền.Sẽ quay lại thườnh xuyên vì chất lượng và giá cả hợp lí."
+        },
+        {
+            "user": "Min chan Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/minchanvn",
+            "score": "7.0",
+            "comment": "Đi tới quán khá xa từ chỗ nhà mình. Vị trí thoáng mát phục vụ rất nhanh nhẹn.Cũng ngon bình thường ko đặc sắc2 người ăn 2 dĩa bánh căn 1 dĩa bánh xèo 1 tô bánh canh nhỏ 1 cuốn hết tầm 150k. Giá cũng ok ko đắt.Đói quá nên ăn luôn ko chụp hình"
+        },
+        {
+            "user": "Thi Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthianhthi2402",
+            "score": "7.8",
+            "comment": "Thèm bánh căn hổng cần đi tới Phan Rang nữa, từ nhà mình đi lại đây có 5' thôi. Quán bán vào buổi tối khá đông khách. Quán bán cũng bình dân, mà chất lượng sạch sẽ. Mình ăn bánh bèo 8 chén nhỏ 15k. Quá rẻ luôn. Bánh bèo chén nóng hổi, bột mềm mịn thơm. Xong mình với đứa bạn ăn thêm dĩa bánh căn thập cẩm. Dĩa 4 cái 37k. Bánh căn nhân nào là mực, tôm giòn giòn thơm thơm. Món ăn ra nhanh chóng. Chỗ để xe hơi chật san sát hơi bất tiện."
+        }
+    ]
+}

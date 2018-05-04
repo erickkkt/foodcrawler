@@ -1,0 +1,80 @@
+{
+    "name": "Koi Thé Café - Cao Thắng",
+    "link": "https://www.foody.vn/ho-chi-minh/koi-the-cafe-cao-thang",
+    "address": "62C Cao Thắng,  Quận 3, TP. HCM",
+    "open_time": "09:00 - 22:00",
+    "price_range": "25.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-chau-a"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/koi-the-cafe-viet-nam?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "70"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tracy  Tran",
+            "link": "https://www.foody.vn/thanh-vien/bluecookies.40bt",
+            "score": 0,
+            "comment": "Với mình black tea macchiato không ngọt bằng the coffee house, vị trà và sữa đều nhạt. Vì không có chỗ gửi xe, nhân viên đã giữ chìa khoá xe của mình để gửi ở chỗ khác, tiền gửi xe 5k. Ở đây cũng chưa có thanh toán bằng thẻ. Nói chung là sẽ không qua đây thêm lần nào nữa"
+        },
+        {
+            "user": "Jelly Johnson",
+            "link": "https://www.foody.vn/thanh-vien/jellyjohnson5699",
+            "score": "10",
+            "comment": "Mình đến mua mang về hôm trời mưa tầm tã, cứ nghĩ mưa như này thì đông khủng khiếp mà may quá k đông như mình nghĩ. Mình order mang về 2 vị passion với matcha macchiato ( đều nằm trong phần signature của Koi), phải nói Koi làm việc nhanh, gọn, lẹ, mình chờ có xíu là có nước liền :))) nhân viên thì miễn bàn, mấy ac ở đó dth lắm, mấy a giữ xe cũng dth k kém luôn, điểm cộng lớn của mình cho Koi nha. Mặc dù k ph fan ts nhưng cũng tò mò nên order về uống thì ngon lắm nè. Sẽ quay lại 1 ngày sắp tới :))"
+        },
+        {
+            "user": "Shannon.Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/Shannon.Harley",
+            "score": "8.6",
+            "comment": "Mình vốn thích Machiatto bên Koi. Nên tối đang buồn thèm quá mua về uống :))Hình là Green tea và Black tea Machiatto nhe! Mình thích green tea hơn. Vị nhẹ nhàng và vừa phải. Black có vẻ hơi nồng và không hợp mình mấy. Cheese ở đây lần nào uống cũng có mùi vị sữa hơi bị nồng. Cái vị thấy quen lắm, giống sữa hộp nào mà quên mất cái tên rồi.Tuy k ngon bằng bên NĐK nhưng vẫn thích."
+        },
+        {
+            "user": "Bối Bối",
+            "link": "https://www.foody.vn/thanh-vien/nancy.kim121",
+            "score": "6.8",
+            "comment": "Thức uống vẫn rất ngonThức uống ra nhanhMình biết quán đông nên bố trí lại vị trí bàn ngồi thành dãy ngồi 1 người, bàn 2 người, bàn 3 người,...bàn nhóm để tối ưu chỗ ngồi để phục vụ tốt hơn nhéCuối cùng là thay mẫu tay áo ly giấy dùm mình, khi mình cầm lên mình nghĩ do tay mình đụng phải thứ gì không sạch sẽ, mùi rất kinh, nhưng xong rồi mình mới biết là do miếng giấy đó, thúi dễ sợ luôn.Nếu không thì mình không cần miếng tay áo ly này đâuÀ thêm 1 cái nữa, quán có thể cho cà thẻ bill trên 100k hay 150k trở lên hay không? Nếu đc thì rất tốt"
+        },
+        {
+            "user": "Hoài Thương",
+            "link": "https://www.foody.vn/thanh-vien/lphthuong%40gmail.com",
+            "score": "7.6",
+            "comment": "Nằm ngay góc Nguyễn Đình Chiểu và Cao Thắng nên không có chỗ gửi xe trước quán, phải đưa chìa cho bảo vệ chạy xe đi gửi ở bãi nào ấy và tốn 5k hic. Không gian quán theo cảm nhận riêng thì mình thấy hơi nhỏ nên nhiều người lựa chọn mua mang về, dưới trệt có sảnh đợi nước có ghế cũng tiện (y) Hàng khách chờ dài thì có bạn cầm tab ra order trước, đến quầy sẽ trả tiền sau.Mình và bạn gọi black tea macchiato và trà sữa trân châu hoàng kim. Cảm thấy macchiato hơi ngọt, còn trà sữa vẫn ngon như thường lệ ^^ thích nhất mấy viên trân châu bé bé siêu ngon 😍À Koi còn tinh tế là có vòng giấy bao quanh ly đề cầm không lạnh hay ướt tay nữa <3 mà để chụp hình đẹp nên mình bỏ ra hihi"
+        }
+    ]
+}

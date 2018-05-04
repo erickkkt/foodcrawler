@@ -1,0 +1,84 @@
+{
+    "name": "Dallas Cakes & Coffee - Phan Xích Long",
+    "link": "https://www.foody.vn/ho-chi-minh/dallas-cakes-coffee-phan-xich-long",
+    "address": "53 Phan Xích Long, P. 7,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "T7 - CN  08:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 44.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-viet-nam"
+        },
+        {
+            "category": "Quốc tế",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-quoc-te"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/dallas-cakes-coffee?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "286"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "xíu mại",
+            "link": "https://www.foody.vn/thanh-vien/super_chicken13015",
+            "score": "10",
+            "comment": "Thiz bánh ở đâyĐã đặt vài lầnMấy bạn nv rất dễ thương và nhiệt tình tư vấnBánh decor đẹp và lạ"
+        },
+        {
+            "user": "hang2",
+            "link": "https://www.foody.vn/thanh-vien/hang2",
+            "score": "10",
+            "comment": "Bánh ngon, có nhiều vị để thay đổi, vị ngọt vừa phải có thêm trái cây cho mỗi loại bánh nên ăn ko bị ngán. Về phần trang trí các bạn tt dễ thương & đẹp mắt :)Nhân viên thân thiện, vui vẻ, nhiệt tình."
+        },
+        {
+            "user": "ViVi Trần",
+            "link": "https://www.foody.vn/thanh-vien/thaovitran55",
+            "score": "9.4",
+            "comment": "Đi ngang qua tiệm bánh Dallas tại PXL, mình thấy nhớ và thèm trà sữa một cách kỳ lạ. Ghé vào và mua 1 ly trà sữa macaron kèm thêm trân châu và agar. Tuy nhiên, nhân viên nói chưa có trân châu vì nhân viên mới vào quán chưa kịp nấu. Điều này cho mình thấy quán luôn sử dụng các nguyên liệu tươi mới để bán cho khách hàng. Đặc biệt là thái độ của nhân viên với khách rất dễ thương và mình rất thích điều này ở quán. Hãy luôn giữ điều đặc biệt này nha quán!! Sẽ quay lại và ủng hộ quán nữa nè!!!"
+        },
+        {
+            "user": "mayhyn",
+            "link": "https://www.foody.vn/thanh-vien/mayhyn",
+            "score": "9.0",
+            "comment": "Trước đây đã dùng bánh của tiệm do chị bạn mua dùng hồi năm ngoái Lần này có dịp nên ghé lại quán  mua bánh Bất ngờ hơn là tiệm ra một vị bánh mới khá lạ nhưng lại vô cùng quen thuộc Trước đây mình chỉ dùng đến nước trà Đào Nhưng nay quán lại cho vị bánh mới từ Trà Đào , tới quán được dùng bánh thử thấy vị khá lạ khá hấp dẫn mà ngon Nhưng do Trúc chỉ thích vị bắp nên lại ghé mua bánh bắp để mừng sinh nhật Lần sau ghé Dallas nhất định sẽ dùng vị bánh Trà Đào ( vì lạ , ngon , kiểu trang trí xiu cute☺️)Nhân viên thân thiện hiếu khách , và vui vẻ , tư vấn rất tận tình Bảng menu thì không có quá nhiều vị , trang trí ồ ạt như những tiệm bánh bên ngoài . Giá cả có khá cao nhưng giá cao đi kèm chất lượng 👍🏻 Đặc biệt Dallas có nhiều kiểu size để mình có thể lựa chọn Và hay là khách tới mua Tiệm mới cắt bánh là decor nhé 👍🏻 nghe bảo bánh tươi không chất bảo quản là thấy mê rồi Ăn vừa đảm bảo vừa ngon Nhất định sẽ ghé dài dài , muốn dùng hết menu Ở đây cơ mua hàng tích điểm nữa nè cả nhà 😍"
+        },
+        {
+            "user": "Thảo Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nlxthao.hr",
+            "score": "8.0",
+            "comment": "Vừa rồi có sinh nhật nên mình đặt bánh kem ở Dallas vì thấy review khá ổn. Bánh trang trí khá dễ thương và bắt mắt nha. Có mấy vị ăn đỡ bị ngán hơn bánh truyền thống. Điều mình thích nhất là bánh không quá ngọt, kiểu vị ngọt diệu nhẹ í. Đây sẽ là lựa chọn lý tưởng cho nhiều cái sanh thần sau này hihi. Giá cũng khá ok chứ ko mắc lắm đâu nha"
+        }
+    ]
+}

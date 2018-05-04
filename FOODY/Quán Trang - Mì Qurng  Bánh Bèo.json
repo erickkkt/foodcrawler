@@ -1,0 +1,76 @@
+{
+    "name": "Quán Trang - Mì Quảng & Bánh Bèo",
+    "link": "https://www.foody.vn/ho-chi-minh/mi-quang-trang",
+    "address": "68/6 Lữ Gia, P. 15,  Quận 11, TP. HCM",
+    "open_time": "02:30 PM - 09:00 PM",
+    "price_range": "20.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Quảng Nam - Đà Nẵng",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-quang-nam-da-nang"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.5",
+        "total_review": "116"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Agn Nart",
+            "link": "https://www.foody.vn/thanh-vien/ngatran.kt210",
+            "score": "7.4",
+            "comment": "Bánh béo và hến xúc ở đây phải nói ngon xuất sắc. Bánh bèo 3k/chén. Hến xúc 30k/đĩa mà chất lượng khỏi cần nói luôn nhé. Phần bánh bèo chrns đầy, thịt quá chời ngon ơi là ngonQuán này nhỏ bình dân nhưng siêu siêu đông khách. Lần nào đến cũng phải đứng đợi hết. Giá cả thì sinh viên chất lượng thì khỏi nói nhé ^_^"
+        },
+        {
+            "user": "Minhthuu Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguyenminhthu0109",
+            "score": "8.2",
+            "comment": "Ăn nhìu lắm mà k có chụp hình lại. Trừ don ra thì cái j cũng thích hết. Nhất là bánh bèo. Cứ thèm là từ Phú Nhuận lội xuống q10 ăn 😂"
+        },
+        {
+            "user": "Thùy Dương Phan Thị",
+            "link": "https://www.foody.vn/thanh-vien/tduong076",
+            "score": "8.6",
+            "comment": "Sau 3 lần 4 lượt đi hụt thì cuối cùng hôm nay con bé đã ăn được ram thịt nướng trong truyền thuyết, mà đã là trong truyền thuyết thì nó ngon thần thánh các mẹ ạ :)) Ôi thịt nướng thì quá tuyệt vời, cuốn với rau và bánh tráng xong chấm nước xốt thịt càng ngon hơn nữa :3Thật ko hổ là món mau hết nhất của quán :))))"
+        },
+        {
+            "user": "Van Le",
+            "link": "https://www.foody.vn/thanh-vien/vanle8889",
+            "score": 0,
+            "comment": "Ý kiến cá nhânMình và bạn mình ăn thử bánh bèo, don, bánh đập, ram bắp. Trong tất cả mình thấy bánh bèo là ok nhất còn lại không có gì đặc sắc. Rau ăn kèm với ram bắp thì rất là dơ và cũ. Mình và bạn mình hai đứa không dám cuốn rau chỉ ăn mỗi ram bắp không, hic. Mình thấy quán để mấy ly trà đá gần chỗ rửa ly nhìn không được vệ sinh. Phục vụ nhanh. Nhưng vấn đề vệ sinh thì quán nên xem lại."
+        },
+        {
+            "user": "Thùy Dương Phan Thị",
+            "link": "https://www.foody.vn/thanh-vien/tduong076",
+            "score": "7.0",
+            "comment": "Mọi lần hay đi buổi tối mà lần nào cũng hết ram thịt nướng nên hôm nay cố tình ghé quán ăn sáng để ăn cho được món này. Vào quán đọc menu trên tường mới bik buổi sáng ko có bán ram thịt nướng (do mọi lần ngồi bàn ngoài vỉa hè nên ko bik :v), quá đau khổ :)))) Thế là kêu đại bún bò tại cũng chưa ăn lần nào. Bún bò 1 tô 30k khá ngon, sợi bún hơi nhỏ hơn thường thấy ở những quán khác, thịt bò thái hơi dày nên hơi khó nhai, hơi thất vọng là ở đây ăn với chả lụa chứ ko phải chả tôm, nước dùng tuy ko có bỏ ruốc như kiểu miền Trung nhưng nêm mếm vừa ăn. Tóm lại là ko hi vọng mấy nên cũng ko đòi hỏi nhiều, chấp nhận được.Quyết tâm sẽ quay lại lần thứ 4 để ăn cho được ram thịt nướng trong truyền thuyết ahuhu :))))"
+        }
+    ]
+}

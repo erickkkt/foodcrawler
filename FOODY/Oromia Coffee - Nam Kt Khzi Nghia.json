@@ -1,0 +1,287 @@
+{
+    "name": "Oromia Coffee - Nam Kỳ Khởi Nghĩa",
+    "link": "https://www.foody.vn/ho-chi-minh/oromia-coffee-nam-ky-khoi-nghia",
+    "address": "193A/D3 Nam Kỳ Khởi Nghĩa,  Quận 3, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "36.000đ - 146.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "1,067"
+    },
+    "foods": [
+        {
+            "name": "Almond smoothie",
+            "price": "63,800(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Aice vera with orange smoothie",
+            "price": "61,600(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Strawberry smoothie",
+            "price": "53,900(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Blueberry smoothie",
+            "price": "61,600(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mango smoothie",
+            "price": "61,600(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Green tea & banana smoothie",
+            "price": "61,600(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chocolate mix with banana and peanut butter",
+            "price": "58,300(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Passion fruit smoothie",
+            "price": "53,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Black storm smoothie",
+            "price": "63,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito soda passion fruit",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito strawberry",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito soda raspberry",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mojito soda kiwi",
+            "price": "63,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ice drip oromia coffee",
+            "price": "86,900(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Syphone coffee (small)",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Syphon coffee (large)",
+            "price": "160,600(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cheesecake",
+            "price": "50,600(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Chocolate banana bread",
+            "price": "50,600(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Brownie cake",
+            "price": "42,900(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tiramisu cake",
+            "price": "52,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Crumble cream chocalate",
+            "price": "63,800(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Crumble cream fruity",
+            "price": "61,600(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lamington cake",
+            "price": "42,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Muffin cake",
+            "price": "35,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Panna cotta cake",
+            "price": "39,600(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Crumble cream caramel",
+            "price": "61,600(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate almon biscotti cake",
+            "price": "52,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh mì bơ tỏi",
+            "price": "41,800(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Chả giò chiên",
+            "price": "46,200(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Salad với trứng và thịt xông khói",
+            "price": "63,800(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Salad trái cây",
+            "price": "57,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Pizza trái cây",
+            "price": "398,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bacon tomato bruchesta",
+            "price": "79,200(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên (nhỏ)",
+            "price": "41,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên (lớn)",
+            "price": "53,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chips go fishing",
+            "price": "91,300(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Gà tẩm dừa chiên & khoai tây",
+            "price": "101,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chicken little",
+            "price": "97,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đùi cừu nướng tỏi",
+            "price": "171,600(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Beefsteak dùng với bánh mì",
+            "price": "107,800(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Beefsteak thăn ngoại",
+            "price": "207,900(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò cuộn phô mai",
+            "price": "97,900(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Vy Lê",
+            "link": "https://www.foody.vn/thanh-vien/nltnguyenn",
+            "score": "9.0",
+            "comment": "Nhân viên rất lịch sự, đồ uống ngon và không gian rất dễ chịu ☺️. Mình tới đây 3 lần cả 3 lần đều rất hài lòng."
+        },
+        {
+            "user": "tin pham",
+            "link": "https://www.foody.vn/thanh-vien/nmjwhgkg",
+            "score": "9.4",
+            "comment": "Lâu rồi ghé lại quán thấy khác khác thì ra có tu sửa lại và nhìn trông khác và không bị cũ Mình gọi Ice Matcha Latte ngon & nước đường để riêng nên cũng không cần dặn không đường haha, Các bạn có thể thử vị rồi đổ đường vào sau, mình nào giờ toàn uống không đường ròi đóà, mà nhân viên dễ thương nhiệt tình nữa nên ghé thử nhé."
+        },
+        {
+            "user": "Khoa Do",
+            "link": "https://www.foody.vn/thanh-vien/jynqvxxib",
+            "score": "9.0",
+            "comment": "Ghé quán cũng lâu nhưng giờ có dịp post luônKhông gian quán dễ chịu bật nhạc nhẹ nên cảm giác yên ắng nhưng sáng nha, không bị đèn mờ nha =))Món Matcha Peach này ngon, uống hợp không bị chỏi đâu, màu hình chụp lên cũng đẹp nữa nhờ miếng đào. Kem vani béo ngon không quá ngọt, muốn gọi lên 1 phần whipping nữa :))"
+        },
+        {
+            "user": "Pony Pham",
+            "link": "https://www.foody.vn/thanh-vien/pdejfoua",
+            "score": "9.6",
+            "comment": "Mình thấy quán không gian rộng, bàn cũng rộng & thức uóng với món ăn decor siêu đepNên bạn nào chuyên về chụp flatlay sẽ thích lắm vì cá nhân mình cũng mê flatlat :))À quán có thêm nhiều sách báo, cây cỏ để làm phụ kiện thêm nha.Nhân viên phục vụ dễ thương nên ghé thử"
+        },
+        {
+            "user": "Paul Vo",
+            "link": "https://www.foody.vn/thanh-vien/pdtcaqxt",
+            "score": "8.6",
+            "comment": "Cần quán cafe đẹp nhưng lại thường không kì vọng vào món uống hay đồ ăn đâu, vì thường thấy vậy.Ghé quá vì thấy không gian đẹp, thật sự đẹp.Gọi Spaghetti đút lò  ăn no lặt lè luôn, mà ngon, chesse đã, sốt ngon nữa.Nhân viên phục vụ dtg. nói chung sẽ quay lại."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "The Sushi Bar - Capri Hotel Residences",
+    "link": "https://www.foody.vn/ho-chi-minh/the-sushi-bar-capri-hotel-residences",
+    "address": "C6B02-2, New South Urban City, P. Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "Buổi Tối  17:00 - 22:30",
+    "price_range": "100.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-bar?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "18"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Eat  Well",
+            "link": "https://www.foody.vn/thanh-vien/sonnguyen456",
+            "score": "8.6",
+            "comment": "Quán này rất đông vào buổi tối. Trong quán khá ồn ào, không giống không khí quán ăn Nhật mấy. Giá cả cũng không quá mắc, ăn no căng khoảng 500k/ người. Lẩu nước trong, thanh và ngon."
+        },
+        {
+            "user": "Ren Ren",
+            "link": "https://www.foody.vn/thanh-vien/renren6431",
+            "score": "6.0",
+            "comment": "Sushi bar ở đây ngon , lần nào cũng tới đây để thưởng thức món ăn :) + điểm cộng : - phục vụ tốt - gửi xe miễn phí - thức ăn ngon , hợp vệ sinh - giá cả phải chăng + điểm trừ : - hơi khi dễ khách Chỉ cần mặc đồ không đẹp hay sao đó là đi với nó là ánh mắt khó chịu , khi dễ của phục vụ - không mát cho lắm , nhất là trên lầu Tóm lại : rẻ , ngon"
+        },
+        {
+            "user": "Nhu Lam",
+            "link": "https://www.foody.vn/thanh-vien/lamkhanhu",
+            "score": "7.4",
+            "comment": "Chi nhánh Sushi bar ở đây nhìn chung không đông bằng những chi nhánh khác, nhóm mình đi lúc 12h trưa thứ 6 thấy hầu hết các bàn đều trống, khỏi phải bon chen như trên Sushi Bar Lê Thánh Tôn.Giá tiền: Đi 8 người giá 1 triệu rưỡi, giá ổn  Chất lương món ăn: sushi bar nổi tiếng rồi nên mình cũng không comment gì nhiều, món ăn ngon, có điều nếu kêu bánh xèo thì đợi hơi lâu khoảng 15-20 phút."
+        },
+        {
+            "user": "Rin",
+            "link": "https://www.foody.vn/thanh-vien/rin9082",
+            "score": "6.8",
+            "comment": "Đến chi nhánh này cũng được vài lần, bữa nay tới vẫn thấy sushi nắm ko được chắc, vừa gắp lên cơm đã rời ra. Phải gửi xe dưới hầm phía sau tòa nhà rồi đi bộ vòng ra trước, nhân viên gửi xe ko thân thiện."
+        },
+        {
+            "user": "Smartie Food",
+            "link": "https://www.foody.vn/thanh-vien/smartiefood",
+            "score": "7.0",
+            "comment": "- So với Tokyo Deli thì menu ít món hơn- Nigiri ở đây cơm cuốn không được chắc, lúc mình chấm nước tương thì cơm rớt hết ra (mình chấm đúng cách nhé là cá tiếp xúc với nước tương chứ không phải cơm) với cả lúc gắp miếng nigiri ra khỏi dĩa thì thấy cơm hơi dính vào dĩa nếu mạnh tay 1 tí coi như nát @@- Cơm heo và gà ăn được- Sashimi giá cao hơn bên Tokyo Deli- Nhân viên so với Tokyo Deli thì không thân thiện bằng (bên đó chào hỏi tươi cười luôn mồm, lúc ra còn cảm ơn, ở đây không hề có)- Nhưng ở Sushi bar thì cho làm thẻ thành viên, tích đủ 3 triệu được thẻ giảm 10% bên Tokyo Deli thì ăn tận 2 triệu mới được tặng 100k"
+        }
+    ]
+}

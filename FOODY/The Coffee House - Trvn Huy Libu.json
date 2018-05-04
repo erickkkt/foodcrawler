@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Trần Huy Liệu",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-tran-huy-lieu",
+    "address": "185 Trần Huy Liệu,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.7"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "21"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "minh minh",
+            "link": "https://www.foody.vn/thanh-vien/seekcycle",
+            "score": 0,
+            "comment": "quán decor giống các chi nhánh khác. Mình cảm giác khó chịu khi ngồi dưới đèn vàng, cảm giác rất gắt, ko ngồi lâu được. Nhờ bạn phục vụ tắt hay giảm sáng không được do được giải thích công tắc ảnh hưởng đến nhiều đèn khác :("
+        },
+        {
+            "user": "Bao Chau",
+            "link": "https://www.foody.vn/thanh-vien/nhbchau.st",
+            "score": "8.0",
+            "comment": "Mình uống nhiều chỗ nhưng chỉ duy nhất ở đây trà đào cam xả cực ngon, thơm đào đậm vị xả lại có mùi chua chua ngọt ngọt của cam, uống xong cứ thèm mãi thôi"
+        },
+        {
+            "user": "kimthi",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthikimthi",
+            "score": "7.2",
+            "comment": "Quán đẹp, đi vào trưa thứ 7 cũng đông và ko quá ồn ào. Có loại nước mới nhưng mình thấy uống bình thường. Chỉ thích uống trà đào ở đây thôi."
+        },
+        {
+            "user": "Thao Pham",
+            "link": "https://www.foody.vn/thanh-vien/jimii",
+            "score": "8.8",
+            "comment": "Mình ghé TCH Trần Huy Liệu để làm việc vì ở đây không quá đông và tiếng ồn vừa phải không làm ảnh hưởng tới bất kỳ cá nhân nào. - Không gian: 2 tầng. Mình ngồi tầng trệt do lúc mình ghé cũng trễ rồi nên lười lên lầu, mà nhìn từ ngoài vào trên hay dưới gì cũng đẹp cả, còn rộng rãi, thoáng mát.- Dịch vụ: Đối với mình thì dịch vụ ở TCH siêu tốt rồi, ở chi nhánh Trần Huy Liệu cũng thế. Có một bãi giữ xe trong nhà khá rộng không lo xe bị ướt khi mưa, hai bác giữ xe cũng nhiệt tình. Nhân viên phục vụ vô cùng lịch sự và nhẹ nhàng (lại còn xinh đẹp), chào hỏi khách nhã nhặn và refill nước liên tục cho khách.- Thức uống: Mình và bạn mình gọi Trà đào cam sả với Nước cam tươi nguyên chất. Trà đào cam sả như là món signature của TCH, must try nhé mọi người. Nước cam tươi nguyên chất được phục vụ kèm một tách nước đường nhỏ để mọi người tự pha và điều chỉnh theo khẩu vị.Ngoài TCH còn có app riêng để tích điểm và tiện theo dõi các bài hát do quán phát, khá tiện lợi.Nói chung là hài lòng về TCH <3"
+        },
+        {
+            "user": "Uyen Thao Pham",
+            "link": "https://www.foody.vn/thanh-vien/newgalaxy_246cpgs90",
+            "score": "8.2",
+            "comment": "The Coffee House ra món mới xoài dừa đá xay siêu ngon. Thơm thơm béo béo chua chua.Đá xay cùng với dừa và sữa nên thơm, béo và không quá ngọt. Dùng chung với xoài cắt miếng nhỏ và sốt xoài chua chua. Uống 1 lần ghiền luôn.Lúc trước mình không thích TCH lắm, từ khi có món này ghé hoài luôn.Nên thử nhe!!!"
+        }
+    ]
+}

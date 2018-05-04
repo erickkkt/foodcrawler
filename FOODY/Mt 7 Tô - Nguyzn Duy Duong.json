@@ -1,0 +1,237 @@
+{
+    "name": "Mỳ 7 Tô - Nguyễn Duy Dương",
+    "link": "https://www.foody.vn/ho-chi-minh/my-7-to-20-nguyen-duy-vuong",
+    "address": "Lầu 2, 20 Nguyễn Duy Dương, P. 8,  Quận 5, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "9.000đ - 49.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "312"
+    },
+    "foods": [
+        {
+            "name": "Bánh Bao Kim Sa",
+            "price": "12,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Bánh Bao Gà - Nấm",
+            "price": "12,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Bánh Bao Phô Mai",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh Bao Xá Xíu",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bánh Bao Trà Xanh",
+            "price": "12,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh Bao Trứng Sữa",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh mè chiên",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Pudding Xoài",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chuối chiên hoàng kim",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Phô Mai",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Phô Mai Đá",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt Phô Mai Trái Cây",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding Chocolate",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hủ hạnh nhân",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding Khoai Môn",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước sâm",
+            "price": "10,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Trà Bông Cúc",
+            "price": "14,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hibicus Soda",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà Trái Vải",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà",
+            "price": "14,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Bạc Hà",
+            "price": "14,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Sữa Thái Đỏ",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Sữa Thái Xanh",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Sữa Đài Loan",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Chanh Thái Đỏ",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Đào",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Quế - Chanh Dây",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Hoa Hibicus",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt trân châu ngọc trai",
+            "price": "5,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Hạt thủy tinh chanh dây",
+            "price": "5,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt thủy tinh yogurt",
+            "price": "5,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Bình Minh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/binhminh.nguyen.351756",
+            "score": "6.4",
+            "comment": "Mình đi 3 người gọi 3 phần mì 7 tô, 1 phần mì mực khổng lồ cà ri và 3 cục hoành thánh chiênMì thì mình thấy bình thường, cũng có tô ngon tô dở, mà với giá 59k/7 tô thì mình thấy hơi mắcChủ yếu ăn cho biết, cũng lạ miệngMì cà ri mực cũng ngon, nêm nếm vừa phải, hoành thánh chiên giòn, hơi ít nhânDịch vụ nhân viên ở đây nhiệt tình, ổnDo đó có tính 5% tiền phục vụ, và 10% VAT nên hoá đơn có hơi caoKhông gian rộng rãi, thoáng mát."
+        },
+        {
+            "user": "Pi ú",
+            "link": "https://www.foody.vn/thanh-vien/angel.dust.1305",
+            "score": "7.4",
+            "comment": "Hôm trước đi ăn với 2 nhỏ bạn, gọi mì 7 tô với mì cà ri mực, thêm cá trứng ăn kèm. Mì 7 tô mỗi tô một vị, nhỏ xíu hà, nhưng ăn rất ngon, mình thích nhất vị bò. Mì cà ri mực thì một phần to hơn, nêm nếm cũng rất đậm đà, miếng mực giòn và tươi ăn rất thích.Nói chung là về phần món ăn tụi mình rất hài lòng, nhưng về không gian và phục vụ có đôi chút không thích lắm. Không gian đẹp nhưng nóng quá, điều hòa mở mà cứ như không mở í! Chị phục vụ cũng không nhiệt tình lắm, vậy mà trong bill tính thêm 10% phí phục vụ. May mà đồ ăn ngon bù lại nếu không chắc hơi ấm ức, hihi.Có lẽ sẽ ghé lại nhiều lần nữa!"
+        },
+        {
+            "user": "Bùi Hoàng Việt",
+            "link": "https://www.foody.vn/thanh-vien/buihoangviet0x",
+            "score": "7.6",
+            "comment": "Không gian ổn, nhân viên tốt, số lượng nhân viên nhiều, cách làm việc của quán tốt, lịch sự, mình sinh viên nên chỉ ăn 1 combo 7 món mì mà cảm thấy chua cho túi tiền, giá cả có vẻ hợp vs ng ăn sang hơn"
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.8",
+            "comment": "Nếu mà nói ngon thì cũng không hẳn , chất lượng ở mức vừa phải , ok thôi , được cái lạ nên thu hút nhiều người . Sức mình thì 1 phần 7 tô này là no lắm rồi , không cần phải kêu thêm nữa , 49k/ phần. 7 tô 7 vị , mình không nhớ rõ vị gì nhưng mà mình thấy cả 7 vị đều ổn , vừa ăn , có cái mì cút quay nêm hơi mặn . Trà sữa và hồng trà ở đây ngon , giá ok . Nhân viên phục vụ nhanh , gọn gàng , món lên nhanh . Bánh bao kim sa ở đây ăn rất ngon . Mọi người nên kêu thử 3 mùi trứng muối , trà xanh với phô mai , siêu ngon ."
+        },
+        {
+            "user": "Thanh Thảo",
+            "link": "https://www.foody.vn/thanh-vien/dntthao208",
+            "score": "7.4",
+            "comment": "Có ăn ở đây vài lần rồi nhưng bây giờ mới có thời gian reviewQuán nằm mặt tiền đường nên dễ tìm lắm, đến nơi có nhân viên hướng dẫn lên khá nhiệt tình. Mình đi vào tối cuối tuần nên quán khá đông và vì đông quá nên máy lạnh k đủ lạnh!Mì 7 tô ăn ổn, 7 vị đều khác nhau, ăn cũng ok nhưng không xuất sắc. Mỗi tô chỉ có 1 xíu mì thôi, ăn 1 phần thấy ngán chứ không no đâu. Mì cari mực khổng lồ không ngon lắm, mực tươi, đồ ăn kèm ok nhưng nước cari hơi ngọt. Bù lại các loại há cảo, bánh bao ở đây ngon lắm, vỏ mỏng, nhân nhiều, vị nào ra vị đó, không phải kiểu cái nào cũng giống nhau như mấy quán khác. Thấy mấy món này còn ngon hơn món chính 😂 nước uống cũng tương đối ổn, có hồng trà ngon lắm, chua chua ngọt ngọt giống vị trà chanh, trân châu ngọc trai giống trân châu trắng nhưng hình như đc nấu bằng nước dừa nên khá thơm! Ngoài ra trà sữa các loại uống cũng đc, chỉ trừ trà chanh thái gì đó là không nên thử nha, vị rất là kì luôn, vừa chua vừa lạt, khó uống lắm. Quán sử dụng giấy nén rất thú vị 😂Giá cả tương đối hợp lí, không mắc cũng không rẻ ."
+        }
+    ]
+}

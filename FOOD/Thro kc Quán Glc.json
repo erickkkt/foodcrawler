@@ -1,0 +1,677 @@
+{
+    "name": "Thảo Ốc Quán Gốc",
+    "link": "https://www.foody.vn/ho-chi-minh/oc-thao-hoang-dieu",
+    "address": "229 - 231 Hoàng Diệu,  Quận 4, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "70.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "6.3",
+        "total_review": "162"
+    },
+    "foods": [
+        {
+            "name": "Tôm nướng mọi",
+            "price": "80,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cà ri tôm (lớn)",
+            "price": "200,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Tôm nướng sate",
+            "price": "80,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cà ri tôm nhỏ",
+            "price": "120,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm sốt me",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm sốt tỏi",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm hấp nước dừa",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nghêu hấp Thái",
+            "price": "40,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Nghêu hấp sả",
+            "price": "40,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Đậu bắp xào",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cua xào me",
+            "price": "270,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Cà ri cua",
+            "price": "200,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cua rang muối",
+            "price": "200,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cua xào tỏi",
+            "price": "200,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hột vịt lộn xào me",
+            "price": "13,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Ốc len xào dừa",
+            "price": "70,000(đ)",
+            "total_orders": "58"
+        },
+        {
+            "name": "Hột vịt lộn luộc",
+            "price": "10,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Hột vịt lộn xào tỏi",
+            "price": "13,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Cà ri tôm (lớn)",
+            "price": "200,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ốc hương sốc muối",
+            "price": "90,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Ốc hương rang muối",
+            "price": "90,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Ốc hương cháy tỏi",
+            "price": "90,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Ốc hương hoàng kim",
+            "price": "90,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Ốc hương nướng mọi",
+            "price": "90,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Ốc hương hấp sả",
+            "price": "90,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mực trứng hấp gừng",
+            "price": "90,000(đ)",
+            "total_orders": "69"
+        },
+        {
+            "name": "Mực trứng nướng sate",
+            "price": "90,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Mực trứng nướng mọi",
+            "price": "90,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Mực xào mì gói",
+            "price": "70,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Mực nướng sate",
+            "price": "70,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Mực hấp gừng",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ốc mỡ hấp sả",
+            "price": "70,000(đ)",
+            "total_orders": "135"
+        },
+        {
+            "name": "Ốc mỡ xào me (đặc biệt ngon)",
+            "price": "70,000(đ)",
+            "total_orders": "59"
+        },
+        {
+            "name": "Ốc mỡ cháy tỏi (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "47"
+        },
+        {
+            "name": "Ốc mỡ rang muối tôm",
+            "price": "70,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Ốc cà na sóc muối (đặt biệt ngon)",
+            "price": "65,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Ốc cà na xào me",
+            "price": "65,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Ốc cà na rang muối",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ốc cà na cháy tỏi",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Đầu mực xào chua ngọt",
+            "price": "70,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Đầu mực nướng sate",
+            "price": "70,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Đầu mực xào mì",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mì chua cay (nghêu + tôm + mực)",
+            "price": "90,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mì xào ốc giác",
+            "price": "70,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Mì xào ốc tỏi",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì xào ốc khế",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì xào ốc móng tay",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mì xào tôm + mực (hải sản)",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hào nướng mỡ hành",
+            "price": "19,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Hào nướng phô mai",
+            "price": "19,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Hào nấu cháo",
+            "price": "100,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cháo bào ngư",
+            "price": "100,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Cháo hào",
+            "price": "100,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cháo thập cẩm",
+            "price": "100,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cháo nghêu",
+            "price": "100,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cháo sò huyết",
+            "price": "100,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cháo tôm",
+            "price": "100,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ốc giác xào rau muống",
+            "price": "70,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Ốc giác xào sa tế (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Ốc giác xào bơ tỏi (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Ốc giác luộc sả",
+            "price": "70,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Ốc giác xào mì",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ốc móng tay xào sa tế (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Ốc móng tay xào rau muống",
+            "price": "70,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Ốc móng tay xào bơ tỏi (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Ốc móng tay xào mì",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ốc nhung nướng mọi",
+            "price": "65,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Ốc nhung nướng muối ớt",
+            "price": "65,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Ốc nhung luộc sả (đặc biệt ngon)",
+            "price": "65,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ốc dừa xào bơ tỏi",
+            "price": "65,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Ốc dừa rang muối",
+            "price": "65,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Ốc dừa luộc sả",
+            "price": "65,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ốc dừa luộc muối tiêu",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ốc tỏi nướng muối ớt",
+            "price": "25,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Ốc tỏi nướng mỡ hành",
+            "price": "25,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Ốc tỏi nướng phô mai",
+            "price": "30,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Ốc tỏi xào bơ tỏi",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Ốc tỏi xào sate",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ốc tỏi xào mì",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc tỏi xào rau muống",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò dương nướng mỡ hành",
+            "price": "30,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sò dương nướng phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sò dương xào bơ tỏi",
+            "price": "120,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sò dương nướng muối ớt",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ốc nhảy nướng mọi",
+            "price": "70,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Ốc nhảy hấp sả",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sò điệp xào bơ tỏi (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sò điệp nướng mỡ hành",
+            "price": "70,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sò điệp nướng phô mai",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sò điệp xào rau muống",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sò điệp nướng muối ớt",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò điệp xào mì gói",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sò dẹo nướng muối ớt (đặc biệt ngon)",
+            "price": "65,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Sò dẹo nướng mỡ hành",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sò lông nướng mỡ hành",
+            "price": "70,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Sò lông xào mì gói",
+            "price": "70,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sò lông nướng muối ớt",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sò lông xào rau muống",
+            "price": "70,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sò lông xào bơ tỏi",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sò huyết cháy tỏi (đặc biệt ngon)",
+            "price": "70,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Sò huyết lacot",
+            "price": "70,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Sò huyết xào me",
+            "price": "70,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sò huyết nướng mọi",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Sò lụa xào rau răm",
+            "price": "40,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Sò lụa hấp thái",
+            "price": "40,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Sò lụa xào tỏi (bánh mì)",
+            "price": "65,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Sò lụa xào rau muống",
+            "price": "65,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sò lụa xào mì gói",
+            "price": "65,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Sò lụa hấp sả",
+            "price": "40,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sò lụa xào me (bánh mì)",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tôm hùm nướng mọi",
+            "price": "180,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Bạch tuộc nướng sate",
+            "price": "65,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Tôm hùm nướng phô mai",
+            "price": "180,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Tôm hùm luộc",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Răng mực nướng sate",
+            "price": "70,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Răng mực xào bơ tỏi (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Răng mực xào sate (bánh mì)",
+            "price": "70,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Sò tô nướng phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Sò tô nướng muối ớt",
+            "price": "20,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sò tô nướng mỡ hành",
+            "price": "20,000(đ)",
+            "total_orders": "6"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hồng Võ Thúy",
+            "link": "https://www.foody.vn/thanh-vien/thuyhongvo.nice",
+            "score": 0,
+            "comment": "Mới chuyển văn phòng qua Quận 4 nên ghé thử quán này. Ko ngờ thức ăn quá dở, mang ra nguội, kêu thố nghêu hấp mang ra ko có tí khói nhờ hấp lại mà chủ quán ko làm ra vẻ  hách dịch. Nhìn chung tệ, không bao giờ ghé lần 2 cái  kiểu chủ quán xem thường khách hàng"
+        },
+        {
+            "user": "Hope Hoang",
+            "link": "https://www.foody.vn/thanh-vien/nganhoang221292",
+            "score": 0,
+            "comment": "Quay lại đây sau 1 năm để thử các món khác so với năm ngoái. M cảm giác chất lượng quán đi xuống nhiều so với hè năm ngoái m ăn á. Nghêu hấp Thái ăn siêu nhạt, và nhiều sạn nữa chứ. Sò lông thì nguội ngắt nguội ngơ. Phô mai thì ko được đổ đều nên miếng thì siêu nhiều, miếng thì siêu ít. Cái ốc gì muối ớt thì ôi mẹ ơi siêu siêu mặn, mặn đắng mặn chát ra ạ 😭 Ưng được mỗi món ốc mỡ xào me cả ốc gì xào rau muống á, nước sốt siêu ngon, cơ mà quên ko order bánh mỳ để chấm. Ko ưng việc gọi nước ngọt ra mà mở sẵn chai ra nên bay ga và ko uống 1 chai ko được trả lại ..."
+        },
+        {
+            "user": "phuongkrt",
+            "link": "https://www.foody.vn/thanh-vien/phuongkrt",
+            "score": 0,
+            "comment": "Cách đây vài ngày có ghé quán. Lâu nay vẫn chỉ ăn ốc ở quán này, cứ tưởng mọi thứ sẽ tốt hơn hoặc ít nhất như cũ, nhưng thật sự thất vọng. Vào lúc 6h15, gọi món, chờ đến 6h40 chưa có, gọi phục vụ thì trả lời lơ mơ, kiểu như anh chi gọi món nướng nên lâu, trong khi đó có món nghêu hấp xả mà hơn 30ph vẫn chưa có. Nản, tính tiền về và còn ấm ức.....Không bao giờ quay trở lại"
+        },
+        {
+            "user": "Huong Leo",
+            "link": "https://www.foody.vn/thanh-vien/lovely_ruby_moon",
+            "score": 0,
+            "comment": "Hôm nay lần đầu tiên đến quán này thông qua giới thiệu trên foody. Và nhận được một trải nghiệm ko khá ức chế và căng thẳng. Đầu tiên, sau khi order món mình gọi nước. Hỏi 1 bạn nam là có trà đá ko bạn ấy trả lời ko có chỉ có nước suối. Ok cho mình 1 pepsi 1 nước suối. Sau mang ra 1 pepsi và 1 sting. Mình nói là nãy kêu 1 pepsi 1 nước suối. Thế là bạn ấy cất sting mang nước suối ra và ko quên dằn mặt mình là nãy chị kêu 1 pepsi 1 sting??? Rồi quay đít đi. Mình khá shock vì ck mình xưa giờ toàn kêu pepsi và mình chưa bao giờ và sẽ ko bao giờ có ý định uống sting cả. Chả biết bạn ấy bị ai đó nhồi sọ từ \"sting\" nữa. Thứ hai. Kêu món và bị sót 1 món thực đơn ghi là \"mì chua cay (nghêu, tôm, mực)\". Sau đó đã bị tự tiện đổi thành \"mì xào ốc móng tay \". Mình ngồi kế bên chị chủ nên khi nghe chị chủ gào vào cái bộ đàm là mì xào ốc móng tay mình đã gọi nhân viên lại và nói em ơi chị gọi mì chua cay chứ ko fai mì xào ốc móng tay. Thế là bạn ấy bảo do menu bị in lộn bla bla bla nên chuyển wa ốc móng tay hoặc ốc giác. Thế mình nói vậy cho qua mì xào ốc giác đi vì ốc móng tay vừa ăn xong rồi (mình có gọi ốc móng tay xào rau muống). Ẽm nói đã nhập vào máy ko đổi được??? (vừa nhập xong). Thế là ức chế quá kêu gói phần đó mang về. Mình nói mang về là xác định vứt đi đó vì cảm thấy sai quá sai. Tiếp theo kêu tính tiền em phục vụ cứ dạ ok chị rồi cho chị ngồi ko nửa tiếng luôn. Đến lúc mình phải chạy ra chị chủ kêu tính tiền thì em phục vụ đó ngây thơ hỏi ủa chị muốn tính tiền hả? Mình điên lên nói ủa chị kêu em tính tiền 2 lần từ nửa tiếng trước rồi đó. Lúc đó mới được tính. Sau đó vẫn phải chờ món mì xào ốc móng tay ko mong đợi bỏ hộp mang ra cho mình trong tuyệt vọng. Cuối cùng là trong suốt quá trình ngồi ăn cực kỳ căng thẳng vì phải nghe tiếng gào thét của chị chủ vào cái bộ đàm. Chưa kể là có 1 bill take away tính sai tùm lum la ó um sùm nghe khá mệt. Phán đoán thì chị chủ xài cái phần mềm quản lý gì đấy mà như kiểu đang mò mẫm nên rất rối khâu quản lý. Mà sao ko làm cái màn hình cảm ứng to cỡ 13inch mà phải gõ lọc cọc vào cái đt bé xíu như vậy quá là mất tgian. Chốt lại là đồ ăn tương đối ngon. Nhưng mình sẽ tìm quán khác trong 1001 quán ốc cũng ngon tương tự để ăn chứ ko quay lại đây nữa."
+        },
+        {
+            "user": "Chang Chang",
+            "link": "https://www.foody.vn/thanh-vien/peheo_dethuong_810",
+            "score": "7.4",
+            "comment": "Biết đến qán này qua 1 người bạn giới thiệu, thế là từ đó mỗi lần thèm là bay qua đây ăn thôi đó, kiểu như ăn ở đây r ăn ở chỗ khác cứ thấy không bằng í (dù nhìu ng có lời ra ý vào nhưng vẫn thíc nơi đây nha :d)Vị trí: ngay mặt tiền đường Hoàng Diệu, nếu đi từ Cầu Ông Lãnh xuống thì quẹo trái qa Hoàng Diệu, vừa qa ngã 4 Hoàng Diệu với Vĩnh Khánh là nằm bên tay phải luôn nhen, tới trước quán là có nhân viên chạy xe qua bên đường gửi xe dùm luôn nhen.Không gian: Quán có 2 lầu, lầu 1 thì hình như có qạt thôi còn lầu 2 thì có máy lạnh nữa. Mình hay ngồi ngoài hè í, tại ăn nhìu, bay tới là chị chủ bik thíc ngồi ở ngoài cho thoáng nên toàn đc ngồi ngoài thôi. Quán cũng k rộng lắm nhưng sạch sẽ thoáng mát.Món ăn: ăn mấy quán  ốc khác r thì mình thấy quán này đồ ăn lên cũng nhanh mà cũng còn nóng, chứ có những quán lên đồ ăn đã lâu mà còn nguội nữa cơ. Ăn cũng thấy ốc tươi ngon đó chứ, thích nhất ở đây món bắp xào luôn í, mỗi lần đi ăn cũng kêu 2 dĩa ăn cho đã. Đây nhìu món ngon lắm mà, ví dụ như là răng mực bơ tỏi nè, mì xào ốc giác, ốc mỡ xào me, sò lông nướng mỡ hành, ... nói chung mình thấy ưng quán này. Order món là tự đưa giấy vs menu cho khách chọn rồi khi vô nhen, thí dụ lúc sau có ăn thêm thì kêu họ order cũng đc mình khỏi ghi.Nhân viên: từ chủ quán đến nhân viên ai cũng dễ chịu, phục vụ cũng nhanh nữa."
+        }
+    ]
+}

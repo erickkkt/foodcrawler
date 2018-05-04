@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - SC VivoCity",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-sc-vivocity",
+    "address": "Tầng 5, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "91"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Kelly Hương",
+            "link": "https://www.foody.vn/thanh-vien/ngoctrinh210492",
+            "score": "9.6",
+            "comment": "Mình ưa uống Hot & Cold Vivo vì cũng gần nhà mình, có lẽ vì ở trung tâm thương mại nên thiết kế khá đẹp ,khách luôn tấp nập nhưng các bạn nhân viên vẫn luôn nhiệt tình và ra nước rất nhanh, chất lượng vẫn luôn đảm bảo ngon mê ly :)))) và vì cũng tiện mua trà sữa zô CGV coi phim cho đỡ chán ,hehe ❤❤"
+        },
+        {
+            "user": "Hoàng Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/hoangphuocjb97",
+            "score": "10",
+            "comment": "View đẹpNhân viên dễ thươnv vui vẻ ( nhất là bạn nam áo đen )Nước thì vô cùng ngon.Sẽ tới đây hoài luônTeam socola latte machiato."
+        },
+        {
+            "user": "Phước Sang Lưu",
+            "link": "https://www.foody.vn/thanh-vien/luuphuocsangtl",
+            "score": "10",
+            "comment": "Lỡ thích rồi sao ... vì thích nên ghé quán ... ghé quán thì phải uống trà sữa ... bạn chỉ order thêm topping ... rồi vừa thích bạn vừa ghiền trà sữa luôn."
+        },
+        {
+            "user": "Lâm Lâm",
+            "link": "https://www.foody.vn/thanh-vien/lamlamlam086",
+            "score": "8.0",
+            "comment": "Mua về uống để tối học bài. Thức uống ngon, rẻ, hợp túi tiền của học sinh, sinh viên như mình. Lâu lâu học bài khuya cần thức và thế là quất ngay một li trà của h&c, vừa ngon vừa tỉnh táo. Dịch vụ lại tốt nữa chứ ^^."
+        },
+        {
+            "user": "GoViBa Su",
+            "link": "https://www.foody.vn/thanh-vien/jinmarkline97",
+            "score": "8.6",
+            "comment": "Nay thứ bảy, nên đi chơi sẵn ghé mua nước uống mà thây đông quá đông luôn. Tuy vậy mà nhân viên vẫn nhiệt tình với cả niềm nở lắm. Song vị tươi mát rất ngon. Chua chua ngọt ngọt thích ghê."
+        }
+    ]
+}

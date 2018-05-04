@@ -1,0 +1,76 @@
+{
+    "name": "Quán Ăn Thanh Lịch - Cần Giờ",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-an-thanh-lich-can-gio",
+    "address": "185 Tắc Xuất, KP. Miếu Ba, TT. Cần Thạnh,  Cần Giờ, TP. HCM",
+    "open_time": "08:00 AM - 10:30 PM",
+    "price_range": "100.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "14"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "NV TH",
+            "link": "https://www.foody.vn/thanh-vien/vongoc_juox",
+            "score": "7.0",
+            "comment": "Lần đầu ghé thử được- Cua rang me- Gỏi ốc đụng- Ốc hương hấp xã- Sò huyết xào tỏi- Khô cá dứa chiên ăn với cơm nấm- Ốc mỡ hấp xã- Mực ống chiên giòn- Mực tua nhúng dấmMón nào cũng ok,món nào lên cũng nhiều. Cua gạch đúng chất lượng, nhiều gạch, thấm vị. Ốc đụng, ốc hương, ốc mỡ hay sò huyết đều con to. Nhưng tùy loại không phải loại nào cũng là đồ thiên nhiên. Khô cá dứa của CG thì khỏi bàn cải rồi. 2 loại mực đều tươi, mực tua lúc mang ra là còn ngoe nguẩy liên tục luôn 😂 Nói chung không có gì không ưng ngoại trừ ốc mỡ hấp hơi chính nên mất phần đuôi. Chắc do lúc trưa quán đông. Phục vụ cũng chịu cười nhưng hơi hời hợt. Đi 8 người bill hết 2 triệu 1. Quá ok 👌"
+        },
+        {
+            "user": "Rựa Trần",
+            "link": "https://www.foody.vn/thanh-vien/tranvanrua751",
+            "score": 0,
+            "comment": "hôm chủ nhật tuần rồi, tôi có ra Cần Giờ chơi và nghe nói quán Thanh Lịch rất nổi tiếng nên vợ chồng tôi mới quyết định ghé ăn, để hưởng thụ ngày nghỉ cuối tuần. Nhưng tôi quá thất vọng về thái độ phục vụ của nhân viên, tôi vào thì bàn khách trước ăn đã tính tiền và đi rồi nhưng nhân viên không dọn, tôi gặp 2 nhân viên kêu dọn để vợ chồng tôi ngồi thì ậm ừ rồi không dọn, đợi khoảng 30' mới có người dọn rồi hỏi 1 câu cộc lốc \"rồi ăn gì, kêu đi\". Tới đây đã quá sức chịu đựng nên tôi quyết định bỏ về mà không cần thưởng thức xem món ăn có ngon tới đâu. Không bao giờ quay lại nữa."
+        },
+        {
+            "user": "Tuấnn Quốc",
+            "link": "https://www.foody.vn/thanh-vien/tunnquc",
+            "score": "8.0",
+            "comment": "Quán này thích hợp cho gia đình đông người đi ăn nha. 1 món ăn to bự đầy ắp luôn. Kì mình đi có 2 người nên ăn được có 2 món à mà no ú ụ luôn. Tổng thiệt hại là 367k ( có hình bill bên dưới)Mình với bạn gái kêu Ốc mỡ xào me với lẩu thái. Ốc con nào con nấy bự chà bá mà ngon lắm kìa. Chế biến cũng hợp khẩu vị nữa. Nồi lẩu cũng to với ngon lắm. Đi đông đôg chia ra là hợp túi tiền rồi còn ăn được nhiều món nữa 😆"
+        },
+        {
+            "user": "Katie Dang",
+            "link": "https://www.foody.vn/thanh-vien/lovely_smile317",
+            "score": "6.8",
+            "comment": "Đến Cần Giờ vào dịp cuối tuần để thư giãn và thưởng thức hải sản. Đọc review trên Foody, tụi mình quyết định đến thử quán này. 2 người nên gọi 1 lẩu Thái hải sản và 2 chú cua gạch hấp bia. Cua rất ngon và nhiều thịt. Nước lẫu chua cay vừa phải, có điều phần hải sản hơi ít. Chỉ 1 đĩa cá và tôm, nhìn màu tôm có vẻ không tươi cho lắm :(Quán cuối tuần đông, nhân viên phục vụ hơi chậm. Nếu cải thiện sẽ để lại ấn tượng tốt cho khách hơn."
+        },
+        {
+            "user": "minhtrang2478",
+            "link": "https://www.foody.vn/thanh-vien/minhtrang2478",
+            "score": "7.4",
+            "comment": "Xa quá là xa, mỗi lần đi đến bệnh viện huyện Cần Giờ mới có dịp ghé đây. Điểm đặc biệt của quán là con ngao sò ốc nào cũng to chà bá. Nêm nếm hợp khẩu vị. Quán bình dân chuyên hải sản, là điểm đến của du khách. Quán chuyên các món nhậu, nhưng phá mồi cũng rất ok."
+        }
+    ]
+}

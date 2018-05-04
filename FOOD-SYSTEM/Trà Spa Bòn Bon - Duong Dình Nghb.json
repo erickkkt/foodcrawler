@@ -1,0 +1,80 @@
+{
+    "name": "Trà Sữa Bòn Bon - Dương Đình Nghệ",
+    "link": "https://www.foody.vn/ho-chi-minh/tra-sua-bon-bon-1-duong-dinh-nghe",
+    "address": "4 Dương Đình Nghệ,  Quận 11, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "15.000đ - 25.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/tra-sua-bon-bon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.4"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "23"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Huyền  Autumn",
+            "link": "https://www.foody.vn/thanh-vien/nanocen",
+            "score": "6.4",
+            "comment": "Nhỏ bạn dắt đi quán này vì nó khen ngon. Quán hơi nhỏ, ngồi vỉa hè, công nhận trà sữa ngon, topping nhiều nhưng cái nào cũng ngon, có phô mai béo béo và củ năng cùng tsua nhạt nhạt là đúng vị👍. Giá khá rẻ 16k cho một ly nước no nê.Cô chú bán cũng vui vè."
+        },
+        {
+            "user": "foodee_x52khfxd",
+            "link": "https://www.foody.vn/thanh-vien/foodee_x52khfxd",
+            "score": 0,
+            "comment": "Kêu bán ly trà sữa bòn bon 16k, thêm trân châu 2k nữa là 18k. Gật đầu ừ ừ xong lát đem ly trà sữa về ko có lấy một viên trân châu. Đùa nhau à? Vậy 4k trân châu của tui và nhỏ bạn đâu? Mấy người ăn hết rồi à? May là đứng kế bên để gọi chứ mà đứng xa chắc cầm ly trà sữa về chủ có nước không thôi quá. P/S: Lần thứ 2 chứ ít gì! Thôi, \"Say Goodbye\""
+        },
+        {
+            "user": "Gà Béo",
+            "link": "https://www.foody.vn/thanh-vien/chicken_ga01",
+            "score": 0,
+            "comment": "Nghe các trang mạng giới thiệu đã nhiều và đã lâu nhưng gần đây mới thử.- trà sữa: hơi đậm đặc xíu so với vài nơi mình từng uống. Trà sữa vừa uống và topping vừa ăn. Topping nhiều lắm các bạn ạ: nào là trân châu, thạch củ năng, thạch cơm dừa, rau câu flan, rau câu phomai, thạch nhiều màu, phomai tươi....Nhưng ngon nhất chắc là bánh flan, flan trứng sữa tươi đàng hoàng chớ ko phải bột pudding. - hồng trà: nhạt nhẽo, dù có syrupVị trí: dễ tìm, đối diện trường THPT Nguyễn Hiền (đi Lãnh Binh Thăng queo vào Dương Đình Nghệ chạy vào thấy trường là thấy BònBon)Không gian: trong nhà ko rộng lắm nhưng được cái ngoài sân thoáng, mát mẻNhân viên: nhanh nhẹn, \"chuyên nghiệp\"Giá cả: hợp lý, đúng chuẩn học sinh - sinh viên- ly nhỏ: 16k đầy đủ- ly 700ml thì 21k- ly 1 lít giá hơi cao, tận 34k nhưng vẫn chấp nhận được.Ý kiến của em là vậy thôi đó, còn mọi thứ tùy cảm nhận mỗi người nữa nha các bạn 😁😁😁"
+        },
+        {
+            "user": "Châu Bội  Trinh",
+            "link": "https://www.foody.vn/thanh-vien/chauboitrinh289",
+            "score": "7.4",
+            "comment": "Mình đã biết quán trà sữa này từ rất lâu rồi và cũng hay uống ở đó.💎 Vị trí : quán rất dễ kiếm, đối diện trường Nguyễn Hiền, ngay mặt tiền đườngg, quán khá nhỏ, đa số bàn gế thì đặt ở vỉa hè, cũng đông chủ yếu lúc 7 8h tối, nếu nói đến view đẹp thì quán hình như không có nhưng sẽ là nơi tuyệt để ngồi tám và thư giãn.💎 Nhân viên : nhiệt tình, chu đáo và rất thân thiện💎 Thức uống : menu nhiều để cho các bạn lựa chọn, mình uống thập cẩm có tên là Trà sữa Bòn Bon, giá khá rẻ và cũng nhiều topping, uống no nê, cũng ngon đấy chứ, sẽ ủng hộ dài dài."
+        },
+        {
+            "user": "Jin Mint",
+            "link": "https://www.foody.vn/thanh-vien/jsyutada",
+            "score": 0,
+            "comment": "Mình không thích trà sữa ở đây. Mình thích kiểu đậm trà và đậm đặc hơn.Nhờ ở đây mà mình mới biết mình có thể ăn nhiều topping đến vậy."
+        }
+    ]
+}

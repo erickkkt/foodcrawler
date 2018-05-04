@@ -1,0 +1,76 @@
+{
+    "name": "Thần Rồng Mì Nhật - Ramen",
+    "link": "https://www.foody.vn/ho-chi-minh/than-rong-mi-nhat-tran-hung-dao",
+    "address": "245 Trần Hưng Đạo, P. 10,  Quận 5, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "48.000đ - 48.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "269"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Quân Chủ",
+            "link": "https://www.foody.vn/thanh-vien/qunch",
+            "score": "7.2",
+            "comment": "🏘 Nằm trên mặt đường nên khá dễ tìm. Không gian cũng khá thoải mái nhưng hơi nóng.🍜 Mì Ramen Miso khá ngon, nước lèo ngon vừa miệng. 🍝 Mì Udon xào hải sản hơi ít, vị hơi kì kì, hải sản cũng k được tươi nữa.🍚 Cơm bò thì cảm giác như cơm ăn với bò xào hành tây vậy thôi cũng chã có gì đặc biệt. Mà được tô nhiều lắm. 🎎 Nhân viên cũng khá thân thiện dễ thương, kiểu nhà bán mà.🅿️ Có chỗ để xe ở phía trước.⭕️ Có dịp sẽ quay lại kkk"
+        },
+        {
+            "user": "David Bui",
+            "link": "https://www.foody.vn/thanh-vien/davidbuiolis",
+            "score": "8.6",
+            "comment": "Lâu lâu ghé lại quán này thấy khác hơn hồi trc. Mình với đứa bạn đi ăn kêu 1 phần cơm bò và 1 phần mì udon. Thịt bò mềm, thơm. Trứng trộn cơm với sốt bò rất vừa ăn. Canh ngọt thanh. Rau trộn thì ok tại vì mình đã ăn món nàu rồi. Mì udon mềm nhưng không bị bở. Nước dùng khá vừa miệng. Xin thêm sate cay thì mất 5k. Bạn nào mới đến lần đầu nên xem kĩ menu để tránh bị bở ngỡ khi ngta tính tiền thêm nước trà hay khăn, sate."
+        },
+        {
+            "user": "Yuri Leon",
+            "link": "https://www.foody.vn/thanh-vien/lachuebinh",
+            "score": "6.4",
+            "comment": "Mình dùng voucher đến quán ăn gồm 2 tô mì với 2 phần há cảo. Tô mì khá to nhưng không nóng lắm, cảm giác như ăn mì nguội. Há cảo cũng vậy 😐 Nhưng dù sao chất lượng cũng không đến nỗi, hy vọng lần sau được ăn thức ăn nóng hơn. Trà đá 5k/ly."
+        },
+        {
+            "user": "Boss Phan",
+            "link": "https://www.foody.vn/thanh-vien/mlananh255",
+            "score": 0,
+            "comment": "Lần đầu tiên lên mạng coi các món ăn ngon,mình đến quán này hy vọng ăn no bụng mà thất vọng quá,quán lúc đó có mỗi mình mà kêu set cơm bò cả gần nửa tiếng mới mang lên,phần cơm thì còn tạm chấp nhận dc,còn canh và rau trộn quá khó ăn nên mình bỏ luôn,ly trà đá tính thêm 5k nữa"
+        },
+        {
+            "user": "Rùa Iod",
+            "link": "https://www.foody.vn/thanh-vien/ruacon_23510",
+            "score": "8.6",
+            "comment": "Mì ăn ngon. Nước đậm đà. Trứng cũng mặn ngon. Chú chủ quán nhiệt tình. Còn giải thích về vị của món ăn và nhận review của khách."
+        }
+    ]
+}

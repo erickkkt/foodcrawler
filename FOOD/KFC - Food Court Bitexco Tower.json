@@ -1,0 +1,221 @@
+{
+    "name": "KFC - Food Court Bitexco Tower",
+    "link": "https://www.foody.vn/ho-chi-minh/kfc-food-court-bitexco-tower",
+    "address": "Food Court Bitexco Tower, 2 Hải Triều,  Quận 1, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/kfc-ho-chi-minh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "39"
+    },
+    "foods": [
+        {
+            "name": "Gà Giòn Cay",
+            "price": "34,000(đ)",
+            "total_orders": "1144"
+        },
+        {
+            "name": "Cánh Gà Giòn Cay",
+            "price": "47,000(đ)",
+            "total_orders": "790"
+        },
+        {
+            "name": "Gà Truyền Thống",
+            "price": "34,000(đ)",
+            "total_orders": "619"
+        },
+        {
+            "name": "Gà Quay Tiêu",
+            "price": "64,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Đùi Gà Quay Tiêu",
+            "price": "39,000(đ)",
+            "total_orders": "944"
+        },
+        {
+            "name": "Burger Zinger",
+            "price": "49,000(đ)",
+            "total_orders": "497"
+        },
+        {
+            "name": "Cơm Gà Truyền Thống KFC",
+            "price": "39,000(đ)",
+            "total_orders": "480"
+        },
+        {
+            "name": "Cơm Phi Lê Gà Quay Flava",
+            "price": "39,000(đ)",
+            "total_orders": "467"
+        },
+        {
+            "name": "Burger Gà Quay Flava",
+            "price": "45,000(đ)",
+            "total_orders": "414"
+        },
+        {
+            "name": "Khoai Tây Chiên",
+            "price": "12,000(đ)",
+            "total_orders": "1169"
+        },
+        {
+            "name": "Gà Viên",
+            "price": "35,000(đ)",
+            "total_orders": "813"
+        },
+        {
+            "name": "Bắp Cải Trộn",
+            "price": "12,000(đ)",
+            "total_orders": "766"
+        },
+        {
+            "name": "Cá Thanh 3 Miếng",
+            "price": "40,000(đ)",
+            "total_orders": "465"
+        },
+        {
+            "name": "Khoai Tây Nghiền",
+            "price": "10,000(đ)",
+            "total_orders": "459"
+        },
+        {
+            "name": "Xà Lách Gà",
+            "price": "19,000(đ)",
+            "total_orders": "407"
+        },
+        {
+            "name": "Bánh Trứng Nướng (4 Cái)",
+            "price": "45,000(đ)",
+            "total_orders": "1575"
+        },
+        {
+            "name": "Bánh Trứng Nướng",
+            "price": "15,000(đ)",
+            "total_orders": "898"
+        },
+        {
+            "name": "Gà Rán Giòn Cay",
+            "price": "79,000(đ)",
+            "total_orders": "1242"
+        },
+        {
+            "name": "Gà Rán Truyền Thống",
+            "price": "79,000(đ)",
+            "total_orders": "713"
+        },
+        {
+            "name": "Phần Ăn Family Meal 3",
+            "price": "245,000(đ)",
+            "total_orders": "521"
+        },
+        {
+            "name": "Phần Ăn Double Meal",
+            "price": "175,000(đ)",
+            "total_orders": "515"
+        },
+        {
+            "name": "Phần Ăn XL",
+            "price": "99,000(đ)",
+            "total_orders": "382"
+        },
+        {
+            "name": "Phần Ăn Gia Đình B",
+            "price": "158,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Phần Ăn Teen Choice",
+            "price": "63,000(đ)",
+            "total_orders": "338"
+        },
+        {
+            "name": "Combo Gà",
+            "price": "79,000(đ)",
+            "total_orders": "290"
+        },
+        {
+            "name": "Phần Ăn Gia Đình A",
+            "price": "242,000(đ)",
+            "total_orders": "138"
+        },
+        {
+            "name": "Phần Ăn Trẻ Em",
+            "price": "56,000(đ)",
+            "total_orders": "130"
+        },
+        {
+            "name": "Trà sữa Milkfoam Kacchiato",
+            "price": "29,000(đ)",
+            "total_orders": "119"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hải Trân",
+            "link": "https://www.foody.vn/thanh-vien/Tnhtran",
+            "score": "6.0",
+            "comment": "May mắn là mua phần mới chiên ra nên còn nóng ngon , gà viên lắc tomyum ăn giống gói bột mì ăn liền :))) ổn ✅"
+        },
+        {
+            "user": "Bich Tran",
+            "link": "https://www.foody.vn/thanh-vien/ngocbichtran11",
+            "score": "6.6",
+            "comment": "Gà rán KFC Bitexco nằm ở trên lầu cách khu chiếu phim chừng chục bước. Dạo quanh cái khu Food Court của Bitexco thì mình lại vòng về KFC. Do đi vào giờ trưa nên KFC khá đông. Bàn ghế ở đây cũng không còn và mình phải mang đi chỗ khác ngồi ăn. Mình thấy nhiều người tới ăn gà mà sao dơ quá, ăn uống mà chẳng thấy giữ chút thể diện cho chính bản thân mình tý nào, chẳng hạn như xương gà thẩy tùm lum rồi đổ nước tè le, giấy quăng tùm lum. Mình có cảm tưởng như họ không phải người. hihiMình rất thích khoai tây chiên của KFC, nên tới đây minh chơi luon một bịch khoai tây chiên lớn nhất, ăn cho đã. Điểm mà mình không thích là cho có 1 bịch tương thôi."
+        },
+        {
+            "user": "Heo Ngốc Lóc Chóc",
+            "link": "https://www.foody.vn/thanh-vien/hoa_lyly211",
+            "score": "8.2",
+            "comment": "KFC bitexco :3 đi vong vong nắg quá ghé ăn cho đã :))) phần ga New York cay,ly Pepsi khổng lồ,2 ng uống mới hết nhé moi người,tot nhat nên kêu kèm phần cơm ko cần thêm nước nhé :3"
+        },
+        {
+            "user": "Uyen Pham",
+            "link": "https://www.foody.vn/thanh-vien/uyenpham7411",
+            "score": "7.8",
+            "comment": "Hôm bữa mình vừa ăn thử vị NY chua cay, thấy cũng khá ngon dù phần gia vị rắc lên hơi ít, khác với ảnh quảng cáo quá chừng chừng:)) Cái gia vị này, nói sao ta, giống như gia vị của gói mì tôm chua cay vị Nissin? Kiểu vậy đó... Và mình rất yêu mì gói chua cay nên cũng yêu món này:))"
+        },
+        {
+            "user": "Ngoc Ngơ",
+            "link": "https://www.foody.vn/thanh-vien/mtngoc.lilac",
+            "score": "8.6",
+            "comment": "Chi nhánh chỗ này là thích nhất vừa ăn vừa ngắm cảnh . Nhân viên thì tốt cực kỳ . Bữ đó m kêu 1 phần combo nhung mà ăn ko hết cái bạn nhân viên kia lại hỏi nếu ăn ko hết thì bạn ấy để vào hộp cho mang về dễ thương cực"
+        }
+    ]
+}

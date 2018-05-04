@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Lê Trọng Tấn",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-le-trong-tan",
+    "address": "723 Lê Trọng Tấn, P. Bình Hưng Hòa,  Quận Bình Tân, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "10.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "9"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "minhanhltt",
+            "link": "https://www.foody.vn/thanh-vien/phamleminhanh362",
+            "score": "8.4",
+            "comment": "Đang đi công việc, khát nước quá thấy quán này nên tấp vào uống thử. Nhìn quán khá lớn và rộng rãi. Bước vào thì được nv quán chào hỏi rất thích. Menu nước ở đây rất đang dạng, đây là lần đầu mình thấy 1 quán có menu nhiều món với đủ loại thạch để lựa chọn theo ý thích. Được nhân viên hướng dẫn chọn nước thì mình thấy có sản phẩm mới giải khát nên dùng thử. Có 3 loại thì mình dùng sp song vị nhiệt đới. Vị của nó rất ngon không quá ngọt dễ uống lại có thêm đào miếng với vải nữa. Vừa uống vừa ăn rất thích. Có dịp mình sẽ ghé quán lần nữa"
+        },
+        {
+            "user": "Ngân Vũ",
+            "link": "https://www.foody.vn/thanh-vien/nganvu0412",
+            "score": "8.8",
+            "comment": "Lần đầu đến 1 quán trà sữa đep nhu vầy thích quá. Nước uống ngon. Nhân viên nhiệt tình hướng dẫn. Lúc trước có nv bưng nước len mà giờ thì hết rôi khách phải tu đem lên. Mình thấy nhu vậy rất tiện. Mình k còn đợi nước lâu như trước. Tinh tiên ngôi đoi chung 5p la có nước rồi. Phòng đẹp tha hồ cho các bạn thích chụp ảnh tu sướng nhu minh. Lại còn có wifi free máy lạnh tha hồ ma hưởng thụ nhá. Thiên đường là đây hihihi."
+        },
+        {
+            "user": "liên lê",
+            "link": "https://www.foody.vn/thanh-vien/lienle13",
+            "score": "7.8",
+            "comment": "Địa điểm trú mưa nấp nắng lý tưởng của mình. Đồ uống đa dạng có nhiều loại trân châu,thạch, plan tha hồ lựa chọn theo ý thích. Đặt biệt món mình thích nhất ở đây là trân châu nó ko bị cứng như những chỗ khác, nó dai mềm và lại thơm mật ong nữa. View ở đây cũng rất đẹp nữa. Ở chỗ này có nhiều chương trình khuyến mãi hấp dẫn. Các bạn nhân viên cũng rất dễ thương nữa, tư vấn chọn món rất nhiệt tình. Mình rất thích nghe nhạc ở quán này toàn những bài hay nhạc lại không quá to, trò chuyện không sợ bị nhạc át đi tiếng."
+        },
+        {
+            "user": "Ngân Phan",
+            "link": "https://www.foody.vn/thanh-vien/ngan94",
+            "score": "8.4",
+            "comment": "Nay rãnh rỗi đi uống trà sữa thì ghé thử chỗ này, vừa bước vào được nhân viên chào hỏi khá thân thiện. Được nhân viên tư vấn sử dụng sản phẩm mùa hè chỉ 25k trên 1 sản phẩm, gồm có 3 loại Song vị nhiệt đới, song vị tươi mát, trà sữa xanh mát với giá 25k có thêm topping nữa, mình thấy giá cả cũng hợp lí. Mình dùng sp song vị tươi mát khá là hài lòng về chất lượng của nó. Nó có vị chua nhẹ dùng kèm thủy tinh cầu vồng rất là thích. Không gian quán cũng rất rộng rãi thoáng mát rất thích hợp tụ tập bạn bè hò hẹn. Lần sau mình sẽ quay lại dùng 2 sản phẩm trong bộ 3 sản phẩm mùa hè"
+        },
+        {
+            "user": "Quỳnh Như Bùi",
+            "link": "https://www.foody.vn/thanh-vien/2uynhnhu",
+            "score": "6.4",
+            "comment": "Bạn mua cho ly trà sữa hot and coldUống đầu thấy ngon nhưng hơi ngọt, lúc trước mình uống một lần rồi lúc đó thấy dở nhưng lần này thấy khác nhưng giảm đường đi thì ngon hơnTrà sữa hot and cold giá cả rẻ nè"
+        }
+    ]
+}

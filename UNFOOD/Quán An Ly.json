@@ -1,0 +1,58 @@
+{
+    "name": "Quán Ăn Ly",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-an-ly",
+    "address": "Duyên Hải,  Cần Giờ, TP. HCM",
+    "open_time": "00:00 - 0:00",
+    "price_range": "50.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "9.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "9.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "8.2",
+            "comment": "Cô chủ thân thiện, đồ ăn tươi ngon, rất tuyệt vời :v"
+        },
+        {
+            "user": "Pham Thao",
+            "link": "https://www.foody.vn/thanh-vien/twinkle_smile_1605",
+            "score": "8.0",
+            "comment": "Quán ăn nhỏ và khá khuất nên nếu không biết bạn có thể bỏ qua. Nhưng ghé vào ăn 1 lần rồi chắc chắn bạn sẽ phải ăn lần nữa. Hải sản tươi rói, làm tại chỗ luôn nên cảm giác rất khác so với ăn hải sản đông lạnh. ngon tuyệt vời. chị chủ quán cũng rất dễ thương niềm nở nữa. có cảm giác như ăn ở nhà người thân vậy đó. Giá cả cũng rất phải chăng. Có điều không gian quán không được sang trọng đâu, bạn sẽ ngồi ăn theo kiểu rất dân dã, mấy con cho con mèo sẽ bu lại ăn ké vỏ ốc vỏ cua bạn vứt ra nữa đấy nhé. bạn đừng shockTrước khi đến nơi bạn nên gọi cho chị chủ hỏi xem hôm nay có món gì ngon, chị sẽ chừa cho bạn, hoặc chuẩn bị trước những thứ cần thiết. Số điện thoại của chị là 01658789761"
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "name": "Nhi Nhi Quán - Đặc Sản Phan Rang",
+    "link": "https://www.foody.vn/ho-chi-minh/nhi-nhi-quan-dac-san-phan-rang",
+    "address": "125/47 Lê Đức Thọ, P. 17,  Quận Gò Vấp, TP. HCM",
+    "open_time": "",
+    "price_range": "6.000đ - 14.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Miền Trung",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-mien-trung"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/nhi-nhi-quan-dac-san-phan-rang?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "209"
+    },
+    "foods": [
+        {
+            "name": "Bánh tráng nướng thập cẩm",
+            "price": "15,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Nem chua nướng",
+            "price": "10,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Cút lộn xào me",
+            "price": "18,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Bánh tráng nướng trứng + nem",
+            "price": "10,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Bánh tráng trứng + ruốc",
+            "price": "10,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Bánh chấm mỡ hành",
+            "price": "8,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Bánh tráng nướng trứng",
+            "price": "8,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Thập cẩm chiên",
+            "price": "35,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Bắp xào bơ ruốc",
+            "price": "16,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Cút lộn xào bơ tỏi",
+            "price": "18,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Hồ lô chiên",
+            "price": "16,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Cút lộn xào sa tế",
+            "price": "18,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Bò viên chiên",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cá viên chiên",
+            "price": "12,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh tráng nướng không trứng",
+            "price": "7,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bắp xào bơ",
+            "price": "13,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh tráng nướng trứng + tóp mỡ",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Xúc xích Đức",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bánh tráng trứng + cải chua",
+            "price": "10,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cút lộn luộc",
+            "price": "13,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tóp mỡ thêm",
+            "price": "5,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Hành phi thêm",
+            "price": "5,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đồ chua thêm",
+            "price": "5,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mật nho",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "7up",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sting",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Olong",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Fanta cam",
+            "price": "12,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước suối",
+            "price": "8,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Quỳnh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/quynhnguyen1199",
+            "score": "7.6",
+            "comment": "Mình ghé chỗ này nhiều lần rồi, cảm thấy lần nào cũng ưng bụng hết. Mỗi lần giới thiệu bạn be tới ăn xong ai cũng quay lại hết. Cầm 100k là hai người ăn mệt xỉu rồi. à mình không thích bánh tráng nướng ở đây lắm, chắc là do không hợp khẩu vị. Nước chấm trứng nướng siêu ngonn. Lần nào tới cũng xin thêm nước chấm hết. Nem chua nướng cũng ngon nữa, vị chua ngọt hoà quyện với nhau. Vedette #chentrungphomai của quán là tuyệt vời luônnn. Khuyên mng tới quán nên gọi trước nhiều nhiều để đỡ thời gian đợi nhaa."
+        },
+        {
+            "user": "Hiền Beekey",
+            "link": "https://www.foody.vn/thanh-vien/hienbk.fairrrr",
+            "score": "7.0",
+            "comment": "Hôm nay mình với chị mình có qua quán Nhi Nhi Quán để ăn... Do quen biết với chị chủ quán nên qua đây ủng hộ quài luôn... Nói chung là quán ở đây ngon và giá cũng bình dân nên qua quán lúc nào cũng đông... Mấy người phục vụ quán không nhiệt tình bằng lúc trước... Mình qua quán thường ăn bánh tráng trứng, nem nướng, trứng cút phô mai nướng, cá viên chiên, bò viên chiên... Do thuộc món nên lúc nào cũng gọi mấy món đó... Nói chung là ok... Sẽ còn ủng hộ quán nhiều hơn nữa  ❤ 💙 💚 💛 💜"
+        },
+        {
+            "user": "Bobby Dragon",
+            "link": "https://www.foody.vn/thanh-vien/girlverylovely26",
+            "score": "7.0",
+            "comment": "Cũng ở GV nên đi nhiều lần rồi mà giờ mới nhớ để rv.Món trứng chén của quán ăn mà nghiện ăn chục chén chắc cũng k đã. Bánh tráng nướng ngon, kêu 2 cái tưởng ít a dè ăn no luôn :)) ăn nhiều lắm mà nhớ chụp có 2 món thôi.Phục vụ nhanh gọn lẹ, quán lúc nào cũng đông nhưng chưa bh phải chờ lâuChỗ để xe đối diện quán có người trông hẳn hoi nhưng nên update thêm lấy phiếu xe cho khách hàng yên tâm hơn.Sẽ còn quay lại nhiều nhiều mong quán thêm nhiều món mới..."
+        },
+        {
+            "user": "Tram Vo",
+            "link": "https://www.foody.vn/thanh-vien/toanskullbui",
+            "score": 0,
+            "comment": "Lúc nào quán cũng đông hết bàn, ngày thường phải đợi cả tiếng đồng hồ chưa có ăn, bàn nào vô sau mà kêu nhiều món thì lúc nào cũng có trước , thái độ phục vụ của nhân viên hách dịch. Mình chẳng bao giờ viết view nhưng thật sự rất bức xúc nên viết để mọi người lưu ý . Mất công chạy xe đến lại ôm cục tức đi về."
+        },
+        {
+            "user": "Cam Linh",
+            "link": "https://www.foody.vn/thanh-vien/camlinh",
+            "score": "7.8",
+            "comment": "Quán ăn giá rẻ mà ngon nữa. Nem nướng,  chén trứng cút nướng,  bánh tráng nướng thập cẩm. Ăn nóng mà ngon nữa. Quán đông nhưng ra món nhanh."
+        }
+    ]
+}

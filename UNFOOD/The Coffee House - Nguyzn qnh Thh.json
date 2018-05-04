@@ -1,0 +1,74 @@
+{
+    "name": "The Coffee House - Nguyễn Ảnh Thủ",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-nguyen-anh-thu",
+    "address": "95B Nguyễn Ảnh Thủ, Ấp Vạn Hạnh,  Hóc Môn, TP. HCM",
+    "open_time": "07:00 - 22:00",
+    "price_range": "30.000đ - 70.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.9",
+        "total_review": "4"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "tramle767",
+            "link": "https://www.foody.vn/thanh-vien/tramle767",
+            "score": "8.8",
+            "comment": "Vị trí: khá dễ tìm, và gần nhà minhGiá cả: cũng không cao lắm, vì mình được tặng voucher giảm giá nên tổng chỉ có 155kChất lượng: mình hay uống black tea machiato, nhưng mấy hôm nay thấy mọi người khen trà hoa đậu biếc, theo cảm nhận của mình tạm được vì mình không thích ngọt lắm, pudding khá ngonDịch vụ: nhân viên nhiệt tình, chu đáo, nhanh nhẹnKhông gian: rộng rãi, thoáng chắc hôm nay chủ nhật nên khá đông, nhưng vẫn có không gian riêng."
+        },
+        {
+            "user": "Minh Ngọc 0312 nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/Minhngoc0312",
+            "score": "8.6",
+            "comment": "Quán sạch thức ăn rẻ nhân viên nhiệt tình dễ thương. Nhưng nhân viên bảo vệ có vẻ k được nhiệt tình lắm quạo quọ xíu"
+        },
+        {
+            "user": "LouFuu Ngô",
+            "link": "https://www.foody.vn/thanh-vien/ngomaikhanh.milu",
+            "score": "6.2",
+            "comment": "Lần đầu ăn thử set trưa bánh croissanr + trà đào. Bánh chấm sữa quá ngon còn trà đào thì hơi lạt. Không thích lắm. Được cái check in lên hình cũng ok. Không gian rộng, tận 3 lầu. Không phải fan coffeehouse nhưng lại thích concept decor nên cũng đi mấy cái the coffee house (Quang Trung, Hoàng Hoa Thám, Nguyễn Văn Lượng, Nguyễn Ảnh Thủ, Nguyễn Thái Sơn)"
+        },
+        {
+            "user": "Ploy Võ",
+            "link": "https://www.foody.vn/thanh-vien/boh%C3%A2mz0610",
+            "score": "7.8",
+            "comment": "Không gian chi nhánh này phải nói là khá thoải mái, rộng :). Có tận 3 tầng. Nhân viên phục vụ nhiệt tình. Có điều mình cảm thấy decor ở đây nó không được đẹp lắm thì phải, cảm thấy cứ kì kì thế nào :))). Vấn đề nữa là nước lọc ở đây mùi vị rất ghê, là nước rồi dùng máy lọc qua cho mình uống thì phải nên mùi khá hăng, khó chịu lắm, hy vọng quán có thể thay đổi vấn đề này. Toilet bố trí chưa hợp lí, hình như có mỗi tầng 2 có toilet à, bất tiện kinh khủng. Còn tầng trên cùng thì buổi trưa nóng kinh khủng, bắt nắng và nhiệt nhiều."
+        }
+    ]
+}

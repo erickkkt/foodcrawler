@@ -1,0 +1,566 @@
+{
+    "name": "Hachiko Coffee - Cafe Thú Cưng",
+    "link": "https://www.foody.vn/ho-chi-minh/hachiko-coffee-cafe-thu-cung",
+    "address": "14 Hoa Sữa, P. 7,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "06:30 AM - 10:30 PM",
+    "price_range": "35.000đ - 58.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hachiko-coffee?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "259"
+    },
+    "foods": [
+        {
+            "name": "Yaourt Nước Ép Cam",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước Ép Dâu",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước Ép Ổi",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước ÉpCà Rốt",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước Ép Cà Chua",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước Ép Chanh Dây",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Nước Ép Thơm",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Thạch Trái Cây",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Thạch Nha Đam",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Trái Cây",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Dâu",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Kiwi",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Trà Xanh",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt Đá",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Hoa Vô Thường",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Phúc Bồn Tử",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Mãng Cầu",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Mít",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Việt Quất",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Kiwi",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Cà Chua",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Dừa",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Xoài",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Bơ",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh Tố Dâu",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Sữa",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Kiwi",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Bạc Hà",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Chanh",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Chanh Dây",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Mật Ong",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Caramel",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Chocolate",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Cà Phê",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Trà Xanh",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Xoài",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồng Trà Hương Dâu",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Kiwi",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Bạc Hà",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Chanh",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Chanh Dây",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Mật Ong",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Caramel",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Chocolate",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Cà Phê",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Trà Xanh",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Xoài",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lục Trà Hương Dâu",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Đá Xay",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Đá Bi",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Yaourt",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Kiwi",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Xoài",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Xanh Dâu",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Cam",
+            "price": "62,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ép Bưởi",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Dưa Hấu",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Cóc",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Ổi",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Thơm",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Cà Rốt",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Cà Chua",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bí Đao",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Sơ Ri",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ép Nho",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cam Sữa",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Chanh",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Bạc Hà",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Chanh Dây",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Trái Cây",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Hoa Vô Thường",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Mứt PBT",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Mứt Việt Quất",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Mứt Kiwi",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Mứt Dâu",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Siro Đào",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Siro Kiwi",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Siro Dâu",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Đen",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Sữa",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Bạc Xỉu",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Bailleys",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Sữa Balleys",
+            "price": "62,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà Phê Đá Xay",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao Đá",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao Đá Xay",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Chanh Đá",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Cam",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Cam Sữa",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Dâu",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Kiwi",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Bạc Hà",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Chanh Dây",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Mật Ong",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lipton Sữa",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Lâm Vĩnh Huy  ❤",
+            "link": "https://www.foody.vn/thanh-vien/vinhhuy.1701",
+            "score": "7.8",
+            "comment": "*Vị trí: với những bạn không rành đường thì chịu khó tìm chút nha. Khu Phan Xích Long này toàn đường tên hoa không à (hoa sứ, đào, lan..) 😂😂 Quán nằm trên đường Hoa sữa. Nếu đi Trường Sa, Hoàng Sa thì nó nằm gần đoạn cầu Trần Khánh Dư và cầu Hoàng Hoa Thám nha. Còn Nếu đi Phan Đăng Lưu rẻ vào thì nó gần cuối đường Phan Xích Long.*Chất lượng: Nước uống thì cũng bình thường à. Nhưng chủ yếu đây là coffee thú cưng mà. Tha hồ mà chơi với mấy ẻm nhé! Cưng lắm. 😍*Giá cả: nước như vậy thì hơi mắc. Nhưng cũng đúng mà, còn chi phí, hỗ trợ chăm sóc mấy em ấy nữa. Nên chấp nhận hết 😄😄* Dịch vụ: Nhân viên ở đây thân thiện lắm. Mấy em chó thì bao cưng luôn nha, dễ thương, đáng yêu lắm. Mấy ẻm không có hung dữ gì đâu, nên cứ tha hồ chơi chung nhaaa  :)))) 😅 với lại chắc cũng được tắm rửa thường xuyên nên sạch sẽ lắm. Mấy ẻm mà tè bậy, là nhân viên sẽ lại lau dọn ngay và liền luôn. Nên quán cũng rất vệ sinh. Tầm 1 tiếng thì có khử mùi cho dễ chịu hơn trong không gian.* Không gian: Quán 1 trệt 1 lầu. Trên lầu thì nhiều em hơn, chắc là do có chủ trên đó. Ở dưới thì ít hơn."
+        },
+        {
+            "user": "Hoàng Liêm",
+            "link": "https://www.foody.vn/thanh-vien/honglim",
+            "score": "8.8",
+            "comment": "Các bé cực kỳ dễ thương, nhân viên vui vẻ nhiệt tình. Thức uống thì củng tạm đc theo đánh giá củng mình, giá cả củng hợp lý vì còn phải chăm lo cho các bé. Sẽ ghé quán dịp tới."
+        },
+        {
+            "user": "Ren Kun",
+            "link": "https://www.foody.vn/thanh-vien/fantasmasangue",
+            "score": "7.4",
+            "comment": "Nhiều bé dễ thương quá trời, nhân viên vui vẻ trúc trực dọn chiến trường của mấy pé. Cưng nhất mấy pé samoyed, nhìn kute cực kỳ"
+        },
+        {
+            "user": "Quốc Bảo",
+            "link": "https://www.foody.vn/thanh-vien/bao73",
+            "score": "8.4",
+            "comment": "Ở đây toàn cún mình yêu, nhưng nước hai mắc mà cũng ngon. Nhân viên biết để ý đến khách muốn gì. Quán sạch sẽ, mấy bé cún năng động"
+        },
+        {
+            "user": "Hsu Ya Chun",
+            "link": "https://www.foody.vn/thanh-vien/heoso_smile",
+            "score": "8.4",
+            "comment": "Quán nằm hơi xa so với nhà mình, gần ngay khu Phan Xích Long có hẻm quẹo qua là tới. Nhân viên bên đây mình thấy hơi ít đc cái thân thiện, chó bên đây mình thấy nhiều hơn chi nhánh kia, tụi nó cũng quậy hơn kco ngủ nhiều. Mình thấy có mấy bé kthich khách ôm sờ nó khó chịu chắc cả ngày mệt r. Mình vs bạn mình lo nựng mi nơ Sam k dòm ngó bé Husky v là nó giận :))) nó chui vô góc k thèm nhìn ai mình lại nựng cái nó chui xuống ghé né :))) thấy cưng lắm :))) chó kco mùi nhưng nhiều con lông bị ướt chắc chảy nc miếng nhiều quá :))) nc uống k có j đặc biệt."
+        }
+    ]
+}

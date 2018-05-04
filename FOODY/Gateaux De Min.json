@@ -1,0 +1,76 @@
+{
+    "name": "Gateaux De Min",
+    "link": "https://www.foody.vn/ho-chi-minh/gateaux-de-min",
+    "address": "83 Huỳnh Tấn Phát,  Nhà Bè, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "20.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/tiem-banh-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "5"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hà Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/hnguyn1739",
+            "score": "8.4",
+            "comment": "Trời nắng nóng nên mình rất thích ăn rau câu đào, rau câu dừa của tiệm, bao giờ đến cũng gọi rau cau (ᵔᴥᵔ) Rau câu phô mai thì béo nên không hợp mình lắm.Bánh gato dâu vị chua chua và thơm mùi dâu thật. Bánh chocolate thì hơi ngọt so với khẩu vị của mình. Ngoài ra mình đặc biệt thích bánh sầu riêng nhé, lớp kem sầu riêng béo nhẹ và thơm thoang thoảng ăn rất ngon. Croissant của tiệm giòn rụm, đẹp mắt, không thua Tous les Jours nhé. Bánh mặn thì mình không mua bao giờ, nhưng có vẻ bán đắt, 8h tối mình ghé qua bao giờ cũng hết sạch bánh mặn ấy.Kẹo chocolate hay matcha chocolate 3k/viên thì ngọt kinh khủng, không ăn nổi. Khuyến cáo những bạn sành ăn choocolate đừng thử. Tuy nhiên mình thấy các ông bố bà mẹ hay chở con nhỏ đến mua nên vị đó phù hợp với các bé rồi. Kem mình mới thử vị sữa chua và trà xanh, không quá ngọt nhưng mùi trà xanh hơi lạ.Vị trí: gần nhà mình nhưng xa trung tâm, mặt tiền to gần chợ :vGiá cả và chất lượng: Bánh ngon, giá cả trung bình, không quá mắc so với chất lượngPhục vụ: Mình mua về chứ không ở lại, nhân viên chu đáo, vui vẻ"
+        },
+        {
+            "user": "Iris Vũ",
+            "link": "https://www.foody.vn/thanh-vien/lastpresent_hopeyouhappy",
+            "score": "7.8",
+            "comment": "Bạn gái mình có tặng bánh ở đây nhân dịp sn mình. Ấn tượng của mình là bánh làm rất dễ thương, hộp cũng đẹp. Tuy ko phải tiệm lớn nhưnh bánh ăn rất ngon, ko ngọt gắt, thơm mùi bơ và đặc biệt socola bao nhiều từ trong ra ngoài. Ngoài ra tiệm còn chu đáo khi tặng kèm bộ dĩa và muỗng luôn. Này ít tiệm nào làm đc vì đa số họ đều bán kèm chứ ko tặng. Mình thích tiệm bánh này r"
+        },
+        {
+            "user": "Huong  Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/Poyotehunter",
+            "score": "8.0",
+            "comment": "🏡🏡🏡 quán mặt tiền lớn và sáng sủa rất dễ tìm. Vị trí thì hơi xa trung tâm, ko gần chỗ ăn chơi nào cả. Trên tầng 2 không gian dễ thương và mát mẻ hơn tầng 1. Có cái ghế treo xoay rất thích mà đặt ở góc chật quá. 🍰🍰🍰🍰 có các loại bánh mặn, ngọt, thạch và kem. Kem ăn thấy khá chất, thơm nhưng hơi ngọt thé. Kem trà sữa có vị hơi cháy cháy, thấy hơi hơi giống vị cà phế.👧🏻👧🏻👧🏻 hôm đó có 2 bạn nv rất dễ thương. Các bạn khác thì bình thường, thái độ lạnh lùng hơn. 💸💸💸 giá ở mức trung bình, bánh khoảng 20-25k. Kem 12k/viên."
+        },
+        {
+            "user": "Hoang P. Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/hoangnguyen141",
+            "score": "7.6",
+            "comment": "Quán có bán bánh và kem,  bán khá ngon do làm và bán trong ngày,  kem thì bạc hà ok,  kem sữa chua k đc ngon lắm giá cả phải chăng"
+        },
+        {
+            "user": "Xăng Dầu Điện Nước",
+            "link": "https://www.foody.vn/thanh-vien/thankinhthep2006",
+            "score": "8.8",
+            "comment": "Bánh kem rất ngon đặc trưng của quán,  da dạng hình dáng cho mọi người lựa chọn. Không gian yen tĩnh, phong cách phục vụ nhiệt tình. Tết này sẽ ghé lại mua ít bánh làm quà biếu sếp"
+        }
+    ]
+}

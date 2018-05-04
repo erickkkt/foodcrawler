@@ -1,0 +1,84 @@
+{
+    "name": "Mr.BBQ - Ẩm thực Hàn Quốc",
+    "link": "https://www.foody.vn/ho-chi-minh/mrbbq",
+    "user_comments": [
+        {
+            "user": "John Le",
+            "link": "https://www.foody.vn/thanh-vien/letranvinhhien",
+            "score": "8.6",
+            "comment": "Phong cách Hàn Quốc, đi spa xong ăn tuyệt vời. Cảnh quan đẹp, menu đa dạng, phục vụ tốt, dù mình đi buổi trưa :). Giá tương đối so với vị trí và dịch vụ.\n...Xem thêm"
+        },
+        {
+            "user": "nkliinhhh",
+            "link": "https://www.foody.vn/thanh-vien/nkliinhhh",
+            "score": "8.4",
+            "comment": "Hai chị em mình rất thích đồ ăn ở đây, ngon, hợp khẩu vị, nhân viên phục vụ tận tình, nhẹ nhàng . Không gian yên tĩnh, sạch sẽ, bàn ngồi kiểu Hàn Quốc, cảm giác như đang ở HQ. Mình sẽ thêm bạn bè đến đây lần sau.\n...Xem thêm"
+        },
+        {
+            "user": "Thanh binh Ngo",
+            "link": "https://www.foody.vn/thanh-vien/ntbinh05101978",
+            "score": "8.8",
+            "comment": "Cả nhà lần nào đến spa cũng thích vào ăn ở đây, thức ăn ngon, lạ. Nhân viên cực kỳ dễ thương, nhanh nhẹn, tận tình với khách. Cả nhà mình gọi 04 món, trung bình khoảng 75k/ người. Chắc chắn sẽ quay lại . Cảm ơn nhà hàng.\n...Xem thêm"
+        },
+        {
+            "user": "Yên Vi",
+            "link": "https://www.foody.vn/thanh-vien/nguyenleyenvi",
+            "score": "8.0",
+            "comment": "Vì đang tận hưởng Spa mà đói quá nên xuống ăn luôn :D Đồ ăn ngon, phục vụ dễ thương ~ ❤️\n...Xem thêm"
+        },
+        {
+            "user": "Thùy Trâm",
+            "link": "https://www.foody.vn/thanh-vien/thuytramdtn",
+            "score": "8.2",
+            "comment": "Tụi mình đi 3 người, order 2 món và 2 phần cơm, ăn no lắm luôn ^^\nVề phục vụ: nhân viên thân thiện, dễ thương.\nMón ăn: một phần ân khá to, ăn 2 người vẫn ổn. So với khẩu vị mình thì hơi nhạt một xíu, nhưng ổn so với mặt bằng chung.\n...Xem thêm"
+        },
+        {
+            "user": "nguyenkh",
+            "link": "https://www.foody.vn/thanh-vien/nguyenkh",
+            "score": "4.6",
+            "comment": "Món ăn ở đây nêm nếm vừa miệng lắm. Nhà hàng còn cho thêm rau củ ngâm ăn kèm để không bị ngán nữa. Các bạn nhân viên rất nhiệt tình và dễ thuơng. Điểm 10 cho chất lượng!\n...Xem thêm"
+        },
+        {
+            "user": "oceanpearl2304",
+            "link": "https://www.foody.vn/thanh-vien/oceanpearl2304",
+            "score": "8.2",
+            "comment": "Gà xốt nước tương. Ngon, thịt thấm, thơm. Từ t2 đến t6 chỉ 150k một con. Ăn ngập mặt. Nhân viên dễ thương. Good\n...Xem thêm"
+        },
+        {
+            "user": "Lim Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/lim88",
+            "score": "8.0",
+            "comment": "Nước lẩu ngon, sợi mì dai, nhân viên nhiệt tình và nói chuyện dễ nghe. Bàn mình đi 5 người ngồi đợi lên món lâu một xíu nhưng đáng thời gian chờ đợi, bà chủ ng Hàn đích thân đứng lau đũa muỗng nên mình rất ưng :))\nĐang có khuyến mãi, gà giảm từ 250 xuống còn 150k/ con. Mọi ng nên thử món gà và lẩu số 17\n...Xem thêm"
+        },
+        {
+            "user": "Trí Đinh",
+            "link": "https://www.foody.vn/thanh-vien/proauto147",
+            "score": "9.4",
+            "comment": "Món ăn rất ngon (Hình chụp trực tiếp từ IP 6+) :))\nNhân viên nói chuyện rất nhẹ nhàng và thân thiện\nNhà hàng rộng rãi, sạch sẽ\n...Xem thêm"
+        },
+        {
+            "user": "Thái Hiền Đinh Vũ",
+            "link": "https://www.foody.vn/thanh-vien/thihininhv",
+            "score": "5.0",
+            "comment": "Nhân viên rất nhiệt tình và thân thiện \nMón ăn thì rất ngon, phù hợp với giá tiền \nKhông gian thoáng mát thoải mái\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

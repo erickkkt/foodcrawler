@@ -1,0 +1,391 @@
+{
+    "name": "Koi Thé Café - Lotte Mart Nam Sài Gòn",
+    "link": "https://www.foody.vn/ho-chi-minh/koi-the-cafe-viet-nam-lotte-mart-nam-sai-gon",
+    "address": "Tầng Trệt, Lotte Mart Nguyễn Hữu Thọ, 469 Nguyễn Hữu Thọ, P. Tân Hưng,  Quận 7, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "40.000đ - 60.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Singapore",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-singapore"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/koi-the-cafe-viet-nam?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "40"
+    },
+    "foods": [
+        {
+            "name": "Matcha Latte (S)",
+            "price": "48,000(đ)",
+            "total_orders": "5843"
+        },
+        {
+            "name": "Matcha Latte (M)",
+            "price": "66,000(đ)",
+            "total_orders": "2259"
+        },
+        {
+            "name": "Black Tea Latte (S)",
+            "price": "42,000(đ)",
+            "total_orders": "1645"
+        },
+        {
+            "name": "Black Tea Latte (M)",
+            "price": "59,000(đ)",
+            "total_orders": "1162"
+        },
+        {
+            "name": "Ovaltine Latte (S)",
+            "price": "48,000(đ)",
+            "total_orders": "1077"
+        },
+        {
+            "name": "Green Tea Latte (S)",
+            "price": "42,000(đ)",
+            "total_orders": "869"
+        },
+        {
+            "name": "Ovaltine Latte (M)",
+            "price": "66,000(đ)",
+            "total_orders": "710"
+        },
+        {
+            "name": "Green Tea Latte (M)",
+            "price": "59,000(đ)",
+            "total_orders": "692"
+        },
+        {
+            "name": "Black tea macchiato - Hồng trà macchiato (S)",
+            "price": "39,000(đ)",
+            "total_orders": "43493"
+        },
+        {
+            "name": "Black tea macchiato - Hồng trà macchiato (M)",
+            "price": "55,000(đ)",
+            "total_orders": "20104"
+        },
+        {
+            "name": "Green tea macchiato - Lục trà macchiato (S)",
+            "price": "39,000(đ)",
+            "total_orders": "14649"
+        },
+        {
+            "name": "Peach macchiato - Mứt đào macchiato (S)",
+            "price": "48,000(đ)",
+            "total_orders": "13169"
+        },
+        {
+            "name": "Ovaltine macchiato - Cacao macchiato (S)",
+            "price": "50,000(đ)",
+            "total_orders": "8460"
+        },
+        {
+            "name": "Mango macchiato - Mứt xoài macchiato (S)",
+            "price": "48,000(đ)",
+            "total_orders": "8459"
+        },
+        {
+            "name": "Green tea macchiato - Lục trà macchiato (M)",
+            "price": "55,000(đ)",
+            "total_orders": "7139"
+        },
+        {
+            "name": "Matcha macchiato - Trà xanh macchiato (S)",
+            "price": "50,000(đ)",
+            "total_orders": "6635"
+        },
+        {
+            "name": "Peach macchiato - Mứt đào macchiato (M)",
+            "price": "66,000(đ)",
+            "total_orders": "5005"
+        },
+        {
+            "name": "Passion fruit macchiato - Chanh dây macchiato (S)",
+            "price": "48,000(đ)",
+            "total_orders": "4465"
+        },
+        {
+            "name": "Ovaltine macchiato - Cacao macchiato (M)",
+            "price": "70,000(đ)",
+            "total_orders": "3755"
+        },
+        {
+            "name": "Mango macchiato - Mứt xoài macchiato (M)",
+            "price": "66,000(đ)",
+            "total_orders": "3429"
+        },
+        {
+            "name": "Matcha macchiato - Trà xanh macchiato (M)",
+            "price": "70,000(đ)",
+            "total_orders": "3401"
+        },
+        {
+            "name": "Hazelnut macchiato - Trà hạt phỉ macchiato (S)",
+            "price": "42,000(đ)",
+            "total_orders": "3011"
+        },
+        {
+            "name": "Passion fruit macchiato - Chanh dây macchiato (M)",
+            "price": "66,000(đ)",
+            "total_orders": "2035"
+        },
+        {
+            "name": "Hazelnut macchiato - Trà hạt phỉ macchiato (M)",
+            "price": "60,000(đ)",
+            "total_orders": "1184"
+        },
+        {
+            "name": "Lục trà mật ong (S)",
+            "price": "37,000(đ)",
+            "total_orders": "6419"
+        },
+        {
+            "name": "Lục trà đào (S)",
+            "price": "37,000(đ)",
+            "total_orders": "5524"
+        },
+        {
+            "name": "Lục trà lài (S)",
+            "price": "29,000(đ)",
+            "total_orders": "3686"
+        },
+        {
+            "name": "Assam hồng trà (S)",
+            "price": "29,000(đ)",
+            "total_orders": "3422"
+        },
+        {
+            "name": "Lục trà chanh tươi (S)",
+            "price": "37,000(đ)",
+            "total_orders": "2733"
+        },
+        {
+            "name": "Lục trà mật ong (M)",
+            "price": "52,000(đ)",
+            "total_orders": "2219"
+        },
+        {
+            "name": "Lục trà chanh dây (S)",
+            "price": "37,000(đ)",
+            "total_orders": "2207"
+        },
+        {
+            "name": "Lục trà xoài (S)",
+            "price": "37,000(đ)",
+            "total_orders": "1859"
+        },
+        {
+            "name": "Assam hồng trà (M)",
+            "price": "41,000(đ)",
+            "total_orders": "1742"
+        },
+        {
+            "name": "Lục trà đào (M)",
+            "price": "52,000(đ)",
+            "total_orders": "1442"
+        },
+        {
+            "name": "Lục trà lài (M)",
+            "price": "41,000(đ)",
+            "total_orders": "1359"
+        },
+        {
+            "name": "Lục trà chanh dây (M)",
+            "price": "52,000(đ)",
+            "total_orders": "1009"
+        },
+        {
+            "name": "Lục trà chanh tươi (M)",
+            "price": "52,000(đ)",
+            "total_orders": "774"
+        },
+        {
+            "name": "Lục trà xoài (M)",
+            "price": "52,000(đ)",
+            "total_orders": "728"
+        },
+        {
+            "name": "Lục trà sữa (S)",
+            "price": "37,000(đ)",
+            "total_orders": "17020"
+        },
+        {
+            "name": "Trà sữa hạt phỉ (S)",
+            "price": "40,000(đ)",
+            "total_orders": "14446"
+        },
+        {
+            "name": "Hồng trà sữa (S)",
+            "price": "37,000(đ)",
+            "total_orders": "11958"
+        },
+        {
+            "name": "Lục trà sữa mật ong (S)",
+            "price": "40,000(đ)",
+            "total_orders": "11919"
+        },
+        {
+            "name": "Hồng trà sữa (M)",
+            "price": "52,000(đ)",
+            "total_orders": "10110"
+        },
+        {
+            "name": "Trà sữa caramel (S)",
+            "price": "40,000(đ)",
+            "total_orders": "6409"
+        },
+        {
+            "name": "Trà sữa cacao (S)",
+            "price": "40,000(đ)",
+            "total_orders": "4797"
+        },
+        {
+            "name": "Lục trà sữa (M)",
+            "price": "52,000(đ)",
+            "total_orders": "4791"
+        },
+        {
+            "name": "Trà sữa hạt phỉ (M)",
+            "price": "56,000(đ)",
+            "total_orders": "4296"
+        },
+        {
+            "name": "Lục trà sữa mật ong (M)",
+            "price": "56,000(đ)",
+            "total_orders": "4120"
+        },
+        {
+            "name": "Trà sữa caramel (M)",
+            "price": "56,000(đ)",
+            "total_orders": "2444"
+        },
+        {
+            "name": "Trà sữa cacao (M)",
+            "price": "56,000(đ)",
+            "total_orders": "1716"
+        },
+        {
+            "name": "Trà sữa trân châu hoàng kim (S)",
+            "price": "42,000(đ)",
+            "total_orders": "17868"
+        },
+        {
+            "name": "Trà sữa trân châu hoàng kim (M)",
+            "price": "59,000(đ)",
+            "total_orders": "13748"
+        },
+        {
+            "name": "Trà sữa sương sáo (S)",
+            "price": "45,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Trà sữa sương sáo (M)",
+            "price": "63,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Trà sữa Konjac (S)",
+            "price": "48,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Hồng trà trân châu (S)",
+            "price": "34,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Trà sữa Konjac (M)",
+            "price": "68,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Hồng trà trân châu (M)",
+            "price": "48,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Lô hội chanh dây (S)",
+            "price": "45,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Lục trà trân châu (M)",
+            "price": "48,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Lô hội chanh dây (M)",
+            "price": "63,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Lục trà trân châu (S)",
+            "price": "34,000(đ)",
+            "total_orders": "6"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ngọc Tuyền",
+            "link": "https://www.foody.vn/thanh-vien/Ngoctuyen20",
+            "score": 0,
+            "comment": "K hiểu sao. Từ đầu Hẻm chạy dô chút xíu mà shipper la xa là thấy mất thiện cảm r. Nói chung trà sữa cũng bình thường ."
+        },
+        {
+            "user": "Thùy Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/thanhthuy3390",
+            "score": "8.2",
+            "comment": "Trà sữa Koi phải nói là quá ngon xuất sắc lun ùi .Hnai mình đặt hàng qua Dilivery vì đang có chương trình KM thanh toán bằng thẻ AirPay sẽ free phí vận chuyển, Vậy là nhanh tay order 3 ly : Matcha Macchiato(M) ; 70k - Trà Sữa Trân Châu Hoàng Kim (M) : 59k - Peach Macchiato (M) : 66k . TC 3 ly là 195k nhé ^^.Giao hàng nhanh nè : 30' là có 3 ly giao tại nhà lun ( Chắc do nhà mình gần quá :)) .- Phải nói là ly nào cũng ngon hết : Thích nhất lớp kem của 2 ly Macchiato vs trân châu của ly trà sữa ghê .- Giá cả : tương đối xứng đáng vs chất lượng ^^!"
+        },
+        {
+            "user": "min rin",
+            "link": "https://www.foody.vn/thanh-vien/minrin2212",
+            "score": "9.2",
+            "comment": "Tadaa koi ngon quá mà :)) dù đi học cũng rất ghé qua mua một ly vào lớp uống :)) ly này mình kêu là honey green tea bonus trân châu hoàng kim size lớn nha, nhìn bự bự v thôi chứ giá hợp lý lắm chỉ có 59k thôi, uống mà no nê luôn, nhân viên quán phục vụ dễ thương lắm, không gian cũng thoáng mát sạch sẽ nữa, chỗ này có view chụp hình cũng ok lắm ý :)) nói chung là rất hài lòng về koi, uống không biết bao nhiêu lần rồi nữa :))"
+        },
+        {
+            "user": "Nhung Chong Xáng",
+            "link": "https://www.foody.vn/thanh-vien/nhunganrinlen",
+            "score": "7.2",
+            "comment": "Mình vào đây nhân sn bạn.Decor nhìn từ ngoài vào đẹp, bàn ghế đẹp, khá sang nhưng cực ít chỗ, có thể ngắm ra ngoài. Đối diện là tiệm mỹ phẩm.So với vivo thì giống nhau nên mình ko so sánh đc.Nhân viên tạm đc, ko niềm nở.Mình gọi 2 ly machito, bên đây làm ngọt nên ngon. Xong mình qua lotteria vì ko còn chỗMình mua canmake gần đó. Hãng này khá thịnh phấn má nên mình đi mua thử. Hôm đó cũng có sale 50.2 ly tổng là 100k, khá đắt so với chất lượng"
+        },
+        {
+            "user": "chau le",
+            "link": "https://www.foody.vn/thanh-vien/gregle910",
+            "score": "7.6",
+            "comment": "Vẫn như cũ nay gọi Passion Fruit Machiato và 1 ly Green tea latte, machiato luôn ngon, thanh mát tuy nhiên green tea thì bình thường không ngon, lần này ko chờ lâu, chỉ mất chừng 2p xếp hàng order và tầm 5 p để đợi lấy món, rất nhanh nhẹn và nhân viên nhiệt tình."
+        }
+    ]
+}

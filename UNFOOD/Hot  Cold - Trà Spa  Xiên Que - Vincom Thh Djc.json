@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Vincom Thủ Đức",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que-vincom-thu-duc",
+    "address": "L5 Vincom Thủ Đức, 216 Võ Văn Ngân,  Quận Thủ Đức, TP. HCM",
+    "open_time": "08:15 AM - 10:15 PM",
+    "price_range": "2.000đ - 17.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "51"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hương Giang",
+            "link": "https://www.foody.vn/thanh-vien/huongg562",
+            "score": "8.6",
+            "comment": "Mình cực kì thích nhân viên ở đây ❤️ nhân viên dễ thương lắm. Thêm nước ngon, giá cả không quá đắt đỏ so với học sinh tụi mình. Nếu có đến vincom thủ đức thì đừng quên lên lầu 5 ghé vào hot cold nhé..."
+        },
+        {
+            "user": "thanh giang",
+            "link": "https://www.foody.vn/thanh-vien/gthanh927",
+            "score": "8.2",
+            "comment": "Vừa thưởng thức ly trà sữa matcha vừa vivu trong vincom là hết bài. nhân viên dễ thuơng lắm, hướng dẫn tận tình lun 👏🏻👏🏻"
+        },
+        {
+            "user": "Phạm Hương",
+            "link": "https://www.foody.vn/thanh-vien/PhamHuong30",
+            "score": "8.4",
+            "comment": "Hồng trà đào vẫn lun là lựa chọn hàng đầu của mình khi đến hot cold. Vừa có đào miếng và xác đào nhuyễn nửa 😘"
+        },
+        {
+            "user": "Phạm Hương",
+            "link": "https://www.foody.vn/thanh-vien/PhamHuong30",
+            "score": "8.4",
+            "comment": "Minh được mấy bạn nhân viên ở đây giới thiệu combo 2. Nghe nói là thông dụng nhất. Đây là lần đầu mình ghé hot cold. Nói chung nhân viên tận tình, nước ok. Giá tiền lại vừa phãi nửa"
+        },
+        {
+            "user": "Shjn Tran",
+            "link": "https://www.foody.vn/thanh-vien/shjn74",
+            "score": "8.2",
+            "comment": "hồng trà ở đây là ngon nhất. Dù đã thử ở nhiều nơi khác nhau. Thương hiệu khác nhau. Giá cả lại cực kì học sinh nửa ❤️"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "The Pizza Company - Nguyễn Ảnh Thủ",
+    "link": "https://www.foody.vn/ho-chi-minh/the-pizza-company-nguyen-anh-thu",
+    "address": "75/3 - 75/4 Nguyễn Ảnh Thủ, Xã Trung Chánh,  Hóc Môn, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Quốc tế",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-quoc-te"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-pizza-company?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "14"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hanakid Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/dreamofcolour272",
+            "score": "7.4",
+            "comment": "Không gian quán khá nhỏ nhưng phong cách khá ổnPizza khá ngon, nhưng chắc gọi phần nhỏ nên nó hok đc giống trong menu cho lắm!Món salad dầu giấm hoàn toàn ko ngon và ko giống menu, vị nồng quáMình chọn soda chanh và nước ép dưa hấu khá ngonNhân viên nhanh nhẹn phục vụ ổnMong rằng sẽ đc thưởng thức nhìu hơn các món ngon!"
+        },
+        {
+            "user": "Nhi Hân",
+            "link": "https://www.foody.vn/thanh-vien/hanhanmicro",
+            "score": 0,
+            "comment": "Mình hay ăn tại Domino nên hôm nay muốn đổi khẩu vị. Gọt đặt bánh để giảm 50%. Mình muốn bánh lớn đế vừa. Mà họ bảo đế vừa k hỗ trợ giảm 50% nên mình đặt đế mỏng. Mình muốn ship đến ngã 3 TTN 02 và TTN 08, họ kêu xa quá k hỗ trợ. Mình dời tới Thegioididong Phan Văn Hớn cũg bảo xa quá. Mình dời tới trường Phan Công Hớn trên đường Nguyễn Ảnh Thủ, cùng đường với Pizza Company, họ cũng bảo xa quá. Mình kêu để mình tới lấy luôn, thì bảo tới lấy k hỗ trợ 50%. Thế là mình phải nhận bánh ở Visacoop NAT, cách Pizza Company rất gần. Đã vậy nhận bánh xong thất vọng toàn tập. Vị phomai phủ thêm trên bánh thật sự rất dở. Tóm lại là bánh dở, dịch vụ tệ. Với giá 147k là quá mắc. Trong khi mình ăn 1 pizza lớn đế vừa phủ thêm phomai vừa ở Domino và thêm nước ngọt chỉ có 159k. Ship tận nhà hoặc tới lÁy cũg đc. Khuyên mọi người k nên ăn ở Company, mua về mất công gọi Domino mua cái khác...."
+        },
+        {
+            "user": "Kỳ Phương",
+            "link": "https://www.foody.vn/thanh-vien/kp069",
+            "score": "9.0",
+            "comment": "Đi nhiều lần rồi không lần nào thất vọng , pizza ngon nhân viên thân thiện nữa . Giá cả hợp lí , đi đúng ngỳ mua 1 tặng 1 nên được 2 cái ăn hoài không hết =)))"
+        },
+        {
+            "user": "Nhật Linh Trần Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/tranhoang.nhatlinh",
+            "score": "7.2",
+            "comment": "Vị trí: muốn khóc một dòng sông với con đường Nguyễn Ảnh Thủ này luôn, đánh số gì mà loạn xì ngầu lên hết, chi nhánh mặt tiền cũng hẹp, chạy kiếm hoài không ra dù là mặt tiền :(((trước quán đông quá rồi nên xe cũng không có chỗ gửi, phải quẹo thêm vô hẻmKhông gian: cũng mới khai trương nên đôngPhục vụ: chắc cũng tại biết khách đông, gửi xe bất tiện nên bạn nào cũng vui vẻ thân thiện, xin lỗi khách đàng hoàngChất lượng: pizza cá hồi thanh cua phô mai mới ra, nhưng chất lượng nướng bánh không đều, có cái cháy quá phô mai cứng lại hết, còn nếu nướng đúng lửa thì phải nói là rất ngon nha, đế mỏng, topping nhiều, phô mai beo béo siêu đã"
+        },
+        {
+            "user": "Ploy Võ",
+            "link": "https://www.foody.vn/thanh-vien/boh%C3%A2mz0610",
+            "score": "8.4",
+            "comment": "Có thử ăn mì Ý ở Company, và mình phải thừa nhận là nó lạ, cọng mình nhỏ so với mì Ý trong tiềm thức của mình, nhưng đó chẳng phải là vấn đề. Vấn đề là mì Ý ở đây thật sự là không có ngon một tí nào luôn :). Khoai tây ngon nè, giòn dù hơi ít một tí, ăn thấy chưa đã mà không có dám gọi thêm, tốn tiền :)))))). Pizza thì vẫn ngon như mọi khi, không có gì để phàn nàn. Nhân viên phục vụ dễ thương."
+        }
+    ]
+}

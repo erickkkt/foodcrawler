@@ -1,0 +1,392 @@
+{
+    "name": "Ăn Vặt Quán Ngon",
+    "link": "https://www.foody.vn/ho-chi-minh/an-vat-quan-ngon",
+    "address": "34 Nguyễn Bá Tòng, P. 11,  Quận Tân Bình, TP. HCM",
+    "open_time": "07:00 - 22:00",
+    "price_range": "10.000đ - 20.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "1,299"
+    },
+    "foods": [
+        {
+            "name": "Sữa chua dẻo vị việt quất",
+            "price": "30,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Sữa chua dẻo vị cacao",
+            "price": "30,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Sữa chua dẻo vị kiwi",
+            "price": "30,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Sữa chua dẻo vị trà xanh Nhật",
+            "price": "30,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sữa chua dẻo vị dâu tây",
+            "price": "30,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sữa chua dẻo vị đào",
+            "price": "30,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sữa chua dẻo vị cam nha đam",
+            "price": "30,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sữa chua dẻo vị Blue curacao",
+            "price": "30,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Sữa chua dẻo vị nho đen",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sữa chua dẻo vị chanh dây",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Sữa chua dẻo vị phúc bồn tử",
+            "price": "30,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sữa chua dẻo vị xoài",
+            "price": "30,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nếp cẩm và trái cây nhiệt đới",
+            "price": "30,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Nếp cẩm truyền thống",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Thạch trà xanh Nhật",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt shake dâu tây",
+            "price": "30,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Yogurt shake phúc bồn tử",
+            "price": "30,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Yogurt shake đào",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt shake nha đam",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt shake kiwi",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mochi Yogurt trân châu tuyết",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt shake việt quất",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda dâu tây, phúc bồn tử",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Soda dâu tây",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda cam xanh",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cafe sữa",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sữa tươi",
+            "price": "20,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cafe đen",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Cookie mint đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cookie coffee đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Coffee đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cookie đá xay",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Milk shake dâu tây",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk shake phúc bồn tử",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Milk shake bạc hà",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "20,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "20,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà tắc",
+            "price": "20,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà sữa Matcha latte",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh đá",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả cua cuốn Japan",
+            "price": "35,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "25,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Cá viên Mayone",
+            "price": "29,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cua viên chiên Singapore",
+            "price": "31,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Xúc xích Thái",
+            "price": "35,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Mực cắt khoanh Japan",
+            "price": "32,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cá viên nhân tôm",
+            "price": "22,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Hồ lô viên",
+            "price": "30,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Chả giò hải sản Croquet",
+            "price": "49,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Cá viên hành ớt",
+            "price": "22,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Đậu hũ hải sản",
+            "price": "33,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Chả cá sò điệp Singapore",
+            "price": "26,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cá viên cốm xanh",
+            "price": "29,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Phô mai cốm",
+            "price": "28,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Phô mai ớt",
+            "price": "28,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Phô mai sữa",
+            "price": "28,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cua Hoàng Đế Japan",
+            "price": "31,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cá viên sốt kem",
+            "price": "29,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tôm hùm viên Singapore",
+            "price": "39,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cá hồi sandwich Japan",
+            "price": "37,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Kim Loan",
+            "link": "https://www.foody.vn/thanh-vien/nguyenmaikimloan2234",
+            "score": "8.4",
+            "comment": "Quán ngay mặt tiền, cách ngã tư Bảy Hiền chỉ 20m. Rất dễ tìm, món ăn ở quán rất phong phú với hơn trăm món nước và xiên que các loại, giá bình dân, giảm giá 25% ăn vặt + tặng quà túi xách cực hấp dẫn lun."
+        },
+        {
+            "user": "Nguyen Hien",
+            "link": "https://www.foody.vn/thanh-vien/nguyenhien3385",
+            "score": "8.2",
+            "comment": "Quán nổi tiếng với món sữa chua dẻo, sữa chua trộn nếp nhiệt đới với topping trái cây đa dạng, hấp dẫn, vị ngon khó tả, giá bình dân, Tháng 10, khuyến mãi lớn với quà tặng túi xách hấp dẫn"
+        },
+        {
+            "user": "Thanh Thuy",
+            "link": "https://www.foody.vn/thanh-vien/nguyenkimngan9984",
+            "score": "8.4",
+            "comment": "Miếng sữa chua mềm dẻo mịn, tan dần trong miệng, vị chua sâu rất đậm đà, ăn 1 miếng là nhớ mãi lun, giá bình dân, còn giảm giá 25% ăn vặt, + tặng quà túi xách cực xinh iu nữa."
+        },
+        {
+            "user": "Huyền Trân",
+            "link": "https://www.foody.vn/thanh-vien/huyentran776",
+            "score": "8.2",
+            "comment": "Quán thoáng mát, hương vị món ăn rất riêng, ngon, khác biệt, khó tìm được quán nào giống ở Sài Gòn."
+        },
+        {
+            "user": "Thanh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthimaithanh344",
+            "score": "8.2",
+            "comment": "Phong cách của quán khá bình dân, với nhiều món ăn ngon lạ, khó tìm đâu được ở Sài Gòn. Sữa chua mềm dẻo mịn với hơn 10 vị như Dâu tây, Việt Quất, Kiwi, ... Xiên que ngon giòn rụm ăn rất thích, giá bình dân"
+        }
+    ]
+}

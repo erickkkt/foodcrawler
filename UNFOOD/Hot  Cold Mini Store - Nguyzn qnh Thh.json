@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold Mini Store - Nguyễn Ảnh Thủ",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-mini-store-nguyen-anh-thu",
+    "address": "6C Nguyễn Ảnh Thủ, P. Trung Mỹ Tây,  Quận 12, TP. HCM",
+    "open_time": "10:00 - 22:00",
+    "price_range": "15.000đ - 42.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold-mini-store?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "9.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "9.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "9.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.6"
+        }
+    ],
+    "summary": {
+        "average_score": "9.0",
+        "total_review": "31"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "minh quang",
+            "link": "https://www.foody.vn/thanh-vien/minhquang1503",
+            "score": "8.6",
+            "comment": "Hot and cold ở đây rất ngon,cách phục vụ và chào khách ở đây rất tốt,mình rất thích uống ở đây."
+        },
+        {
+            "user": "Phi Hàn",
+            "link": "https://www.foody.vn/thanh-vien/vothuong.17695",
+            "score": "8.0",
+            "comment": "Ngon tuyệt vời :)"
+        },
+        {
+            "user": "longphuong",
+            "link": "https://www.foody.vn/thanh-vien/longphuong",
+            "score": "9.2",
+            "comment": "Mình thích uống trà sữa ở đây lắm,vì quán pha rất ngon :*"
+        },
+        {
+            "user": "mễ mễ",
+            "link": "https://www.foody.vn/thanh-vien/mimi1503",
+            "score": "9.0",
+            "comment": "Mình đã ủng hộ ch này rất lâu rồi,rất thích uống ở đây vì quán tuy nhỏ nhưng nhìn không gian lại rất rộng rãi. Nhân viên rất thân thiện"
+        },
+        {
+            "user": "SuNu",
+            "link": "https://www.foody.vn/thanh-vien/tronganh1110",
+            "score": "8.4",
+            "comment": "Rất thích uống ts ở hot and cold,mình đã đi rất nhiều chi nhánh nhưng ở đây là mình thấy hài lòng nhất về thái độ phục vụ và nước uống."
+        }
+    ]
+}

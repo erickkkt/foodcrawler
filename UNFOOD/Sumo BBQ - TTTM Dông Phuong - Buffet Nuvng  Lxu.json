@@ -1,0 +1,78 @@
+{
+    "name": "Sumo BBQ - TTTM Đông Phương - Buffet Nướng & Lẩu",
+    "link": "https://www.foody.vn/ho-chi-minh/sumo-bbq-tttm-dong-phuong-buffet-nuong-lau",
+    "address": "TTTM Đông Phương, 685 Âu Cơ, P. Tân Thành,  Quận Tân Phú, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "300.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/buffet-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sumo-bbq?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "4"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Ling Chérì",
+            "link": "https://www.foody.vn/thanh-vien/phuongthanh8690",
+            "score": "7.8",
+            "comment": "Bữa khai trương có qua đây ănSumo thì ko phải nói về chất lượng rồiVề buffet nướng thì mình vẫn thích ăn sumo nhất vì tẩm ướp đậm đà, ngon miệngNhân viên mới nên cũng chưa quen nhưng okĂn no nê đã đời phè phỡn tính ra giá cũng hợp lýSẽ ghé lại"
+        },
+        {
+            "user": "mattham007",
+            "link": "https://www.foody.vn/thanh-vien/mattham007",
+            "score": "6.2",
+            "comment": "Hôm qua mình cùng đám bạn có ghé ở đây ăn thử. Chỗ mới mở nên k biết có thiếu nhân viên k ma sao phục vụ cực lâu. Gọi món ma ngồi đợi mãi chảng thấy bưng ra. Còn về thực đơn cũng như cách chế biến thì giống các chỗ sumo khác. Khá ngon"
+        },
+        {
+            "user": "Nhi Tuyet",
+            "link": "https://www.foody.vn/thanh-vien/peech.nhi",
+            "score": "6.8",
+            "comment": "Vị trí ngay siêu thị big C cũng tiện nhưng mất phí gửi xe mong Sumo BBQ xem lại điều này.!Đọc trên mạng thấy BBQ mới mở và free nước (1 ly nước ngọt hoặc 1 ly bia tươi) nên tìm đến vào chiều thứ 6 31/03. 2 đứa tiêu tốn hết 800k Vì nước ngọt Pepsi free rất ít tí tẹo àh, nên mình gọi thêm nước. Mình ăn phần 339k chưa VAT. Bạch tuộc rất tươi, coa tráng miệng kem chè, cũng ngon! Nhưng nước lẩu ko có ngon lắm! Mà bực nhất là lúc quán đông mình bị bỏ rơi gần nửa tiếng ngồi ko ăn gì hixx, kêu phục vụ này đến phục vụ khác mà ko thấy món ra huhuChụp có mấy món thôi àh."
+        },
+        {
+            "user": "Thư  Anh",
+            "link": "https://www.foody.vn/thanh-vien/ri.plum_one",
+            "score": "6.0",
+            "comment": "Nhân dịp khai trương thì có ghé sang quán Quán có không gian cũng rộng rãi thoáng mát Quầy salad - chè - kem hơi nhỏ Các món ăn ở sumo thì ngon không bàn cãi rồiNgon nhất vẫn là nầm heo , bò , mực baby Lẩu thanh thanh dễ ăn Quán mới mở nên còn hơi chậm chạpOrd món ra hơi lâu , vỉ cũng ko thay thường xuyên Tính tiền cũng chậm chạpChất lượng thì quá ổn rồi . Hi vọng quán sẽ cải thiện chất lượng phục vụ ."
+        }
+    ]
+}

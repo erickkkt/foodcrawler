@@ -1,0 +1,685 @@
+{
+    "name": "Fly Cupcake Garden - Tú Xương",
+    "link": "https://www.foody.vn/ho-chi-minh/fly-cupcake-tu-xuong",
+    "address": "25B Tú Xương, P. 7,  Quận 3, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "35.000đ - 65.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/flycupcake?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "432"
+    },
+    "foods": [
+        {
+            "name": "Chè khúc bạch",
+            "price": "66,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Trái cây tô",
+            "price": "88,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sữa chua với trái cây tươi",
+            "price": "66,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bộ 3",
+            "price": "93,500(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "3 hủ yogurt nhỏ",
+            "price": "49,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Phô mai chiên",
+            "price": "82,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sake",
+            "price": "71,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cóc ngâm chua ngọt",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh phồng tôm",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Red velvet",
+            "price": "55,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Flan",
+            "price": "38,500(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "45,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cheese cake",
+            "price": "55,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Chocolate brownies",
+            "price": "33,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Matcha green tea tiramisu",
+            "price": "49,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Corn cake",
+            "price": "60,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bông lan mặn",
+            "price": "49,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Flan almond",
+            "price": "71,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Coconut cake",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Black forest",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh trà xanh",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Flan gato",
+            "price": "46,200(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Croquem bouche",
+            "price": "11,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh cafe vị capuccino",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Creme brulee",
+            "price": "49,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm gà rút xương",
+            "price": "93,500(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Cơm ba rọi",
+            "price": "88,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Xôi mặn",
+            "price": "77,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cơm gà xối mỡ",
+            "price": "93,500(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Club sandwich",
+            "price": "82,500(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nui xào bò",
+            "price": "88,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Vietnamese breakfast",
+            "price": "88,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Xôi gà xé",
+            "price": "77,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Cơm sườn cốt lết ram mặn",
+            "price": "88,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mì Ý kim chi gà xé",
+            "price": "88,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bún bò xào",
+            "price": "88,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sườn xào chua ngọt",
+            "price": "104,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Spaghetti bolognese",
+            "price": "99,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tuna salad",
+            "price": "77,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm gà rô ti",
+            "price": "93,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì xào giòn",
+            "price": "115,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bò kho bánh mì",
+            "price": "115,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bò Tứ Xuyên",
+            "price": "110,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cà ri gà",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tuna sandwich",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò trộn táo xanh",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì Udon xào hải sản",
+            "price": "115,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà chiên nước mắm",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "British fry up",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả giò tôm thịt",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm xóc tỏi",
+            "price": "126,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả giò chay",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bún chả giò",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên mắm ruốc",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm xào dầu hào",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà earl grey",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà english breakfast",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà hoa cúc",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà lài",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà bạc hà",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà xanh",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà gạo",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Latte",
+            "price": "71,500(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Matcha latte",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xoài chanh dây",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mãng cầu thơm",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dâu cam",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố Fly garden",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Flan frappe",
+            "price": "77,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Caramel frappe",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mocha frappe",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Matcha frappe",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Banana matcha frappe",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Caramel flavour",
+            "price": "17,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hazelnut flavour",
+            "price": "17,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vanilla flavour",
+            "price": "17,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Whipping cream",
+            "price": "22,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango tango",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Virgin passion - fruit mojito",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mango tango",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Virgin lyche mojito",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Virgin strawberry mojito",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua trái cây",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua việt quất",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Summer 3",
+            "price": "77,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Summer 2",
+            "price": "71,500(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Summer 1",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đào",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nho",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ổi đỏ",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kiwi",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cóc",
+            "price": "71,500(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Nước ép cam",
+            "price": "71,500(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Nước ép thơm",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cam - dâu",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cóc - thơm",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Fly garden's special juices",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dưa hấu",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép chanh dây",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xí muội dâu",
+            "price": "65,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Choco sunk",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh đá xay",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua xoài thơm",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coffee sunk",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh muối đá xay",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua việt quất",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Qủa mọng với sữa chua",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tắc đá xay",
+            "price": "66,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Peanut butter banana shake",
+            "price": "104,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Minty marvel shake",
+            "price": "104,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca float",
+            "price": "82,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Choco devil",
+            "price": "104,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coffee liegeois",
+            "price": "93,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mucha frutta",
+            "price": "104,500(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate cookie",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Blueberry cookie",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Greentea cookie",
+            "price": "77,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Táo bạc hà",
+            "price": "71,500(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "foodee_8dbf310f",
+            "link": "https://www.foody.vn/thanh-vien/foodee_8dbf310f",
+            "score": "6.0",
+            "comment": "Nước uống rất hợp khẩu vị với mình bánh cực kì ngon"
+        },
+        {
+            "user": "bbgoatfun",
+            "link": "https://www.foody.vn/thanh-vien/bbgoatfun",
+            "score": "6.0",
+            "comment": "Nước bình thường, không có gì đặc sắc, chủ yếu những món đang hot trong thành phố!Hôm nay đi 2 lần, do ở gần đó và hẹn gặp 2 người!Lần đầu: order bánh flan và trái cây tô. Bánh flan okay, ngon với giá 30k. Trái cây tô 60k mà chỉ có 1 tô đá 2 loại trái cây và hột của chanh dây :)))))))))) Lần hai: order 3 dĩa cơm, cả ba dĩa cơm đều sống mặc dù đã góp ý với nhân viên nói với nhà bếp để đem vào nấu lại nhưng vẫn sống! Đồ ăn thì ăn okay ngon. Mình có order matcha latte cho bé, nhưng vì khó uống mình xin thêm đường! Bạn nhân viên cho mình 1 chén đường :)))))))). Tự hỏi làm sao để hoà tan đường trong 1 ly nước lạnh :))))))Nhân viên thái độ phục vụ không nhiệt tình, nếu không muốn nói là lạnh nhạt, không linh hoạt! Bạn nào có ý định ăn Mayo thì nhớ mang theo nha, tại quán charge tiền Mayo nha ahihiĐiểm cộng là không gian quán đẹp, anh phục vụ làm tròn nhiệm vụ của mình! Thế thoai"
+        },
+        {
+            "user": "Trúc Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhtrc3076",
+            "score": "7.2",
+            "comment": "-Cupcake bth ko ấn tượng lắm ,bánh có vẻ ko đc tươi nữa, trang trí bánh lẫn quán đều đẹp-Gía khá mắt so với chất lượng nhưng bù lại là không gian và vị trí đẹp, nằm trên đường đi ko quá đông xe-Nv ko nhiệt tình mấy, mình xin cáimenu nước sau khi ỏrder bánh thì ảnh bảo ra bàn có ng mang ra mà chờ hong thấy ai luôn :)). Nước lọc hết mà cũng hong thấy ai ra chăm thêm"
+        },
+        {
+            "user": "Thuy  Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/walkmodel",
+            "score": 0,
+            "comment": "Thật tình khong muốn quay lai vì giá thì đắt mà hình ảnh chỉ mang tính chất minh họa. Bạn mình gặp trải nghiệm về giữ xe hách dịch bố láo. Nhan viên thì phục vụ không chu đáo. Kiêu rất khó đã vậy hết nước lọc cũng không chăm thêm. Giá trên chưa có vat. Mình cho 2 sao vì không gian đẹp!!"
+        },
+        {
+            "user": "Trúc Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhtrc3076",
+            "score": "7.0",
+            "comment": "-Chỗ này nằm ghế The museum luôn nè, gửi xe đối diện 5k-Không gian đẹp, ở ngoài có cây xanh gối đệm để ngồi mà hơi nóng, rồi có khu có lồng đèn ở trên cũng đẹp lams mà hơi tối , đẹp nhất là khu trong quán, tông màu nâu chủ yếu, đậm chất cổ điển và sang trọng, nhạc dịu nhẹ, bàn ghế đơn giản nhưng ấn tượng-Bailey coffee cupcake 45k ăn cũng đc, còn vanilla creamchesse cupcake 42k ngon hơn vì nó béo ngọt hơn-Gía chưa gồm thuế VAT-Nv bth, ko nhiệt tình lắm, mặt cứ buồn buồn sao ý :))"
+        }
+    ]
+}

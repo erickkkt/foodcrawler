@@ -1,0 +1,45 @@
+{
+    "name": "Windsor Spa & Massage - Windsor Plaza",
+    "link": "https://www.foody.vn/ho-chi-minh/windsor-spa-massage-windsor-plaza",
+    "address": "Tầng 3, Windsor Plaza, 18 An Dương Vương,  Quận 5, TP. HCM",
+    "open_time": "11:00 AM - 12:00 AM",
+    "price_range": "150.000đ - 2.000.000đ",
+    "category": [
+        {
+            "category": "Spa/Massage",
+            "link": "https://www.foody.vn/ho-chi-minh/beauty/spa-massage"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/wmc-group?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "_._",
+        "total_review": "0"
+    },
+    "foods": [],
+    "user_comments": []
+}

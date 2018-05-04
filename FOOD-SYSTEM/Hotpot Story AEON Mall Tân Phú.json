@@ -1,0 +1,84 @@
+{
+    "name": "Hotpot Story AEON Mall Tân Phú",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-aeon-mall-tan-phu",
+    "address": "Tầng 1, AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ,  Quận Tân Phú, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "50.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Thái Lan",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-thai-lan"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "129"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Vivian 89",
+            "link": "https://www.foody.vn/thanh-vien/vanvan8899",
+            "score": "9.6",
+            "comment": "Lần đầu tiên mình ăn ở đây, không gian thoáng đãng, ấm cúng, nhân viên nhiệt tình, nhanh nhẹn.Mình chọn loại buffet 319.000, nửa lẩu tom yum, nửa lẩu Bulgogi.Nước lẩu tom yum cay vừa rất dễ ăn, nước lẩu Bulgogi đậm đà ăn với thịt bò rất ngon ạ.Hôm qua lúc mình đến ăn thì quán có một bạn mặc đồ linh vật to dễ thương cầm lồng đèn chụp hình với khách hàng làm lưu niệm 😍Có dịp mình sẽ quay lại."
+        },
+        {
+            "user": "Duyên Hà",
+            "link": "https://www.foody.vn/thanh-vien/duyen.ha4064",
+            "score": "8.0",
+            "comment": "Mình ăn suất 229/người.- Nhân viên hỗ trợ khách nhiệt tình. Mời xem thực đơn và xin phép dọn món lên. Thường xuyên dọn đĩa đã dùng đi.- Các món phụ khá đa dạng, cơm cuộn (2 loại), các món gỏi, soup hải sản thập cẩm, salad rau củ đa dạng.- Trái cây tráng miệng chủ yếu ổi, dưa hấu, thanh long,... có cocktail trái cây, sương sáo kem có 2 vị socola và dâu khá ngon.- Nước uống cũng được, mình uống Kiwi Tea cũng ok.- Có thẻ thành viên được giảm giá."
+        },
+        {
+            "user": "Mộc Thảo",
+            "link": "https://www.foody.vn/thanh-vien/thaomoc1504",
+            "score": "9.0",
+            "comment": "Đi ăn nhiều nơi , nhưng cực kì thích ở đây , các bạn phục vụ nhiệt tình , không gian thì được cái riêng tư . Đồ ăn ngon , line Buffet nhiều món . Nói chúng nhất định quay lại ăn nhiều lần nữa ."
+        },
+        {
+            "user": "Yan Yan",
+            "link": "https://www.foody.vn/thanh-vien/evilove1988",
+            "score": 0,
+            "comment": "Ăn nhìu lần ở chi nhánh khác nhưng càng ngày chất lượng càng giảm, k còn ngon và chất lượng như trước. Chi nhánh Tân Phú lần đầu ăn, quán sạch sẽ, nhân viên rất nhiệt tình."
+        },
+        {
+            "user": "Nguyen Hanh An",
+            "link": "https://www.foody.vn/thanh-vien/nphanhan96",
+            "score": "7.8",
+            "comment": "Đồ ăn ngon, ra lẹ. Phục vụ dễ thương, nhiệt tình. Giá cả tuy hơi cao nhưng nếu ai ăn được nhiều thì đi chắc ko bị lỗ :)))"
+        }
+    ]
+}

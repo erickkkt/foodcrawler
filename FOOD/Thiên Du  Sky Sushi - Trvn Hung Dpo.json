@@ -1,0 +1,735 @@
+{
+    "name": "Thiên Du & Sky Sushi - Trần Hưng Đạo",
+    "link": "https://www.foody.vn/ho-chi-minh/sky-sushi-sushi-via-he-duong-pho",
+    "address": "1089A Trần Hưng Đạo, P. 5,  Quận 5, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 110.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/thien-du-sky-sushi?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "373"
+    },
+    "foods": [
+        {
+            "name": "Maguro Tempura",
+            "price": "60,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sake Furai",
+            "price": "69,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Tori Furai",
+            "price": "55,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Maguro Furai",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Shiromi Furai",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake Tempura",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shiromi Tempura",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kastu Cheese Maki",
+            "price": "45,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Sake Maki",
+            "price": "33,000(đ)",
+            "total_orders": "46"
+        },
+        {
+            "name": "Sake Kawa Maki",
+            "price": "35,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Tamago Maki",
+            "price": "18,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Cali Maki",
+            "price": "35,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Unagi Maki",
+            "price": "38,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Spicy Tuna Roll",
+            "price": "39,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Sake Avocado Maki",
+            "price": "43,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Avocado Maki",
+            "price": "18,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Ebi Tem Maki",
+            "price": "45,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Ebi Furai Maki",
+            "price": "53,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Tataki Maki",
+            "price": "43,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Spider Roll",
+            "price": "52,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Futo Maki",
+            "price": "35,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Maguro Avocado Maki",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Dai Sake Maki",
+            "price": "40,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Dai Cali Maki",
+            "price": "43,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Shitake Maki",
+            "price": "18,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Tekka Maki",
+            "price": "28,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Yasai Tem Maki",
+            "price": "28,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Kani Maki",
+            "price": "28,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Yasai Maki",
+            "price": "18,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Kappa Maki",
+            "price": "12,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Wafu Triple Roll",
+            "price": "39,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Dai Tuna Maki",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Oshinko Maki",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shime Saba Maki",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake Mayo Gunkan",
+            "price": "35,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Spicy Sake Gunkan",
+            "price": "28,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Dai Sake Gunkan",
+            "price": "28,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Ebiko Gunkan",
+            "price": "43,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Spicy Tuna Gunkan",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Tuna Mayo Gunkan",
+            "price": "35,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Tobiko Gunkan",
+            "price": "48,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Ikura Gunkan",
+            "price": "68,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Dai Ebi Gunkan",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Black Ebiko Gunkan",
+            "price": "45,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Dai Tuna Gunkan",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Wasabi Tobiko Gunkan",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Wasabi Ebiko Gunkan",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake Avocado Temaki",
+            "price": "28,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ebi Tem Temaki",
+            "price": "35,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Volcano Temaki",
+            "price": "38,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Maguro Avocado Temaki",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tobiko Temaki",
+            "price": "48,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cali Temaki",
+            "price": "48,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Unagi Temaki",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Spider Temaki",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebiko Temaki",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake Negi Tem Maki",
+            "price": "43,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Dragon Maki",
+            "price": "45,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Dragon Eyes Maki",
+            "price": "58,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Spicy Sake Maki",
+            "price": "45,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Cheese Maki",
+            "price": "75,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Maguro Negi Tem Maki",
+            "price": "39,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Geisha Maki",
+            "price": "55,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Rainbow Maki",
+            "price": "59,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Ooki Maki",
+            "price": "85,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Sky Maki",
+            "price": "80,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Hana Maki",
+            "price": "52,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sake Tataki Maki",
+            "price": "62,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Volcano Maki",
+            "price": "60,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Tuna Spider Roll",
+            "price": "75,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Yuki Maki",
+            "price": "110,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tashoku Maki",
+            "price": "90,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Akina Maki",
+            "price": "85,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Unagi Maki",
+            "price": "65,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Wasabi Spider Roll",
+            "price": "68,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Hade Maki",
+            "price": "80,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yoko Maki",
+            "price": "130,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Iku Maki",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Unagi Shiromi Maki",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ebi Maki",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Aki Maki",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sake Sushi",
+            "price": "23,000(đ)",
+            "total_orders": "44"
+        },
+        {
+            "name": "Tamago Sushi",
+            "price": "12,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Unagi Sushi",
+            "price": "35,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Kani Sushi",
+            "price": "18,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Nisin Sushi",
+            "price": "35,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Avocado Sushi",
+            "price": "12,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Hokkigai Sushi",
+            "price": "38,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Ebi Tem Sushi",
+            "price": "32,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Tako Sushi",
+            "price": "18,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Maguro Sushi",
+            "price": "20,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Ebi Sushi",
+            "price": "23,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Shime Iwashi Sushi",
+            "price": "20,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Shiromi Sushi",
+            "price": "20,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Shime Saba Sushi",
+            "price": "18,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sushi Combo 2",
+            "price": "69,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Sushi Combo 3",
+            "price": "99,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Sushi Combo 4",
+            "price": "35,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sushi Combo 1",
+            "price": "39,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Sushi Combo 5",
+            "price": "59,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Sake Sashimi",
+            "price": "69,000(đ)",
+            "total_orders": "154"
+        },
+        {
+            "name": "Tako Sashimi",
+            "price": "45,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Nissin Sashimi",
+            "price": "89,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Hokkigai Sashimi",
+            "price": "72,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Maguro Sashimi",
+            "price": "60,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Ebiko Sashimi",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Shime Saba Sashimi",
+            "price": "58,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Kani Sashimi",
+            "price": "38,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Tamago Sashimi",
+            "price": "33,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Wasabi Ebiko Sashimi",
+            "price": "58,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Shiromi Sashimi",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Ikura Sashimi",
+            "price": "95,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Black Ebiko Sashimi",
+            "price": "60,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Tobiko Sashimi",
+            "price": "65,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Wasabi Tobiko Sashimi",
+            "price": "68,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sashimi Set 1",
+            "price": "75,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Sashimi Set 2",
+            "price": "75,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Sashimi Set 4",
+            "price": "130,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sashimi Set 3",
+            "price": "99,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Okonomiyaki",
+            "price": "55,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Sake Pizza Sushi",
+            "price": "75,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Tuna Pizza Sushi",
+            "price": "65,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Pizza Sushi",
+            "price": "59,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ton Katsu",
+            "price": "60,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Tori Teriyaki",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sake Teriyaki",
+            "price": "70,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sake Don",
+            "price": "80,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Mực sốt teri",
+            "price": "95,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chirashi Don",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tekka Don",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Pi ú",
+            "link": "https://www.foody.vn/thanh-vien/angel.dust.1305",
+            "score": "8.4",
+            "comment": "2 hôm trước mình có ghé ăn sushi ở đây, cảm thấy rất hài lòng về mọi mặt. *Quán dễ tìm, không gian trong quán cũng rất thoáng mát và bày trí đẹp mắt. Mấy tranh vẽ trên tường nhìn rất thú vị.*Phục vụ toàn là nam thôi, các bạn đều trẻ, dễ thương, nhiệt tình. Hôm đó có một bà chị vào ăn với bạn trai rất khó chịu, cứ nằng nặc đòi món hàu chế biến trình bày theo kiểu gì đó mà chị khẳng định ở đây có dù trong menu không hề có 😂 Mấy bạn cũng rất kiên trì nghe chị ấy diễn tả rồi 2 3 bạn chạy ra chạy vô phục vụ chị đó luôn. Thiệt thấy tội cho các bạn.* Tụi mình gọi quá trời món luôn, cá tươi, hàu cũng tươi và to. Bày trí không đẹp lắm nhưng cũng không xấu. 3 đứa ăn đủ món mà chỉ có 400k thôi.Nhất định sẽ ghé lại!"
+        },
+        {
+            "user": "Hà Minh Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/haminhngoc2015",
+            "score": "8.6",
+            "comment": "Nằm ngay trên mặt tiền đường Trần Hưng Đạo nên rất dễ thấy, buổi tối khách cực đông, phải ngồi cả ở vỉa hè, nhưng mình ngồi trong nhà. Xem menu phải mất 10 phút vì món nhiều, chọn được vài món rồi order xong đợi mất 15 phút món mới ra đến bàn. Trước khi ra món, phục vụ sẽ mang ra trước 1 chén súp, ngồi nhâm nhi khi đợi món, nhưng súp khá dở. Món ăn ở đây rất ngon, không bị tanh, đậm đà, giá bình dân, rẻ hơn so với những nơi khác mà mỗi phần lại khá nhiều, gọi 5 món cả nước hết hơn 350k cho 2 người ăn. Nhân viên phục vụ có người dễ thương, có người khó chịu, xin wasabi thôi mà đợi mòn mỏi. Nói chung là ngon, mọi thứ chấp nhận được, chắc chắn sẽ quay lại."
+        },
+        {
+            "user": "Mai Mai",
+            "link": "https://www.foody.vn/thanh-vien/maimai4737",
+            "score": "7.8",
+            "comment": "🍬Mình đến vào trưa chủ nhật,  quán khá vắng.🍹Không gian không rộng lắm nhưng đặt bàn ghế ngay ngắn,  sạch sẽ. 🍵Quầy chế biến ở trong,  order xong chờ hơi lâu 1 tiếng. 🍡 Món ăn không lên 1 lần tất cả mà lên từ từ, ăn xong món này tới món kia🍥 Ăn đồ sống mà không đau bụng tý nào,  sạch, tươi,  chất lượng  🍲 2 người ăn hết hơn 400k"
+        },
+        {
+            "user": "Phong Đậu",
+            "link": "https://www.foody.vn/thanh-vien/phongu",
+            "score": "8.4",
+            "comment": "Lẩu Sukizaki của Nhật nước dùng ngon đậm đà ăn chung với bò Mỹ,mình thích bò Mỹ vì ăn vào không bị tanh mùi bò như bò VN và mềm hơn bò Úc,vị giác mình nhại nên rất sợ mùi bò mà ăn bò ở đây nghe mùi béo thơm chứ không tanh.Giá vậy minh thấy cũng hợp lý tầm 2 trăm mấy cho cả một set lẩu gồm có thịt rau và mì,dĩa bò cũng nhiều mình đi 2 người ăn cái lẩu với kem tráng miệng (cái này quán tặng) là quá no luôn không ăn nổi món khác nữa.Phục vụ nhiệt tình vui vẻ,không gian thoáng mát."
+        },
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.6",
+            "comment": "Quán thuộc nhóm sushi giá rẻ ở Sài Gòn , tiêu chí là giá trung bình mà tươi ngon . Quán có 2 chi nhánh nhưng tiện đường ghé bên này xong chạy qua CGV Hùng Vương xem luôn ( lỡ mua vé rồi ) . Quán cũng đông khách , đợi mua về cũng nhiều , không gian bình thường . Menu đa dạng , giá vừa phải , đi đúng hôm không có cá ngừ nên đổi sang thanh cua . Đồ ăn lên rất nhanh . Được tặng free 1 chén canh rong biển và cuối bữa ăn có tráng miệng là kem , kem thì mỗi ngày 2 vị bất kì , bữa mịn ăn là kem cam . À hàu sashimi có sốt ăn kèm rất ngon , bắt vị lắm . Quán không có ớt hiểm xắt 🌶 , đưa ớt bột tạm mà không thể trọn vị được vì mình cực thích ăn cay ."
+        }
+    ]
+}

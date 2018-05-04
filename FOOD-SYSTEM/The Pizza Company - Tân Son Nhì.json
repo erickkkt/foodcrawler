@@ -1,0 +1,80 @@
+{
+    "name": "The Pizza Company - Tân Sơn Nhì",
+    "link": "https://www.foody.vn/ho-chi-minh/the-pizza-company-tan-son-nhi",
+    "address": "456A Tân Sơn Nhì, P. Tân Quý,  Quận Tân Phú, TP. HCM",
+    "open_time": "08:00 AM - 10:00 PM",
+    "price_range": "100.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Bánh Pizza",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-pizza"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-pizza-company?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "8.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "8"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Vy Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/100007188370122",
+            "score": "6.4",
+            "comment": "Pizza ham & mushroom: Thịt vs nấm ngonPizza meat deluxe: Cái này là cái ngon nhất trong tất cả các loạiCaesar's salad: Thịt mặn, rau ổnSoda vải (ít đường): Ngon cựcTổng: 278k"
+        },
+        {
+            "user": "Haven Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/tamnguyen.tvtv",
+            "score": "9.6",
+            "comment": "Trước hết, cho 5 sao về thái độ phục vụ của nhân viên từ order đến shipper, giao hàng rất đúng giờ, thái độ lịch sự và vui vẻ. Sau cùng là thức ăn rất ngon 😍"
+        },
+        {
+            "user": "Vinh Pham",
+            "link": "https://www.foody.vn/thanh-vien/vinhphm87",
+            "score": "7.8",
+            "comment": "Nay nhân dịp sinh nhật con bạn, quanh đi quẩn lại thì lại thèm pizza nên cả đám kéo nhau đi ăn The pizza company cho gần nhà.Về nhân viên: phục vụ nhanh, gọn, vui vẻ, nhiệt tìnhVề không gian: ấm cúng, đượcVề món ăn: Bánh mỏng ăn không ngon lắm nhưng bù lại bánh dày ăn rất ok. Gà ướp rất thấm, ăn bị ghiền luôn.Về giá cả: Ổn, ba đứa ăn 4 cái bánh pizza (mua 1 tặng 1) với phần gà mà chỉ có 580k.Quá no và quá ngon! Chắc chắn sẽ quay lại !"
+        },
+        {
+            "user": "Thục Anh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nuhoangaicapmodel",
+            "score": "7.2",
+            "comment": "Mình đến ăn trong một buổi tối muộn. Đó giờ pizza mình chỉ đánh giá cao pizza company nhất thôi. Nhưng mà chi nhánh này mình mới đến lần đầu tiên, tại mình không thích kiểu mở nhạc xập xình ồn ào cả phố như thế. Hôm nay mình đến ăn thử puff, một phần 49k. Món khá ngon. Phục vụ khá tận tình nhưng mà bị cái lâu quá,  mình đợi món cả 20 phút-30 phút, lát sau hối mới mang ra. Quán không hề đông. Bạn nhân viên đưa ra cho mình thêm 2 lọ gia vị là phô mai bột với nước sốt tiêu muối gì á mà thấy khá ngon, sốt chua chua hăng hăng và cay nhé, bột phô mai thì béo béo khỏi bàn rồi. Khi nào thèm pizza sẽ ghé nữa."
+        },
+        {
+            "user": "Ngọc Chi",
+            "link": "https://www.foody.vn/thanh-vien/chiwoawoa",
+            "score": "8.6",
+            "comment": "Tuần nào cũng ăn pizza, ở company nhân nhiều, phô mai nhiềuHôm qua t4 mua 1 tặng 1, mình đi nhóm 5 người gọi cái size L, định chọn đế dày mà nv bảo chỉ còn đế mỏng thui, thế là gọi viền xúc xích seafood tropical 415k, bánh tặng loại mỏng aloha. Thêm nước nữa tầm 100k/người Viền xúc xích ngon, thơm bơ tỏi, hải sản tươi. Rất là kết bánh mỏng nha, giòn tan thơm lừng sốt ngon nói chung là rất ư thíchKhông gian đẹp sáng sủa, đẹp nhất trong tất cả các chuỗi cửa hàng mình thấy Nhân viên nhiệt tình, tuy đông nhưng vẫn chu đáo. Nói tụi mình chờ 15p nhưng đợi 25p lận. Thông cảm vì đông lắm"
+        }
+    ]
+}

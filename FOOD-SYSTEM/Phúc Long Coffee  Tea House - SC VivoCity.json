@@ -1,0 +1,511 @@
+{
+    "name": "Phúc Long Coffee & Tea House - SC VivoCity",
+    "link": "https://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-sc-vivocity",
+    "address": "41A - 41B, Tầng 1, SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong,  Quận 7, TP. HCM",
+    "open_time": "07:00 AM - 09:00 PM",
+    "price_range": "30.000đ - 100.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/phuc-long-coffee-tea-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "173"
+    },
+    "foods": [
+        {
+            "name": "Creamy hazelnut lotus tea",
+            "price": "55,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Creamy capuccino",
+            "price": "55,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Creamy hazelnut black tea",
+            "price": "55,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Capuccino",
+            "price": "45,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Latte",
+            "price": "45,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Choco coffee",
+            "price": "50,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Chocolate",
+            "price": "45,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Caramel coffee",
+            "price": "50,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Vanilla latte",
+            "price": "45,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Espresso",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cafe sữa",
+            "price": "40,000(đ)",
+            "total_orders": "99"
+        },
+        {
+            "name": "Cafe đen",
+            "price": "35,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Trà xanh đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "192"
+        },
+        {
+            "name": "Cafe capuccino đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "42"
+        },
+        {
+            "name": "Socola xay cùng hạnh nhân & espresso",
+            "price": "59,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Socola trắng đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "37"
+        },
+        {
+            "name": "Cafe hazelnut đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Bánh oreo xay cùng cafe cappuccino",
+            "price": "59,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Cafe caramel đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Trà đào đá xay",
+            "price": "75,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Socola cafe đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Cafe bạc hà đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Trà xanh xay almond",
+            "price": "70,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Trà xanh cafe xay almond",
+            "price": "70,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Trà xanh cafe xay & thạch",
+            "price": "75,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Caramel đá xay",
+            "price": "59,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Cafe dứa xay & thạch",
+            "price": "69,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trà oolong",
+            "price": "50,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Trà xanh",
+            "price": "40,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà sen",
+            "price": "40,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà lài",
+            "price": "40,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Trà Thiết Quan Âm",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Trà long tỉnh",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà nụ hoa hồng",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà tiểu long châu",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà tân long châu",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà tân long châu lài",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà tân long châu nụ",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào",
+            "price": "45,000(đ)",
+            "total_orders": "917"
+        },
+        {
+            "name": "Trà sữa Phúc long",
+            "price": "45,000(đ)",
+            "total_orders": "741"
+        },
+        {
+            "name": "Trà oolong sữa",
+            "price": "45,000(đ)",
+            "total_orders": "476"
+        },
+        {
+            "name": "Trà vải",
+            "price": "50,000(đ)",
+            "total_orders": "329"
+        },
+        {
+            "name": "Hồng trà sữa",
+            "price": "35,000(đ)",
+            "total_orders": "236"
+        },
+        {
+            "name": "Trà đào sữa",
+            "price": "35,000(đ)",
+            "total_orders": "136"
+        },
+        {
+            "name": "Trà xanh latte",
+            "price": "50,000(đ)",
+            "total_orders": "99"
+        },
+        {
+            "name": "Hồng trà chanh",
+            "price": "35,000(đ)",
+            "total_orders": "88"
+        },
+        {
+            "name": "Trà dâu oolong",
+            "price": "55,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Trà sữa cafe với kem tươi",
+            "price": "59,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Trà cocktail PL",
+            "price": "59,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Táo dâu ép",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu",
+            "price": "50,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Vitamin C",
+            "price": "59,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Sinh tố trái cây nhiệt đới",
+            "price": "59,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Sinh tố tổng hợp",
+            "price": "48,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Sinh tố xoài",
+            "price": "55,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Sinh tố chanh",
+            "price": "50,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sinh tố chuối",
+            "price": "48,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Dâu ép",
+            "price": "48,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Bưởi ép",
+            "price": "48,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Cam & cà rốt ép",
+            "price": "49,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Cà rốt ép",
+            "price": "40,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Táo và dâu ép",
+            "price": "50,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Ổi ép",
+            "price": "48,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Dứa ép",
+            "price": "40,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Cam ép",
+            "price": "48,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Dứa và dâu ép",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Táo ép",
+            "price": "48,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bò kho",
+            "price": "70,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Cơm chiên cá mặn + gà xé",
+            "price": "59,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Hủ tiếu Mỹ Tho",
+            "price": "55,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Trứng cuộn",
+            "price": "35,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Hủ tiếu xào thập cẩm",
+            "price": "59,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Trứng  chiên",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trứng  luộc",
+            "price": "28,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm chiên sốt hải sản",
+            "price": "48,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trứng chiên",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trứng luộc",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò bít tết",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh mì bơ tỏi",
+            "price": "35,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Chả giò hải sản",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau củ chiên giòn",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xà lách kiểu nicoise",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xà lách rau củ",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xà lách kiểu xê xa",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xà lách bò",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "vtlanenn",
+            "link": "https://www.foody.vn/thanh-vien/anhgai",
+            "score": "7.8",
+            "comment": "Kiểu như cứ đi cafe là trời mưa hay sao á 😂😂 thực chất ra mình là 1 đứa cuồng đi cafe, thú vui tao nhã của mình khi vào mấy quán như này là ngồi trầm tư nhìn mng xung quanh và ngẫm về chuyện đời.. hôm nay hơi chán nên rủ bà chị đi chung. Nói về ko gian quán thì chuỗi cafe PL là khỏi phải bàn r ha, mình cực thích cách decor ở đây lun. Tiếp đến là chất lượng, hôm nay mình gọi 1 trà đào đá xay, 1 hồng trà sữa vs 1 bánh teramisu pax, trà sữa thì mình thấy rất ngon tại mình ghiền trà sữa ở đây 😁😁 tuy nhiên thì trà đào đá xay vs bánh thì hơi ngọt 1 xíu nhưng cũng được, sau khi thử món trà đào đá xay thì mình nghĩ nên uống trà đào thì hơn. Nói chung mỗi lần sầu đời mình hay vào PL lắm, cảm giác vô cùng bình yên ❤❤"
+        },
+        {
+            "user": "Kao Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/beo.nguyenthanhvan",
+            "score": "7.2",
+            "comment": "Bữa đi vô vivo tính uống koi mà vô đông quá nên qua phúc long uống.thấy không gian cũng rộng hơn với view nhìn ra ngoài đường cũng đẹp ;)Trà phúc long thì thơm ngonNhưng bữa mình uống nhân viên pha cho mình ngọt quá trong khi mấy chi nhánh kia mình uống chưa bao giờ vậyVới nhân viên order thái độ cũng ko tốt lắm chả mấy thân thiện"
+        },
+        {
+            "user": "Phú Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nhksck",
+            "score": 0,
+            "comment": "Mình vô phúc long ở vivo thì bực hết chỗ nói, nhân viên lúc mình order nước thì có thái độ khó chịu, mình phải chờ và nói 3 lần thì bạn nhân viên mới làm cho mình. Nước của mình hơi quá ngọt chứ không như ở phúc long khác là làm đúng ý mình. View thì cũng đẹp, . . . .   . . . . . . . . . . . ...v.v. . . . . . . . . . . . . . . . . .. . Hết rùi"
+        },
+        {
+            "user": "Nu Nu",
+            "link": "https://www.foody.vn/thanh-vien/nunulee95",
+            "score": 0,
+            "comment": "Hôm qua mình gọi một Trà sữa Phúc Long, một Choco. Vì bạn mình trả tiền nên mình không để ý hoá đơn với tiền thối lại. Lúc đem nước ra đúng là trà sữa PL và choco nhưng đến khi xem bill thì ghi là PL  tea latte (50k), choco(50k). Tổng bill 100k. Lúc đó gần về rồi nên cũng k lý lẽ lý phải gì với nhân viên. Các bạn uống ở đây nhớ xem bill hoặc tính tiền kỹ nhé."
+        },
+        {
+            "user": "Ngoc Lan Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/ngoclan0999",
+            "score": "8.0",
+            "comment": "Mỗi lần đến Vivo mình thường đến Phúc Long để nghĩ chân. Vì không gian rộng rãi hơn Koi và view đẹp, giá cả cũng hợp lý. Trà xanh và trà sữa Phúc Long ngon, theo mình thì uống ngon hơn cà phê của Phúc Long. Trà xanh đá xay rất ngon, thơm đậm vị trà nhưng không quá nhiều trà nên k đắng. Vị ngọt vừa phải. Nhân viên phục vụ tận tình, thức uống làm nhanh. Chất lượng tốt giá tiền ổn."
+        }
+    ]
+}

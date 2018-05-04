@@ -1,0 +1,49 @@
+{
+    "name": "Panda BBQ - Xiên Nướng Đồng Giá 5000 - Chợ Đêm Linh Trung",
+    "link": "https://www.foody.vn/ho-chi-minh/panda-bbq-xien-nuong-dong-gia-5000-cho-dem-linh-trung",
+    "address": "1225E Tỉnh Lộ 43, P. Bình Chiểu,  Quận Thủ Đức, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 5.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/panda-bbq-xien-nuong-dong-gia?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "_._",
+        "total_review": "0"
+    },
+    "foods": [],
+    "user_comments": []
+}

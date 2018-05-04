@@ -1,0 +1,362 @@
+{
+    "name": "Da Heo Út Cưng - Kinh Dương Vương",
+    "link": "https://www.foody.vn/ho-chi-minh/da-heo-ut-cung-kinh-duong-vuong",
+    "address": "Hẻm 504 Kinh Dương Vương, P. An Lạc,  Quận Bình Tân, TP. HCM",
+    "open_time": "09:00 AM - 09:00 PM",
+    "price_range": "25.000đ - 65.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "157"
+    },
+    "foods": [
+        {
+            "name": "Bánh mì phô mai chảy (250gr)",
+            "price": "50,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Top da cháy hành (200gr)",
+            "price": "90,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Khô gà lá chanh (250gr)",
+            "price": "80,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Tóp da cháy tỏi (200gr)",
+            "price": "90,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mứt mận rim muối ớt (250gr)",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Khô gà cay (250gr)",
+            "price": "75,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tóp da cháy tỏi chà bông (200gr)",
+            "price": "100,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Chùm ruột rim chua ngọt (250gr)",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh tráng xốc rong biển (200gr)",
+            "price": "30,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Me rim muối ớt (250gr)",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Me đường chua ngọt (250gr)",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cháy nước mắm (200gr)",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cháy chà bông (200gr)",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cháy khô gà (200gr)",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cháy lắc phô mai (200gr)",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chà bông heo đặc biệt (300gr)",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt óc chó mỹ (500gr)",
+            "price": "170,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt macca Úc (500gr)",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt hạnh nhân rang bơ (500gr)",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hạt chia Úc (250gr)",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà sả tắc (500gr)",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh tráng sate tỏi (200gr)",
+            "price": "20,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Da heo muối ớt chiên giòn (100gr)",
+            "price": "25,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Da heo muối ớt chiên giòn (500gr)",
+            "price": "115,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Bánh tráng muối Tây Ninh, hành phi (200gr)",
+            "price": "20,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Rong biển cháy tỏi + ớt/hủ",
+            "price": "30,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Da heo muối ớt chiên giòn (300gr)",
+            "price": "70,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Da heo muối ớt +hành phi+ tỏi phi (300gr)",
+            "price": "100,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Da heo muối ớt + chà bông (100gr)",
+            "price": "35,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Da heo thập cẩm (300gr)",
+            "price": "115,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Rong biển thập cẩm (ớt+tỏi+hành phi +chà bông)/hủ",
+            "price": "40,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh tráng sate tỏi trộn da heo (200gr)",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Rong biển cháy hành phi + ớt/túi",
+            "price": "55,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh tráng sate tỏi (500gr)",
+            "price": "50,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Da heo muối ớt + tỏi phi (500gr)",
+            "price": "140,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Da heo thập cẩm (500gr)",
+            "price": "185,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rong biển cháy tỏi + ớt/túi",
+            "price": "55,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Rong biển cháy tỏi +hành phi +ớt /túi",
+            "price": "65,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Bánh tráng sate tỏi trộn da heo  (1kg)",
+            "price": "140,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Bánh tráng muối Tây Ninh, hành phi (500gr)",
+            "price": "50,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Da heo muối ớt + tỏi phi (100gr)",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Da heo muối ớt + hành phi (100gr)",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Da heo muối ớt + tỏi phi (300gr)",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Da heo muối ớt +hành phi+ tỏi phi (100gr)",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Da heo muối ớt + chà bông (500gr)",
+            "price": "165,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Da heo muối ớt + chà bông (300gr)",
+            "price": "100,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Da heo thập cẩm (100gr)",
+            "price": "40,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Rong biển cháy tỏi +hành phi +ớt /hủ",
+            "price": "35,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh tráng sate tỏi trộn da heo  (500gr)",
+            "price": "75,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Da heo muối ớt + hành phi (500gr)",
+            "price": "140,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Da heo muối ớt + hành phi (300gr)",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Da heo muối ớt +hành phi+ tỏi phi (500gr)",
+            "price": "165,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rong biển cháy tỏi ớt chà bông/túi",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rong biển cháy tỏi ớt chà bông/ hủ",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rong biển thập cẩm (ớt+tỏi+hành phi +chà bông)/ túi",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh tráng sate tỏi (1kg)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh tráng muối Tây Ninh, hành phi (1kg)",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Mỹ Anh",
+            "link": "https://www.foody.vn/thanh-vien/myanhanhanh",
+            "score": "7.0",
+            "comment": "Tối cn rãnh thèm đồ ăn vặt quá xá thèm nên rủ ox dắt đi mua. Thấy trên foody để hẻm 504 tới lơ ngơ không thấy quán đâu mới dt thì được chỉ đường vô shop. Nhìn xa xa thấy cái bảng hiệu cưng ghê luôn nên mới chụp lên để mọi người dễ nhận dạng. Chị chủ kêu ngon về cho chị cái review nha em nên chụp về tại shop luôn nè. Chân gà giòn sực sực bao ngon luôn điểm 10 cho chất lượng"
+        },
+        {
+            "user": "Minh Anh",
+            "link": "https://www.foody.vn/thanh-vien/hoangleminhanh",
+            "score": "9.2",
+            "comment": "Một thời nghiện ngập trong mớ bánh tráng của mấy dì gánh hàng rong, nên mình luôn tìm kiếm cái hương vị như thế ở các tiệm / shop ăn vặt trên deli, nhưng mà không dễ tí nào. Cứ phải đặt thử mỗi nơi một món để tìm lại hương xưa, và cuối cùng dừng chân nơi chốn này. Lần đặt đầu tiên, mở menu ra là muốn chết vì chữ và món!!!!!!!!!!!!!! Chẳng mấy chỗ cung cấp cái menu kinh khủng như ở đây, các món ăn vặt thời thượng như #khô_gà, #bánh mì bơ chảy, #chân gà sả tắc, cũng như những món truyền thống như bánh tráng, cơm cháy, da heo, rong biển đều có đầy đủ hương và vị. !!!!!MỌI NGƯỜI CẨN THẬN!!!!!! --> BÁNH_TRÁNG_SATẾ_TỎI <-- có thể gây tê_liệt_dây_thần_kinh và có khả năng tổn hại đến hệ_cơ_lưỡi và bộ_răng_hàm_mặt luôn nha!!!!!!!!!!!! Vì nó ngon lắm lắm lắm luôn ạ!!!!!!!!!!!! Sợ mọi người ăn không dừng lại được luôn. Bánh tráng có vị cay và thơm mùi satế, cộng với mùi thơm tỏi phi vô phương cứu chúng ta khỏi ham muốn dục vọng ăn uống!!!!!!!!!! Những món ăn tiếp theo có thể gây nên cơn_nghiện_ngập_kinh_hoàng mà mọi người nên suy nghĩ có ý thức trước khi dùng là RONG_BIỂN_SẤY_KHÔ_THẬP_CẨM (gồm ớt, tỏi hành phi, chà bông) và DA_HEO_THẬP_CẨM (gồm những món y chang trên). Đặc biệt da heo không có hôi dầu nhé, cực giòn và nhìn rất bắt mắt, yên tâm là ngon đến từng miếng vụn cuối cùng. Hành phi thơm cực thơm, đến mức có lần phải yêu cầu thêm 3 bịch hành phi riêng để thêm cho đằm thắm và ăn đỡ ghiền! Ngoài 3 món kinh điển thì mình còn khuyên mọi người nên tránh_xa món BÁNH_MÌ_BƠ_CHẢY có khả năng gây thương nhớ kinh dị nha. Theo mình thấy nhận xét của đồng nghiệp chỗ mình là bánh mì giá quá tâm lý, bánh mì to và vị bơ chảy thì..... hứccccc...... thôi mình không nói nữa đâu. Hầu hết các món ở đây, thật sự mình chưa thử hết, nhưng mình cũng khuyên mọi người đừng thử hết, vì nó có sức tàn_phá_túi_tiền lắm lắm luôn! Mình cũng là vì túi tiền của nhân loại mà cảnh báo, chứ mình còn chưa đề cập đến cô chủ hàng cực bựa cực dễ thương nha, mắc công mấy bạn nói mình không báo trước. Lần đầu tiên mình đặt hàng trực tiếp từ cô chủ, vì trên deli bị lỗi nên mất hết món mình đặt. Mình có tâm sự mỏng là trên deli có mã giảm 30% lận, nhưng vẫn hy sinh để đặt trực tiếp bên shop, vậy mà cô chủ cũng rủ lòng thương giảm luôn cho mình 20% cho riêng lần ấy luôn để giữ khách. Nhiệt tình cỡ đó thôi chứ, nhiệt tình nữa là tui mua luôn cửa hàng đem về giấu túi áo luôn đó! Thôi nói nhiêu đó thôi để mọi người biết đường mà tránh, đừng để bị hương vị và lòng nhiệt tình của cô chủ shop quyến rũ nha...."
+        },
+        {
+            "user": "andreynguyen",
+            "link": "https://www.foody.vn/thanh-vien/andreynguyen",
+            "score": "8.0",
+            "comment": "Hôm nay chở bé em qua mua bánh tráng với rong biển. Đường cũng dễ vào. Bé bán lại lăng xăng nhiệt tình thấy cưng. Bánh tráng dai vừa ăn. Rong biển ngon với độ cay vừa phải. Giá cũng hạt dẻ với bịch cũng nhiều.Gần nhà nữa nên chắc 2 đứa sẽ quay lại dài dài."
+        },
+        {
+            "user": "Nhật Anh Lê",
+            "link": "https://www.foody.vn/thanh-vien/foodee_4swfiwo1",
+            "score": "7.8",
+            "comment": "Nghe khen dữ dội quá nên cũng ráng ăn thử cho biết mà nói thiệt là rất ngon. Chị chủ nói hết hộp rồi nên lấy túi zip cho mình dư luôn hộp 1 lạng vừa uống trà sữa vừa ăn cay cay giòn giòn thì không còn gì để chê nói chung là xứng đáng"
+        },
+        {
+            "user": "Mai  Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/foodyuser_72d3cf4b",
+            "score": "7.4",
+            "comment": "Vốn là khách ruột của shop này nè.Qua mua da heo bị bà chủ cho thử tá lả đủ thứ thế là hao hụt ngân sách quá trời hà.Bã cho ăn cơm cháy siêu chà bông 40k thế là nói cho em một túi nhaXong qua lia tới hủ khô gà cay xé lưỡi luôn mà công nhận ngon thiệtMón cúi cùng là tóp da gì đó rim nước mắm ăn bao đã theo em thì ngon nhất trong 3 món Lần sau quay lại đem đủ tiền mua hoy chớ bã giới thiệu món nào mình ăn món đó chắc chớt quá"
+        }
+    ]
+}

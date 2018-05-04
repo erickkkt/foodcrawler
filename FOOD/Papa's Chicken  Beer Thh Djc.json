@@ -1,0 +1,335 @@
+{
+    "name": "Papa's Chicken & Beer Thủ Đức",
+    "link": "https://www.foody.vn/ho-chi-minh/papas-chicken-beer-thu-duc",
+    "address": "165 Thống Nhất, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",
+    "open_time": "11:00 AM - 11:00 PM",
+    "price_range": "50.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Châu Phi",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-phi"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/papa-chicken?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "146"
+    },
+    "foods": [
+        {
+            "name": "Gà rán sốt cay",
+            "price": "130,000(đ)",
+            "total_orders": "1690"
+        },
+        {
+            "name": "Gà tẩm gia vị",
+            "price": "130,000(đ)",
+            "total_orders": "732"
+        },
+        {
+            "name": "Gà rán",
+            "price": "125,000(đ)",
+            "total_orders": "314"
+        },
+        {
+            "name": "Gà chiên xù",
+            "price": "130,000(đ)",
+            "total_orders": "242"
+        },
+        {
+            "name": "Cánh gà chiên bột",
+            "price": "135,000(đ)",
+            "total_orders": "175"
+        },
+        {
+            "name": "Đùi gà chiên bột",
+            "price": "135,000(đ)",
+            "total_orders": "161"
+        },
+        {
+            "name": "Gà rán nước tương",
+            "price": "130,000(đ)",
+            "total_orders": "129"
+        },
+        {
+            "name": "Gà rán không xương mật ong",
+            "price": "130,000(đ)",
+            "total_orders": "3302"
+        },
+        {
+            "name": "Gà cay phô mai",
+            "price": "190,000(đ)",
+            "total_orders": "3226"
+        },
+        {
+            "name": "Gà rán không xương sốt gia vị",
+            "price": "130,000(đ)",
+            "total_orders": "1833"
+        },
+        {
+            "name": "Gà rán không xương sốt cay",
+            "price": "130,000(đ)",
+            "total_orders": "1556"
+        },
+        {
+            "name": "Gà rán không xương sốt nước tương",
+            "price": "130,000(đ)",
+            "total_orders": "199"
+        },
+        {
+            "name": "Gà rán không xương hành baro",
+            "price": "130,000(đ)",
+            "total_orders": "149"
+        },
+        {
+            "name": "Lẩu gà",
+            "price": "180,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Mì Ý carbonara",
+            "price": "100,000(đ)",
+            "total_orders": "379"
+        },
+        {
+            "name": "Mì Ý bolognese",
+            "price": "100,000(đ)",
+            "total_orders": "242"
+        },
+        {
+            "name": "Mì Ý amatriciana",
+            "price": "100,000(đ)",
+            "total_orders": "51"
+        },
+        {
+            "name": "Pizza thập cẩm",
+            "price": "125,000(đ)",
+            "total_orders": "99"
+        },
+        {
+            "name": "Pizza thịt bò",
+            "price": "125,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Hawaiian pizza",
+            "price": "120,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Pizza thịt xông khói",
+            "price": "120,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Pizza gorgonzola",
+            "price": "110,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cơm nắm",
+            "price": "50,000(đ)",
+            "total_orders": "1842"
+        },
+        {
+            "name": "Cơm cuốn",
+            "price": "60,000(đ)",
+            "total_orders": "1028"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "10,000(đ)",
+            "total_orders": "823"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "50,000(đ)",
+            "total_orders": "389"
+        },
+        {
+            "name": "Mì gói đen",
+            "price": "60,000(đ)",
+            "total_orders": "355"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "70,000(đ)",
+            "total_orders": "210"
+        },
+        {
+            "name": "Mì xào cay",
+            "price": "60,000(đ)",
+            "total_orders": "204"
+        },
+        {
+            "name": "Giò heo hấp",
+            "price": "180,000(đ)",
+            "total_orders": "176"
+        },
+        {
+            "name": "Mì gói HQ",
+            "price": "60,000(đ)",
+            "total_orders": "106"
+        },
+        {
+            "name": "Cơmcuốn",
+            "price": "60,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Mề gà xào",
+            "price": "150,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Lẩu gà",
+            "price": "180,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Khô mực",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước gạo HQ",
+            "price": "25,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Nước nha đam HQ",
+            "price": "25,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Pepsi",
+            "price": "25,000(đ)",
+            "total_orders": "101"
+        },
+        {
+            "name": "Nước nho HQ",
+            "price": "25,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Trà đào",
+            "price": "35,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "7up",
+            "price": "25,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mirinda",
+            "price": "25,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Tiger",
+            "price": "30,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Rượu soju",
+            "price": "120,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Rượu gạo tươi",
+            "price": "150,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Soda xoài",
+            "price": "35,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Aquafina",
+            "price": "15,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Sapporo",
+            "price": "35,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Soda chanh dây",
+            "price": "35,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Rượu soju bokbunja",
+            "price": "120,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hoàng Lâm",
+            "link": "https://www.foody.vn/thanh-vien/Hoanglam99",
+            "score": 0,
+            "comment": "Hàng không cập nhật giá,  pizza giao bị biến dạng và nguội lạnh.  Quá thất vọng,  không đáng để mua"
+        },
+        {
+            "user": "Lâm Oanh",
+            "link": "https://www.foody.vn/thanh-vien/lmoanh",
+            "score": "9.2",
+            "comment": "Rất lâu rồi mới ghé lại đây. Ngạc nhiên là đồ ăn rất ngon và giá cả phù hợp. Mình gọi gà có  xương nhưng hơi cay, tok phô mai thì nhiều và ngon, cơm nắm thì tuyệt vời. Sẽ ghé lại."
+        },
+        {
+            "user": "Anh Thang",
+            "link": "https://www.foody.vn/thanh-vien/thangbrvt",
+            "score": "7.2",
+            "comment": "Mình gọi món gà cay không xương. Khá nhiều nhưng cay lắm nhé. Các bạn có gọi thì nhớ kêu giảm độ cay lại xíu để dễ ăn hơn nha."
+        },
+        {
+            "user": "Võ Lê Khánh Ngân",
+            "link": "https://www.foody.vn/thanh-vien/vlkhnhngn",
+            "score": "10",
+            "comment": "Papa's chicken luôn là sự lựa chọn ưu tiên nếu mình ngán gà rán thông thường và muốn chọn món gà khác để thưởng thức. Hơi tiếc vì thằng bạn mình không ăn cay được nên bỏ qua món gà phô mai cay, với mình đó là món ngon nhất ở đây. Tụi mình kêu 1 khoai tay chiên (50k), 1 gà chiên mật ong (130k), 2 nước nha đam (25k/chai) và kết quả là con dư phait xin hộp mang về. Nhìn vậy thôi chứ nhiều lắm nha, khoai tay với gà ăn hoài không hết, no ơi là no luôn á. Mình kêu gà không xương nên ăn thích lắm, miếng gà to nha, còn lớp da giòn giòn phủ đầy mật ong ngọt ăn kèm khoai tay chiên thì phải biết. Quán cong free 1 dĩa salad nho nhỏ như ảnh để ăn kèm, ^^ nhân viên quán dễ thương, thân thiện. Mình sẽ còn ghé lại nữa"
+        },
+        {
+            "user": "Quyên Võ",
+            "link": "https://www.foody.vn/thanh-vien/vtlq3696",
+            "score": "7.0",
+            "comment": "Không gian: quán mới nâng cấp lên, cảm giác không gian rộng rãi hơi rất nhiềuMón ăn: thật ra quán bán gì thì nên ăn đó, mình vào đây chủ yếu ăn gà thôi, vì những món còn lại có thể với mình thì không ngon.Tất cả những món gà ở đây thì mình cảm thấy ăn rất là ngon và rất phù hợp với giá. Salad cho hơi ít xin thêm thì cũng nhiệt tình cho nhưng mà cảm thấy rằng dù đi đông hay là ít cũng chỉ cho một dĩa nhỏ thì mình cảm thấy là hơi mất công xin thôi. Nhưng mà thật ra thì mình là thích salad ở đâyNhân viên thực ra cũng không phục vụ vì nhiều nên mình sẽ không đánh giá"
+        }
+    ]
+}

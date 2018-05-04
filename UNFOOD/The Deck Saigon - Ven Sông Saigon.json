@@ -1,0 +1,80 @@
+{
+    "name": "The Deck Saigon - Ven Sông Saigon",
+    "link": "https://www.foody.vn/ho-chi-minh/the-deck-saigon",
+    "address": "38 Nguyễn Ư Dĩ, P. Thảo Điền,  Quận 2, TP. HCM",
+    "open_time": "Sáng - Tối  08:30 AM - 11:30 PM",
+    "price_range": "100.000đ - 385.000đ",
+    "category": [
+        {
+            "category": "Sang trọng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/sang-trong"
+        },
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/sang-trong-phong-cach-chau-a"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "140"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Thai Hoàng Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/duynamlhu112",
+            "score": "8.0",
+            "comment": "Nhà hàng chất lượng và chuyên nghiệp về đồ âu. Nằm trong khu biệt thự ven sông Thảo Điền rất thoáng mát.Các món ăn của nhà hàng đều tươi ngon và trang trí rất đẹp. Phục vụ chuyên nghiệp và hiểu rõ từng món ăn cũng như các loại rượu. Mình có dịp hẹn hò buổi tối mà còn thích mê mẩn luôn.Giá hơi cao nhưng mọi thứ quá tuyệt vời"
+        },
+        {
+            "user": "Như Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nhuquynhnguyen_88",
+            "score": "6.2",
+            "comment": "View đẹp, yên tĩnh, lãng mạn nhất là các bàn sát bờ sông. Không có muỗi. Tuy nhiên các bàn ngoài trời lúc nào cũng trong tình trạng reserved, có bàn để bảng có bàn không, có khi đặt trước thật có khi chỉ để vậy thôi cả buổi không ai ngồi. Nhóm mình thấy có rất nhiều bàn trống như vậy mà hỏi hoàiiiii không được chuyển ra. Đến hơn 9h tối hỏi lần nữa thì được chuyển, kèm theo câu: Anh chị ngồi tạm nếu có khách vào thì chuyển vô lại ?!?! Trong khi đó còn khá nhiều bàn trống cả trong nhà lẫn ngoài trời cho tới lúc tụi mình về luôn.Cũng vì vậy mà phong cách phục vụ và thái độ nhân viên theo mình là thân thiện nhưng chưa chuyên nghiệp đủ để phục vụ fine dining là hướng mà The Deck hướng tới. Menu thì có đủ từ starters tới main course mà khi phục vụ thì đem ra hết 1 lượt đầy bàn. Ăn món này thì sợ món kia nguội. Khăn ăn không có sẵn phải kêu đem ra. Dao nĩa, đĩa ăn khá trầy trụa.Nhà hàng có máy lạnh lẫn quạt trần mở khá mạnh nên ngồi trong nhà thì không dễ chịu như bên ngoài. Vách kính tạo không gian mở thoáng mát. Giá khá cao, trung bình 300k - 500k cho các món cá, 600k - 1k6 cho thịt bò. Nhà hàng cũng có tôm càng, hàu, 1 ít món từ vịt, heo, ... và đương nhiên là sự lựa chọn về rượu/cocktails khá phong phú. Nếu như mức giá đó mà thức ăn ngon thì mình vui vẻ chấp nhận, tuy nhiên theo mình chất lượng thức ăn đồ uống ở đây chỉ ở mức trung bình thôi. Bò ăn thì còn ổn, chứ cá thì quá bình thường. Đĩa hải sản khai vị theo kiểu Âu là ăn lạnh nhưng không được tươi thành ra hơi tanh. Nhìn chung các món trình bày đẹp nhưng bị ảnh hưởng hương vị VN nhiều. Túm lại, ăn cho biết và vì không gian đẹp thôi chứ bỏ số tiền này ra thì không thiếu nhà hàng sang trọng và chất lượng."
+        },
+        {
+            "user": "hoa nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/minimum.maximum",
+            "score": "8.6",
+            "comment": "View đẹp, rất đẹpLocation: xa trung tâm.Món ăn: NgonPhục vụ: khá tốt.Giá Cả: không rẻ tất nhiên rồi. Nhưng xứng đáng với view và chất lượng món ăn.Nếu bạn lãng mạn, thu nhập tốt thì đây là noi phù hợp. Đặc biệtđể hẹn hò khi mới yêu"
+        },
+        {
+            "user": "Hà Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/bichha.nguyen1905",
+            "score": "7.0",
+            "comment": "Mình rất thích không gian ở đây , rất sang trọng , ngồi ven sông cực thích . Món ăn ở đây theo mình đánh giá là hơi tệ so với các nhà hàng 5* khac . Giá cả đương nhiên là mắc , mình đi 2 người cỡ 1trieu2 . Đi để trải nghiệm , lâu lắm mình mới ghé lại nữa ."
+        },
+        {
+            "user": "Namakeruneko",
+            "link": "https://www.foody.vn/thanh-vien/Namakeruneko",
+            "score": "7.6",
+            "comment": "Mình được anh người yêu dẫn tới vài lần, mình thích vị trí của quán và thích cái view sông thoáng mát. Các món cheese hay khai vị ở đây ngon lắm. Cực kì hợp rượu nhé.Giá khá cao nhưng thức ăn quá chuẩn. Service cao nên hài lòng lắm. Cặp đôi nào muốn đổi gió hoặc kỉ niệm đặc biệt thì đến đây nhé.Ko gian lãng mạn và nhạc thì quá ổn.Thích lắm mà mỗi lần tới thì hao lắm"
+        }
+    ]
+}

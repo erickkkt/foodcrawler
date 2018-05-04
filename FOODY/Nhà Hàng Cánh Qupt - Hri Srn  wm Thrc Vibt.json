@@ -1,0 +1,76 @@
+{
+    "name": "Nhà Hàng Cánh Quạt - Hải Sản & Ẩm Thực Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/nha-hang-canh-quat-hai-san-am-thuc-viet",
+    "address": "166E Lê Văn Lương, Xã Phước Kiểng,  Nhà Bè, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 350.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "17"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hồng Phan",
+            "link": "https://www.foody.vn/thanh-vien/mugiadangghet",
+            "score": "9.0",
+            "comment": "Lại lần nữa tới đây. Món ăn vẫn rất ư là ngon, giá cả cũng rất ư là phải chăng. ^^. Vote cho một nơi thoáng mát, không gina đẹp, đồ ăn tươi ngon và gái cả ok. Rất là thích hợp để đi cùng gai đình cơ quan. Nhân viên bữa nay cũng dễ thương hơn rồi, không tệ như lần trước mình đi. Hơn nữa, đặt bàn qua Table now trước còn được giảm gía 10%. Nhớ nhắc nhân viên khi kêu tính tiền nhé :)))"
+        },
+        {
+            "user": "Hồng Phan",
+            "link": "https://www.foody.vn/thanh-vien/mugiadangghet",
+            "score": "7.2",
+            "comment": "Gía cả ở đây tương đối ok. Không gian rộng rãi và thoáng mát. Tuy nhiên cty mình tới buổi trưa nên hơi nóng do khoogn có quạt (chắc trúng ngày nắng nóng quá trời và cả quán chỉ dc vài quạt - Tin tưởng vào độ thoáng gió sẵn có của quán nên khoogn đầu tư thêm quạt chăng). Ccác món ăn thấm vị, ngon lành, đưa ra nhanh chóng. Mình thấy món tôm và cá chép om dưa cực ngon . Các bạn nên thử, còn món mực thì ko nên gọi. Điểm trừ là nhân viên rất là lơ đãng vs khách, Không biết vô tình hay cố ý, mà nhân viên gọi mãi mới tới dù đứng bên cạnh. Kiểu không thèm quan tâm ấy."
+        },
+        {
+            "user": "phuong.vu127",
+            "link": "https://www.foody.vn/thanh-vien/phuong.vu127",
+            "score": "8.2",
+            "comment": "Mình gọi 6 món với 1 món lẩu riêu... Nhìn chung tổng thể món nào cũng ok... gỏi hủ dừa vs ếch vs đậu hũ khói lửa ngon lắm ☺️ lẩu thì mình thấy bt tại hình như riêu cua xay ko đc mịn cho lắm... nên lẩu ko làm mình ấn tượng gì cả.View đẹp rộng mát nữa mình tổ chức SN ở đây thấy hợp lý... Lúc tính tiền mình hơi bất ngờ tí gì mà rẻ qá đi 7ng hết 1tr2 cả bia 😨😨 ko phụ thu gì hết nhé.Đặt bàn qua foody còn đc giảm 10% ☺️ mà nếu ra bill mn ko thấy giảm thì nhắc nhvien là ok nhé!!! Tới chỉ cần nói tên bàn đã sắp xếp sẵn... Địa chỉ đọc nghe mấy bạn bảo gần vivo thật ra ko gần lắm đâu ạ... SG mình ít thấy có chỗ nào view vs đồ ăn ngon với gía cả ok như v 👌👌"
+        },
+        {
+            "user": "Hải Cao",
+            "link": "https://www.foody.vn/thanh-vien/haicao27197",
+            "score": "10",
+            "comment": "Hôm trước có ghé thử Nhà hàng trang trí đẹp mắt. Không gian chụp lên hình là bao lung linh. Món ăn thì ngon và hợp khẩu vị. No nữa chứ. Bảo vệ  thân thiện với khách."
+        },
+        {
+            "user": "Cáo Thơ",
+            "link": "https://www.foody.vn/thanh-vien/blackfoxqn",
+            "score": "7.4",
+            "comment": "Hôm cuối tuần được bố mẹ đưa qua bên này, tình cờ thấy có chương trình khuyến mãi ở nhà hàng. Không gian thì đẹp, thoải mái, thoáng mát, đặc biệt có khu vui chơi trẻ em cho mấy nhóc em nhà mình nữa. Đồ ăn ổn, nhiều món hợp khẩu vị. Đặc biệt mình thích cái con cá gì bự bự mà người ta trưng cá khủng. Mọi người nên ghé thử 1 lần cho biết"
+        }
+    ]
+}

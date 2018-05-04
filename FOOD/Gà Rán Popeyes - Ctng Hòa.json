@@ -1,0 +1,316 @@
+{
+    "name": "Gà Rán Popeyes - Cộng Hòa",
+    "link": "https://www.foody.vn/ho-chi-minh/ga-ran-popeyes-cong-hoa",
+    "address": "TTTM Maximark, 15 - 17 Cộng Hòa, P. 4,  Quận Tân Bình, TP. HCM",
+    "open_time": "09:30 AM - 09:00 PM",
+    "price_range": "40.000đ - 88.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/ga-ran-popeyes?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "120"
+    },
+    "foods": [
+        {
+            "name": "Gà không xương - Giờ vàng giảm giá 50%. Từ 14h - 17h hàng ngày (trừ thứ 4)",
+            "price": "69,000(đ)",
+            "total_orders": "108"
+        },
+        {
+            "name": "2 miếng gà giòn + 1 ly nước",
+            "price": "91,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "3 miếng gà giòn + 1 ly nước",
+            "price": "127,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Cơm gà giòn",
+            "price": "39,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Cơm gà giòn không xương",
+            "price": "39,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Burger gà Cajun",
+            "price": "39,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Burger gà Creole",
+            "price": "39,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Cơm phi-lê cá rán",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cơm cà ri thái",
+            "price": "45,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Combo 2 người - Gà phủ cà ri Thái",
+            "price": "99,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Combo 1 người - Gà phủ cà ri Thái",
+            "price": "86,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Gà phủ cà ri Thái",
+            "price": "38,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Combo 3 người - Gà phủ cà ri Thái",
+            "price": "159,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Gà giòn không cay",
+            "price": "36,000(đ)",
+            "total_orders": "318"
+        },
+        {
+            "name": "Combo gà giòn không cay (3 miếng)",
+            "price": "110,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Combo gà giòn không cay (2 miếng)",
+            "price": "82,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Gà giòn cay",
+            "price": "36,000(đ)",
+            "total_orders": "645"
+        },
+        {
+            "name": "Combo gà giòn cay (3 miếng)",
+            "price": "110,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Combo gà giòn cay (2 miếng)",
+            "price": "82,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Combo gà không xương 5 miếng",
+            "price": "89,000(đ)",
+            "total_orders": "210"
+        },
+        {
+            "name": "3 miếng gà không xương",
+            "price": "55,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "5 miếng gà không xương",
+            "price": "75,000(đ)",
+            "total_orders": "170"
+        },
+        {
+            "name": "Combo gà không xương 3 miếng",
+            "price": "69,000(đ)",
+            "total_orders": "151"
+        },
+        {
+            "name": "Combo A",
+            "price": "299,000(đ)",
+            "total_orders": "190"
+        },
+        {
+            "name": "Combo B",
+            "price": "299,000(đ)",
+            "total_orders": "107"
+        },
+        {
+            "name": "Phi lê cá rán",
+            "price": "46,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Combo phi lê cá rán",
+            "price": "62,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Burger tôm",
+            "price": "39,000(đ)",
+            "total_orders": "185"
+        },
+        {
+            "name": "Burger gà cajun",
+            "price": "54,000(đ)",
+            "total_orders": "77"
+        },
+        {
+            "name": "Combo Burger gà",
+            "price": "72,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Burger cá cajun",
+            "price": "54,000(đ)",
+            "total_orders": "53"
+        },
+        {
+            "name": "Burger gà creole",
+            "price": "54,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Combo Burger tôm",
+            "price": "63,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Combo Burger cá cajun",
+            "price": "72,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "29,000(đ)",
+            "total_orders": "694"
+        },
+        {
+            "name": "Bánh nướng mật ong",
+            "price": "9,000(đ)",
+            "total_orders": "466"
+        },
+        {
+            "name": "Khoai tây nghiền",
+            "price": "19,000(đ)",
+            "total_orders": "254"
+        },
+        {
+            "name": "Bắp cải trộn",
+            "price": "19,000(đ)",
+            "total_orders": "230"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "10,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Coca cola",
+            "price": "19,000(đ)",
+            "total_orders": "160"
+        },
+        {
+            "name": "Coca cola light",
+            "price": "19,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Sprite",
+            "price": "19,000(đ)",
+            "total_orders": "49"
+        },
+        {
+            "name": "Fanta",
+            "price": "19,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Dasani",
+            "price": "19,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Fanta 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Coca 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sprite 1.5L",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Tiên Vy",
+            "link": "https://www.foody.vn/thanh-vien/huthvy",
+            "score": "8.8",
+            "comment": "Gà ăn được , khoai tây hơi cứng . Mình không biết ăn sốt nên không biết nó như thế nào . Nhân viên thân thiện ."
+        },
+        {
+            "user": "tuấnmx",
+            "link": "https://www.foody.vn/thanh-vien/tuanmx2014",
+            "score": "8.6",
+            "comment": "Cực nhiều khuyến mãi, nên rất hay ghé ăn. 1 điểm mình thích là được refill nước. Gà nhiều, nước uống thoải mái. 1 điểm trừ là lớp vỏ bên ngoài dày và khô."
+        },
+        {
+            "user": "Lâm Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/ariesstore11",
+            "score": "6.6",
+            "comment": "Có lẽ gà Popeyes là ngon nhất trong chuỗi fast food. Gà ngon, lớp ngoài giòn rụm, thịt bên trong mềm, mọng nước. Nhân viên ở đây cũng khá nhiệt tình, chu đáo."
+        },
+        {
+            "user": "Ken Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/straw_hero_28021991",
+            "score": 0,
+            "comment": "Trong các hệ thống của popeyes chắc đây là chi nhánh tệ nhất. Mua mang về mà ngồi đơin 30p vẫn chưa có. Trong khi qua 4 5 lượt khách ăn tại chỗ ăn xong về luôn rồi mà mình chưa có. Lần cuối nhé"
+        },
+        {
+            "user": "Ngọc Ánh",
+            "link": "https://www.foody.vn/thanh-vien/ngoc.anh26",
+            "score": "7.0",
+            "comment": "Mình thường xuyên ghé chi nhánh này luônVị trí rất dễ tìm, nằm trong maximark, gửi xe ở đó luôn. Không gian quán khá rộng, mát mẻ, nhưng wifi yếuỞ đây rất đông luôn, sau 5h chiều là bắt đầu đông hết chỗ. À, đó là ngày thứ 4 nhe, bình thường thì mình k biết hihiGà ở đây ngon, nhất là 2 vị nước mắm và phomai. Mình ghiền lắm lắm luôn. Phomai có hành phi nên béo béo, thơm thơm. Gà nước mắm thì mằn mặn, cay cay. Nếu ăn chung với cơm cũng ngon nữaNước ở đây thoải mái refill. Ngoài gà ra thì kem ở đây cũng ngon nữa, kem rẻ mà ngon lắm. Ăn gà ngán mà ăn kem vô là hết xảy. Chi nhánh này mình đi thường mà k thấy máy kem bị hư, còn bên D2 đi có 3 lần mà hư hết 2 lần rồi"
+        }
+    ]
+}

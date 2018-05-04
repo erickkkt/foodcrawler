@@ -1,0 +1,76 @@
+{
+    "name": "Genki Sushi - Take Away & Delivery",
+    "link": "https://www.foody.vn/ho-chi-minh/genki-sushi-take-away-delivery",
+    "address": "928 Lê Văn Lương, Phước Kiểng,  Nhà Bè, TP. HCM",
+    "open_time": "Thứ 2 - Thứ 7:  10:00 AM - 05:00 PM",
+    "price_range": "30.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Shop Online",
+            "link": "https://www.foody.vn/ho-chi-minh/food/shop-online"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/shop-online-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "8"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Như Ngọc Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ngoc.nhu",
+            "score": "7.6",
+            "comment": "Hôm trước thấy trên Foody giới thiệu quán này, nhìn hấp dẫn quá nên team mình rủ nhau order về ăn. Giao hàng nhanh và đúng hẹn nha. Đựng trong túi giấy nhìn chuyên nghiệp, về sinh nữa. Hộp đựng sushi cũng sạch sẽ nữa nè. Tụi mình order kha nhiều, nhưng mình chỉ kịp chộp mấy tấm thôi ^^. Mình hk ăn đc đồ sống, cũng hk hảo sushi lắm vậy mà ăn ở đây thấy ngon nha, tự nhiên thấy có cảm tình vs sushi rồi. Cái cuốn sò điệp phô mai siêu ngon nha, ấn tượng vs món này nhất. Sashimi bạn mình ăn cũng khen ngon nữa. Team mình hay ăn delivery thôi, nên chắc se ủng hộ quán dài dài"
+        },
+        {
+            "user": "Bleusky Little",
+            "link": "https://www.foody.vn/thanh-vien/littlebleusky",
+            "score": "9.2",
+            "comment": "Nhà mình thích ăn đồ Nhật nhưng lười ra nhà hàng. Biết được Sushi Genki có giao hằng tận nơi, thế là cuối tuần hay order cho cả nhà ăn. Hai bạn nhỏ nhà mình thì mê tít, mỗi khi được ăn sushi là háo hức lắm. Món ăn ngon, giá cả hợp lý, đầu bếp và nhân viên rất dễ chịu, yêu cầu thêm này, bớt kia, đều được đáp ứng. Nhà mình lại không quen ăn đồ sống, cứ yêu cầu món nào cũng làm chính, vậy mà bếp cũng chìu luôn. Nhân viên dễ thương, shipper cũng dễ thương, thức ăn giao tận nơi còn nóng hổi, chỉn chu, có đầy đủ muỗng, đũa, khăn ướt và tăm. Thích nhất là hay được giảm giá 10% hoặc tặng thêm món ăn. Cảm nhận được cái tâm cái tình của đội ngũ Genki gửi vào từng món ăn.Món nên thử: trứng cuộn rong biển, béo, thơm, hai bạn nhỏ nhà mình ghiền món này. Ăn không hoặc ăn với cơm đều ngon.Nhiều điểm cộng như vẫn có điểm trừ nè: sốt hơi nhiều, béo quá nên mau ngán. Món Genki roll cuốn hơi to vì quá nhiều đồ ăn trong đó, Genki nghiên cứu lại làm nhỏ hơn, 1 khoanh bỏ vừa miệng là ok.Điểm 9 cho thức ăn và điểm 10 cho dịch vụ."
+        },
+        {
+            "user": "Khoa Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/khoa.nguyen6033",
+            "score": "7.6",
+            "comment": "Trưa không biết ăn gì, được đồng nghiệp giới thiệu chỗ này nên order về ăn thử. Tuy mamg về nhưng các loại sushi, maki đều rất tươi ngon, nhân hấp dẫn, đặc biệt hạt cơm để làm sushi mềm dẻo vừa ăn. Mình ăn sushi lươn nướng và cá hồi thấy được, nước sốt đậm đà, cho tương và wasabi đầy đủ để chấm. Riêng Matcha trà xanh mình thấy chưa thực sự ngon lắm vì hương vị Matcha chưa đặc trưng làm mình chưa cảm nhận thực sự được hết vị béo, thơm của matcha. Món ăn gói trong hộp nhựa sạch sẽ, lịch sự, đũaăn kèm theo có in logo."
+        },
+        {
+            "user": "Thanh Phong Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/thanhphongntt",
+            "score": "8.8",
+            "comment": "Mình đã ăn nhiều nơi nhưng vẫn không ngon bằng sushi ở #Genki có lẻ là bởi nước sốt , rất đậm và đặc biệt ngon với cuộn Genki roll, cuộn lươn, cá ngừ phủ mè , mỗi món này có vị tuyệt làm sao ấy.Riêng các loại Macha thì khỏi phải miễn cưỡng được quá tuyệt với món Macha sữa chua, Macha nước cốt dừa, Macha trân châu ,mình share để mọi người #bơi vào thử nhen, nhon không thể cưỡng ấy ."
+        },
+        {
+            "user": "Chuột Siêu",
+            "link": "https://www.foody.vn/thanh-vien/phuocquang20004",
+            "score": "9.0",
+            "comment": "Giá bình dân mà chất lượng 5sao . Trời mưa ko ra đường đc gọi điện đặt hàng trời mưa cũng giao luôn. Mới ăn xong hôm qua giờ lại muốn ăn nữa. ^^ thèm quá"
+        }
+    ]
+}

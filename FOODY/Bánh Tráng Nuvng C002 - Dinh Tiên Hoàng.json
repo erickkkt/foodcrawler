@@ -1,0 +1,491 @@
+{
+    "name": "Bánh Tráng Nướng C002 - Đinh Tiên Hoàng",
+    "link": "https://www.foody.vn/ho-chi-minh/banh-trang-nuong-c002-dinh-tien-hoang",
+    "address": "002 Lô C, Chung Cư 23/49 Đinh Tiên Hoàng, P. 3,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "",
+    "price_range": "10.000đ - 23.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/banh-trang-nuong-c002?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "239"
+    },
+    "foods": [
+        {
+            "name": "Bánh tráng thập cẩm trứng phô mai, gà, xúc xích, bắp",
+            "price": "26,000(đ)",
+            "total_orders": "85"
+        },
+        {
+            "name": "Bánh tráng trứng, lạp xưởng, gà xé",
+            "price": "19,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Bánh tráng trứng, tép khô",
+            "price": "15,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Bánh tráng trứng, phô mai",
+            "price": "16,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Bánh tráng trứng, mực, gà xé cay",
+            "price": "21,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Bánh tráng trứng, phomai, khô bò",
+            "price": "20,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Bánh tráng trứng, phomai, khô bò, xúc xích",
+            "price": "23,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Bánh tráng trứng, pate, thịt bằm, tép kho",
+            "price": "22,000(đ)",
+            "total_orders": "25"
+        },
+        {
+            "name": "Bánh tráng thập cẩm trứng, gà, cải tím, mayonaise, thịt bằm, nấm, mực",
+            "price": "30,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Bánh tráng trứng, nấm, mực",
+            "price": "21,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Bánh tráng trứng pate, thịt bằm",
+            "price": "19,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Bánh tráng trứng, xúc xích, tép khô",
+            "price": "18,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Bánh tráng trứng, phomai, bắp, tép khô",
+            "price": "22,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Bánh tráng trứng, nấm",
+            "price": "16,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Bánh tráng mỡ hành cay",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh tráng trứng, khô bò",
+            "price": "16,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh tráng trứn, gà xé, cải tím, mayonaise",
+            "price": "22,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh tráng trứng, phomai, chà bông, mực",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh tráng trứng, nem chua cay",
+            "price": "16,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh tráng trứng, khô bò, mayonnaise",
+            "price": "19,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh tráng trứng, gà xé",
+            "price": "16,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh tráng trứng mayonaise, nấm, mực",
+            "price": "24,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Bánh tráng dẻo phô mai, gà xé, thịt bằm, trứng cút",
+            "price": "24,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Bánh tráng dẻo thập cẩm trứng, phô mai, khô bò, mực, nấm",
+            "price": "30,000(đ)",
+            "total_orders": "24"
+        },
+        {
+            "name": "Bánh tráng dẻo pate",
+            "price": "15,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Bánh tráng dẻo trứng, phomai, gà xé, lạp xưởng cay",
+            "price": "23,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Bánh tráng dẻo trứng, pate",
+            "price": "15,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Bánh tráng dẻo phô mai, gà",
+            "price": "16,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Bánh tráng dẻo nướng trứng mỡ hành",
+            "price": "12,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bánh tráng dẻo phô mai",
+            "price": "12,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Bánh tráng dẻo trứng, phô mai",
+            "price": "16,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bánh tráng dẻo trứng, phomai, gà",
+            "price": "20,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Bánh tráng dẻo trứng, mực, nấm",
+            "price": "21,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Thập cẩm cá, bò, khoai",
+            "price": "30,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Nem chua nướng",
+            "price": "20,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Phomai que",
+            "price": "9,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Bánh đa trộn",
+            "price": "22,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Xúc xích Đức nướng",
+            "price": "14,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Cá viên chiên",
+            "price": "15,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bò viên chiên",
+            "price": "16,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "25,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Hồ lô xiên nướng",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Yogurt cacao",
+            "price": "18,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt vải",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt chanh dây",
+            "price": "17,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Yogurt đào",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt nho đen",
+            "price": "19,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt việt quất",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt phúc bồn tử",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt kiwi",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt atiso đỏ",
+            "price": "18,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dâu",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt sâm dứa sữa",
+            "price": "17,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt đá",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo cacao",
+            "price": "27,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Yogurt dẻo vải",
+            "price": "34,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo nho đen",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo việt quất",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo phúc bồn tử",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo kiwi",
+            "price": "27,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo dâu",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo chanh dây",
+            "price": "26,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo truyền thống",
+            "price": "23,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo matcha phúc bồn tử",
+            "price": "30,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Yogurt dẻo matcha cacao",
+            "price": "30,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Yogurt dẻo matcha kiwi",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt dẻo matcha truyền thống",
+            "price": "26,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yogurt dẻo matcha chanh dây",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yogurt dẻo matcha dâu",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà sữa Thái xanh",
+            "price": "14,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Trà sữa Thái đỏ",
+            "price": "14,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Trà sữa táo",
+            "price": "14,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Trà sữa đào",
+            "price": "15,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Trà sữa dâu",
+            "price": "15,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sâm dứa sữa",
+            "price": "15,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "10,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Pepsi",
+            "price": "12,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Tắc xí muội",
+            "price": "15,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "7up",
+            "price": "12,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Lipton chanh, xí muội",
+            "price": "15,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Lipton sữa",
+            "price": "15,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Chanh muối",
+            "price": "12,000(đ)",
+            "total_orders": "6"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Thuỳ Nhung",
+            "link": "https://www.foody.vn/thanh-vien/thuynhung161989",
+            "score": "7.0",
+            "comment": "Chỗ này thì khỏi nói, địa điểm tụ tập thường xuyên của bọn mình nè, quán là địa điểm khá có tiếng nên lúc nào cũng rườm nượp người luôn, có khi tới còn phải chờ nữa chứ. Quán nằm ngay đoạn bờ kè nên đi đường Hoàng Sa cho dễ tìm nhé. Bánh tráng dạng pizza Đà Lạt khá hot với nhiều loại nhân khác nhau nên tha hồ mà chọn theo sở thích của mình khỏi lo nhé, giá cũng oki phù hợp với mọi người, ở đây có nước sấu nên uống nè. Địa điểm lý tưởng tụ hợp bạn bè ăn vặt"
+        },
+        {
+            "user": "Hà Phạm",
+            "link": "https://www.foody.vn/thanh-vien/phamha0606",
+            "score": "7.2",
+            "comment": "- Vị trí quán nằm trên đường Trường Sa, chỗ giữ xe của quán nằm ngay hẻm bên cạnh. Ăn xong đừng vứt bill đi nhé, khi ra lấy xe đưa bill cho anh giữ xe là được miễn phí đó bạn :)- Không gian quán: khá thoáng vì ngồi cạnh bờ sông. Bàn ghế khá sát nhau, phù hợp ăn vặt, thích hợp đi 2-3 người. Không thì ghép bàn cũng được.- Bánh tráng dẻo ăn khá lạ (mình order dẻo, trứng, phomai, gà). Bánh tráng phan rang có nước chấm khá ngon. Mình còn gọi thêm cá, bò viên chiên, khoai chiên. 2 người là ăn no nê mà giá cả cũng phải chăng."
+        },
+        {
+            "user": "Mỹ Anh Nguyễn Thị",
+            "link": "https://www.foody.vn/thanh-vien/myanh6a2tvo",
+            "score": "8.4",
+            "comment": "mình ord qua delivery now. Dẫu biết là ăn nó sẽ ko chất lượng bằng ăn ngay tại quán nhưng vẫn liều. đc cái lúc giao tới bánh vẫn còn đc nóng vừ phải. ăn vẫn đc. vs lại shipper delivery now giao cũng đúng giờ sớm hơn h hẹn nữa nên mình rất hài lòng. về món ăn thì sữa chua dẻo ca cao mình thấy khá ưng í. bột ca cao cho sữa đặc vào ăn chung với sữa chua dẻo nhé. cũng khá ngon. còn bánh tráng mình thấy cũng bình thường à. Có điều mấy bịch nước chấm ng ta phát cho mình mình ko bik ăn r trộn kiểu j để chấm hết :)))))"
+        },
+        {
+            "user": "Chichi",
+            "link": "https://www.foody.vn/thanh-vien/unik_sv",
+            "score": "8.6",
+            "comment": "Mình gọi về nhà ăn. Về tới nơi bánh vẫn còn nóng, ngon. Mình gọi hơn 100k, 2 người ăn no nê. Bánh ngon, topping nhiều, nước sốt cũng ngon nữa."
+        },
+        {
+            "user": "Cao Tùng",
+            "link": "https://www.foody.vn/thanh-vien/mistercaotung",
+            "score": "8.0",
+            "comment": "Mình gọi 4 phần bánh tráng rải đều menu là Phan Rang, Giòn, Dẻo:- Bánh tráng Phan Rang cuốn trứng + nem chua, mắm ruốc pha loãng hơi mặn chan vào ăn ngon nhưng do mùi trứng át mất nem chua nên nem không khác xúc xích!- Bánh tráng giòn trứng, khô bò bánh to, khô bò rải đều ăn chung nước me siêu ngon, nóng hổi lúc trời mưa, tip nên trộn nước me và tương ớt đều rồi chấm ăn sẽ ngon hơn. Recommend nên ăn Trứng Phômai Khô bò (Số 35), tại mình gọi dẻo phô mai lát nữa nên quyết định không gọi nhiều phô mai.- Bánh tráng dẻo phô mai gà, siêu ngon, cay cay, sốt nóng phỏng mỏ, HOT CAUTION nhen, bạn nào ăn ham trong nhóm thì không cho nó cầm kéo cắt miếng bự, ăn chảy nước mắt luôn đó. Mình đi ăn hầu hết các quán, cầm kéo cắt bánh tráng thì sốt sẽ tràn ra, C002 do bánh tráng dẻo + nước me làm sốt không xịt nhiều trong nhân quá nên không bị tràn. Bánh tráng dẻo không nên gọi dẻo trứng vì bánh tráng mềm xèo không dẻo dai đặc trưng vốn có của bánh tráng dẻo.- Cú chót Dẻo thập cẩm phô mai gà xé thịt bằm trứng cút (tên như dài như tên khủng long, nên xin phép gọi là số 54). Do nhiều nguyên liệu quá nên dầy gấp đôi cái Phô mai gà, cắt thì xịt tùm lum cũng đúng thôi thánh thần nào mà không tràn do trứng cút, heo bằm, gà + sốt me vô mà. Siêu ngon !!!Nhận order + Thanh toán siêu nhanh. Có điều góp ý quán nên bố trí 1 nhân viên pha nước riêng thôi, do ăn khô và cay hay khát nước mà mấy bạn quên hay không làm kịp nước mà nước uống lúc nào ăn xong 3 món đầu mới có !!!!"
+        }
+    ]
+}

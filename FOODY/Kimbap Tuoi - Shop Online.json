@@ -1,0 +1,76 @@
+{
+    "name": "Kimbap Tươi - Shop Online",
+    "link": "https://www.foody.vn/ho-chi-minh/kimbap-tuoi-shop-online",
+    "address": "Phan Văn Hớn,  Quận 12, TP. HCM",
+    "open_time": "06:00 AM - 09:00 PM",
+    "price_range": "25.000đ - 35.000đ",
+    "category": [
+        {
+            "category": "Shop Online",
+            "link": "https://www.foody.vn/ho-chi-minh/food/shop-online"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/shop-online-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "18"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Jess Rùa",
+            "link": "https://www.foody.vn/thanh-vien/jessica_minerva_2711",
+            "score": "7.6",
+            "comment": "Kimbap ở đây ngon, còn nóng. Sốt chấm ngon. Giá phải chăng nữa.Chỉ có điều quán lâu lâu nghỉ ko bán mấy ngày, có khi pm 3 ngày sau mới trả lời cơ :("
+        },
+        {
+            "user": "Thỏ My",
+            "link": "https://www.foody.vn/thanh-vien/thmy2004",
+            "score": "8.0",
+            "comment": "Ăn nhiều lần rồi mà bh mới feedback, kimbap làm rất ngon, đậm đà, đẹp mắt, cũng nhiều nữa, ăn no bụng. Cô chủ nhiệt tình dễ thương. Thích nhất là kimbap vuông, ngon và xinh, lại ít cơm nên ko lo mập."
+        },
+        {
+            "user": "Thảo Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/thao_cut3_2000",
+            "score": "8.2",
+            "comment": "Ăn nhiều lần rồi mà lần này mới nhớ chụp hình feedback cho shop, kimbap nhìn thì ngon mắt, ăn thì ngon miệng ahihi ^^ Rất thích cách phục vụ của cô với chị chủ, dthương với thân thiện lắm ý!!! Sẽ ủng hộ dài dài.... =))"
+        },
+        {
+            "user": "Quí Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/minhqui59",
+            "score": "6.6",
+            "comment": "Mua vài lần ở đâyNhững ngày làm biếng ăn cơm là đi mua đồ ăn vặtThích nhất kimbap chiên.chưa mở hộp đã nghe thơm rồiGiá cả thì cũng bình thường ,không mắcCó tương và khăn nữaQua nhà lấy được giảm thêm 10%Lâu lâu thèm kimbap lại ủng hộ nữa."
+        },
+        {
+            "user": "Lê Trâm",
+            "link": "https://www.foody.vn/thanh-vien/namlundidong2507",
+            "score": "7.4",
+            "comment": "kimbap ngon, trình bày đẹp, cơm dẻo, thức ăn nhiều.1 phần 2 cuộn vừa ăn. Có cho thêm sốt cà+tương ớt+xíu mayanaise ăn kèm. Kimbap chiên hơi ngán do phải chiên qua dầu, bù lại cắn vào giòn xốp ăn cũng thích.Kimbap vuông, nhìn rất nghệ thuật, đẹp và ăn không ngán cơm.Kimbap trứng ngon nhất. Lớp trứng cuộn bên ngoài mềm mại không rách hay lủng lỗ, lượng cơm cũng vừa phải ăn không ngán.Chỉ có điều, đặt hàng cho bạn mà bạn không confirm làm chờ cũng sốt ruột. Sáng gọi lại cho chắc để bạn giao đúng hẹn mà bạn cũng  lơi lơi ở đâu. Chắc nhiều đơn hàng quá hay sao... nhưng so với các shop đặt online mình hay gọi thì kém hơn chút xíu nên khoảng phục vụ mình chỉ cho 7 thôi!"
+        }
+    ]
+}

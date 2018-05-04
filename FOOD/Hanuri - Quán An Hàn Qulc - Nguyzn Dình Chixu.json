@@ -1,0 +1,376 @@
+{
+    "name": "Hanuri - Quán Ăn Hàn Quốc - Nguyễn Đình Chiểu",
+    "link": "https://www.foody.vn/ho-chi-minh/hanuri-korean-fast-food-nguyen-dinh-chieu",
+    "address": "284A Nguyễn Đình Chiểu, P. 6,  Quận 3, TP. HCM",
+    "open_time": "09:00 AM - 09:30 PM",
+    "price_range": "50.000đ - 110.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hanuri-mon-an-han-quoc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "726"
+    },
+    "foods": [
+        {
+            "name": "Bánh gạo tok bok ki phô mai có mì",
+            "price": "47,000(đ)",
+            "total_orders": "6383"
+        },
+        {
+            "name": "Bánh gạo tok buk ki phô mai không mì",
+            "price": "41,000(đ)",
+            "total_orders": "4660"
+        },
+        {
+            "name": "Bánh gạo tok buk ki không mì",
+            "price": "29,000(đ)",
+            "total_orders": "4552"
+        },
+        {
+            "name": "Bánh gạo tok buk ki có mì",
+            "price": "35,000(đ)",
+            "total_orders": "3706"
+        },
+        {
+            "name": "Cha chang ramen",
+            "price": "45,000(đ)",
+            "total_orders": "3673"
+        },
+        {
+            "name": "Kunmandu",
+            "price": "40,000(đ)",
+            "total_orders": "2399"
+        },
+        {
+            "name": "Jap Chae",
+            "price": "50,000(đ)",
+            "total_orders": "2260"
+        },
+        {
+            "name": "Mì cha chang",
+            "price": "43,000(đ)",
+            "total_orders": "1757"
+        },
+        {
+            "name": "Meun samgyeopsal",
+            "price": "85,000(đ)",
+            "total_orders": "1693"
+        },
+        {
+            "name": "Bánh gạo tok chiên với đậu phộng",
+            "price": "30,000(đ)",
+            "total_orders": "1545"
+        },
+        {
+            "name": "Meun Ramen",
+            "price": "43,000(đ)",
+            "total_orders": "871"
+        },
+        {
+            "name": "Tok kang keong",
+            "price": "43,000(đ)",
+            "total_orders": "587"
+        },
+        {
+            "name": "Mì ramen kim chi",
+            "price": "39,000(đ)",
+            "total_orders": "532"
+        },
+        {
+            "name": "Cơm bò bulgogi bokkum",
+            "price": "49,000(đ)",
+            "total_orders": "8663"
+        },
+        {
+            "name": "Kimbap",
+            "price": "39,000(đ)",
+            "total_orders": "8487"
+        },
+        {
+            "name": "Cơm bibim",
+            "price": "39,000(đ)",
+            "total_orders": "6150"
+        },
+        {
+            "name": "Nudu kimbab",
+            "price": "41,000(đ)",
+            "total_orders": "3915"
+        },
+        {
+            "name": "Phô Mai Kim Chi Bokkum",
+            "price": "50,000(đ)",
+            "total_orders": "2948"
+        },
+        {
+            "name": "Cơm kim chi cá ngừ",
+            "price": "41,000(đ)",
+            "total_orders": "2490"
+        },
+        {
+            "name": "Cơm bulgogi",
+            "price": "39,000(đ)",
+            "total_orders": "1950"
+        },
+        {
+            "name": "Cơm chu mok",
+            "price": "40,000(đ)",
+            "total_orders": "1167"
+        },
+        {
+            "name": "Cơm je yuk",
+            "price": "49,000(đ)",
+            "total_orders": "615"
+        },
+        {
+            "name": "Cơm ke ran",
+            "price": "40,000(đ)",
+            "total_orders": "525"
+        },
+        {
+            "name": "Cơm cha chang",
+            "price": "38,000(đ)",
+            "total_orders": "302"
+        },
+        {
+            "name": "Cơm gà cay Dakbokkum",
+            "price": "53,000(đ)",
+            "total_orders": "153"
+        },
+        {
+            "name": "Cơm cá ngừ",
+            "price": "44,000(đ)",
+            "total_orders": "78"
+        },
+        {
+            "name": "Lẩu kim chi thịt heo",
+            "price": "54,000(đ)",
+            "total_orders": "4927"
+        },
+        {
+            "name": "Lẩu bulgogi",
+            "price": "54,000(đ)",
+            "total_orders": "1875"
+        },
+        {
+            "name": "Lẩu kim chi cá ngừ",
+            "price": "56,000(đ)",
+            "total_orders": "934"
+        },
+        {
+            "name": "Lẩu tac to ri",
+            "price": "59,000(đ)",
+            "total_orders": "746"
+        },
+        {
+            "name": "Lẩu doenjang",
+            "price": "54,000(đ)",
+            "total_orders": "329"
+        },
+        {
+            "name": "Lẩu Sun Đu Bu",
+            "price": "57,000(đ)",
+            "total_orders": "84"
+        },
+        {
+            "name": "Canh",
+            "price": "2,000(đ)",
+            "total_orders": "4227"
+        },
+        {
+            "name": "Kim chi thêm",
+            "price": "10,000(đ)",
+            "total_orders": "3364"
+        },
+        {
+            "name": "Chả cá thêm (Ăn kèm lẩu)",
+            "price": "5,000(đ)",
+            "total_orders": "2199"
+        },
+        {
+            "name": "Cơm thêm",
+            "price": "5,000(đ)",
+            "total_orders": "1623"
+        },
+        {
+            "name": "Trứng chiên thêm",
+            "price": "5,000(đ)",
+            "total_orders": "1142"
+        },
+        {
+            "name": "Mì thêm (nấu kèm tokbukki)",
+            "price": "10,000(đ)",
+            "total_orders": "992"
+        },
+        {
+            "name": "Pepsi",
+            "price": "13,000(đ)",
+            "total_orders": "1138"
+        },
+        {
+            "name": "Milo",
+            "price": "19,000(đ)",
+            "total_orders": "551"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "25,000(đ)",
+            "total_orders": "549"
+        },
+        {
+            "name": "Soda việt quất",
+            "price": "27,000(đ)",
+            "total_orders": "502"
+        },
+        {
+            "name": "Kem Patbingsu",
+            "price": "36,000(đ)",
+            "total_orders": "398"
+        },
+        {
+            "name": "Nước ép táo",
+            "price": "18,000(đ)",
+            "total_orders": "383"
+        },
+        {
+            "name": "7up",
+            "price": "13,000(đ)",
+            "total_orders": "367"
+        },
+        {
+            "name": "Oolong tắc",
+            "price": "23,000(đ)",
+            "total_orders": "321"
+        },
+        {
+            "name": "Nước mơ",
+            "price": "18,000(đ)",
+            "total_orders": "320"
+        },
+        {
+            "name": "Patbingsu",
+            "price": "30,000(đ)",
+            "total_orders": "262"
+        },
+        {
+            "name": "Soda chanh dây",
+            "price": "27,000(đ)",
+            "total_orders": "209"
+        },
+        {
+            "name": "Soda dâu",
+            "price": "27,000(đ)",
+            "total_orders": "191"
+        },
+        {
+            "name": "Yogurt blueberry",
+            "price": "20,000(đ)",
+            "total_orders": "190"
+        },
+        {
+            "name": "Cafe sữa đá",
+            "price": "18,000(đ)",
+            "total_orders": "152"
+        },
+        {
+            "name": "Sochu (rượu)",
+            "price": "75,000(đ)",
+            "total_orders": "119"
+        },
+        {
+            "name": "Yogurt dâu",
+            "price": "20,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Nước khoáng",
+            "price": "10,000(đ)",
+            "total_orders": "87"
+        },
+        {
+            "name": "Yogurt chanh dây",
+            "price": "20,000(đ)",
+            "total_orders": "81"
+        },
+        {
+            "name": "Yogurt kiwi",
+            "price": "20,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Rượu gạo maokkoli",
+            "price": "94,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Cafe đá",
+            "price": "15,000(đ)",
+            "total_orders": "23"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hoàng Gia",
+            "link": "https://www.foody.vn/thanh-vien/giathy2605",
+            "score": "8.2",
+            "comment": "Tìm được quán xong là đi ăn thử liên tục 2 bữa. Thật sự là rất thích đồ ăn ở đây. Phần cơm nhiều ăn no căng bụng luôn ấy. Cuối tuần quán đông khách nên phải đứng xếp hàng và đợi đồ ăn hơi lâu. Được cái nhân viên phục vụ nhanh nhẹn và vui vẻ. Thức ăn ngon, không gian khá rộng, sạch sẽ. Nhất định sẽ quay lại thử những món khác."
+        },
+        {
+            "user": "Anna Trương",
+            "link": "https://www.foody.vn/thanh-vien/nhy.pher",
+            "score": "8.0",
+            "comment": "Vị hơi nhạt. Tương đối ổn. Giá rẻ."
+        },
+        {
+            "user": "Quỳnh Hương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/liznguyen1810",
+            "score": "8.2",
+            "comment": "Mình hay ghé ăn hanuri ở sư vạn hạnh vì nó gần trường mình nhưng bữa dụ dỗ mami đi ăn nên phải đi ra chi nhánh to bự. Bữa đi mình gọi gà chua cay, kim bap, tokbokki,tok chiên, cơm bibim và tráng miệng bingsu trái cây. Kimbap và gà là khỏi phải bàn rồi. Gà ngon thấm gia vị, các nguyên liệu trong kimbap hòa quyện với nhau ăn rất hợp. Tokbokki ăn cay xé lưỡi nhưng mà ngon lắm. Cơm trộn thì mình không thích lắm vì hơi ít đồ ăn mà rau thì lại nhiều. Bingsu nhìn phía trên thì vậy chứ dưới đá không à nên mình không thích lắm. Điều mình thích nhất ở đây là kimchi và canh tự phục vụ, muốn ăn bao nhiêu lấy tùy thích."
+        },
+        {
+            "user": "Li Liang Yin",
+            "link": "https://www.foody.vn/thanh-vien/liangyin0816",
+            "score": "7.2",
+            "comment": "Hôm nay hụt kèo đi Ngõ 8, lòng vòng k biết ăn gì thế là ghé qua đây. Lần đầu tiên mfnh đi mấy quán HQ kiểu này :)) mới vô thấy kiểu order tại quầy giống mây tiệm fastfood hơi lạ. Có quầy km chi với canh tự phục vụ ok.Menu: nhiều nhưng k đa dạng, ko co hệ thống k có đầu đuôi, kiểu hình như nghĩ ra món nào cho món đấy :)) chủ yếu các món ăn nhanh HQ như mì tương đen, tokbokki, gà, cơm trộn, kimbab... có thêm nước trà sữa đồ nhưng k có thửHai đứa gọi món cơm cá ngừ mới, lẩu soondubu với gà chiên chua cay thêm tok. Cơm cá ngừ ngon, có cho đĩa và bao tay tự trộn, trong cơm dùng cơm nấu với gạo nếp cẩm cho màu tím, trộ vs cá ngừ mayo beo béo, dễ ăn. Lấu đậu hủ soondubu thì thất vọng quá trời, nước lèo ngọt nhạt nhẽo chư k đậm đà hay chua cay gì cả. Tàu hũ thf ít mà còn nát bấy thấy thương, trứng bỏ vào sơm quá nên bị chín quá. Vì nhiều nuóc ít cái nên nó rất nhạt nhẽo và chán phèo, ăn vs cơm cũng k ngon.Gà chiên sốt chua cay khá ngon, có điều mình k biết vốn dĩ đã có tok nên còn xớn xác kêu thêm =))) lớp vỏ gìon và sốt vừa phải nhưng k xuất sắc llắm. Tok có chiên sơ nên bạn mình chê hơi cứng.Nó chung mình thấy chỗ này chắc phù hợp các bạn teen vì ko gian rát kpop nhưng hơi bj ồn quá mức. Giá thf tuy rẻ so vs mặt bằng chung nhưng thật ra ko ngon lắm, k xứng đáng lắm"
+        },
+        {
+            "user": "Nhật Huy",
+            "link": "https://www.foody.vn/thanh-vien/santolove",
+            "score": "9.2",
+            "comment": "Đây là một kỉ niệm buồn ở Hanuri chi nhánh Nguyễn Đình Chiểu và đó cũng như là lần đầu mình biết đến Hanuri. Hanuri, Hanuri, Hanuri,... Mình nghe khá nhiều về nó rồi, biết cũng khá lâu và đó cũng là một khoảng thời gian dài. Nực cười ở cách nói chuyện mâu thuẫn của mình nhỉ ? Trên thì bảo lần đầu biết đến Hanuri nhưng dưới lại nói biết khá lâu, Hanuri thì biết tù rất lâu, nhưng chính thức tìm được người đi ăn cùng thì chưa có và mình thì quên béng đi sau một khoảng thời gian không thể tìm được ai ăn cùng. Mình và người yêu cũ đến Hanuri và đó cũng là lần đầu tiên và cũng là lần cuối cùng mình đến đó cùng người ấy. Người yêu cũ mình là một tín đồ của Hanuri, ăn rất thường xuyên và ngày hôm ấy chúng mình đến và gọi ba món do chính cậu ấy chọn. Chia tay cũng được khoảng thời gian khá dài nhưng giờ mình mới đủ bình lặng để viết review, thành thực mà nói thì đồ ăn ở đây không đến mức quá ngon, nhưng vẫn gọi là ngon đúng chuẩn. Cơm bò dù hơi khô nhưng ăn vẫn rất thơm do mùi rau củ, mùi bò cùng nhau hoà quyện vào cả thố cơm như thế, lượng rau củ, hành và bò đủ cho cả một thố cơm thế. Cơm bò dành cho hai người ăn, ăn xong là no luôn cả hai cái bụng đang đói, thêm nữa là Tok và cải trộn cũng rất ngon không thể chê được. Bản chất của Tok thì ăn hơi ngán nếu ăn quá nhiều, nhung thêm phần cải trộn rất đều tay thế lại khiến mình chưa thể buông đũa vào phút này được và đến luôn với Jajan (Mì tương đen). Mì ăn có một vài nguyên liệu rất ngon, thơm đặc mùi tương đen và giòn ở một vài thứ khác trộn vào - mình không biết rõ các nguyên liệu đó gọi là gì nhưng quả thật ăn rất giòn, thơm và rất đã miệng khiến bạn không thể dừng được. Giá cả thì đi hai người, mình chia ra nên cũng không có vấn đề gì lắm và thêm nữa là no căng cả bụng. View nhìn hơi cũ do màu gạch nên khi bước vào nhìn hơi ngán thực sự, chỗ ngồi máy lạnh thông thoáng mặc dù khá nhỏ nhưng dù sao vẫn đáng để các bạn đến thử.⭐️⭐️⭐️⭐️: 4 sao vì thức ăn, điểm trừ ở chỗ không gian hơi cũ. Đồ ăn thì nóng hoàn toàn nên cứ yên tâm, thao thác nhân viên lịch sự và nhã nhặn, món ăn ra cũng rất nhanh nên không phải đợi khá lâu."
+        }
+    ]
+}

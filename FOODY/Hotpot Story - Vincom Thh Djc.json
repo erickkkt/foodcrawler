@@ -1,0 +1,80 @@
+{
+    "name": "Hotpot Story - Vincom Thủ Đức",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-vincom-thu-duc",
+    "address": "216 Võ Văn Ngân, P. Bình Thọ,  Quận Thủ Đức, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "50.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Thái Lan",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-thai-lan"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "49"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Như Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/rubby2309",
+            "score": "8.0",
+            "comment": "Mới mua voucher hôm trước nên đi ăn. 1 vc/169k. đã bao gồm thuế cho phần ăn 229k. Nói chung đồ ăn cũng dc nhưng phần 229k so với hot pot trên quận 7 thì ít đồ ăn hơn. Nhân viên phục vụ nhiệt tình."
+        },
+        {
+            "user": "Giang Huỳnh",
+            "link": "https://www.foody.vn/thanh-vien/oliviaggg",
+            "score": "7.6",
+            "comment": "Mình đi 3 người, tổng bill là 825k, ăn suất 269k và có early booking.Nước lẩu mình dùng tom yum và bulgogi, mới đầu ăn ngon, chả cá nhật và thịt ăn mềm mà không ngán, về sau châm thêm nước lẩu thì mặn quá ăn không nổi. Việc này khá là lạ vì mọi thường ăn ở cao thắng mình ko gặp tính trạng này. Đồ ăn trên line thì nhiều, riêng thiếu bánh bao chiên nên mình hơi hụt hẫng. Cơm chiên hôi khói, gỏi cuốn ăn ngon nhưng do để ngoài lâu nên vỏ ngoài khô và dai lắm. Xoài ngâm và kem ăn ngon.Nhân viên nhiệt tình,  thấy bàn mình hơi trống là lại hỏi xem có gọi gì thêm ko liền."
+        },
+        {
+            "user": "Hannah Vũ",
+            "link": "https://www.foody.vn/thanh-vien/chocolate_love2401",
+            "score": "7.2",
+            "comment": "Lẩu ăn khá ngon, hơi cay, đồ ăn tươi ngon. Mình đi vào buổi trưa nên khá vắng. Nhân viên nhiệt tình thân thiện, thấy bàn hết đồ ăn là hỏi lấy thêm liền. Quán thiết kế ấm cúng. Khá thích quán sẽ quay lại khi có dịp"
+        },
+        {
+            "user": "Hồng Hiến",
+            "link": "https://www.foody.vn/thanh-vien/honghien276",
+            "score": "9.0",
+            "comment": "Đi ăn nhiều chi nhánh Hotpot nhưng thật sự ấn tượng khi ăn tại Vincom TĐ, chim ưng về cả đồ ăn với cách phục vụ nhân viên. View ấm cúng, sang trọng, rộng rãi. Nhân viên chu đáo, thân thiện, hay cười, lịch sự. Đồ ăn line rất phong phú, lúc nào cũng full. Đồ ăn lẩu tươi ngon, thích nhất là ăn cái \"pánh pao\" màu vàng, kkkkk, kêu hoài mà nhân viên vẫn rất thoải mái. Sẽ ghé lại hoài hoài 💕, ấn tượng nhất là bé phục vụ tên Dung, siêu dễ thươnggg."
+        },
+        {
+            "user": "Minh Trang",
+            "link": "https://www.foody.vn/thanh-vien/minhtrang262310",
+            "score": "7.6",
+            "comment": "- Theo mình thì nước lẩu ở đây rất ngon. Lẩu tomyum chua chua cay cay béo béo đậm đà . Lẩu bulgogi thanh thanh k cay . Nước chấm ngon . Thịt hải sản rau  tươi, nhân viên nhiệt tình thấy mình ăn hết là lại hỏi có dùng thêm k rất thích ☺️☺️☺️"
+        }
+    ]
+}

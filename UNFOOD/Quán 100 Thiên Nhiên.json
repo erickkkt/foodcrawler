@@ -1,0 +1,76 @@
+{
+    "name": "Quán 100% Thiên Nhiên",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-100-thien-nhien",
+    "address": "10/82 Phan Đức , Ấp Long Thạnh, X. Long Hoà,  Cần Giờ, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "15.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "5"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Thảo Ngọc Linh",
+            "link": "https://www.foody.vn/thanh-vien/falling_star_314",
+            "score": "7.4",
+            "comment": "Nhóm mình hay  chọn Cần Giờ mỗi khi muốn thay đổi không khí vì gần thành phố và có thể ăn hải sản với giá khá rẻ. hải sản thì mình chọn chợ Hàng Dương nha, chớ hài sản tươi sống rất bắt mắt và khi mua có thể nhờ người dân chế biến hộ ccó tính phí từ 10k - 30k nha Vì đi trong ngày nên mình chọn thuê ghế ngồi quán 100% Thiên Nhiên, tính theo đầu người nha. quán có bán cơm, lấu, nước uống các loại luôn nha. giá cũng khá ok nè. Thực đơn phong phú các món ăn Phục vụ chu đáo, nhiệt tình"
+        },
+        {
+            "user": "Miu Dorae",
+            "link": "https://www.foody.vn/thanh-vien/marry_mai9",
+            "score": "7.4",
+            "comment": "Chỗ này cũng do bạn mình đọc review trước rồi nên mới vào, thấy dọc dọc đó nhiều quán lắm, giá để trung bình ghế 25k ngày thường nhưng hình như do không lễ lộc gì với vắng nên mấy cô chỗ này chào mời chỉ 10k/ghế thôi, 10k thì giá quá hợp lí rồiMấy cô cũng dễ thương niềm nở, bảo muốn ngồi đâu thì ngồi cô lau bàn cho ☺️Mình 2 người ngồi 2 ghế nhưng mà bàn đó tận 4 ghế, tụi mình cũng sàng qua sàng lại 4 ghế nhưng tính tiền đúng 2 ghế thôi nha :))Mua hải sản ngoài chợ hàng dương rồi đem vô đây ăn, giá đồ ăn của quán hơi cao, nhưng không bắt buộc phải kêu đồ ăn, không thì kêu nước ngọt ủng hộ quán cũng được (15k/chai)Hình như bên trong có phòng cho thuê nữaNgồi ở đây dễ bị chào mời mua tùm lum đồ, mình mua tôm xiên lăn bột chiên của cô kia 10k/xiên ăn dở dở :vDọn đồ đem theo còn xe để đó mà đi ra biển, đi dạo thôi chứ biển không đẹp để tắm, toàn đất đỏ phù sa í"
+        },
+        {
+            "user": "Lemon Melon",
+            "link": "https://www.foody.vn/thanh-vien/manduly19",
+            "score": "7.2",
+            "comment": "Chủ nhật này mình với bạn làm chuyến xuống cần giờ ăn hải sản, ốc. Ghé chợ hàng dương mua ốc. Xong ghé quán chị út ngay bãi biển 30/4 ngồi. Mình gọi phần lẩu cá dứa 200k,được 2~ 3 khứa cá bự nước lẩu chua ngọt, bỏ sẵn rau muống với giá ở trong, bưng ra là ăn thôi. Lẩu đây ngộ, có cục than ở giữa, ko xài gas. Nhân viên dễ thương, thật thà. Vừa ăn vừa dòm biển."
+        },
+        {
+            "user": "Maciej Ryczko",
+            "link": "https://www.foody.vn/thanh-vien/maciej.ryczko",
+            "score": "6.6",
+            "comment": "Fair place to eat. Service is good and food tasty. Prices are too high compare to outside food stalls, they are more less the same as foody places in Saigon (all places around are the same). I got com Hai San for 100k - OK, Bach thuoc nuong 300k per kg fresh and good well done and fresh and tom muc Chien gion 100k per plate - average and tom nuong 300k per kg - OK but not worth this price. Place is a bit cleaner than other around, however if you don't like eat in dirty seaside better avoid Can Gio."
+        },
+        {
+            "user": "Tuyên Nguyễn Mạnh",
+            "link": "https://www.foody.vn/thanh-vien/asahi_nguyen",
+            "score": "8.6",
+            "comment": "Đi xe máy từ TpHCM xuống đến nơi mất khoảng 2h . Đường đẹp ít xe nên đi khá thoải mái. Tốc độ giới hạn 60km/h nên chú ý kẻo bị bắn tốc độ nhé .Lần này mình ghé quán theo đoàn nên không review chi tiết món ăn . Có thể nhận xét là các mòn nấu ăn khá vừa miệng . Quán rộng rãi sạch sẽ nghỉ ngơi thoải mái . Các bạn có thể ăn hải sản ngay chợ Hàng Dương cách đó 50m , nếu tổ chức party thì có thể liên hệ trước để quán sắp xếp cho các bạn thật hoành tráng ."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Partea - English Tearoom",
+    "link": "https://www.foody.vn/ho-chi-minh/partea-english-tearoom",
+    "address": "Tầng 4, 42 Nguyễn Huệ,  Quận 1, TP. HCM",
+    "open_time": "09:00 AM - 10:00 PM",
+    "price_range": "50.000đ - 80.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Quốc tế",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-quoc-te"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "561"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Dân Bích Chương ♑",
+            "link": "https://www.foody.vn/thanh-vien/kelsi.bichtran",
+            "score": "7.6",
+            "comment": "Quán nhỏ , nằm trên tầng 4 của chung cư cũ gần phố đi bộ Nguyễn Huệ , có thang máy . Không gian quán nhỏ xinh , decor dễ thương , nhiều loại trà cho khách chọn , chọn trà xong thì chọn tách rồi đem ra bàn ngồi đợi người ta đem trà ra , có thêm đường với sữa . Trà thơm nhưng chỉ có mùi thơm , các loại bánh nhìn cũng không có vẻ hấp dẫn cho lắm nhưng ăn ngon nha , nhất là loại Red Velvet . 1 bình trà có giá 135k , ai thích yên tĩnh có thể ghé ."
+        },
+        {
+            "user": "Tuyền Nguyễn Bích",
+            "link": "https://www.foody.vn/thanh-vien/nguyenbichtuyen19101999",
+            "score": "8.6",
+            "comment": "View đẹp tuyệt vời, bánh ngon mọi thứ đều ok"
+        },
+        {
+            "user": "Minh Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/hellovn2010",
+            "score": "8.0",
+            "comment": "Mình đến quán nhiều lần rồi,rất thích hợp cho 1 buổi trà chiều nhẹ nhàng tâm tình vs vài đứa bạn.Trà và bánh đều ngon,có điều giá hơi chát.Bạn nào ko biết nên chọn gì cứ nói nhân viên họ sẽ tư vấn nhiệt tình.Giá thì cũng hơi chát nhưng lâu lâu ghé thì okie."
+        },
+        {
+            "user": "Kieu Anh Tran",
+            "link": "https://www.foody.vn/thanh-vien/tka.tdn",
+            "score": "8.0",
+            "comment": "Mình tới quán vào lúc giữa trưa T5 nên không đông lắm, bước lên cầu thang chung cư hơi cực tí tại hơi dốc ;~;- Quán dễ thương lắm, vừa mở cửa là nghe mùi trà bánh nhè nhẹ rất dễ chịu, quán trang trí cũng rất xinh, có nhiều chỗ chụp hình sống ảo đẹp lắm.- Quán có 1 tủ trà to, 1 bàn để nhiều tách khác nhau để khách lựa chọn. Mình thử earl grey thì thấy rất hợp khẩu vị: trà thanh, quán có cho sữa và đường để thêm vào nên những ai không hảo uống đắng có thể thoải mái điều chỉnh. Một điểm trừ là mình không biết quán có cho đồ lọc hay không hay tại mình quên xin: trà của mình không có đồ lọc để lọc xác trà, nên những ly cuối thường lợn cợn xác trà hơi khó chịu.- Nhân viên hôm mình đi dễ thương lắm ^^ mình và các bạn có nhờ chụp tấm hình thì chụp liền, còn thoải mái cho tụi mình chụp nhiều background trong quán nữa rất nhiệt tình luôn- Mình có gọi thêm 1 phần bánh Red Velvet, giá khá cao nhưng theo mình thì rất đáng. Bánh thơm mùi cacao và phô mai, rất mềm và ẩm, còn hơi ẩm nên ăn trong lúc uống trà thì rất tuyệttt! Cực kì đáng thử Red Velvet nha !!"
+        },
+        {
+            "user": "BT Phan",
+            "link": "https://www.foody.vn/thanh-vien/baoyen293",
+            "score": "7.2",
+            "comment": "Quán này trang trí siêu dễ thương luôn, nhân viên cũng dễ thương, vị trà cũng good mà thật ra ham hố đi thôi chứ thơi tiết sg nóng vật vã, ở đó mà đi uống trà đàm đạo 😂Note: nhân viên nên chỉ có mấy khách lần đầu đến như mình, ứ biết phải lm gì với đống lộn xộn đó quê chết đi được 🤣"
+        }
+    ]
+}

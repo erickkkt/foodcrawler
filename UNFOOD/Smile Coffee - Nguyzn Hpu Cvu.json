@@ -1,0 +1,76 @@
+{
+    "name": "Smile Coffee - Nguyễn Hữu Cầu",
+    "link": "https://www.foody.vn/ho-chi-minh/smile-coffee-nguyen-huu-cau",
+    "address": "56/1S Nguyễn Hữu Cầu,  Hóc Môn, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "13.000đ - 29.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        }
+    ],
+    "summary": {
+        "average_score": "8.1",
+        "total_review": "22"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "WindSkyXIII",
+            "link": "https://www.foody.vn/thanh-vien/WindSkyXIII",
+            "score": "8.0",
+            "comment": "Nay hội sách nhờ crush mới biết địa điểm này, tiếc là sáng bận học thêm hk là gặp đc cậu ta òi. Hơi buồn nhưng hk sao. Bù lại có mbf yk cùng lựa vài cuốn sách. Ấn tượng bởi có rất nhiều sách và nước uống ngon, hợp với túi tiền eo hẹp của học sinh, không gian thoáng, tuyệt để check-in, có lầu trên nữa, nhân viên rất thân thiện, kết giọng nói của chị pha chế. Sẽ còn đến nữa. :))"
+        },
+        {
+            "user": "Minh Ngọc 0312 nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/Minhngoc0312",
+            "score": "8.8",
+            "comment": "Quán ok nước uống ngon không gian thoáng đãng. Các chị phục vụ dễ thương có điều ngồi trên lầu mak không đựoec bật máy lạnh."
+        },
+        {
+            "user": "Thư Nguyễn Trần Anh",
+            "link": "https://www.foody.vn/thanh-vien/luvyewbb716",
+            "score": "9.2",
+            "comment": "Không gian hơi nhỏ nhưng được cái rất yên tĩnh, dễ tìmChị phục vụ dễ thương, thắn thiện vô cùng luôn Thức uống ngon và giá cả phải chăng, hộp túi tiền học sinh"
+        },
+        {
+            "user": "Thanh Khoa",
+            "link": "https://www.foody.vn/thanh-vien/thanhkhoa9097",
+            "score": "7.8",
+            "comment": "Lúc học hè với nghỉ hè.Đám bạn mình kéo ra đây ngồi hoài luôn.Có bữa la lết nằm ngủ, lấy ipad ra xem phim.Thích mấy chị phục vụ ghê.Nước ngon.Giá cực ổn.Khi nào rảnh em ghé tiếp"
+        },
+        {
+            "user": "Jemma",
+            "link": "https://www.foody.vn/thanh-vien/hannibalvn.ngocminh",
+            "score": "8.0",
+            "comment": "Mình ghé quán vào tối thứ ba nhưng quán khá vắng, ngoài mình với bạn ra chỉ có một cặp học sinh.Quán ngoài tầng trệt còn có gác lửng, trang trí đẹp, máy lạnh mát. Có nguyên kệ sách với đồ chơi nữa, tụ tập bạn bè hay học nhóm thì tiện.Mình gọi cookie strawberry với matcha đá xay, cookie ngon, matcha uống chả thấy vị, kem ngon nhưng loãng với ít quá. Nếu các chỗ khác kem bông và đầy lên tới nắp thì ở đây chỉ được một lớp mỏng à.Nhân viên dễ thương, thoải mái."
+        }
+    ]
+}

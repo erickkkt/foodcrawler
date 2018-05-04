@@ -1,0 +1,80 @@
+{
+    "name": "Citizone Coffee - Ông Ích Đường",
+    "link": "https://www.foody.vn/ho-chi-minh/citizone-ong-ich-duong",
+    "address": "11 Ông Ích Đường,  Củ Chi, TP. HCM",
+    "open_time": "07:30 AM - 10:00 PM",
+    "price_range": "30.000đ - 40.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/citizone-coffee?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "5"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "An Truong",
+            "link": "https://www.foody.vn/thanh-vien/an.truong.sjj",
+            "score": "7.6",
+            "comment": "Không gian thiết kế rất phù hợp cho các bạn hay sống ảo. Đẹp lắm. Giá thì khá mắc do với các quán ở đây. Nhưng đồ uống ngon. Tối lên đèn đẹp lắm."
+        },
+        {
+            "user": "Anh Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/anna.nguyen2912",
+            "score": 0,
+            "comment": "Trang trí quán khá đẹp, sân vườn thoáng đãng, bên trong ấm cúng và có nhiều góc được trang trí để chụp hình lưu niệm. Nước uống khá ngon và giá hợp lý"
+        },
+        {
+            "user": "Thuỷ Tiên",
+            "link": "https://www.foody.vn/thanh-vien/m3omun.1997",
+            "score": "10",
+            "comment": "Nước ngon,nhân viên thân thiện,nơi lý tưởng để chụp hình❤️❤️"
+        },
+        {
+            "user": "Hương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/karol_11791",
+            "score": "10",
+            "comment": "Trà đào ngon tuyệt, miếng đào to bự, ngọt thanh chớ ko gắt, mà giá chỉ 20k"
+        },
+        {
+            "user": "Dũng Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/kcc.qd89",
+            "score": "7.8",
+            "comment": "Không gian thân thiện và hiện đại"
+        }
+    ]
+}

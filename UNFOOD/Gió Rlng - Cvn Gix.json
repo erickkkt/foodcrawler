@@ -1,0 +1,58 @@
+{
+    "name": "Gió Rừng - Cần Giờ",
+    "link": "https://www.foody.vn/ho-chi-minh/gio-rung",
+    "address": "Thạnh Thới, Long Hòa,  Cần Giờ, TP. HCM",
+    "open_time": "",
+    "price_range": "60.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "5.9",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Long Le",
+            "link": "https://www.foody.vn/thanh-vien/longle2201",
+            "score": 0,
+            "comment": "đồ ăn đặt trước theo tour không ngon.nấu từ lâu rồi dùng nilon phủ lại chờ khách.cơm và thịt dư được giữ lại.....dùng để nấu tiếp thì phải"
+        },
+        {
+            "user": "An Nhiên",
+            "link": "https://www.foody.vn/thanh-vien/trinh.9029",
+            "score": "8.0",
+            "comment": "Lâu lâu đổi gió đi Cần Giờ cũng thú vị, vừa có biển và hải sản ngon. Không cần phải đi xa lắm.Ở đây hải sản rẻ mà tươi nữa, có thể chọn lựa thoải mái rồi kêu nhân viên làm theo ý thích. Được ngắm cảnh trời biển, một màu xanh ngan ngát."
+        }
+    ]
+}

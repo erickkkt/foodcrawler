@@ -1,0 +1,80 @@
+{
+    "name": "The Sushi Bar - Hoàng Văn Thái",
+    "link": "https://www.foody.vn/ho-chi-minh/the-sushi-bar-hoang-van-thai",
+    "address": "73 Hoàng Văn Thái, P. Tân Phú,  Quận 7, TP. HCM",
+    "open_time": "Buổi Tối  17:00 - 22:30",
+    "price_range": "100.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-bar?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "27"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tiffany Ng",
+            "link": "https://www.foody.vn/thanh-vien/thanhtuyen1089",
+            "score": "7.8",
+            "comment": "Lâu lắm mới quay lại Thiên Quế The Sushi Bar, thích nhất cách phục vụ nơi đây, tận tình, vui vẻ. Chỉ có thức ăn thấy vị hơi khác rồi, lúc nãy phần Miso Nabe thấy mặn lắm nha, màu của phần nước lèo cũng đậm hơn, sashimi vẫn tươi ngon, sushi chiên ngòn ngọt cung dễ ăn. Hôm nay mới để ý nhân viên nói chuyện với nhau gọi số bàn ăn bằng từ \"dì\" nha. Như bàn mình số 2 thì \" châm nước dì 2\", \" tính tiền dì 2 nha\". Thấy cũng ngồ ngộ, vui vui... P/s : Ngay lúc đông khách nên đồ ăn lên lâu, đói quá ăn hết  mới nhớ chưa chụp tấm hình nào..."
+        },
+        {
+            "user": "midienchick",
+            "link": "https://www.foody.vn/thanh-vien/midienchick",
+            "score": "7.6",
+            "comment": "Thiên Quế thì không cần bàn nhiều ,chất lượng luôn ổn định.Gọi một phần tonkatsu mà ăn không hết vì miếng thịt chất quá"
+        },
+        {
+            "user": "Duy Phát Lê",
+            "link": "https://www.foody.vn/thanh-vien/phatle",
+            "score": "7.6",
+            "comment": "Lâu rồi mới ăn lại TSB cũng okCó phòng riêng nên ăn cũng thoải mái hơnCó điều đợi đồ ăn hơi lâu 1 chútSashimi cá hồi ổn, có trứng hấp là mình thíchMì udon ok.Giá hình như cũng ko thay đổi nhiều so với 2 năm trước."
+        },
+        {
+            "user": "Thư Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/angelhunt18097453",
+            "score": "8.8",
+            "comment": "- Vị trí: Sau lưng Parkson Paragon. Giữ xe ở tầng hầm và đi bằng thang máy lên tầng 1 (có thể hỏi bảo vệ của quán để biết đường xuống hầm gửi xe)\r- Phục vụ: Nhiệt tình, vui vẻ. Khi ra về chị nhân viên còn hỏi có đóng dấu vào vé xe chưa (để giữ xe miễn phí)\r- Món ăn: Chất lượng thì khỏi bàn rồi, rất hợp với khẩu vị của mình. Chất lượng như những chi nhánh khác, vì không đông như bên Q1 nên món ăn ra nhanh hơn nhiều, không phải đợi lâu.\r- Giá cả: thuộc loại cao, nhưng theo mình thì đáng đồng tiền. Mỗi khi thèm sushi chỉ đến Sushi Bar thôi\r- Khác: Có thể làm thẻ thành viên để tích điểm nhé\rTẤT NHIÊN SẼ QUAY LẠI 👍👍👍❤️❤️❤️"
+        },
+        {
+            "user": "Rose Babie",
+            "link": "https://www.foody.vn/thanh-vien/foodee_u0q9pbvm",
+            "score": "7.0",
+            "comment": "Bận việc nhà ko ra đường đc mà muốn ăn sushi nên gọi sushi bar ăn đỡ, 1 sashimi salmon, 1 moriasawe set A, 1 spicy salmon 2 pieces, 1 sushi bar roll, tổng thiệt hại 708k, giao tận nhà ko tốn phí, khg 30-40p mới giao tới nơi, ai gọi nhớ trừ hao, dù giao tận nhà nhưng vẫn thơm ngon như thường, 2 năm r k ăn chỗ này nhưng chất lượng cũng k thay đổi, k xuất sắc hơn nhưng cũng k tệ hơn 😄"
+        }
+    ]
+}

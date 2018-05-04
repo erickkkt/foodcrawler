@@ -1,0 +1,80 @@
+{
+    "name": "Happy BBQ 3 Xiên Nướng Đồng Giá 5K - 226 Tạ Quang Bửu",
+    "link": "https://www.foody.vn/ho-chi-minh/happy-bbq-1-xien-nuong-dong-gia-5k-226-ta-quang-buu",
+    "address": "226 Tạ Quang Bửu, P. 4,  Quận 8, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 10.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/xien-nuong-dong-gia-happy?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "12"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nguyễn Huy",
+            "link": "https://www.foody.vn/thanh-vien/sang.1111994",
+            "score": "6.8",
+            "comment": "Hồi đó mình hay ghé quán ở đây lắm vì gần , hồi đó đây là quán đồ nướng đầu tiên gần khu vực trường ĐH . Hồi đó chất lượng ok lắm , món nào ăn cũng ok hết , thích nhất là nước chấm - nước chấm muối ớt xanh rất ngon nhưng dần chất lượng đồ ăn đi xuống, bạch tuột không còn tươi , nước chấm cũng không còn ổn định , và mình có ăn thử lẩu ở đây ( sau này mới có ) - nói chung là dở . Sau này nhiều hàng quán đồ nướng với lẩu mở ra xung quanh nên quán cũng bớt đông luôn ."
+        },
+        {
+            "user": "pooh ham lam",
+            "link": "https://www.foody.vn/thanh-vien/lamhuetrinh1998",
+            "score": "7.8",
+            "comment": "Ngon mà rẻ. Phục vụ bình thường, có nhạc nghe"
+        },
+        {
+            "user": "Thanh Hứa",
+            "link": "https://www.foody.vn/thanh-vien/girlbears.love",
+            "score": "7.4",
+            "comment": "Quán nhiều khu vực, ngồi ko sợ đông. Ngồi lề đường nhưng khá sạch sẽ, thoải mái. ĐỒ ăn ngon, giá hợp lí, nhưng mà nhà mình có người ko ăn được cá, nên thành ra khi gọi món thì không được bao nhiêu (vì đa số lẩu toàn cá ko à)Quán đầu tiên mình ăn BBQ nên sẽ ủng hộ lâu dài."
+        },
+        {
+            "user": "Đình Ngoài Hành Tinh",
+            "link": "https://www.foody.vn/thanh-vien/ngo18yen01dinh95",
+            "score": "8.2",
+            "comment": "Nay có thêm nhiều món mới lắm nha, sườn non Happy nướng muối ớt vs sườn son sốt Hàn quốc giá 69k, có lòng heo nướng 49k, mực nướng sa tế 49k, ... Còn nữa mà mình k nhớ. Xiên que 5k cũng có món mới nữa.Món sườn với mực là 2 mín mới mình ăn, ngon, sườn ngon lắm, ngọt thơm mềm, vị ngon."
+        },
+        {
+            "user": "Đình Ngoài Hành Tinh",
+            "link": "https://www.foody.vn/thanh-vien/ngo18yen01dinh95",
+            "score": "7.8",
+            "comment": "Mình ăn ở đây là thứ n lần luôn ý. Giá 5k 1 xiên thôi nên ăn no căng mà rẻ lắm lun.Xiên thì 5k 1 xiên, bạch tuột thì 20k 1 lạng, các món khác như vú dê ( thật ra là vú heo ý), bò cuộn nấm, bò cuộn phô mai, đầu cá gồi, ba rọi,... 1 dĩa 49k cũng khá nhiều.Thức ăn ướp thì tạm thôi k đc đậm đà nhg chấm muối tiêu xanh hay tg ớt là cũng rất okie òi.Nhân viên thì vui vẻ nên cực kì dễ chịu, xin này xin nọ đều rất vui vẻ.Giá nước ngọt tầm 12k.Quán ngoài trời thoáng mát, có mưa thì cũng có bạt che r nhé.Mình ăn quán từ những ngày đầu mới mở cơ, xong thấy quân bán đắt xung quanh mở theo cạnh tranh dã man, trc chỉ có mỗi quán Happy này thôi. Các bạn đi coi chừng nhầm, vì quán cạnh tranh sát rạt luôn ý.Lâu lâu thì thức ăn ở quán ít hơn dã man so với bt, có khi cũng k đc ngon. Nhg số lần ít lắm nhé."
+        }
+    ]
+}

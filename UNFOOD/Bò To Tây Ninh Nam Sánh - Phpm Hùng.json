@@ -1,0 +1,80 @@
+{
+    "name": "Bò Tơ Tây Ninh Năm Sánh - Phạm Hùng",
+    "link": "https://www.foody.vn/ho-chi-minh/bo-to-tay-ninh-nam-sanh-pham-hung",
+    "address": "C3/21T  Phạm Hùng,  Quận 8, TP. HCM",
+    "open_time": "10:00 AM - 11:00 PM",
+    "price_range": "50.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Miền Đông",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-mien-dong"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/bo-to-tay-ninh-nam-sanh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.6",
+        "total_review": "54"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hải Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/haican1989",
+            "score": "8.2",
+            "comment": "Bò Tơ Tây Ninh Năm SánhCuối tuần cùng đồng nghiệp hẹn nhau lai rai, tìm được quán này gần nhà. Phải nói là bò ăn rất ngon, bọn mình thử món hấp, nướng và lẩu, tất cả đều oke, món lên nhanh. Nhân viên phục vụ rất nhiệt tình. Không gian thoáng mát. Sẽ còn quay lại lần sau."
+        },
+        {
+            "user": "Bờ  Rào",
+            "link": "https://www.foody.vn/thanh-vien/beanh613",
+            "score": "7.2",
+            "comment": "Lần trước đi ăn với nhóm bạn thấy ngon, đợt sau thèm bò nướng mọi nên lại đến đây. + Không gian: quán rộng rãi, thích hợp hội họp, nhậu nhẹt, bàn ngoài trời mát mẻ, ngồi nướng thoáng, không ngộp.+ Phục vụ: nhân viên phục vụ được, mau lẹ, món lên cũng nhanh, đều. + Giá cả: một phần thịt bự, miếng lớn, giá này thì mình thấy ổn, rẻ. Ăn no nê, rẻ hơn mấy chỗ khác nhiều. + Món ăn: bò không ướp gia vị nhiều, chấm với mắm tôm hợp, ngon, nướng than nên mùi cảm giác cũng ngon và hấp dẫn hơn. Có lần ăn lẩu ở đây thấy ko ngon lắm, nên tới đây chủ yếu ăn món nướng à."
+        },
+        {
+            "user": "Jenny Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/a_white_lie_9x",
+            "score": "7.0",
+            "comment": "Quán gần nhà, đi lâu rồi giờ mới review.Đồ ăn thì cũng tuỳ món, với một đứa kén ăn như mình thì có thể nói là được.Nhân viên thân thiện."
+        },
+        {
+            "user": "Sandy Lâm",
+            "link": "https://www.foody.vn/thanh-vien/sandylam",
+            "score": "7.0",
+            "comment": "Ghé lần 2 trong tháng. Kỳ này bò bị đại, nậm bò ăn như cao su luôn. Không ngon bằng đợt trước"
+        },
+        {
+            "user": "ptmc Phan",
+            "link": "https://www.foody.vn/thanh-vien/ptmcvpb",
+            "score": "6.8",
+            "comment": "Quán này thì nằm sát nhà rồi cũng hay đi ăn. Thấy mọi người review thì mình cũng ké zo tí keke :\\* Quán nằm vị trí dễ tìm do nằm ở mặt tiền đường * Nhân viên: tùy người có lúc thì nhiệt tình có lúc thì lơ lơ nhất là vào các ngày đông khách* Món ăn: Giá không Rẽ nhé. Nói chung 2 người thì khoảng 500k là ăn được. Món cũng không nhiều và vị ướp không ưng ý lắm.* Giá: Khộng rẽ nhé Nói chung là trung bình khá 1 tí. Ăn cho biết thì được chứ nếu muốn ăn bò thì còn nhiều quán khác lắm"
+        }
+    ]
+}

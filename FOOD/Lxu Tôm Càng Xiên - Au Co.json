@@ -1,0 +1,246 @@
+{
+    "name": "Lẩu Tôm Càng Xiên - Âu Cơ",
+    "link": "https://www.foody.vn/ho-chi-minh/lau-tom-cang-xien-au-co",
+    "address": "983 Âu Cơ,  Quận Tân Phú, TP. HCM",
+    "open_time": "10:00 - 23:00",
+    "price_range": "25.000đ - 280.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/lau-tom-5-ri-sai-gon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "115"
+    },
+    "foods": [
+        {
+            "name": "Cơm chiên hải sản",
+            "price": "59,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Mực non kim sa",
+            "price": "109,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Sụn gà rang muối",
+            "price": "79,000(đ)",
+            "total_orders": "35"
+        },
+        {
+            "name": "Mực chiên giòn",
+            "price": "89,000(đ)",
+            "total_orders": "34"
+        },
+        {
+            "name": "Sụn gà nước mắm",
+            "price": "79,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Rau muống xào tỏi",
+            "price": "39,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Cá chanh rang muối hồng kông",
+            "price": "69,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Cá trứng chiên giòn",
+            "price": "49,000(đ)",
+            "total_orders": "16"
+        },
+        {
+            "name": "Mì xào hải sản",
+            "price": "99,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Cá kèo chiên giòn",
+            "price": "69,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Mực non rang muối hk",
+            "price": "89,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "39,000(đ)",
+            "total_orders": "9"
+        },
+        {
+            "name": "Bò lúc lắc",
+            "price": "99,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "49,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Chả cá thác lác chiên xù",
+            "price": "149,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tôm càng nướng",
+            "price": "99,000(đ)",
+            "total_orders": "38"
+        },
+        {
+            "name": "Tôm càng hấp bia",
+            "price": "159,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Ốc hương",
+            "price": "125,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Tôm càng kim sa",
+            "price": "119,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Tôm càng rang",
+            "price": "99,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Lẩu tôm càng lóng  - 15 con tôm",
+            "price": "199,000(đ)",
+            "total_orders": "152"
+        },
+        {
+            "name": "Lẩu tôm càng - 8 con tôm",
+            "price": "179,000(đ)",
+            "total_orders": "146"
+        },
+        {
+            "name": "Lẩu tôm càng - 12 con tôm",
+            "price": "279,000(đ)",
+            "total_orders": "137"
+        },
+        {
+            "name": "Combo lẩu tôm càng uyên ương",
+            "price": "299,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Lẩu ốc hương",
+            "price": "299,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lẩu tôm càng tự chọn",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau thêm",
+            "price": "15,000(đ)",
+            "total_orders": "184"
+        },
+        {
+            "name": "Bún thêm",
+            "price": "15,000(đ)",
+            "total_orders": "114"
+        },
+        {
+            "name": "Nước lẩu mang về",
+            "price": "20,000(đ)",
+            "total_orders": "114"
+        },
+        {
+            "name": "Nấm kim châm thêm",
+            "price": "20,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Mì thêm",
+            "price": "15,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Mực thêm",
+            "price": "79,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Bò thêm",
+            "price": "79,000(đ)",
+            "total_orders": "26"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Lê Trâm",
+            "link": "https://www.foody.vn/thanh-vien/letutram2004",
+            "score": "8.0",
+            "comment": "Hôm nay nhóm mình đi 8 người, kêu 3 cái lẩu,2 phần tôm nướng và 3 cái cơm chiên. Cơm chiên ở đây thì số dzách rồi nên không bàn. Tôm nướng em tự vớt từ hồ ăn với nước chấm xanh rất ngon. Cái đáng nói ở đây là cả 3 nồi lẩu đều có 8 con tôm mặc dù tôm khá to. Hỏi ra mới biết thì ra quán mới có nguồn tôm tự nhiên nên giờ đảm bảo 8 con tôm càng / lẩu nhỏ, hehe mừng quá xá. Nước lẩu ngày càng đậm đà và nêm khá vừa ăn. Kinh nghiệm của mình là không cho quá nhiều kèo nèo vào nồi lẩu để tránh hút hương vị đậm đà của lẩu.Phục vụ khá vui vẻ và nhiệt tình nhưng vẫn còn vài nhân viên bấm điện thoại trong lúc làm việc nên phải kêu đến 2,3 lần mới nghe :D Quán rút kinh nghiệm nha, em góp ý thẳng thắn lắm!"
+        },
+        {
+            "user": "Misana",
+            "link": "https://www.foody.vn/thanh-vien/daudo710",
+            "score": "7.6",
+            "comment": "Ăn cách đây 2 ngày vào buổi tối. Do gần nhà nên tối 2 chị em chạy ra ăn lúc gần 10hBuổi tối nên cũng mát mẻ.Gọi món cá chanh muối hk khá ngon nhưng có xương. Mình bị xương quặp vào lưỡi luôn. Món lẩu vị ngon, có 6 con tôm vừa vừa, 180k lẩuThành viên foody giảm 10% đó( giảm trên khai vị)Mình thấy ăn lẩu thì quán gắn cửa kính thêm máy lạnh sẽ hay hơn, khuya mà tiếng xe ồn ào ghê. Quạt to phà vào lẩu.Thường ăn lẩu bàn thấp hay hơn.Phục vụ ok"
+        },
+        {
+            "user": "Tran Jackie",
+            "link": "https://www.foody.vn/thanh-vien/annhieusemap",
+            "score": "6.0",
+            "comment": "bữa hôm chia tay lớp đại học mình có ăn tại quán, không gian thoáng mát do dc ngồi phòng máy lạnh ( không phụ thu) đồ ăn dc, tôm tươi, nhưng nêm nếm lẩu theo mình là hơi mặn, mình có ăn mỳ xào hải sản thì thấy phần mì là mì gói chứ k dc mì tươi thì cũng hơi mặn hơn bt r, lúc về mình kêu 1 phần tôm rang tỏi về mà k hỉu sao về nhà mở hộp ra thì là cơm rang tỏi :)) chắc mốt phải kiểm tra trước khi mang dìa"
+        },
+        {
+            "user": "Tran Jackie",
+            "link": "https://www.foody.vn/thanh-vien/annhieusemap",
+            "score": 0,
+            "comment": "mình đặt phần mực chiên bột, và tôm càng rang tỏi, cơm chiên hải sản, nhận xét là đồ ăn quán làm ngon nhưng đóng gói k kỹ, dầu mỡ chảy tùm lum, phần tôm của mình k bik do quán làm nóng quá mà thấy chảy cả hộp xốp lun :(, giá cả tôm thì mắc hơn delivery 10k chắc do chậm cập nhật"
+        },
+        {
+            "user": "Châu Đào Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/chau.daongoc",
+            "score": "8.0",
+            "comment": "Lâu rồi mới có dịp đi qua lại cung đường này. Quán này mình ăn từ những ngày đầu.Vẫn gọi cái lẩu tôm đó, vẫn tôm sống bắt tận hồ, cái lẩu 8 con tôm tươi nha. Nước lẩu ngon, thanh, tôm tươi lắm. Nói chung là lâu rồi ăn lại vẫn thấy hài lòng. Có gọi thêm sụn gà rang muối, tôm càng rang me nữa, nêm nếm ngon, nếu có bánh mì chấm bao đã luôn. Giá tính ra cũng ổn nữa, ko nhớ là 200 mấy một cái lẩu á. Được nhân viên cho biết là khách mà sinh nhật có đặt bàn trước là được giảm 10%, với điều kiện đêm cmnd theo hoặc có bánh kem chứng minh là dc. Chắc đợt tới sẽ suy nghĩ đãi tiệc ở đây, ngon rẻ, má mình cũng thích ăn tôm =))))"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Đức Dương - Ẩm Thực Sinh Thái",
+    "link": "https://www.foody.vn/ho-chi-minh/duc-duong-am-thuc-sinh-thai",
+    "address": "102 Lê Văn Lương,  Nhà Bè, TP. HCM",
+    "open_time": "0 - 0",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Du lịch sinh thái",
+            "link": "https://www.foody.vn/ho-chi-minh/travel/du-lich-sinh-thai"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "5"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hùng Mạnh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nmhung520",
+            "score": "7.8",
+            "comment": "Đồ ăn ở đây rất ok, món nào ăn cũng ngon, không gian rất lớn có thể tổ chức tiệc cho nhiều người. Còn thích không gian riêng thì có các chòi bên bờ hồ. câu cá ăn uống"
+        },
+        {
+            "user": "Viet Anh Tran",
+            "link": "https://www.foody.vn/thanh-vien/vietanhtran",
+            "score": "7.0",
+            "comment": "Cuối ngày vi vu xuống đây thư giãn luôn, không gian dưới này cực thoáng và đã. ngoài không gian nhà hàng thì có cả không gian của mây hồ câu cá nữa. Có lẽ ban ngày đông vui nhộn nhịp hơn bởi sự xôm tụ của các cần thủ chứ buổi tối ít người câu chủ yếu là ăn nhậu là chính.Món ăn cũng khá ngon nhưng tối qua có chơi một vài gameshow nho nhỏ do chính mình tổ chức ra nên uống nhiều hơn ăn. Món gà nướng và cơm chiên thấy là ngon, còn món cá thì khỏi nói rùi, mình đạo cá mà hehe...Vừa ngồi nhậu vừa câu cá, cá lên có thể kêu nhà hàng mang làm những món mình thích.Hồ mình ngồi gần toàn cá trê là chính, lên liên tục.Chỗ này cũng khá xa trung tâm, cuối tuần hay rảnh rỗi vi vu xuống đây đổi gió cũng ok lắm..."
+        },
+        {
+            "user": "Minh Dang",
+            "link": "https://www.foody.vn/thanh-vien/hoangminhdang",
+            "score": "8.0",
+            "comment": "Nhà hàng sân vườn này nằm rất khuất gần khu Hoàng Anh Gia Lai, nếu bạn là dân thích câu cá thì chắc sẽ biết. Không gian cực rộng, đa số là sân vườn, có sảnh lớn phía sau để làm tiệc cty hay nhóm lớn. \rHồ cá khá rộng và đẹp, có đảo nhỏ ở giữa hồ nữa. Quán này nếu muốn câu cá thì đến giờ nào cũng được nhưng nếu chỉ đến để ăn thì nên đến lúc 5pm, lúc đó cảnh sẽ đẹp hơn.\rĐồ ăn ok, món cá nướng ăn được. Phục vụ ổn, nhanh nhẹn. Hồ cá có nhiều cá lớn lắm đó. Câu được con nào xử con đó luôn."
+        },
+        {
+            "user": "Minh Dang",
+            "link": "https://www.foody.vn/thanh-vien/hoangminhdang",
+            "score": "8.0",
+            "comment": "Thêm hình tiếp"
+        },
+        {
+            "user": "Minh Dang",
+            "link": "https://www.foody.vn/thanh-vien/hoangminhdang",
+            "score": "8.0",
+            "comment": "Thêm hình ảnh nhé"
+        }
+    ]
+}

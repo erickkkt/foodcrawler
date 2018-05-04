@@ -1,0 +1,80 @@
+{
+    "name": "The Pizza Company - Quang Trung",
+    "link": "https://www.foody.vn/ho-chi-minh/the-pizza-company-quang-trung",
+    "address": "638 Quang Trung,  Quận Gò Vấp, TP. HCM",
+    "open_time": "09:00 - 22:00",
+    "price_range": "50.000đ - 250.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-pizza-company?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.1"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.8",
+        "total_review": "18"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Trúc Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhtrc3076",
+            "score": "7.8",
+            "comment": "-Muốn ra ngoài ăn trung thu mà thấy trời triển mưa quá nên gọi pizza về luôn. Mình đặt ngay t3 đc mua 1 tặng 1-Bánh pizza xúc xích thịt nguội cỡ vừa thêm viền phômai 50k là 219k bánh này cũng đc, nhân hơi mặn tí, ngon nhất là phần viền phômai chảy ra thích lắm-Bánh tặng mình chọn pizza phủ rất nhiều phômai ý đế mỏng thì thấy ko quá nhiều phômai, ăn vị cũng tạm thôi chứ ko ngon béo như mình nghĩ-Chị tổng đài nch dễ nghe to rõ, mình có gọi đặt 1 lần r nên nhớ tên mình vs địa chỉ luôn khỏi nhắc địa chỉ lại. Nv giao đúng giờ, lịch sự"
+        },
+        {
+            "user": "Kim Ph",
+            "link": "https://www.foody.vn/thanh-vien/kimph138",
+            "score": "8.4",
+            "comment": "Dành cho những ai không thể ăn nhiều vị béo >< ngon ngon. Cơ mà hơi khó cắt =,= nhân viên thân thiện lắm"
+        },
+        {
+            "user": "Dương Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/amanda_duong99",
+            "score": "7.0",
+            "comment": "Pizza ngon, nên chọn đế mỏng cho đỡ ngán, hôm bữa order thử chicken trio với bacon super delight mà mình thấy ko ngon, chắc mốt cứ meat deluxe, aloha, Hawaiian. Cheese mình ăn cũng ok á, nhưng nhanh ngán, do đi 2 đứa mà kêu luôn 2 bánh lận. Mốt mình sẽ thử qua Seafood 👆👆👆"
+        },
+        {
+            "user": "Ree Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/desree9095",
+            "score": "6.0",
+            "comment": "Nhà hàng mở lâu rồi nhưng giờ mới review, có lẽ trong khoảng thời gian qua nhà hàng có vài thay đổi so với lúc mình đi. Về không gian thì bãi giữ xe hơi nhỏ và khá ít chỗ, tuy nhiên bảo vệ giữ xe rất tận tình và thân thiệnVề vị trí nhà hàng thì nó hơi ất ơ, nằm đối diện Citimart (siêu thị Bình Dân cũ) và nằm ngay khe hở của con lươn cho nên nếu muốn ghé cũng rất khó vì chỗ này thường xuyên bị kẹt xe.Về món ăn thì đợt đó mình order 2 bánh pizza đế mỏng nhân bò viên (2 cái này được miễn phí dùng khi khai trương), bánh đế mỏng cực kì giòn, sốt rất ngon và bò viên cũng vậy không có gì chê trách. Ngoài ra mình có order thêm 1 phần salad Ceasar size nhỏ, mình nghĩ là có nhỏ cũng không đến mức nào nhưng khi đem ra thì nó chỉ như cái chén vậy và charge 59k (theo mình là hơi chát). Mình có order thêm 1 phần mì ý sốt cà chua thịt bằm và đây là món mình thích nhất trong cả buổi ăn, sốt rất thơm và có thêm cà chua tươi nữa, ăn rất kích thích vị giác.Về sự sạch sẽ thì bàn được set up với 1 miếng giấy ở dưới, ngoài ra tương và các loại gia vị được để trong 1 khay gỗ nhìn rất sạch sẽ.Nhân viên thân thiện :)"
+        },
+        {
+            "user": "Trúc Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhtrc3076",
+            "score": "8.0",
+            "comment": "-trời mưa nên mình đặt online luôn, chị tổng đài nch dễ nghe, giọng to rõ, lịch sự, nhanh nhẹn, cẩn thận nữa. Chị bảo 30p có bánh mà 20p là mình nhận đc bánh r. Dù nhà mình trong hẻm mà anh nv tới cái rột đỡ phải gọi chỉ đường-Pizza có gà nướng,nấm... size L crispy thin là 114k đáng lẽ là 228k do đc giảm 50% khi đặt size L mìnht hấy cũng ngon, gà thấm gia vị, mềm, pizza mỏng, đế giòn, mỏng dánh nên ăn ko ngán, đủ no-Cánh gà chiên tẩm bột 6 miếng 109k cũng ổn, ko giòn lắm nhưng đc cái gia vị ngon, thịt chắc-Tổng là 223k khá rẻ 3 ng ăn no luôn, à anh shipper dễ thương lịch sự, vô giao gà đúng nhưng giao sai pizza phải chạy về đổi :)) mà ko quá lâu với cả giao sớm nên ko sao"
+        }
+    ]
+}

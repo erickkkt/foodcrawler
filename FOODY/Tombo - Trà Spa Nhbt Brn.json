@@ -1,0 +1,76 @@
+{
+    "name": "Tombo - Trà Sữa Nhật Bản",
+    "link": "https://www.foody.vn/ho-chi-minh/tombo-tra-sua-nhat-ban",
+    "address": "627A Nguyễn Văn Quá, P. Đông Hưng Thuận,  Quận 12, TP. HCM",
+    "open_time": "07:00 AM - 10:30 PM",
+    "price_range": "55.000đ - 99.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "6.6",
+        "total_review": "31"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": "7.6",
+            "comment": "Lẩu ở đây thật tuyệt vời, 120k lẩu nồi to và 60k lẩu nồi nhỏ, nhỏ mà ăn ngập mặt luôn đó nha. Lẩu đúng chất nhật bản hàn quốc luôn Không hiểu sao đồ ăn ngon mà quán này khá vắng, ít người biết đến, àm khi đã  biết rồi thì sẽ phải đến thường xuyên đó nha, xiên que ở đây không thích, không ngon, trà sữa thì toàn đá uống chẳng được nhiêuđây sẽ là địa điểm tuyệt vời nếu bạn là fan của đồ ăn nhật và hàn quốc thích ăn cay, không gian cực ấm cúng luôn . 10 điểm"
+        },
+        {
+            "user": "Trang Phan",
+            "link": "https://www.foody.vn/thanh-vien/tommaplam",
+            "score": "8.6",
+            "comment": "Thắc mắc sao chỗ này NGON CỰC KÌ mà mỗi khi đến lại vắng như ma\rđồ ăn phải nói tuyệt ngon\rnồi lẩu to tổ mà giá cực mềm 120k, ăn quài không hết\rnhân viên tốt\rnước ở đây dở mà lại còn ít, toàn đá"
+        },
+        {
+            "user": "Trang Thuy",
+            "link": "https://www.foody.vn/thanh-vien/tangthuytrang23",
+            "score": 0,
+            "comment": "Quán chuyên bán các đồ ăn vặt và các món ăn hàn quốc, có cả mì cay nữa. Không gian cũng không rộng lắm. Nhân viên phục vụ hơi chậm, món ăn lên cũng lâu.Các loại xiên que thì giá khá cao, ăn cũng bình thường. Lẩu 1 người thì khá ít, mà lần đầu tiên mình thấy lẩu không bao gồm mì nên phải gọi thêm. Miến xào khá ngon. Trà sữa nhạt. Kimbap thì cuốn không chặt bị rời ra.Mình đi 3 đứa con gái hết hơn 350k mà chẳng thấy no gì cả."
+        },
+        {
+            "user": "Ngocc Tramm",
+            "link": "https://www.foody.vn/thanh-vien/yua_1296",
+            "score": 0,
+            "comment": "Thứ tệ nhất ở đây chính là nước uống, mình vs bạn mình gọi 2 ly: hồng trà vs đá chanh, mà có thể nói là chất lượng quá tệ. Ly nào cũng dở cả. Cứu vớt lại là món ăn. Nhưng cũng không đặc sắc lắm đâu, ăn được thôi chứ không ngon. Mình khá thích món miến trộn HQ này, vị ngon, mùi hơi lạ nhưng được hơn Lẩu bò bạch tuộc. Nói tóm lại là mấy bạn đến đây nên ăn thử miến trộn và cẩn thận khi gọi nước nha."
+        },
+        {
+            "user": "BMin Min",
+            "link": "https://www.foody.vn/thanh-vien/BMin",
+            "score": "6.4",
+            "comment": "Quán không gian tầm trung, mình thường ra đây ngồi lì hàng giờ.Giá cả tầm nước trung bình tầm 17-30k, một số hơn. Mình thường gọi trà thái xanh 17K, thêm thạch 5K nữa nhéMì cay 39k, ăn bao no. Còn có Tokbokki, lẩu, với mấy món ăn Nhật nữa.Còn có mấy đồ vặt như cá chiên, xúc xích giá tầm 8-15k.Nói chung quán ok, hợp ví tiền sinh viên. Nhân viên phục vụ khá thân thiên, nhưng có khi hơi chậm nên đợi món hơi lâu...."
+        }
+    ]
+}

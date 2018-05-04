@@ -1,0 +1,642 @@
+{
+    "name": "Country House Cafe",
+    "link": "https://www.foody.vn/ho-chi-minh/country-house-cafe",
+    "address": "18C Phan Văn Trị, P. 10,  Quận Gò Vấp, TP. HCM",
+    "open_time": "Cả ngày  07:00 AM - 11:00 PM",
+    "price_range": "25.000đ - 66.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.6"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.8"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "354"
+    },
+    "foods": [
+        {
+            "name": "Nước ép sơ ri",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép táo",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép nho",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cóc",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép ổi",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép bưởi",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép tắc",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dưa hấu",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dâu",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cà chua",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép carrot",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép thơm",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh dây",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nha đam",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép lê",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép country house",
+            "price": "54,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - dâu - carrot - chanh dây",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép lê - dưa hấu - thơm - mật ong",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép táo - dâu - thơm",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dâu - bưởi - lê - chanh dây",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - carrot - táo",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - thơm - dâu",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dâu - carrot",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - carrot",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép táo - lê - cam",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép nho - thơm - cam - mật ong",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép ổi - táo - lê",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép nha đam - dâu",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - thơm - táo",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - thơm - chanh dây - 7 up",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép carrot - thơm",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép carrot - cà chua",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam - dâu - carrot - nha đam",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố đu đủ",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố sapoche",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố cà rốt",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố cà chua",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố mãng cầu",
+            "price": "53,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố mãng cầu dầm",
+            "price": "56,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ",
+            "price": "53,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ dầm",
+            "price": "56,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu",
+            "price": "56,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu dầm",
+            "price": "58,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dừa",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố chanh dây",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố cam - dâu",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố chuối - thơm",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt - thơm - chuối",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu -mãng cầu - thơm",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố dâu - carrot",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt cam - đào",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh tươi nóng",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh tươi đá",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh tuyết",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh muối nóng",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh muối đá",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh muối xí muội",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chanh tươi xí muội",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xí muội nóng",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xí muội đá",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tắc đá",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tắc xí muội",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh đường",
+            "price": "51,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda xí muội",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh dây",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda sữa hột gà",
+            "price": "54,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mơ ngâm",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sấu ngâm",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đá me",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt không đá",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt đá",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt sữa cà phê",
+            "price": "44,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt nha đam",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt cam tươi",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái cây dầm yaourt",
+            "price": "54,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Yaourt country houses",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái cây ướp lạnh",
+            "price": "68,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sấu ngâm",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh tea - break",
+            "price": "14,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh choux (hộp)",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh roll cake",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh tiramisu",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bắp rang bơ",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa đặc nóng",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi nóng",
+            "price": "37,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi đá",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi không đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi siro chanh",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi siro bạc hà",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi siro dâu",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi cà phê không đá",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi cacao đá",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chanh",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tắc",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sâm dứa sữa",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tắc siro",
+            "price": "46,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tắc sapoche",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tắc chuối",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tắc dâu",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa nóng",
+            "price": "33,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa đá",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê bailey's",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa bailey's",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao nóng",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao đá",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao sữa nóng",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao sữa đá",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate nóng",
+            "price": "41,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate đá",
+            "price": "43,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate sữa đá",
+            "price": "47,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chocolate sữa nóng",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc xỉu nóng",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc xỉu đá",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "zoro mù đường",
+            "link": "https://www.foody.vn/thanh-vien/zoromuduong",
+            "score": "8.2",
+            "comment": "Không gian quán ở đây cực kì đẹp, rộng, rất thoáng mát và thoải mái. Tựa tựa giống đà lạt phố nhưng rộng và thoải mái hơn nhiều. Đây đúng là địa điểm giành cho team sống ảo luôn. Phục vụ chu đáo nhưng hơi chậm. Chỗ để xe cách quán mấy chục mét, bạn phải gửi xe và đi bộ vào. Điểm đáng tiếc là quán khá xa trung tâm thành phố, tít mãi ở gò vấp, mình từ q10 đi buổi tối xuống đó kẹt xe nữa mà oải luôn. Đồ uống tạm ổn, tầm 50-70k, so với không gian quán như thế thì giá không quá cao."
+        },
+        {
+            "user": "Du Toan",
+            "link": "https://www.foody.vn/thanh-vien/toandu163",
+            "score": 0,
+            "comment": "Đến đây vào buổi trưa, wifi thì không có, ngồi đợi nhân viên ra đưa menu order nhưng không thấy ai, đổi chỗ ngồi và cũng chả thấy nhân viên ra hỏi! Đành về luôn!"
+        },
+        {
+            "user": "Huan Phan",
+            "link": "https://www.foody.vn/thanh-vien/minh_huan13",
+            "score": 0,
+            "comment": "Sẽ không bao giờ đến quán này lần nào nữa, quán cà phê nổi tiếng gì mà không có 1 miếng wifi, ngồi phòng lạnh gì mà không có wifi phải bắt đi ra ngoài thì mới có wifi cho dùng. Chất lượng phụ vụ quá dỡ. Ai muốn vô đây ngồi làm việc tốt nhất ko nên vào"
+        },
+        {
+            "user": "Quốc Tuấn Tống",
+            "link": "https://www.foody.vn/thanh-vien/tongquoctuan",
+            "score": "7.2",
+            "comment": "Đã đến quán này nhiều lần, mỗi lần đến ngồi 1 chỗ khác nên góc nhìn về quán khác. Còn đối với đồ uống thì cảm thấy bình thườn không có quá gì đặc sắc."
+        },
+        {
+            "user": "Thuong Le",
+            "link": "https://www.foody.vn/thanh-vien/thuong.le7361",
+            "score": "8.4",
+            "comment": "Mình ở Gò Vấp, cuối tuần gia đình có thói quen ăn sáng uống cafe, sau một tuần bận rộn và ít có thời gian cho nhau.Country House là một lựa chọn quen thuộc của gia đình, Không gian thơ mộng mang nét Châu Âu,Những chiếc xe cổ, đồi cỏ, và kiến trúc khó quán cafe nào có tại Sài gòn. Thức uống đa dạng, đặc biệt đồ ăn sáng khá ngon.Giá cả so với không gian quán hoàn toàn hợp lý, nhiều khi xem nhiều phim truyền hình Việt Nam toàn quay ở đây:))Lên hình là lung linh luôn kkkk"
+        }
+    ]
+}

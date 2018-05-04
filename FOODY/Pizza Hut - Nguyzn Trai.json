@@ -1,0 +1,80 @@
+{
+    "name": "Pizza Hut - Nguyễn Trãi",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-nguyen-trai",
+    "address": "264-266 Nguyễn Trãi,  Quận 5, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "258"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Wicked",
+            "link": "https://www.foody.vn/thanh-vien/banbianh123",
+            "score": 0,
+            "comment": "Pizza hải sản 109k cực nhỏ, cháy đắng, hình thức cực tệ , mực trong bánh có mùi lạ, giao hàng trễ dù cách chỉ có 300m tận 40 phút"
+        },
+        {
+            "user": "Băng Bạch Hàn",
+            "link": "https://www.foody.vn/thanh-vien/duyenle51296",
+            "score": "7.0",
+            "comment": "Combo 99k cho 2 người 1 pizza vừa, một salad cá ngừ, gọi thêm 1 phần nui carbonara, là 2 người ăn no nê.Pizza ăn ổn, vị khá ngon, có thêm khóm nên có mùi thơm lạ miệng. Salad không ưng lắm là rau củ bỏ tủ lạnh, ăn lạnh tanh cái miệng à, thà để bình thường ở nhiệt độ phòng thì hay hơn.Nui thì ăn cũng ngon, nhưng nui hơi cứng, luộc chưa có vừa. Cái này bếp nên xem lại nè, kĩ thuật chưa có tới.Sốt kem thì lại ít, phải nhiều sốt hơn cơ, ít nhứt cũng ướt đc hết cọng nui chứ, còn đĩa này như \"xào kem\" chứ không phải sốt kem, hơi khô. Ngoài ra thì vị vẫn rất ổn, thịt xông khói béo béo, không bị khô, khá thơm."
+        },
+        {
+            "user": "My Trần",
+            "link": "https://www.foody.vn/thanh-vien/mytrannu",
+            "score": "6.8",
+            "comment": "Dịp sinh nhật bạn, bạn đãi ăn pizza ở nhà. Tụi mình có order 2 bánh và được tặng thêm 2 bánh (chương trình 1 tặng 1). Cảm giác là bánh khá dày nên ăn có vẻ bị khô ăn được 1 miếng là mình đã thấy ngán rồi. Phần salad cho cũng khá tiết kiệm, chỉ cho phần mua chứ phần tặng lại ko cho rau ăn ngán kinh khủng luôn, nhân thì oke ăn ổn."
+        },
+        {
+            "user": "Kim Ngân",
+            "link": "https://www.foody.vn/thanh-vien/kimngan.it.96",
+            "score": "6.0",
+            "comment": "Mình mua takeaway , tiệm nằm ngay ngã tư, đối diện là pizza inn ,chú bảo vệ ở đây hơi khó tý, cứ ngó ngó sao ấy.( chắc do tính chất công việc ).Nhân viên thân thiện.Pizza đợt khuyến mãi 29k size s.Đợi cở 20p có bánh ( hơi bị lâu).Bánh nhỏ mà ngon, béo. Khuyến mãi như vậy là quá ngon rồi, ko đòi hỏi gì nhìu"
+        },
+        {
+            "user": "Nhi Trần",
+            "link": "https://www.foody.vn/thanh-vien/punny_luv_pea_wookie",
+            "score": "8.0",
+            "comment": "Đang có khuyến mãi pizza 29k nên đi ăn thử. Nghe bảo nhỏ lắm nên mình cũng không hi vọng gì nhiềuTới khi mang ra thì bị bất ngờ, đồng ý là pizza nhỏ nhưng vỏ bánh rất dày, lên tới bằng mép chảo. Tụi mình gọi pizza bò nướng phô mai và phô mai thịt xong khói. Pizza bò nướng phô mai ngon hơn chút xíu, còn thật ra cả 2 cái đều ngon ý. Vỏ bánh giòn rụm, thơm, phô mai và thịt khá nhiều. Tưởng ăn không no nhưng lại rất vừa bụng. Gọi 2 cái xong uống nước nữa là vừa luôn. Tới 31/8 là hết khuyến mãi rồi nên các bạn tranh thủ qua ăn đi nha. Gửi xe trước quán tốn 5k. Đợi bánh 20'. Nhân viên phục vụ bình thường."
+        }
+    ]
+}

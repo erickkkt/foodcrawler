@@ -1,0 +1,76 @@
+{
+    "name": "Phở Quỳnh Mai - Củ Chi",
+    "link": "https://www.foody.vn/ho-chi-minh/pho-quynh-mai-cu-chi",
+    "address": "Gần QL22 & Trần Văn Chấm,  Củ Chi, TP. HCM",
+    "open_time": "07:00 AM - 07:00 PM",
+    "price_range": "25.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "10"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tín Tử Tế",
+            "link": "https://www.foody.vn/thanh-vien/lakvnn",
+            "score": 0,
+            "comment": "Phở bình thường chứ ko có gì nổi bật, đông nên phục vụ kém, kêu ly trà đá 5 lần ko có, ko xứng vs giá tiền"
+        },
+        {
+            "user": "Ram Bo",
+            "link": "https://www.foody.vn/thanh-vien/thaytam",
+            "score": "9.0",
+            "comment": "Vị trí: tiện hướng đi như nói trên, mặt tiền quốc lộ nên dễ thấy, dễ ghé. Bãi đậu xe hơi khá rộng phía trong, đậu xe quay đầu thoải mái dù xe sẽ khá nắng nóng vì không có mái che.Giá cả: chấp nhận được chứ không mềm lắm, nhưng xứng đáng với chất lượng, vị trí...Chất lượng: mới chỉ thử phở tái nên chưa biết các món khác ra sao, nhưng món này thấy được, dù những người thích kiểu phở bắc sẽ không ưa. Rau giá tương ớt... đi kèm coi được.Phục vụ: Khá ổn dù dọn ra hơi chậm, có lẽ do bữa đó mình gặp đoàn khách trước đó quá đông, chừng 30-40 chú bộ đội!Không gian: rộng, thoáng, đặc biệt là chỗ để xe hơi đã nhắc ở trên."
+        },
+        {
+            "user": "Quỳnh Mi",
+            "link": "https://www.foody.vn/thanh-vien/tm97.vn",
+            "score": "8.2",
+            "comment": "Ấy da, phải nói là khá ngon nha. Lúc nào quán cũng đông hết, đi ngang nhìn vào là thấy kích thích rồi. Giá hơi cao xíu, nhưng cũng tạm ổn. Nằm ngay mặt đường quốc lộ 22 nên khá dễ tìm. Tiếc là chỗ để xe lớn ít quá nên đôi lúc gây cản trở giao thông. Đi qua khúc này hơi ức chế xíu."
+        },
+        {
+            "user": "hoan trần",
+            "link": "https://www.foody.vn/thanh-vien/tranhoa8han2805",
+            "score": 0,
+            "comment": "dân ở đây nhiều người thấy khó chịu cái quán này kinh khủng + quán nước mía vườn cau phía đối diện. ỷ quán xe hơi ra vào nên phách lối chả xem ai ra j muốn tấp ra thì tấp muốn tấp vào thì tấp. làm như đường của mình mình vậy"
+        },
+        {
+            "user": "Phạm Phương",
+            "link": "https://www.foody.vn/thanh-vien/nht.phuongpham",
+            "score": "8.4",
+            "comment": "Ngay mặt dg quốc lộ, vị trí dễ tìm. Toàn xe 4 chỗ trowe lên, hầu như ko thấy xe máy lun. Phở 40.000 đồngRau, giá hấp dẫn. Ớt xắt chọi lỗ đầu ^^^Gân bò mềm, viên ngon. 1 tô chất lượng đáng tiền. Nước lèo cũng ngon nhưng theo mình hơi nhạt, nêm gần hết hủ tương đen. ^^Điểm trừ: tolet cửa ko đóng được >\"<"
+        }
+    ]
+}

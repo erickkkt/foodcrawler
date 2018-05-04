@@ -1,0 +1,80 @@
+{
+    "name": "Buffet Sea - Parkson Flemington",
+    "link": "https://www.foody.vn/ho-chi-minh/buffet-sea",
+    "address": "Tầng B1 Parkson Flemington,184 Lê Đại Hành, P. 15,  Quận 11, TP. HCM",
+    "open_time": "",
+    "price_range": "90.000đ - 209.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Buffet",
+            "link": "https://www.foody.vn/ho-chi-minh/food/buffet"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.6",
+        "total_review": "107"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hoà Ngô",
+            "link": "https://www.foody.vn/thanh-vien/ngo.abo",
+            "score": 0,
+            "comment": "Đặt tiệc sinh nhật đã đặt bàn trước (đặt cọc)  lên vẫn không thấy set up gì cả...nv phải tới xếp bàn cho khách...để khách đợi xếp bànNhân viên dán tem cho khách thì mặt hầm học...nhờ chụp hình cho cả gia đình thì trả lời bận nghe điện thoai ,phục vụ quá tệ,..Đồ ăn thì ko tươi,ăn về bị đau bụng cả ngày hôm sau..vãi linh hồnBia bán 20k/lon..uống ko hết ko cho trảChất lượng quá tệ hại..Sai lầm khi đi ăn ở đây"
+        },
+        {
+            "user": "Vinh Pham",
+            "link": "https://www.foody.vn/thanh-vien/vinhphm87",
+            "score": "6.8",
+            "comment": "Mấy ngày cuối tháng nên trong túi hết tiền, mà lại thèm ăn buffet thì Sea là một địa điểm lý tưởng để thoả mãn cơn thèm.Về không gian: Khá rộng, tuy nhiên nếu đi buổi trưa hoặc tối cuối tuần thì khá đông và nóng. Địa chỉ nằm ngay trong toà Flemington nên rất dễ tìm.Về món ăn: giá cả như vậy thì không đòi hỏi nhiều ở món ăn được. Có một số món rất ngon.Về giá cả: Rẻ, hợp với túi tiền của người bình dânSẽ quay lại nữa nếu có dịp :)"
+        },
+        {
+            "user": "Thanh Trúc",
+            "link": "https://www.foody.vn/thanh-vien/ngoc_thanh_truc_232",
+            "score": "8.0",
+            "comment": "Ngày trước ngon nhưng bây giờ menu kém đa dạng hơn. Món ốc và gỏi cuốn hơi tanh. Còn lại tráng miệng và khai vị đều ngon. Phục vụ tốt, nhanh. Không gian sạch và đẹp"
+        },
+        {
+            "user": "Hà Leng",
+            "link": "https://www.foody.vn/thanh-vien/nganhaleng",
+            "score": "6.8",
+            "comment": "Mình đi buổi trưa T6, khoảng 11g30 12h gì đó, lúc đó quán cũng khá vắng.Khi vào mỗi ng sẽ đc dán 1 cái tem lên ng để nv biết là khách.Không gian quán cũng khá rộng, nhưng k mát lắm, hơi ngộp mùi đồ ănVề thức ăn cũng k đa dạng như lúc mình xem những review trước, k biết là tại đi buổi trưa hay sao nữa 🙄🙄🙄 Hải sản hôm mình đi chỉ có hàu mỡ hành, sò dẹo nướng, ốc bươu và nghêu thôi. Mà những món đó mình ăn cảm giác k đc tươi lắm, chỉ có sò dẹo và nghêu là đc.Các món ăn no cũng k đa dạng lắm, cũng bình thường 🙄 Mấy món cá viên chiên, khoai tây chiên, các loại chiên xù, v..v là nhiều Quán có lẩu luôn, mình nghe mng nói lại là lẩu ngon, còn mình thì k ăn lẩu nên k ý kiến Nước uống thì cũng trà đá, trà đào (mùi đào gắt), nc ngọt, về sau đc thêm cái ép cà rốt ... tráng miệng thì kem, trái cây ( dưa hấu, ổi ), rau câu, 1 số loại chè, ...Nói tóm lại so với giá thì khá ok, nhưng k hợp khẩu vị mình lắm vì nêm nếm bị mùi bột canh quá"
+        },
+        {
+            "user": "Tuyết Như Lê Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/tuytnh__",
+            "score": "6.8",
+            "comment": "Nói về không gian, quán khá rộng, thoáng mát. Nhân viên rất thân thiện, nói chuyện dễ thương, nhẹ nhàng. Mình đi buffet trưa, đồ ăn tương đối đa dạng nhưng với khẩu vị của mình, mình thấy không ngon lắm. Cái thì quá ngọt, cái thì quá lạc. Giá cả như vậy tạm gọi là ổn. Mình đi hai người ăn một chút là cảm thấy no rồi. Nếu như dư tiền thì nên đi ăn thử cho biết. À lẩu ngon xức xắc nha hehe :)"
+        }
+    ]
+}

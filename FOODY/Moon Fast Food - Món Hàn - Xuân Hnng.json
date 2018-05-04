@@ -1,0 +1,518 @@
+{
+    "name": "Moon Fast Food - Món Hàn - Xuân Hồng",
+    "link": "https://www.foody.vn/ho-chi-minh/moon-fast-food-xuan-hong",
+    "address": "53 Xuân Hồng, P. 12,  Quận Tân Bình, TP. HCM",
+    "open_time": "",
+    "price_range": "12.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Café/Dessert,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Quán ăn,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Tiệm bánh",
+            "link": "https://www.foody.vn/ho-chi-minh/food/tiem-banh"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/moon-fast-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "472"
+    },
+    "foods": [
+        {
+            "name": "Mì Ý bò đút lò",
+            "price": "45,000(đ)",
+            "total_orders": "184"
+        },
+        {
+            "name": "Mì tương đen",
+            "price": "45,000(đ)",
+            "total_orders": "176"
+        },
+        {
+            "name": "Mì Ý sốt kem",
+            "price": "45,000(đ)",
+            "total_orders": "159"
+        },
+        {
+            "name": "Mì hải sản chua cay",
+            "price": "40,000(đ)",
+            "total_orders": "154"
+        },
+        {
+            "name": "Mì ramen sốt sệt",
+            "price": "40,000(đ)",
+            "total_orders": "123"
+        },
+        {
+            "name": "Mì Ý gà phô mai",
+            "price": "40,000(đ)",
+            "total_orders": "109"
+        },
+        {
+            "name": "Mì bò cay Hàn Quốc",
+            "price": "40,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Mì udon hải sản",
+            "price": "50,000(đ)",
+            "total_orders": "72"
+        },
+        {
+            "name": "Mì udon chua cay",
+            "price": "50,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Mì trộn Hàn Quốc",
+            "price": "40,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Mì dai gà xé",
+            "price": "40,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Mì Ý bò trứng",
+            "price": "40,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Nui sốt bò đút lò",
+            "price": "45,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Nui sốt bò bằm",
+            "price": "40,000(đ)",
+            "total_orders": "23"
+        },
+        {
+            "name": "Nui cay hải sản",
+            "price": "43,000(đ)",
+            "total_orders": "17"
+        },
+        {
+            "name": "Cơm trộn Hàn Quốc",
+            "price": "40,000(đ)",
+            "total_orders": "410"
+        },
+        {
+            "name": "Cơm trộn hải sản",
+            "price": "43,000(đ)",
+            "total_orders": "100"
+        },
+        {
+            "name": "Cơm trộn xá xíu",
+            "price": "43,000(đ)",
+            "total_orders": "86"
+        },
+        {
+            "name": "Cơm bò phô mai",
+            "price": "45,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Cơm gà sốt tỏi",
+            "price": "40,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Cơm trộn Thái",
+            "price": "43,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Cơm gà HS",
+            "price": "40,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Cơm gà xiên Nhật",
+            "price": "40,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Cơm gà trứng muối",
+            "price": "45,000(đ)",
+            "total_orders": "22"
+        },
+        {
+            "name": "Cơm gà cháy tỏi",
+            "price": "40,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Cơm bò bulgogi",
+            "price": "43,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Cơm sốt kem đút lò",
+            "price": "50,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm kim chi",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp kim chi",
+            "price": "30,000(đ)",
+            "total_orders": "345"
+        },
+        {
+            "name": "Súp bò bulgogi",
+            "price": "43,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Súp bánh cá",
+            "price": "35,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Gà cay phô mai",
+            "price": "60,000(đ)",
+            "total_orders": "371"
+        },
+        {
+            "name": "Tokbokki đút lò",
+            "price": "50,000(đ)",
+            "total_orders": "303"
+        },
+        {
+            "name": "Tokbokki mật ong + gà",
+            "price": "40,000(đ)",
+            "total_orders": "271"
+        },
+        {
+            "name": "Tokbokki truyền thống",
+            "price": "35,000(đ)",
+            "total_orders": "229"
+        },
+        {
+            "name": "Tokbokki nhân phô mai",
+            "price": "60,000(đ)",
+            "total_orders": "201"
+        },
+        {
+            "name": "Thêm chả cá",
+            "price": "7,000(đ)",
+            "total_orders": "149"
+        },
+        {
+            "name": "Tokbokki giòn + gà",
+            "price": "45,000(đ)",
+            "total_orders": "140"
+        },
+        {
+            "name": "Thêm tokbokki",
+            "price": "10,000(đ)",
+            "total_orders": "130"
+        },
+        {
+            "name": "Tokbokki sốt phô mai",
+            "price": "50,000(đ)",
+            "total_orders": "107"
+        },
+        {
+            "name": "Tokbokki bò",
+            "price": "40,000(đ)",
+            "total_orders": "94"
+        },
+        {
+            "name": "Tokbokki sốt kem",
+            "price": "45,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Thêm kim chi",
+            "price": "5,000(đ)",
+            "total_orders": "92"
+        },
+        {
+            "name": "Tokbokki hải sản",
+            "price": "40,000(đ)",
+            "total_orders": "80"
+        },
+        {
+            "name": "Thêm mì gói Hàn Quốc",
+            "price": "10,000(đ)",
+            "total_orders": "79"
+        },
+        {
+            "name": "Thêm phô mai lát",
+            "price": "8,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Phô mai bào",
+            "price": "15,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Thêm tokbokki có nhân",
+            "price": "15,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Thêm miến dai",
+            "price": "10,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Tokbokki sò điệp",
+            "price": "50,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Tokbokki nhân lắc phô mai",
+            "price": "30,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Tokbokki lắc phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà viên mật ong",
+            "price": "30,000(đ)",
+            "total_orders": "264"
+        },
+        {
+            "name": "Gà sốt tỏi khoai",
+            "price": "30,000(đ)",
+            "total_orders": "121"
+        },
+        {
+            "name": "Gà sốt HS",
+            "price": "30,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Khoai tây lắc",
+            "price": "25,000(đ)",
+            "total_orders": "102"
+        },
+        {
+            "name": "Gà lắc",
+            "price": "30,000(đ)",
+            "total_orders": "97"
+        },
+        {
+            "name": "Tôm cuộn phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Chả giò mayon",
+            "price": "35,000(đ)",
+            "total_orders": "65"
+        },
+        {
+            "name": "Xông khói phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "61"
+        },
+        {
+            "name": "Cá viên phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Bánh phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Gà viên giòn",
+            "price": "30,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Bánh gà viên",
+            "price": "35,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Thêm canh rong biển",
+            "price": "15,000(đ)",
+            "total_orders": "132"
+        },
+        {
+            "name": "Thêm cơm",
+            "price": "5,000(đ)",
+            "total_orders": "112"
+        },
+        {
+            "name": "Thêm kim chi",
+            "price": "5,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Thêm trứng",
+            "price": "5,000(đ)",
+            "total_orders": "29"
+        },
+        {
+            "name": "Thêm phô mai lát",
+            "price": "8,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Bánh gạo",
+            "price": "10,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Thêm phô mai bào",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Thêm mì udon",
+            "price": "15,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Miến trộn",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Mực sốt cay",
+            "price": "60,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Gà rán phô mai",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh cá kim chi",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào",
+            "price": "20,000(đ)",
+            "total_orders": "142"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "12,000(đ)",
+            "total_orders": "96"
+        },
+        {
+            "name": "Trà sữa thạch",
+            "price": "15,000(đ)",
+            "total_orders": "68"
+        },
+        {
+            "name": "Trà chanh mật ong",
+            "price": "15,000(đ)",
+            "total_orders": "62"
+        },
+        {
+            "name": "Hồng trà phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "54"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "12,000(đ)",
+            "total_orders": "51"
+        },
+        {
+            "name": "Trà chanh bạc hà",
+            "price": "15,000(đ)",
+            "total_orders": "30"
+        },
+        {
+            "name": "Trà nhiệt đới",
+            "price": "20,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Trà sữa sốt phô mai",
+            "price": "22,000(đ)",
+            "total_orders": "2"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ella Bella",
+            "link": "https://www.foody.vn/thanh-vien/ellabella",
+            "score": "6.8",
+            "comment": "Mình đi ăn cũng gần cả tuần rồi mới viết review. Quán đơn giản và có thêm lầu. Menu cũng khá đa dạng, giá cả rẻ. Tuy nhiên nếu nói về chất lượng thì vẫn chưa bằng các quán nổi tiếng. Đồ ăn làm các dĩa nhỏ nhỏ. Phục vụ thân thiện và nhiệt tình"
+        },
+        {
+            "user": "Kim SaSa",
+            "link": "https://www.foody.vn/thanh-vien/haiconcao06",
+            "score": "8.8",
+            "comment": "Hôm nay được dẫn đi ăn toàn món mình thích, mưa cũng lặn lội đi ăn, ăn cho đã thèm rồi về, món hàn xẻng ở đây ngon lắm hé, có dịp nên thử!"
+        },
+        {
+            "user": "Vophuongnhi",
+            "link": "https://www.foody.vn/thanh-vien/Vophuongnhi",
+            "score": 0,
+            "comment": "Quán này nấu không đều tay, bữa ngon bữa dở. Nhưng tokkpoki chiên giòn ăn ngon. Canh kim chi khá ổn. Hình thức đồ ăn cũng ổn. Những món còn lại tuỳ theo phong độ đầu bếp. Nhân viên vui vẻ nhiệt tình. Quán đông, sinh viên, hs cấp 3 nhiều. Nó khu vực lên lầu xui xui gặp nhóm cấp 3 thì ồn như giặc, làm mình ăn cũng mất ngon. Giá khá bình dân vừa túi xiền. Phục vụ ra món ăn cũng nhanh. Mọi người nên ăn thử. Có trà chanh, trà đào đủ kiểu, nước uống quán này thấy nhiều người khen ngon."
+        },
+        {
+            "user": "Tommie Jung",
+            "link": "https://www.foody.vn/thanh-vien/01627353626",
+            "score": "7.4",
+            "comment": "Bảng hiệu hơi khuất cây 1 tẹo nên đi dò dò dễ đi lố, dò số nhà dễ hơn =))Mình đi ăn lúc hơn 8h r mà quán vẫn đông nghẹt ak. Mấy lần đi ngang qua thấy người ngồi chờ đông quá là thôi lun, nay mới vô thử nè. Có tầng trên nữa, mà mình đi 2 người ngồi dưới hoy. Tầng dưới thì k có máy lạnh nha, quạt ù ù bay hết cả mấy đồ nhè nhẹ để trên bàn 😂Ăn trễ nên mình chỉ gọi mấy món ah:•Cơm trộn hải sản (43k): hơi ít tẹo, cũng hơi ít sốt nữa. Đc 2 con tơm với mấy viên cá, nói chung là mình hổng hảo kiểu đó lắm.•Nui đút lò phô mai (45k): nui làm kiểu bolognese, sốt cà chua hơi chua tẹo, phủ 1 lớp cheese. Nói chung ăn cũng ổn.•Kimchi thêm (5k): hơi mặn, chưa có chua mấy, mà muối kiểu VN ak, nên màu hông đẹp lắm.•Trà sữa (12k): thơm, béo.Nhân viên khá đông, nhanh nhẹn, khách đi cái là túm vô dọn bàn liền :))"
+        },
+        {
+            "user": "Khánh Huyền",
+            "link": "https://www.foody.vn/thanh-vien/jessie.luvu4ever97",
+            "score": "7.0",
+            "comment": "Lần nào ghé cũng hài lòng về chất lượng. Quán buổi tối rất đông nên mình hay ghé vào buổi chìu cho vắng. Phải nói là súp kim chi ở đây siêu ngon, đậm vị ăn rất thích mà chỉ có 30k. Mỗi lần tới thì mình đều kêu. Ngoài ra cơm gà xé trứng muối ăn rất ổn, nước sốt đậm đà. Tokbokki bò ăn ok. Giá cả rất phải chăng dành cho sinh viên. Nhân viên phục vụ nhiệt tình."
+        }
+    ]
+}

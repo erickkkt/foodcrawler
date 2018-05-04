@@ -1,0 +1,80 @@
+{
+    "name": "Happy BBQ 2 Xiên Nướng Đồng Giá 5K - Lý Chính Thắng",
+    "link": "https://www.foody.vn/ho-chi-minh/happy-bbq-2-xien-nuong-dong-gia-5k-ly-chinh-thang",
+    "address": "146 Lý Chính Thắng, P. 7,  Quận 3, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 10.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/xien-nuong-dong-gia-happy?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "107"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Hân Phan",
+            "link": "https://www.foody.vn/thanh-vien/baohanphan2608",
+            "score": "6.8",
+            "comment": "- Nhân viên hơi ít thì phải nhưng phục vụ cũng nhanh, kêu cái là có liền. Vị trí quán dễ tìm, có bậc cao để tránh lụt :)) Nhưng hôm qua thất thủ nước mưa văng từ nhiều phía nên có anh nhân viên tự nói :\"Trời ơi cái quán như cái bể bơi\"- Đồ ăn nêm nếm ngon trừ đậu bắp. Ghét lắm cái đậu bắp vừa già vừa dở. Ăn k được. - Đi 5 người 800 mấy nói chung được. Ăn cả lẩu lẫn đồ nướng luôn"
+        },
+        {
+            "user": "Thy Imy",
+            "link": "https://www.foody.vn/thanh-vien/thytran1894",
+            "score": "7.0",
+            "comment": "Đồ ăn ở đây vẫn ướp rất ngon và rẻ, có điều cây gắp ngắn khủng khiếp nên nướng đồ nóng tay quá, hy vọng quá mau đổi loại khác chứ nướng thế này mình khó chịu kinh khủng! Hic"
+        },
+        {
+            "user": "Mai Hoang",
+            "link": "https://www.foody.vn/thanh-vien/mai.hoang5368",
+            "score": "6.0",
+            "comment": "Quán thoạt nhìn bên ngoài có vẻ thoáng, vào rồi mới thấy k được rộng lắm. Đồng giá 5k/xiên, an chơi thì được chứ no thì hơi mắc nha vì mỗi xiên khá ít, được cái nêm nếm vừa ăn. Nhân viên nhiệt tình."
+        },
+        {
+            "user": "Thảo Anh Huỳnh Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/sie.silly",
+            "score": "6.4",
+            "comment": "Vị trí: nằm trên Lý Chính Thắng, bên tay trái, cẩn thận đi lốGiá cả - chất lượng: một xiên tầm 5k, lẩu 30k, tưởng rê chớ có chút xíu à, phải kêu nhiều mới no, tính ra trung bình cũng 100k 1 người nếu ăn tiết kiệm. Được cái đồ ăn ướp khá tấm bị, ngon, thích ba chỉ với vú heo nhấtPhục vụ: hơi chậm, phải kêu nhiều lần mới để ý, hay quên mang đồ lênKhông gian: không rộng lắm, có một cái quạt nên hơi nóng, nướng khói bay mù mịt, ăn xong ám khói khắp người."
+        },
+        {
+            "user": "Lon Loi Khung",
+            "link": "https://www.foody.vn/thanh-vien/lonloikhung",
+            "score": 0,
+            "comment": "Không có hệ thống xử lý khói ngập trời luôn, tôi nghiệp mấy đứa làm ở đây ngày nào cũng hít mấy cái khói đồ nướng, lương không có bao nhiêu có hít ngày này qua ngày khác có ngày bị ung thư phổi .Nếu đứng từ ngoài đường nhìn vào trong quán sẽ thấy mọi thứ mờ mờ vì khói bao trùm kín cả quá và bay qua cả những căn nhà bên cạnh.Giá 5k/xiên rẻ hả, đừng có mơ 1 xiên không đủ nhét kẻ răng nhé. Mấy you muốn no trung bình 1 người không dưới 150k - 200k , ăn xong ra mọi người được khuyến mãi thêm cái mùi đồ nướng và mùi khói bám vào người trong suốt buổi tối, khỏi sức thêm dầu thơm"
+        }
+    ]
+}

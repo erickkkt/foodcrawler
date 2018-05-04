@@ -1,0 +1,281 @@
+{
+    "name": "BibimBap - Korean Food",
+    "link": "https://www.foody.vn/ho-chi-minh/bibimbap-korean-food",
+    "address": "51 Đường D5, P. 25,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "09:30 AM - 09:30 PM",
+    "price_range": "30.000đ - 145.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/bibimbap-korean-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "161"
+    },
+    "foods": [
+        {
+            "name": "Cơm thố trộn thịt bò",
+            "price": "49,000(đ)",
+            "total_orders": "55"
+        },
+        {
+            "name": "Súp kim chi",
+            "price": "49,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Mì tương đen",
+            "price": "42,000(đ)",
+            "total_orders": "27"
+        },
+        {
+            "name": "Bánh gạo cay",
+            "price": "33,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Trứng cuộn",
+            "price": "38,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Súp bò nấm",
+            "price": "49,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Cơm chiên kim chi",
+            "price": "45,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Súp rong biển",
+            "price": "38,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Cơm cuộn thịt bò",
+            "price": "38,000(đ)",
+            "total_orders": "12"
+        },
+        {
+            "name": "Gà sốt cay",
+            "price": "45,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Miến trộn",
+            "price": "49,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Thịt ba chỉ nướng",
+            "price": "99,000(đ)",
+            "total_orders": "7"
+        },
+        {
+            "name": "Súp bánh cá",
+            "price": "35,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm cuộn thịt gà",
+            "price": "38,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cơm thố trộn gà",
+            "price": "49,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Súp đậu hủ hầm",
+            "price": "52,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Miến cay",
+            "price": "52,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Mì gói bánh gạo cay",
+            "price": "36,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Gà sốt tương đỏ",
+            "price": "45,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Bánh gạo hải sản",
+            "price": "49,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Súp bánh gạo",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Thịt ba chỉ nướng tương",
+            "price": "110,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Nudu cơm cuộn",
+            "price": "38,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Cơm chiên thịt bò",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Thịt heo xào tương đỏ",
+            "price": "49,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Mì gói kim chi",
+            "price": "49,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh gạo tương đen",
+            "price": "49,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm chiên giò heo",
+            "price": "55,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Giò heo hầm HQ",
+            "price": "145,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu bò nấm (lớn)",
+            "price": "255,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu bò nấm (nhỏ)",
+            "price": "210,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu kim chi (lớn)",
+            "price": "245,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu kim chi (nhỏ)",
+            "price": "195,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kim chi cải thảo",
+            "price": "7,000(đ)",
+            "total_orders": "15"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "5,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Mì gói thêm",
+            "price": "15,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt bò thêm",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt heo thêm",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau thêm lẩu kim chi",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau thêm lẩu bò nấm",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hanna Lai",
+            "link": "https://www.foody.vn/thanh-vien/drapi.smile",
+            "score": "7.6",
+            "comment": "Bọn mình đến quán vào trưa nắng chủ nhật. Giữ xe ngay trước quán và miễn phí. Quán vắng không có khách, sau mình được thêm 2 bàn. Nhân viên không biết đông không mà lúc nào cũng rúc ở dưới bếp, để quán vắng tanh thế này. Menu thì cũng kha khá, mình gọi 3 món và không phải đợi lâu.Kim chi và củ cải gọi bao nhiêu cũng được. Mình gọi cơm cuộn thịt bò, súp rong biển và tokbokki phô mai. Cơm cuộn hơi nhạt, bình thường sẽ có nước chấm mà ở đây không có. Bò là bò băm, được xíu bò thôi, cơm cuộn chắc tay. Súp rong biển thì chủ yếu là nước, nấu chung với thịt bằm ăn như kiểu canh cải ngọt 😂😂  Tokbokki phô mai thì khá ổn, ăn vừa miệng.Lúc về được chú bảo vệ dắt xe cho còn hỏi han ăn được không và chúc bọn mình đi chơi vui vẻ. Chú quá quá dễ thương luôn."
+        },
+        {
+            "user": "Lê Nguyễn Việt Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/viethoangle",
+            "score": 0,
+            "comment": "Món ăn khá bình thường. Không hấp dẫn lắm. Với lại đợi khá lâu mới phục vụ xong. Cần cải thiện nhiều hơn"
+        },
+        {
+            "user": "Ngân Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/emmanguyen234",
+            "score": "8.2",
+            "comment": "Mình ghé quán vào một ngày trời mưa cùng em gái. Quán có hơi nhỏ, nhưng đồ ăn khá ngon. Kimchi ngon, lẩu cay cay và món gà rất tuyệt. Vừa ăn vừa suýt soa. Ấn tượng của mình là không những đồ ăn ngon mà chú bảo vệ lớn tuổi nhưng rất vui vẻ và nhiệt tình. Nhân viên ở quán các bạn dễ thương lắm lắm. Giá cả lại phải chăng. Mình sẽ còn quay lại ủng hộ quán dài dài ."
+        },
+        {
+            "user": "linhlinh0112",
+            "link": "https://www.foody.vn/thanh-vien/linhlinh0112",
+            "score": 0,
+            "comment": "Quán khá nhỏMón ăn cũng bình thường, không đặc sắc"
+        },
+        {
+            "user": "Quyên Võ",
+            "link": "https://www.foody.vn/thanh-vien/vtlq3696",
+            "score": 0,
+            "comment": "Vị trí quán nằm trên đường đến năm là một ba đường hơi nhỏ quán cũng khá dễ tìm. Không gian diện tích quán hơi nhỏ, lúc mình vào thấy xe ở trước quán thì khá là nhiều và mình hỏi nhân viên là trên lầu còn chỗ không thì nhân viên bảo full rồi và mình ngồi ngay ở dưới lầu nhưng mà từ lúc mình vào đến khi về thì trên lầu không ai xuống cả nen mình không biết không gian trên đó như thế nào. Thật ra thì giá ở đây như vậy có lẽ là cao so với các quán nổi tiếng hơn như là Hanur. Do hôm đó mình đi cũng khá tối nay mình sợ hello phone chỗ mất công đi xa nên là mình ghé để thử quán này mới và thật ra mình khát vọng về quánGiá thì cao về món ăn thì thật sự là không phù hợp với giá tiền. Mình không chụp menu nhưng mà mình nghĩ chắc là trên Foody cũng đã có rồiTrước hết là kim chi mình nghĩ rằng có thể là do quán làm, Nhưng mà mình thấy thì kim chi nó chưa tới đâu cả không giống như những cái mà mình mua ở ngoài siêu thịTiếp đến là món trứng cuộn 1000 cái cuộn thì khá là lỏng lẻo về các đồ ăn trong đó thì khá là it.Bánh gạo thì hơi bỡ nước sốt thì cũng không đậm đà và topping trong đó thì khá là ít.Cuối cùng hình như là mình gọi soup bò mà theo mình thấy thì bò không có bao nhiêu toàn là nấm và kim chi. Được cái là soup được nấu liền nên là đem ra thì còn nóng sôi sùng sục luôn.Nói chung mình nghĩ rằng có thể là mình sẽ không quay lại nữa"
+        }
+    ]
+}

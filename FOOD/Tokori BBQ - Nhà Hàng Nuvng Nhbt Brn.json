@@ -1,0 +1,917 @@
+{
+    "name": "Tokori BBQ - Nhà Hàng Nướng Nhật Bản",
+    "link": "https://www.foody.vn/ho-chi-minh/tokori-bbq-nha-hang-nuong-nhat-ban",
+    "address": "105 Ngô Quyền, P. 11,  Quận 5, TP. HCM",
+    "open_time": "Buổi Tối  05:00 PM - 10:00 PM",
+    "price_range": "50.000đ - 650.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "8.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.0"
+        }
+    ],
+    "summary": {
+        "average_score": "8.2",
+        "total_review": "403"
+    },
+    "foods": [
+        {
+            "name": "Set 1",
+            "price": "255,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set 2",
+            "price": "255,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set 3",
+            "price": "280,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set 4",
+            "price": "340,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set 5",
+            "price": "360,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set 6",
+            "price": "375,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thượng hạng",
+            "price": "485,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set Wagyu",
+            "price": "1,780,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kimchi cải thảo",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kimchi dưa chuột",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kimchi củ cải",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu Nhật luộc",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Giá trộn",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bó xôi trộn",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây trộn",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau củ muối chua",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hũ lạnh",
+            "price": "36,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rong biển Hàn Quốc",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau muối trộn tổng hợp",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kimchi tổng hợp",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh xèo lạp xưởng phô mai",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh xèo mực và hành",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh xèo kim chi thịt heo",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh xèo rau củ",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Miến xào Hàn Quốc",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad Ceasar",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad khoai tây",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad trộn dầu dấm",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad trộn dầu giấm sốt cay",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau salad cuộn thịt nướng",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xúc xích",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hủ lạnh sốt mè",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hũ lạnh sốt kimchi",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hũ lạnh sốt cá bào",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bí ngòi nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bắp cải nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai lang nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm đùi gà nướng",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu bắp nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bắp nướng",
+            "price": "19,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà tím nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hành tây nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bí đỏ nướng",
+            "price": "9,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau củ nướng tổng hợp",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hải sản tổng hợp",
+            "price": "145,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực",
+            "price": "98,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc",
+            "price": "88,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gan bò",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tim bò",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ruột bò Nhật",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt gà sốt muối 130g",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt gà sốt cay 130g",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt ba rọi heo 150g",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt heo đặc biệt 150g",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt thăn ngoại bò Nhật 130g",
+            "price": "950,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt sườn bò Nhật thượng hạng 100g",
+            "price": "620,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi bò ướp muối 100g",
+            "price": "85,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Lưỡi bò cắt dầy 130g",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi bò ướp hành paro 100g",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi bò cắt mỏng 100g",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lưỡi bò hảo hạng 100g",
+            "price": "130,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt thăn ngoại bò 130g",
+            "price": "140,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Thịt sườn bò không xương 130g",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt diềm thăn bò 130g",
+            "price": "130,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt ba rọi bò 130g",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt sườn bò có xương 190g",
+            "price": "170,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt liên sườn bò 130g",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt liên sườn bò dây 150g",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Combo Family",
+            "price": "1,050,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Combo Wagyu",
+            "price": "1,490,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "BBQ Kyoto (2 - 3 người)",
+            "price": "650,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "BBQ Tokori (2 - 3 người)",
+            "price": "680,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "BBQ Osaka (2 - 3 người)",
+            "price": "450,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "BBQ sakura (2 - 3 người)",
+            "price": "495,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì udon thịt bò cay",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì lạnh",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì ramen bò cay",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì miso ramen",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì ramen thịt heo xá xíu",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì ramen rau củ",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp thịt bò cay",
+            "price": "50,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Canh hầm đậu hũ cay",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo thịt bò cay",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cháo trứng rau củ",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp rong biển",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp trứng",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp rau củ",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trắng",
+            "price": "18,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Set cơm",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trộn thố đá",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm thịt bò nướng",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm thịt heo nướng",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm bò xào",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trộn chén đá",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trộn bò xào hành cay",
+            "price": "85,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên",
+            "price": "70,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên kim chi",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Súp rong biển nhỏ",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu kim chi",
+            "price": "350,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lẩu nhúng shabu shabu",
+            "price": "300,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt ba rọi bò 130g",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt ba rọi heo 150g",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt gà 130g",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hũ lạnh",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau lẩu kim chi",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau lẩu shabu shabu",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì trứng",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì udon",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set điểm thăn bò 130g",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt sườn bò có xương 190g",
+            "price": "190,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt sườn bò không xương 130g",
+            "price": "180,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt liên sườn bò 130g",
+            "price": "140,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt liên sườn bò dây 150g",
+            "price": "170,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt thăn ngoại bò 130g",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt ba rọi heo 150g",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt cổ heo 150g",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set thịt gà 130g",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm trộn thố đá",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm trộn chén đá",
+            "price": "95,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm thịt bò nướng",
+            "price": "125,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm trộn bò xào hành cay",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm thịt heo nướng",
+            "price": "105,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm bò xào",
+            "price": "110,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì ramen rau củ",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì udon thịt bò cay",
+            "price": "125,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì lạnh",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì ramen thịt heo xá xíu",
+            "price": "125,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set soup đậu hũ cay",
+            "price": "115,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì ramen bò cay",
+            "price": "135,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set mì miso ramen",
+            "price": "140,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Set cơm",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding xoài",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Pudding cacao",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding matcha",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding chanh dây",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding dừa",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Pudding mè đen",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh dây ly",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda chanh ly",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước mơ muối",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kizakura karakuchi 260ml",
+            "price": "200,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kizakura karakuchi 130ml",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kizakura kimoto yamahai 300ml",
+            "price": "300,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kizakura nigorizake 300ml",
+            "price": "350,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kizakura ginjou 720ml",
+            "price": "880,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Kurano uta junmai 720ml",
+            "price": "850,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rượu gạo Hàn QUốc 1000ml",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strongbow vị hoa Elders",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strongbow vị táo nguyên bản",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strongbow vị mật ong",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Strongbow vị dâu đỏ",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Onigoroshi lmo 900ml",
+            "price": "580,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Onigoroshi mugi 900ml",
+            "price": "580,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tairiku mugi bottle 500ml",
+            "price": "350,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tairiku imo bottle",
+            "price": "350,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chamisuru 360ml",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shochu pha nước",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shoschu pha trà olong",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Shochu pha soda chanh",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rượu mơ đá",
+            "price": "65,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rượu mơ pha soda",
+            "price": "75,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước táo",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước nho",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước đào",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước thơm",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước cam",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Shyn Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/shynnguyn",
+            "score": "9.8",
+            "comment": "Sinh nhật con bạn kêu set ăn FAMILY . + Không Gian : Mình chỉ muốn có thêm cửa để khép hẳn lại mình có thể nói chuyện riêng tư hơn . + Món ăn : Trong set ăn đó mình chỉ ngán mỗi món mì thôi . Chắc tuỳ người hợp khẩu vị + Phục vụ : Mình thích nhất điểm này . Mấy anh chị phục vụ siêu dễ thương luôn . Món cơm trộn anh chị phục vụ sẽ hơi bạn muốn tự trộn hay cần ảnh giúp . Nhiệt tình kinh khủng . Vừa ăn xong lại dọn dĩa và xin phép lên món mới . + Giá cả : Khá mềm . 1 set ăn giao động 1 triệu đến 2 triệu . Đáng đồng tiền lắm .- Tổng thiệt hại cho buổi tiệc 1.750.000 cho 4 con người no mà thở không muốn nổi 😂😂"
+        },
+        {
+            "user": "uyên  phương",
+            "link": "https://www.foody.vn/thanh-vien/nguyenphuonguyen1209",
+            "score": "9.0",
+            "comment": "Mình thích ăn thịt nướng ở đây,  ướp rất vừa ăn,  thịt lúc nào cũng tươi, menu hôm nay có thêm mấy món mới,  nhưng mình vẫn thích gọi combo có đầy đủ các món,  ăn trưa ở đây rất thoải mái , không gian yên tĩnh, nhạc nhè nhẹ rất dễ chịu,  nhân viên phục vụ rất vui vẻ và nhiệt tình"
+        },
+        {
+            "user": "Lan Yeung",
+            "link": "https://www.foody.vn/thanh-vien/Tavia",
+            "score": 0,
+            "comment": "Nhà hàg wá tệ, ăn kèm thịt nướg mà rau tíh tiền từg fần, món ăm cũg chẳg fải rẻ, yêu cầu xuất hoá đơn, hẹn khách 1,2 ngày sau way lại, khách way lại thì báo kế toán về, 0 xuất đc. WTF"
+        },
+        {
+            "user": "Trúc Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/khanhtrucnt7",
+            "score": "9.2",
+            "comment": "Là tín đồ của các món ăn Nhật nên chưa bao giờ bỏ lỡ cơ hội khi có thể. Nghe bảo thịt bò ở đây rất là ngon nên mình order ngay một set cơm bò nướng. Không gian yên tĩnh, nhe nhàng công với set cơm rất là ngon, thị bò mềm, ướp vừa miệng ăn kèm salad, súp rong biển và kim chi cải thảo cay cay đúng vị mùa mưa nhé. Nói chung là các bạn phục vụ cũng rất nhiệt tình, nên mình sẽ quạy lại cùng đây cùng với bạn bè và gia đình. <3"
+        },
+        {
+            "user": "quanghuy nhat",
+            "link": "https://www.foody.vn/thanh-vien/nhatquanghuy1985",
+            "score": "8.0",
+            "comment": "Không gian nhà hàng nhìn vào ấm cúng, thêm ít nhạc ko lời vào thấy khung cảnh khá lãng mạn. Menu đa dạng, thịt chủ yếu là bò, có cả heo gà, nhưng bò là chủ yếu. Có thêm hải sản, nói chung menu nhiều, gọi dễ. Có bán cả combo và set được ưu đãi. 2 người gọi 1 cái combo thêm nước uống là ăn no phè phỡn. Hải sản cũng tươi, ướp chút sốt cay, ăn cay nhè nhẹ, bạch tuộc to giòn sừn sựt ăn đã dã man. Ăn xong thấy ưng cái bụng, giá cả hợp lý với chất lượng. Lâu lâu tới ăn cũng được!"
+        }
+    ]
+}

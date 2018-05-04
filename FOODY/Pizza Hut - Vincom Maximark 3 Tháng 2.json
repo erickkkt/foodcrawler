@@ -1,0 +1,84 @@
+{
+    "name": "Pizza Hut - Vincom Maximark 3 Tháng 2",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-maximark-3-thang-2",
+    "address": "Tầng 3, Vincom Maximark, 3 Đường 3 Tháng 2,  Quận 10, TP. HCM",
+    "open_time": "10:00 AM - 10:30 PM",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Mỹ,",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-my"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "51"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tuyết Anh Nguyễn Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/tuytanhnguynngc",
+            "score": "7.2",
+            "comment": "Pizza Hut đối với mình thì khá mắc nên mình chuyển sang ăn Domino 1 thời gian. Nay rủng rỉnh tiền nên có dịp quay lại. Cả một bầu trời thất vọng luônMình mua về. Shipper giao. Bánh Domino luôn nóng hổi. Trong khi Pizza Hut còn gần nhà mình hơn, nhưng tới tay mình thì nguội ngắt ( và ship cũng chẳng nhanh để bù lại, nhưng thôi, bàn về chất lượng). Võ bánh dày, khô khốc, Pizza mình gọi hải sản với cá hồi, cá miếng to thật, nhưng không ngonVị ăn chán, không có cảm giác ngon miệng. Mình và em mình đã 1 thời cuồng Pizza Hut mà cả 2 đều thất vọng hẳn, 2 đứa đều là fan Pizza và rất dễ ăn, nhưng chất lượng thật sự không còn như trước. Lúc trước mắc mấy cũng ăn vì thíchNay mua 1 tặng 1 lại thất vọng tràn trề vì không ngonSẽ không quay lại TT-TT"
+        },
+        {
+            "user": "Nguyễn Ngân",
+            "link": "https://www.foody.vn/thanh-vien/kybangha_96",
+            "score": 0,
+            "comment": "Mình và gia đình có đến ăn . Sau đó gọi một combo bánh pizza lớn cá ngừ viền xúc xích , bánh khá ngon và mềm . Sau đó có gọi cơm chiên hải sản và khi nhân viên mang ra thì rất ít cơm như thường lệ mình ăn . Hi vọng sẽ điều chỉnh lại vấn đề này ."
+        },
+        {
+            "user": "Ngọc Cao",
+            "link": "https://www.foody.vn/thanh-vien/pigfamily0404",
+            "score": 0,
+            "comment": "Muốn ăn thử cái bánh nhân nhồi phô mai 3 vị xem sao. Nhưng mà thất vọng hơn mình mong đơi. nhồi nhân phomai gì đâu mà khô quá, toàn thấy bột không , chắc pha bột nhiều quá. Phomai là món ưa thích của mình nữa nên cũng đã ăn qua rất nhiều chỗ rồi. Đã dzay giá  bánh cũng chát nữa 270k cho cái bánh này mà phomai thì cho quá tiết kiệm. Lúc trước pizza hut là lựa chọn hàng đầu khi đi ăn pizza. Nhưng giờ có nhiều nơi mình thấy hợp khẩu vị mình hơn. Mong pizza hut cải tiến nhiều hơn nưa."
+        },
+        {
+            "user": "qh",
+            "link": "https://www.foody.vn/thanh-vien/forever9592",
+            "score": "6.8",
+            "comment": "cũng được , là. 1 trong số những thương hiệu Pizza ra đời và được chào đón ở Viet Nam những ngày đầu so với bây giơ dù đa có rất nhiêu thương hiệu , nhà hàng pizza khác ra đời nhưng Pizza Hut vẫn có chỗ đứng khá vững . Chất lượng và giá cả cho đến thơi điểm hien tại thì cũng ko mắc hay rẻ vừa túi tiền và trọn vẹn bữa ăn !"
+        },
+        {
+            "user": "Mushroom Ashi",
+            "link": "https://www.foody.vn/thanh-vien/hothanhthuy28889",
+            "score": "7.6",
+            "comment": "** VỊ TRÍ, KHÔNG GIAN: Cửa hàng nằm trong khu ẩm thực của siêu thị Maximark tại tầng 3, có không gian rộng rãi. Trước khi xem phim tại BHD thấy đói nên muốn kiếm gì ăn, sẵn có mấy voucher giảm giá tại Pizza Hut CN này mà siêu thị tặng khi mua hàng nên tranh thủ xài luôn.** CHẤT LƯỢNG, GIÁ CẢ: Nhìn chung các loại pizza ở đây có chất lượng đều ổn. Mình thấy pizza đế dày ăn ngon hơn, lại được thêm lựa chọn bọc viền xúc xích hoặc phô mai nữa. Còn nếu ai sợ ngán thì nên gọi pizza đế mỏng vì bánh sẽ giòn hơn loại đế dày. -- Bình thường mình hay lựa mấy loại seafood, thấy tôm mực đều khá tươi, vị ổn. -- Tuy nhiên có 1 loại thập cẩm có lẽ sẽ không gọi lại lần 2 là Supreme, chao ôi nó dở kinh khủng, bánh không được giòn, ngược lại nó cứng ngắc và khô nữa, xúc xích thì mặn kè luôn.-- Deluxe Platter: khá ngon. Mực tươi được tẩm bột chiên giòn, cánh gà nướng hương vị đậm đà rất tuyệt.-- Potato shrimp: con tôm cũng khá bự được cuộn sợi khoai tây chiên giòn, nóng hổi rất ngon.** GIÁ CẢ: Pizza Hut có giá thuộc loại tầm trung so với các hãng pizza khác. Nếu có voucher thì siêu tiết kiệm luôn ^^** PHỤC VỤ: dọn món cũng khá nhanh. Nhân viên lễ phép."
+        }
+    ]
+}

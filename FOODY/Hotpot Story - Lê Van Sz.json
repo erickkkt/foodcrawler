@@ -1,0 +1,80 @@
+{
+    "name": "Hotpot Story - Lê Văn Sỹ",
+    "link": "https://www.foody.vn/ho-chi-minh/hotpot-story-le-van-sy",
+    "address": "Tầng 1, 409A Lê Văn Sỹ, P. 12,  Quận 3, TP. HCM",
+    "open_time": "10:00 - 22:00",
+    "price_range": "150.000đ - 400.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Châu Á",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-chau-a"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hotpot-story?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "9.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "8.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.4"
+        }
+    ],
+    "summary": {
+        "average_score": "8.6",
+        "total_review": "11"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Công Thành Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/congthanh.love.Japan",
+            "score": "10",
+            "comment": "Mình thực sự rất lười viết bình luận quán ăn, trừ khi dở tệ làm phẫn nộ quá phải lên phàn nàn cho hã tức thôi, chứ ăn ngon về cũng lười viết. Mà công nhận khiến mình phải viết thì Hot Pot Story quá tài. Không biết diễn tả gì nhiều, chỉ có thể nói phong cách phục vụ của Hot Pot Story đẳng cấp và thức ăn ngon tuyệt vời, đặc biệt 2 chi nhánh mình đã ăn là Lê Văn Sỹ và Phan Xích Long. Lê Văn Sỹ thì thoải mái hơn tí do có quầy buffet đỡ phải gọi các bạn phục vụ. Nhân viên ở đây thì trên cả tuyệt vời rồi, vô cùng quan tâm tới khách, kính cẩn lời chào hỏi, lời hỏi thăm, phục vụ hết sức tận tình. Thức ăn thì ê hề ngon lành đủ món, mỗi lần ăn xong mình và bạn mình có cảm giác bị \"say\" thức ăn vì quá ngon quá đã. 10/10 cho Hot Pot Story."
+        },
+        {
+            "user": "Miêu Hải",
+            "link": "https://www.foody.vn/thanh-vien/hai.mieu2989",
+            "score": "10",
+            "comment": "Như đã chia sẻ ở bài viết trước, mình đã nhận được nhiều phản hồi tích cực của Hotpot Story về vấn đề mình chia sẻ, chắc do mình quá kỹ tính và lúc đó cũng khá mệt nên bực mình thái quá, dẫn đến có những nhận xét và đòi hỏi cao, quá đáng với một chi nhánh Hotpot cũng mới được khai trương như LVS. Tập thể nào cũng cần có thời gian để chỉnh chu và hoàn thiện, do mình không rõ nên đã hơi bức xúc.Nhưng khi ăn lẩu hay nhắc về lẩu, thì lựa chọn đầu tiên của mình vẫn là Hotpot Story, vẫn là giới thiệu cho người thân bạn bè mình ăn lẩu ở Hotpot, khẩu phần ăn khá đa dạng, đẹp mắt, nhìn chung và tổng quan Hotpot Story vẫn nơi để lại ấn tượng và dư vị khi nhắc về lấu.Mong những thiếu sót nhỏ đó sẽ được cải thiện để Hotpot luôn là lựa chọn hàng đầu của khách hàng khi muốn dùng lẩu."
+        },
+        {
+            "user": "Tramy Pham",
+            "link": "https://www.foody.vn/thanh-vien/ostrich_9",
+            "score": "10",
+            "comment": "Luôn là fan bự của Hotpot story. Trưa nay mình đi ăn lẩu buffet mà có mỗi một mình. Được các bạn nhân viên ngoan săn sóc gấp đôi vì sợ khách lonely. Đồ ăn ngon, nhân viên ngoan, không gian đẹp. 10/10"
+        },
+        {
+            "user": "Cty vệ sinh HVP.sv",
+            "link": "https://www.foody.vn/thanh-vien/hoangvuphongsv",
+            "score": "8.8",
+            "comment": "Mình anh chị em nhân viên đã ăn rất nhiều lần của hệ thống redsun. Yêu thích nhất vẫn là hotpot, được biết chi nhánh hotpot Lê VĂn Sỹ này khai trương hồi tháng 6... nên ghé dùng thử xem chất lượng có giống như những chổ khác không...May mắn không làm mình thất vọng, từ thức ăn, giá cả, con người nhiệt tình dễ thương vẫn như ngày nào... giống như mình mong muốn...Cố gắng duy trì và phát huy cái nét dễ thương, đáng iu của các bạn nhân viên như vậy nữa nhá! Mình sẽ ghé ủng hộ nếu có dịp!"
+        },
+        {
+            "user": "Khánh đạo",
+            "link": "https://www.foody.vn/thanh-vien/ttruong12293",
+            "score": "7.8",
+            "comment": "Mình thích ăn phần 269k vì có tôm với chả cá nhật, ăn lần thứ n mà cảm nhận vẫn ngon, lần nào ăn cũng phiền nhân viên đem món lên quá nhiều lần, cảm thấy ngại luôn :)) nhưng mà mấy bạn ấy vẫn vui vẻ. Ăn xong đi về có cái cầu thang chụp hình bao đẹp."
+        }
+    ]
+}

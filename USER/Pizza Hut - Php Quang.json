@@ -1,0 +1,30 @@
+{
+    "name": "Pizza Hut - Phổ Quang",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-pho-quang",
+    "user_comments": [
+        {
+            "user": "Mushroom Ashi",
+            "link": "https://www.foody.vn/thanh-vien/hothanhthuy28889",
+            "score": "7.4",
+            "comment": "-- KHÔNG GIAN: CN này mới khai trương hồi đầu tháng 8, là nhà hàng thứ 61 trong hệ thống Pizza Hut. Chi nhánh nhìn từ ngoài có vẻ rộng rãi nhưng bên trong thì cũng không rộng lắm tuy nhiên ánh sáng ở đây rất tốt, ngồi ban ngày là ánh sáng tự nhiên tràn ngập luôn.\n\n-- CHẤT LƯỢNG: nhóm mình 4 người gọi 2 cái pizza hải sản, chọn bánh đế dày ăn cho đã, hải sản rải rác thôi chứ không nhiều. Trong đó có 1 bánh nướng hơi bị quá nên bị cháy phía trên, phần hành tây cháy xém đen thùi lùi, ớt đà lạt cũng xém cháy, may phần cheese với vỏ bánh vẫn còn ăn được. Bánh còn lại là hải sản nấm thì ăn ngon.\n\n-- GIÁ CẢ: không quá cao, mới khai trương nên có nhiều chương trình khuyến mãi lắm.\n\n-- DỊCH VỤ: nhân viên thân thiện và nhanh nhẹn.\n...Xem thêm"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "https://www.foody.vn{{Model.Owner.Url}}",
+            "score": 0,
+            "comment": "\nXem thêm\n"
+        },
+        {
+            "user": "",
+            "link": "",
+            "score": 0,
+            "comment": ""
+        }
+    ]
+}

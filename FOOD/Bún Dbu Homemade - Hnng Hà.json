@@ -1,0 +1,306 @@
+{
+    "name": "Bún Đậu Homemade - Hồng Hà",
+    "link": "https://www.foody.vn/ho-chi-minh/bun-dau-mam-tom",
+    "address": "6 Hồng Hà, P. 2,  Quận Tân Bình, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "30.000đ - 110.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Miền Bắc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-mien-bac"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/bun-dau-homemade?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "482"
+    },
+    "foods": [
+        {
+            "name": "Nem chua rán",
+            "price": "55,000(đ)",
+            "total_orders": "1716"
+        },
+        {
+            "name": "Ốc nhồi thịt hấp gừng",
+            "price": "68,000(đ)",
+            "total_orders": "505"
+        },
+        {
+            "name": "Chân gà ngâm muối sả",
+            "price": "68,000(đ)",
+            "total_orders": "425"
+        },
+        {
+            "name": "Nem chua tươi",
+            "price": "55,000(đ)",
+            "total_orders": "131"
+        },
+        {
+            "name": "Nem cua bể",
+            "price": "89,000(đ)",
+            "total_orders": "177"
+        },
+        {
+            "name": "Chả rươi vỏ quýt",
+            "price": "65,000(đ)",
+            "total_orders": "159"
+        },
+        {
+            "name": "Bánh gối Hà Nội",
+            "price": "48,000(đ)",
+            "total_orders": "130"
+        },
+        {
+            "name": "Lòng heo thập cẩm (luộc)",
+            "price": "98,000(đ)",
+            "total_orders": "597"
+        },
+        {
+            "name": "Lòng heo thập cẩm (rán)",
+            "price": "98,000(đ)",
+            "total_orders": "286"
+        },
+        {
+            "name": "Bún đậu thập cẩm",
+            "price": "68,000(đ)",
+            "total_orders": "7403"
+        },
+        {
+            "name": "Bún đậu mắm tôm",
+            "price": "35,000(đ)",
+            "total_orders": "1320"
+        },
+        {
+            "name": "Bún giả cầy",
+            "price": "58,000(đ)",
+            "total_orders": "258"
+        },
+        {
+            "name": "Đậu hũ tay cầm Homemade -  bánh mì",
+            "price": "68,000(đ)",
+            "total_orders": "57"
+        },
+        {
+            "name": "Bún  thêm",
+            "price": "12,000(đ)",
+            "total_orders": "1760"
+        },
+        {
+            "name": "Đậu  thêm",
+            "price": "12,000(đ)",
+            "total_orders": "1351"
+        },
+        {
+            "name": "Bún ốc chuối đậu",
+            "price": "58,000(đ)",
+            "total_orders": "270"
+        },
+        {
+            "name": "Chả  cốm",
+            "price": "25,000(đ)",
+            "total_orders": "2609"
+        },
+        {
+            "name": "Thịt chân giò hấp",
+            "price": "35,000(đ)",
+            "total_orders": "639"
+        },
+        {
+            "name": "Lẩu riêu cua bắp bò sườn sụn",
+            "price": "385,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Bún",
+            "price": "25,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Chả ốc",
+            "price": "45,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Rau lẩu",
+            "price": "25,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bắp hoa",
+            "price": "120,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn non",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Giò tai",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Riêu cua",
+            "price": "90,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua nếp cẩm",
+            "price": "25,000(đ)",
+            "total_orders": "673"
+        },
+        {
+            "name": "Chè homemade đặc biệt",
+            "price": "25,000(đ)",
+            "total_orders": "367"
+        },
+        {
+            "name": "Chè đậu đen thạch trân châu",
+            "price": "25,000(đ)",
+            "total_orders": "318"
+        },
+        {
+            "name": "Tàu phớ hoa nhài",
+            "price": "22,000(đ)",
+            "total_orders": "316"
+        },
+        {
+            "name": "Chè sen long nhãn",
+            "price": "25,000(đ)",
+            "total_orders": "302"
+        },
+        {
+            "name": "Chè thạch trân châu hoa nhài",
+            "price": "25,000(đ)",
+            "total_orders": "120"
+        },
+        {
+            "name": "Pudding dừa",
+            "price": "25,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Chè của mẹ",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà chanh",
+            "price": "18,000(đ)",
+            "total_orders": "381"
+        },
+        {
+            "name": "Nước mơ",
+            "price": "28,000(đ)",
+            "total_orders": "317"
+        },
+        {
+            "name": "Nước ngô mía lau",
+            "price": "18,000(đ)",
+            "total_orders": "203"
+        },
+        {
+            "name": "Nước sấu",
+            "price": "28,000(đ)",
+            "total_orders": "193"
+        },
+        {
+            "name": "Nhân trần đá",
+            "price": "18,000(đ)",
+            "total_orders": "40"
+        },
+        {
+            "name": "Nước suối",
+            "price": "15,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Nước dâu tằm",
+            "price": "25,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Coca cola",
+            "price": "22,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sprite",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Xá xị",
+            "price": "22,000(đ)",
+            "total_orders": "1"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Midori SQ",
+            "link": "https://www.foody.vn/thanh-vien/lbmai1410",
+            "score": "6.8",
+            "comment": "Ăn bún đậu nhiều nơi rồi vẫn thấy bún đậu homemade là ngon miệng nhất nên vẫn trung thành với homemade.Quán rất đông khách nhé nhưng do đã mở rộng mặt bằng so với trước đây nên khách k phải ngồi đợi nữa.Mình gọi 1 phần bún đậu thập cẩm (65k) thêm bún ,đậu nữa và 1 trà tắc .Cái hay là mắm tôm ở đây để đường với tắc để khách pha mắm tôm cho hợp khẩu vị.Mắm tôm rất quan trọng,mắm tôm vừa là món đậu ăn ngon ngay.Đậu làm nóng ,giòn,k bị khô.Chả cốm thì k được ngon lắm.,bột bột.Thịt với bún ngon.Trà k đươc lấy tắc pha mắm tôm để pha trà tắc nhé😂 Giá cả khá cao nhưng chất lượng.Phục vụ:-Các bạn nên kiểm tra bill thật kĩ trước khi thanh toán,nhân viên ở đây tính sai tiền của mình á:("
+        },
+        {
+            "user": "Mai  Lannn",
+            "link": "https://www.foody.vn/thanh-vien/mailannn",
+            "score": "6.6",
+            "comment": "Bún đậu thập cẩm 65k : bún lá, đậu chiên cắt nhỏ, thịt ba chỉ ( mình không ăn mỡ nên tách nạc ra chả được mấy ), chả cốm, rau dưa chuột. Chả rươi vỏ quýt 58k : phần này có bún cuộn nhỏ lại ăn kèm. Chả ăn là lạ cơ mà khá cay đối với mình nên mình không chấm thêm mắm nữa luôn. Nước mơ 25k : uống không cảm nhận được vị mơ mấy. 2 người 2 phần này mà kiểu cố mới hết, khá là đầy bụng. Mình thấy có khách hỏi kẹo thì nhân viên đưa ra, nghĩ lát ăn xong cũng phải nói nhân viên mà quên mất tiêu. Lẽ ra quán nên đưa kẹo cho khách lúc tính tiền chứ T_T gửi xe bên ngoài vỉa hè quán 5k/ chiếc"
+        },
+        {
+            "user": "Thi Thi",
+            "link": "https://www.foody.vn/thanh-vien/phuong_thi1611",
+            "score": "7.6",
+            "comment": "Mình cũng ăn bún đậu ở khá nhiều chỗ rồi mà ở đây cảm thấy hài lòng nhất, giá cũng hợp lý, bánh gối ngon, nước chấm ổn, phần lòng luộc khá đầy đủ so với nhiều quán khácKhông gian thoải mái mát mẻ. Hầu như giờ nào cũng nhộn nhiệp đông khách, phục vụ ổn, nhanh nhẹn. Nước sấu ngon ạ 👍🏻 Lần nào ăn cũng nó ứ hự mới chịu 😂Có cái món ốc nhồi không được như ý lắm"
+        },
+        {
+            "user": "Tran Nhien",
+            "link": "https://www.foody.vn/thanh-vien/nhien_tran28",
+            "score": 0,
+            "comment": "Lần đầu tiên nhận xét về món ăn. Đây là lần thứ 2 bên Bún Đậu Homemade - Hồng Hà đưa nhầm cho mình từ đậu sang bún. Lúc mở ra bực mình thật sự luôn"
+        },
+        {
+            "user": "Linh Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/linh.nguyen-thi-dieu",
+            "score": "8.0",
+            "comment": "Bún đậu ở đây ngon bá cháy, đồ ăn nhiều, tươi ngon. Mình đi ăn ở đây 2 ngày liên tục mới hết đã thèm. Đặc biệt chả giò ở đây siêu siêu ngon, cuốn nóng giòn, đầy ắp nhân bên trong, nước chấm vừa miệng, chỉ muốn ăn hoài. Ăn bún đậu ở đây là đúng chất nhất, không gian quán cũng sạch sẽ, thoáng mát. Giá cả vừa phải Không gian quán thoáng mát sạch sẽ Nhân viên oder nhanh, ko phải chờ lâu."
+        }
+    ]
+}

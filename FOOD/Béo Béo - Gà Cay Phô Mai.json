@@ -1,0 +1,157 @@
+{
+    "name": "Béo Béo - Gà Cay Phô Mai",
+    "link": "https://www.foody.vn/ho-chi-minh/beo-beo-ga-cay-pho-mai",
+    "address": "85 Chấn Hưng, P. 6,  Quận Tân Bình, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 50.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.6"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "231"
+    },
+    "foods": [
+        {
+            "name": "Trà đào 1l",
+            "price": "30,000(đ)",
+            "total_orders": "56"
+        },
+        {
+            "name": "Hồng trà sốt phô mai",
+            "price": "18,000(đ)",
+            "total_orders": "43"
+        },
+        {
+            "name": "Trà sữa 1l full topping",
+            "price": "35,000(đ)",
+            "total_orders": "36"
+        },
+        {
+            "name": "Trà đào",
+            "price": "15,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Trà sữa trân châu",
+            "price": "15,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Hồng trà trân châu sốt phô mai",
+            "price": "30,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Hồng trà trân châu",
+            "price": "13,000(đ)",
+            "total_orders": "14"
+        },
+        {
+            "name": "Trà sữa",
+            "price": "12,000(đ)",
+            "total_orders": "13"
+        },
+        {
+            "name": "Trà đào sốt phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Hồng trà",
+            "price": "10,000(đ)",
+            "total_orders": "11"
+        },
+        {
+            "name": "Gà cay phô mai",
+            "price": "50,000(đ)",
+            "total_orders": "502"
+        },
+        {
+            "name": "Tokbokki lắc phô mai",
+            "price": "15,000(đ)",
+            "total_orders": "277"
+        },
+        {
+            "name": "Gà lắc phô mai",
+            "price": "25,000(đ)",
+            "total_orders": "206"
+        },
+        {
+            "name": "Phô mai que",
+            "price": "15,000(đ)",
+            "total_orders": "153"
+        },
+        {
+            "name": "Hoành thánh phô mai",
+            "price": "20,000(đ)",
+            "total_orders": "115"
+        },
+        {
+            "name": "Gà viên nhân phô mai",
+            "price": "35,000(đ)",
+            "total_orders": "107"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Ren Kun",
+            "link": "https://www.foody.vn/thanh-vien/fantasmasangue",
+            "score": "6.6",
+            "comment": "Quán đông khách, phải đến sớm, trễ quá menu hết món. Nhìn chung các món vừa miệng, không gọi là ngon nhưng để ăn vặt lai rai thì cũng hợp với giá cả"
+        },
+        {
+            "user": "Thi Thi",
+            "link": "https://www.foody.vn/thanh-vien/phuong_thi1611",
+            "score": 0,
+            "comment": "Ở quán có 3 cái nhất định phải thử là tok lắc phomai, hồng trà sốt phomai và gà cay phomai 😂Còn lại thì quán dạng bình dân, ghé vào ngày mưa thì nhìn bẩn lắm, xập xệ, ngập nước, nên đi ngày khô ráo thôi nha😨Gà viên ngánnn! 1 viên là k thể ăn gì nổi nữa luônnnMình thì đặc biệt cực thích hồng trà sốt phomai ở đâyy,sốt thì mặn mặn béo béo đặc mà cho nhiều nữa đã lắmmm, hồng trà thơmmm vị hồng trà của tuổi thơ ít ở đâu có 😍"
+        },
+        {
+            "user": "Phạm Ngọc Phước Duyên",
+            "link": "https://www.foody.vn/thanh-vien/pnpd.pun_13",
+            "score": "8.0",
+            "comment": "Ăn nhiều lần rồi nay mới vào foody review hihiBánh mềm phô mai béo Giá bánh chỉ 60k mà ship còn rẻ bèo nhèoĐến quán lấy cũng đc mà ship cũng đc luônGđ mình đều thích bánh của quánSẽ còn ủng hộ nữa nà 😍"
+        },
+        {
+            "user": "Hằng Đàm",
+            "link": "https://www.foody.vn/thanh-vien/nhoxmoon305",
+            "score": 0,
+            "comment": "Mình đến quán lúc 8h30, đồ ăn hết hơn 1/2 menu. Đây là lần đầu tiên mình đến quán, tính ghé ăn bún thịt nướng bên trên nhưng quán đã đóng cửa nên mình ghé vào đây ăn đại, do cũng có ngue tiếng từ lâu Mình gọi 1 phần gà cay phô mai và tokboki phomai. Về gà cay 50k/phần gà ra gà, phô mai ra phô mai ko mùi vị ko quện được vào nhau, gày cũng ko nóng. Nói chung ko thấy đc vị phô mai béo béo như tên quán. Giá cả thì chắc vừa với chất lượng. Về tokboki thì cứng cũng ko nóng. Nói chung chất lượng đồ ăn ko như mình mong đợi. Chỗ ngồi lụp xụp kiểu quán ven đường. Chắc sẽ ko quay lại đây nữa."
+        },
+        {
+            "user": "Quyên Quỹ Quái",
+            "link": "https://www.foody.vn/thanh-vien/quynququi",
+            "score": 0,
+            "comment": "Mình biết quán từ lúc mới mở, dùng trà sữa sốt phô mai ngon vô cùng, sốt rất béo thơm mùi phô mai & sốt đặc sệt chất lượng. Gà cay cũng ngon & quán sạch sẽ hơn bây giờ. Giờ uống lại quán giảm chất lượng sản phẩm kinh khủng, trà sữa quá ngọt, sốt phô mai mà ko có tí mùi phô mai, toàn là mùi sữa tươi nên lỏng le, ai sành uống là biết ngay thôi. Quán mùa mưa là ôi thôi bị dột nước, nhân viên thì lo nói chuyện giỡn với nhau, phục vụ chậm chạp, đã thế bị thu tiền giữ xe. Từ biệt quán luôn, không thích những quán đông khách rồi thì thay đổi chất lượng đồ ăn hết không còn là béo béo ngon nữa. Hơi tiếc"
+        }
+    ]
+}

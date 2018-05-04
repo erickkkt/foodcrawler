@@ -1,0 +1,212 @@
+{
+    "name": "Yoogane Chicken Galbi - AEON Mall Bình Tân",
+    "link": "https://www.foody.vn/ho-chi-minh/yoogane-chicken-galbi-aeon-mall-binh-tan",
+    "address": "Tầng 3, AEON Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông,  Quận Bình Tân, TP. HCM",
+    "open_time": "10:00 PM - 10:00 PM",
+    "price_range": "100.000đ - 200.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "44"
+    },
+    "foods": [
+        {
+            "name": "Cơm rang chicken galbi xào chảo",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm rang Dakbulgogi xào chảo",
+            "price": "79,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm rang thịt bò xào chảo",
+            "price": "89,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm rang hải sản xào chảo",
+            "price": "79,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Rang Thập Cẩm",
+            "price": "79,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Cơm Rang Cay",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm trộn gia vị",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Gạo Tok Thập Cẩm",
+            "price": "70,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Bánh Gạo Tokbokgi",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Gạo Tok Pho Mai",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Gạo Tok Khoai Lang",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Gạo Tok Tokbokgi",
+            "price": "100,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Gạo Tokbokgi Hoàng Gia",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chicken Galbi Hải Sản",
+            "price": "250,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Yoogane Chicken Galbi",
+            "price": "150,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Chicken Bulgogi",
+            "price": "170,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chicken Galbi Nướng",
+            "price": "170,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chicken Galbi Vị Cay",
+            "price": "160,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chicken Galbi Bạch Tuộc",
+            "price": "220,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bánh Xèo Hải Sản",
+            "price": "150,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Dakbulgogi Miến Trộn",
+            "price": "150,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trứng Cuộn",
+            "price": "80,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mỳ Thập Cẩm",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mỳ Tôm",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mỳ Dai",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mỳ U-don",
+            "price": "40,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Phô Mai",
+            "price": "50,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Anh Thư",
+            "link": "https://www.foody.vn/thanh-vien/anhth1348",
+            "score": "7.4",
+            "comment": "Mua vé CGV được tặng phiếu ưu đãi giảm 50% tổng hóa đơn nên mình ghé ăn thử! Phần gà phomai to ú ụ . Nếu đi ăn 2 người lời khuyên cho bạn là chỉ gọi một món thui ăn ko hết đâu! Ăn no căng luôn . Phomai nhiều đồ ăn kèm khá nhiều loại có cả canh ăn chung chỉ có gà theo mình là hơi mềm. Chắc gà công nghiệp nên thấy khá ngán, sữa gạo uống ngon 30k/ chaiLần trc ăn lẩu chẩu to nhiều mà thấy vị không hấp dẫn lắm. Phục vụ rất nhiệt tình hầu như ko để mình tự đảo thức ăn luôn! Quầy tính tiền có nước hoa cho mình dùng miễn phí sau khi ăn. Hi"
+        },
+        {
+            "user": "Sky Smile",
+            "link": "https://www.foody.vn/thanh-vien/thanh.itsme93",
+            "score": "7.4",
+            "comment": "Mình thấy gà mềm cay cay ăn nóng quết vs phô mai ngon. Chấm mỗi món đó. Kì sau có món j mì lạnh. Ăn kinh khủng. Chắc k hợp khẩu vị. Lẩu cũng không ngon. Đc cái là nồi to thui. Giống chảo. Đc món gà phô mai với cơm cà chiên cay phô mai"
+        },
+        {
+            "user": "Giàu Ngọc",
+            "link": "https://www.foody.vn/thanh-vien/giau.ngoc.311",
+            "score": "6.6",
+            "comment": "Bạn mình khen ngon nên rủ cả đám vào đây ăn thử.Riêng mình thì mình thấy rất bình thường.Gà thì vị cũng thường thôi.Phục vụ thì tương đối oke,nhân viên tận tình."
+        },
+        {
+            "user": "lenn711",
+            "link": "https://www.foody.vn/thanh-vien/glinhh.47",
+            "score": "8.6",
+            "comment": "mình đi ăn lần 2 nhóm mình 5 người kiu 1 gà phô mai nèmột cơm rang phô maimột miếng trộn hàn quốc một mì lạnhvới dĩa hải sản mình k nhớ rõ tên:)))gà phô mai thì cayphô mai kéo kéo ăn cũng okmình thấy mỳ lạnh k ngon lắmở đây k miễn phi nước nheecơm rang phô mai ăn ngon á món miến trộn cũng ngon sợi mềm đây là 1 quán bên hànn quốc nè có trên phim nữagiá gà xào phô mai trong hình là 399k nhaăn cũng okgiá thì theo mình cũng k cao lắm đâu"
+        },
+        {
+            "user": "Quỳnh Như Bùi",
+            "link": "https://www.foody.vn/thanh-vien/2uynhnhu",
+            "score": "6.6",
+            "comment": "➖Khá ngon nhưng gà cay hơi hắc mùi ớt hàn quốc nhiều➖Còn tok thì siêu ngon, sốt đậm đà, ăn ghiền luôn➖Nhân viên dễ thương, mua mang đi nên nhìn có vẻ ít"
+        }
+    ]
+}

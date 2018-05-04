@@ -1,0 +1,80 @@
+{
+    "name": "Marukame Udon - Udon & Tempura - Lý Tự Trọng",
+    "link": "https://www.foody.vn/ho-chi-minh/marukame-udon-udon-tempura",
+    "address": "215 Lý Tự Trọng, P. Bến Thành,  Quận 1, TP. HCM",
+    "open_time": "07:00 AM - 09:30 PM",
+    "price_range": "60.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/marukame-udon?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.4",
+        "total_review": "608"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Quang Trung Vương",
+            "link": "https://www.foody.vn/thanh-vien/trungpro3946344",
+            "score": "8.0",
+            "comment": "- Nay mình thử món udon bò trứng dạng mì khô không nước lèo. Mì có trộn sẵn tí sauce riêng, kèm theo 1 trứng lòng đào để mình trộn đều lên ăn hấp dẫn cực. Sau này ăn sẽ kêu món này. - Bạn mình ăn cơm heo chiên, món này ăn ngon, chắc bụng nha, được nguyên tô cơm luôn. Heo cũng hấp dẫn lắm. - Tuy tự phục vụ là chính nhưng nhân viên đã chuyên nghiệp hơn ngày xưa mình đi. - Mỗi người ăn khoảng 100.000."
+        },
+        {
+            "user": "Mig Linh",
+            "link": "https://www.foody.vn/thanh-vien/migidang",
+            "score": "6.8",
+            "comment": "Lâu rồi mới ghé lại chỗ này, đồ ăn vẫn ngon, thích mì nhưng nay dùng thử món cơm xem sao, không gian cũng không có gì thay đổi, ổn."
+        },
+        {
+            "user": "Thị Phương Lê",
+            "link": "https://www.foody.vn/thanh-vien/phuong.le-thi",
+            "score": "6.6",
+            "comment": "Nhân dịp lễ 2/9 đòi Anh người iu dẫn đi ăn đồ Nhật cho bằng đươc, thê là lại la cà đên đây.ANY mình không thích đồ nhật cho lắm những cũng khen quán này được và lần sau có dịp sẽ ghé tiêp.Quán này đi kiểu tự phục vụ là chính, vô tự gọi món ăn, tự lấy món ăn kèm xong rồi cuối line là tính tiền luôn. Mà tính tiền xong thì có nhân viên bưng khay xếp chỗ cho ngồi. Mình đi 2 lần đều ăn udon cà ri. Đơn giản vì nó ngon. Mình rất thích nước cà ri Nhật ở đây, phần nước béo béo, có mùi vị đặc trưng của cà ri Nhật (không biết tả sao nhưng khác cà ri Việt Nam =]]]], một tô như vậy thịt bò cũng nhiều chứ không phải chỉ loe hoe có vài miếng, lấy thêm một phần trứng lòng đào lăn bột nữa là đủ độ béo luôn. Trứng bên ngoài có lớp vỏ giòn bên trong lúc nào sắn ra vẫn còn ướt và lòng đỏ thì khá lỏng, 10 trứng như 1 luôn. Giá tính ra thì cũng tương đối với các quán ramen, udon Nhật khác, nhưng tính ra cũng khá cao, nhưng chủ yếu phục vụ ở khu đó cho Tây nên giá cũng tạm ổn. Nhân viên phải nói cực kỳ thân thiện luôn, lúc nào cũng tươi cười và chia khâu rõ ràng, vị trí người nào ra vị trí người đó."
+        },
+        {
+            "user": "Quốc Huy ♏️",
+            "link": "https://www.foody.vn/thanh-vien/QuocHuy94",
+            "score": "7.4",
+            "comment": "Hôm nay tối thứ 6 tự thưởng cho bản thân một bữa ăn no nê .Thiệt ra thì mình ăn ở đay cũng khá nhiều lần rồi , nên chắc không bàn về chất lượng nhiều .Mình thích cách bài trí , khung cảnh của quán , tạo cảm giác rất thú vi , rất Nhật ! Các món ăn ở đây giá cả cũng dễ chịu , không quá đắt đỏ .Ngoài ra , chỉ có 1 điểm trừ duy nhất là nhân viên thiếu tập trung , không vui vẻ .Bữa ăn hôm nay chắc tầm 120.000 / người ."
+        },
+        {
+            "user": "Heo Đất Martin",
+            "link": "https://www.foody.vn/thanh-vien/letrongtin26021991",
+            "score": "10",
+            "comment": "Thức ăn tươi ngon , nhân viên phục vụ tốt , không gian khá nhỏ ..."
+        }
+    ]
+}

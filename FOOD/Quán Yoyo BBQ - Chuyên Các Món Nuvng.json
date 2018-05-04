@@ -1,0 +1,521 @@
+{
+    "name": "Quán Yoyo BBQ - Chuyên Các Món Nướng",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-yoyo-chuyen-cac-mon-nuong",
+    "address": "66 Đường Số 9, KDC Trung Sơn,  Bình Chánh, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 99.000đ",
+    "category": [
+        {
+            "category": "Quán ăn,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Quán nhậu",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-nhau"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "6.9"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.7"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "34"
+    },
+    "foods": [
+        {
+            "name": "Chả giò",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm cháy khô cá dứa",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau muống xào",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau cải xào nấm",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau luộc kho quẹt",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu bắp hấp",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad trứng",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Gỏi hải sản",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò xào",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực xào",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu bắp mỡ hành",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai tây chiên",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm chiên muối ớt",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà hấp hành",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mề gà xào sả ớt",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà chiên",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò xào củ hành",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc xào sa tế",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa xào",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa chiên mắm",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng bò xào sa tế",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng bò xào sả ớt",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng bò xào củ hành",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng bò xào cải chua",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái khế xào cay",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Lòng bò hấp gừng",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn bò hấp gừng",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn gà cháy tỏi",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc nhúng Thái",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá điêu hồng Hong Kong",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hủ chiên sả",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đuôi bò hấp",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba rọi bò Mỹ",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba rọi bò Úc",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Mỹ cuộn nấm",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Úc cuộn nấm",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thăn file bò Mỹ",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thăn ngoại bò Mỹ",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dẻ sườn bò Mỹ",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn cừu",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cừu sốt Thái",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cừu sốt xí muội",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cừu nướng phô mai",
+            "price": "119,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Mỹ nướng wasabi",
+            "price": "149,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nhúng giấm",
+            "price": "129,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nghêu mỡ hành",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nghêu phô mai",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chân gà nướng",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mề gà nướng",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Xiên que",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cánh gà nướng",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sụn gà nướng",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Ba rọi Hàn Quốc",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Hồ lô Japan",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò cuộn nấm",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc nướng",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm nướng muối ớt",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vú dê nướng",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Heo tộc nướng mè",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đà điểu sa tế",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Thịt nai ngũ vị",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò nướng phô mai",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá saba giấy bạc",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cá điêu hồng",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu bắp nướng",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Khoai lang nướng",
+            "price": "29,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm xào rau củ",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò cuộn đậu bắp",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên ớt hiểm",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu hủ nướng giấy bạc",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò Củ Chi ngũ vị",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạch tuộc hấp",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mực sữa hấp gừng",
+            "price": "99,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò tái chanh củ hành",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò lúc lắc khoai tây",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bò sốt lăn Thái",
+            "price": "79,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Tôm wasabi mù tạt",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Chả giò chay chiên",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào chay",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sườn chay chiên tương",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nấm xào rau củ",
+            "price": "59,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mì xào nấm chua ngọt chua",
+            "price": "69,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cơm chiên tỏi chay",
+            "price": "49,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Salad rau chay",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Rau luộc chấm chao chay",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đậu bắp nướng mỡ hành",
+            "price": "39,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Hân Lê",
+            "link": "https://www.foody.vn/thanh-vien/lethingochan25121996",
+            "score": 0,
+            "comment": "Nhóm mình đi 6 người, có lẽ vì xài hotdeal nên bị đối xử hờ hững. Do không đặt bàn trước thế là bị phụ thu 30k/ người.+ Đồ ăn cũng tạm được: nhưng chỉ được vài món. Đồ ăn hết trên quầy nhưng không được đem lên thêm mặc dù lúc đó còn sớm. Bạn mình muốn ăn mực nên ngồi đợi mực lên nhưng chờ mãi không thấy đến khi có 2 khách vào sau thì 2 khách đó được nhân viên mang 1 dĩa mực đầy lên. Mình hỏi chính nhân viên mang dĩa mực đó lên là mực không còn ạ thì được câu trả lời là nhân viên phục vụ không biết trong bếp khi nào đem lên thêm. Nhóm mình bị 2 3 bàn như vậy luôn. Mang tiếng là buffet mà khách không được ăn thoải mái cái mình thích.+ Không gian cũng tạm ổn.+ Phục vụ không nhiệt tình: đến cả ông chủ còn không tận tình với khách huống chi là đến nhân viên.Nhóm mình hỏi có thể sử dụng 3 lò hay không nhưng nhân viên nói 2 bàn chỉ 2 lò thôi mà trong khi đó bàn vào sau 1 bàn 2 người 2 lò. Không nói nên lời.KHÔNG BAO GIỜ TRỞ LẠI."
+        },
+        {
+            "user": "Phúc Duy",
+            "link": "https://www.foody.vn/thanh-vien/h_duym_tam",
+            "score": "6.0",
+            "comment": "Mình chưa bao giờ đi ăn ở nơi nào về mà như nơi này ,lời đầu tiên xin nói mình ko bao giờ đăng bài như thế này , chủ tị thấy bức xúc nên nói để mọi người tránh xa ra .Vk mình đi ăn với 3 người bạn , mình làm4 về chở con chạy ra  tổng cộng 4 người lớn 1 em bé , sau 1 hồi ăn tổng bill 800 mấy . Không ngon toàn món tào lao , cái nào ngon phải mua thêm. Nói chung ko đáng đừng nên ăn mình khuyên các bạn."
+        },
+        {
+            "user": "Trụ Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/hinhkimtru.nguyen",
+            "score": 0,
+            "comment": "Quán không còn gì để chê hơn được nữa.Đi ngang qua thấy để Buffet 95k, cũng không kì vọng nhiều. Chủ yếu nghĩ vừa lai rai vừa chém gió. Tuy nhiên thức ăn không ngon thì không sao, đằng này là đồ ăn bị hỏng thì mới có sao. Mình lấy cá về nướng, nướng được chút thì ngửi ngay thấy mùi thiu, thậm chí là thối, như kiểu để hỏng từ lâu.Hỏi nhân viên thì nhân viên cũng công nhận cá bị thiu và lấy vào, kèm theo lời an ủi\"anh/chị cứ lấy cá khác mà nướng. Bình thường tươi lắm nhưng chắc hnay có sơ suất\". Dạ thưa các anh/em đồng chí, các anh ướp thức ăn vào chung 1 khay, kể cả các con cá khác không bị gì, em cũng không dám ăn ạ. Tự nhiên dính ngay phát đầu tiên, làm không còn bụng dạ nào để thử cac món khác, không biết có phải xui hay không, nhưng khuyên mọi người cẩn thận nướng chín, nướng kĩ, nướng khét chút và kiểm tra trước khi bỏ vào miệng.Để có thể cho được 1 điểm, 1 là vì Foody không có điểm \"âm\". Lý do còn lại là khi giải thích với nhân viên và đề nghị rút lại phần ăn vì không an tâm. Thì nhân viên cũng xin lỗi và đồng ý để mình không cần thanh toán phần ăn buffet.Tuy nhiên, 2 chai nước ngọt thì vẫn phải trả tiên. Tổng thiệt hại cho bữa ăn là 36k cho 2 chai pepsi. Nhanh chóng đưa luôn 40k rồi đua nhanh về các quán ăn quen thuộc.Mình hiểu với giá tiền đó sẽ không thể kì vọng được như các nhà hàng khác. Nhưng nếu bỏ tiền để đi ăn thức ăn ôi thiêu, thì mình xin phép chia tay mà không dám đòi quà ạ.Hy vọng quán sẽ làm ăn cẩn thận hơn trong thời gian tới."
+        },
+        {
+            "user": "thao7398",
+            "link": "https://www.foody.vn/thanh-vien/thao7398",
+            "score": 0,
+            "comment": "Không phải lần đầu đi ăn đồ nướng. Thấy quán này giá ổn nên rủ bạn bè đi ăn thử coi ra sao. Ai dè ra sao thiệt. Mua 7 vc mà đi được 6 người à. Vậy mà lúc ra bill lại tính 7 người may mà chị kia phát hiện trừ ra nếu không mất tiền oan lần thứ 1 rồi. Lần thứ 2 là khi gọi tới hỏi mua e_vc rồi cái ông bên quán mới nói là đi 5 người được tặng nồi lẩu và chị mình cũng đã nói là đã mua e_vc rồi xong tới đó bạn mình nó mới ăn đồ nướng nói có lẩu nó mới lấy thêm đồ để bỏ vào lẩu \"tới đây mình mới biết là sau khi ăn đồ nướng xong hết mới đc ăn lẩu tặng\" cái này là do k biết thôi nên ông chủ quán ra xong mới kêu là xí xóa. Rồi lát ra bill mới tá hỏa là nồi lẩu tính riêng gần 300k trong khi đó đưa ra có 1 đĩa bò có mấy miếng 1 đĩa rau thôi đó. Chị đặt e_vc mới nói sao em gọi tới là đc tặng lẩu bây giờ lại tính là sao. Ông đó mới nói là em có ghi âm cuộc gọi lại không \"rảnh quá có mấy chục mà cứ tưởng đi ăn cả triệu đi ghi âm\". Rồi cuối cùng chị mình mới kêu cho chị cái hóa đơn để đem về thế là nhân viên mới ra nói 1 câu là \" chị ơi lấy bill thì tính 10% nữa chị\" tới đây mình và mọi người đứng hình luôn. Có 1 tờ hóa đơn nhỏ xíu thôi mà 10% đấy. Nể thật. Lúc về còn nhìn nhìn liếc liếc. Nhân viên pv thì ok mà thái độ chủ quán thấy thì khỏi chê. Vì đâu còn chỗ nào để khen đâu hihi. Thứ nhất ở đây không rõ ràng từ đầu. Thứ 2 nói chuyện với khách giống như dân chợ búa vậy đó. Thứ 3 đến tờ giấy hóa đơn thôi 10% là khỏi phải bàn rồi. Tiếc là k chụp đc cái bill đưa ra để chứng. Khô lời rồi nhưng mà nhắc mọi người nên ghi âm cuộc gọi khi tới chỗ này ăn nha. Nhớ nha...."
+        },
+        {
+            "user": "tnbu0593",
+            "link": "https://www.foody.vn/thanh-vien/tnbu0593",
+            "score": 0,
+            "comment": "Mình không nói tới số lượng đồ ăn, hương vị hay là gì vì mình biết với giá bao nhiêu đó thì như vậy cũng tạm nhưng thái độ phục vụ rất thiếu chuyên nghiệp và nhân viên thì kiểu như muốn leo đầu khách ngồi (nghĩ là nên training lại cho quản lí đi nha, quản lí gì quá thiếy chuyên nghiệp) À thêm 1 điều về quán nữa là quán thích cho giá bao nhiêu thì khách phải trả bấy nhiêu thì phải (cái lẫu trong menu ghi 149k thì đưa hoá đơn là 249k rồi kêu là do lấy nhìu đồ nướng nên lẫu tăng giá) bọn mình tính tiền xong xin lại hoá đơn thì kêu làm mất, hỏi viết lại cái khác thì đòi lấy thêm 10% nữa mới viết. Mấy chục ngàn không là gì nhưng thấy quán làm ăn vậy là không được. Mình xin góp ý nha để mấy khách sau dc phục vụ tốt xíu chứ mình cũng không có ý quay lại."
+        }
+    ]
+}

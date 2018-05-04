@@ -1,0 +1,80 @@
+{
+    "name": "Pizza Hut - Nơ Trang Long",
+    "link": "https://www.foody.vn/ho-chi-minh/pizza-hut-no-trang-long",
+    "address": "130 Nơ Trang Long, P. 14,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "150.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/pizza-hut?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "8"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Vy Tran",
+            "link": "https://www.foody.vn/thanh-vien/vy.tran.3990",
+            "score": "6.6",
+            "comment": "Không đông bằng các chi nhánh khác Hầu như là yên tĩnh hơn hẳn nên có lẽ vậy mà mình thấy ít nhân viên Không gian quán khá bắt mắt, có vài chỗ để sống ảo được Mình kêu phần mua 1 tặng 1 nhưng là bánh viền phô mai 3 vị được tặng bánh thường Cứ hỏi nêu thắc mắc, nhân viên hướng dẫn rất nhiệt tình Hoá đơn 300 mấy 400 là khá đắt nhỉ :))Nhưng mà khá ngon nên không sao Viền phô mai 3 vị nhưng mà thực ra thì mình chỉ thích có 1 vị thôi mà quên mất là gì rồi :))Nói chung là cái nào có miếng phô mai ở trên ấy 👍🏻"
+        },
+        {
+            "user": "Po'ss Ú'ss",
+            "link": "https://www.foody.vn/thanh-vien/po'ss'ss",
+            "score": "7.0",
+            "comment": "Lâu lắm r em mới đi ăn ở pizza hut, hôm nay có dịp ghé ăn,  pizza hut đang có chương trình khuyến mãi buổi trưa mua bánh size nhỏ chỉ 29k size vừa 69k size lớn 99k + nhân Viên thân thiện , tư vấn cho mình luôn + đợi tầm 10-15' sẽ có bánh+ bánh ngon vừa miệng + không gian rộng,  do chi nhánh mới nên cũng không Đông khách cho lắm + bữa đó em đi là mua 1 tặng 1 nếu mua bánh kèm với salad và 1 chai nước ngọt Sẽ quay lại"
+        },
+        {
+            "user": "Nhung Phạm",
+            "link": "https://www.foody.vn/thanh-vien/heoconshynk",
+            "score": "7.8",
+            "comment": "*Vị trí: Quán nằm trên đường Nơ trang long, rất dễ thấy, gửi xe miễn phí.*Nhân viên: nhiệt tình, vui vẻ, nhanh nhẹn, món ăn lên rất nhanh, không phải chờ đợi lâu.*Quán có chương trình pizza buổi trưa nên mình ghé thử, mình gọi thử 2 pizza nhỏ vị bò nướng phô mai và pizza cá ngừ thanh cua. Dù là pizza khuyến mãi nhưng vẫn rất ngon như những pizza bình thường mình ăn. Quá thích luôn.* Giá cả: có 5 loại pizza theo chương trình này với giá 29k - 69k - 99k để mình lựa chọn theo số lượng người đi.Trải nghiệm lần này ở quán rất thích sẽ ủng hộ quán dài dài 😍😍😍"
+        },
+        {
+            "user": "laDi",
+            "link": "https://www.foody.vn/thanh-vien/vu.dieudl",
+            "score": "7.2",
+            "comment": "Hết giờ làm ghé mua pizza về ăn, quán vắng khách. Gửi xe miễn phí Không gian quán đẹp, ấm cúng Nhân viên nhiệt tình Mua 1 tặng 1 phải mua thêm nước và salad, hết 298kSẽ quay lại khi có dịp"
+        },
+        {
+            "user": "Wu Ada",
+            "link": "https://www.foody.vn/thanh-vien/hothuygiahoi",
+            "score": "8.0",
+            "comment": "Hôm nay ghé quán, nhân dịp Valentine được khuyến mãi 1 dĩa salad. Nhân viên phục vụ rất dễ thương và vui vẻ dù quán đang rất đông. Lúc mình chưa đến, chị mình order và quên mang phiếu lucky hôm Tết, sau đó mình đem ra nhưng vẫn được nhân viên phục vụ ^0^ cảm thấy rất happy"
+        }
+    ]
+}

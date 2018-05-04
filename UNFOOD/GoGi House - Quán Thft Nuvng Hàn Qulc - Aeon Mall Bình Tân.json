@@ -1,0 +1,80 @@
+{
+    "name": "GoGi House - Quán Thịt Nướng Hàn Quốc - Aeon Mall Bình Tân",
+    "link": "https://www.foody.vn/ho-chi-minh/gogi-house-aeon-mall-binh-tan-quan-thit-nuong-han-quoc",
+    "address": "Tầng 3, Aeon Mall Bình Tân,1 Đường Số 17A, KP. 11, P. Bình Trị Đông B,  Quận Bình Tân, TP. HCM",
+    "open_time": "10:00 - 22:00",
+    "price_range": "150.000đ - 250.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/gogi-house-quan-nuong-han-quoc?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.1"
+        }
+    ],
+    "summary": {
+        "average_score": "6.7",
+        "total_review": "41"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Cá  🐡",
+            "link": "https://www.foody.vn/thanh-vien/csiunhn",
+            "score": "8.0",
+            "comment": "Quán rộng rãi, nhân viên thân thiện. Đồ ăn cũng ngon quá trời. Có điều cơm trộn không được ngon cho lắm."
+        },
+        {
+            "user": "An Ni Bảo Bối",
+            "link": "https://www.foody.vn/thanh-vien/banana_pepy",
+            "score": "7.2",
+            "comment": "Mình ăn ở đây nhiều lần lần nào cũng đi 2 người nên gọi đồ ăn lúc nào cũng dư. May là quán đang có những combo tiết kiệm ăn rất okie mình gọi combo hình như giá 169k có canh rong biển cơm trắng phần bò và sườn như hình, gọi thêm bạch tuộc baby vs 1 chén cơm trắng nữa là 2 đứa ăn vừa no lại ko quá ngán. Tổng thiệt hại 400k Nhà hàng luôn đông nhưng nhân luôn nhiệt tình hết mức có thể"
+        },
+        {
+            "user": "Yuri Leon",
+            "link": "https://www.foody.vn/thanh-vien/lachuebinh",
+            "score": "7.0",
+            "comment": "Nhân viên thân thiện và nhiệt tình. Tụi mình vừa đến đã được nhân viên set up và hướng dẫn gọi món nhiệt tình.Mình dùng combo thịt nướng và lẩu. Thịt rất nhiều và ướp vừa vị. Lẩu cũng khá ngon, có cả bánh gạo ăn lạ miệng. Thêm nữa là món ăn nhẹ rong biển rất ngon, gọi thêm free. Tặng kèm bình trà sả, refill thoải mái."
+        },
+        {
+            "user": "Đăng Nghị Kiên mc",
+            "link": "https://www.foody.vn/thanh-vien/dangnk",
+            "score": "6.0",
+            "comment": "Hôm trước có đi với gia đình 6ng ko biết ăn gì nên ghé vào Gogi thử luôn.- Về chất lượng: các món nướng và canh kim chi ăn rất được, ổn còn các món mì như mì lạnh, mì tương đen ăn ko ngon cho lắm, vị còn HQ quá cứ nhạt nhạt sao ý ko hợp khẩu vị ng Việt cho lắm- Về giá cả: cũng ổn nhưng sao với chất lượng thì có hơi  thất vọng, đi 6ng gọi 1 món nướng, 3 phần mì + cơm, canh chưa no bụng, tổng 1tr6 chưa thuế."
+        },
+        {
+            "user": "Phuong Hoa Pham",
+            "link": "https://www.foody.vn/thanh-vien/phuonghoa.pham.184",
+            "score": 0,
+            "comment": "Hôm nay thứ 7 mình đi ăn gogi mà cảm thấy thất vọng vô cùng luôn. Mình ngồi chờ tận 20' gọi quản lý ra hỏi thì 10' sau mới dọn ra. Và điều tệ nhất là trong lúc đang ăn và có một bạn nhân viên nữ ra để 1 chồng chén ly trước mặt như đuổi khách vậyGogi nguyễn thái học q1 đến bình dương đều có thái độ với khách hàng Đã ăn dở còn bực mình cái thái độ dằn mặt khách của bạn nhân viên ahihi không có lần sau nhé"
+        }
+    ]
+}

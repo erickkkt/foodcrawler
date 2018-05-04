@@ -1,0 +1,80 @@
+{
+    "name": "Tano Sushi - Phan Xích Long",
+    "link": "https://www.foody.vn/ho-chi-minh/tano-sushi-3-phan-xich-long",
+    "address": "206 Phan Xích Long,  Quận Phú Nhuận, TP. HCM",
+    "open_time": "",
+    "price_range": "30.000đ - 260.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/tano-sushi?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.8"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "223"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nhi Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/pigline",
+            "score": 0,
+            "comment": "Vịt trí dễ tìm, nhưng tầng 2 hơi ồn vì đông khách nhưng ko cho ngồi tầng 1 có lẽ phòng riêng. Quán nhật nhưng chén, thìa, ly ko theo phong cách Nhật. Phục vụ nhẹ nhàng nhưng không chuyên nghiệp, hay quên... thức ăn tạm ổn, đèn hơi mờ mờ, và giá khá mắc so chất lượng , cách phục vụ. Nếu được mời sẽ đi nhưng để trả tiền có lẽ sẽ chọn các quán khu vực lân cận nhưng giá dễ chịu hơn."
+        },
+        {
+            "user": "Cà Phê Espresso",
+            "link": "https://www.foody.vn/thanh-vien/nha_nguyen1511",
+            "score": "6.8",
+            "comment": "Thèm sushi nên lôi bạn lại đây ăn, trưa mà sao quán vắng quá hà...Không gian khá đẹp mắt.Sushi cá hồi ở đây tạm ổn nhưng giá hơi chát."
+        },
+        {
+            "user": "Huy Hoàng",
+            "link": "https://www.foody.vn/thanh-vien/huyhoang1382000",
+            "score": "7.2",
+            "comment": "Mình có ăn một lần ở đây, nói chung thức ăn khá ổn,giá cả cũng ok.Mình và thằng bạn ăn 1 cái lẩu zs 3-4 món gì nữa tầm hơn 600k.Có điều là hôm đó mình thấy quán không đông khách lắm mà đồ ăn ra hơi chậm zs lúc kêu tính tiền thì 20p sau ms có hoá đơn..."
+        },
+        {
+            "user": "Khoa Lê Văn",
+            "link": "https://www.foody.vn/thanh-vien/soiham.ftu",
+            "score": "8.6",
+            "comment": "Không gian quán này cực kỳ đẹp, hình như có hai mặt tiền thông ra 02 con đường lận thì phải. Tuy nhiên lúc mình vào vắng khách nên kiếm mãi mới ra mấy bạn phục vụ để order món ăn. Các món Nhật tại đây chế biến củng tương đố ổn rồi. Vị cá hối tươi nogn thơm lừng trong miện luôn ý."
+        },
+        {
+            "user": "Thái Duy Võ",
+            "link": "https://www.foody.vn/thanh-vien/angelofdeath_d",
+            "score": "8.6",
+            "comment": "Quán thì tuyệt vời rồi nhưng dạo gần đây đông lên nên có vẻ phần sashimi và rainbow mình hay ăn bị nhỏ lại hay sao :v nhưng chất lượng vẫn tuyệt. Để đi vài lần nữa đánh giá xem sao :v Các món nên thử tại quán là cuộn cá thập cẩm, sashimi cá hồi, cuộn cá ngừ với hành, cuộn cá hồi phô mai, sushi mực sôt cay, sushi cá hồi sốt cay.. không gian rộng rãi, nhân viên nhiệt tình , đặt bàn qua foody giảm 10%. Nhưng sàn gỗ nên có mấy bé chạy suốt buổi ầm ầm, quán có biện pháp khắc phục ko nhỉ ?"
+        }
+    ]
+}

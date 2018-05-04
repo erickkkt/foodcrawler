@@ -1,0 +1,151 @@
+{
+    "name": "Ốc Oanh 1 - Vĩnh Khánh",
+    "link": "https://www.foody.vn/ho-chi-minh/oc-oanh",
+    "address": "534 Vĩnh Khánh, P. 8,  Quận 4, TP. HCM",
+    "open_time": "",
+    "price_range": "100.000đ - 165.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/oc-oanh?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "6.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.1"
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Giá cả",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "5.7",
+        "total_review": "249"
+    },
+    "foods": [
+        {
+            "name": "Càng ghẹ rang muối",
+            "price": "120,000(đ)",
+            "total_orders": "70"
+        },
+        {
+            "name": "Ốc hương xào muối",
+            "price": "150,000(đ)",
+            "total_orders": "33"
+        },
+        {
+            "name": "Bạch tuộc nướng muối ớt",
+            "price": "160,000(đ)",
+            "total_orders": "31"
+        },
+        {
+            "name": "Nghêu hấp thái",
+            "price": "60,000(đ)",
+            "total_orders": "26"
+        },
+        {
+            "name": "Ốc hương xào bơ",
+            "price": "150,000(đ)",
+            "total_orders": "21"
+        },
+        {
+            "name": "Hào Nướng Phô Mai",
+            "price": "50,000(đ)",
+            "total_orders": "20"
+        },
+        {
+            "name": "Chem chép xào rau muống",
+            "price": "60,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Ốc tỏi xào bơ",
+            "price": "140,000(đ)",
+            "total_orders": "10"
+        },
+        {
+            "name": "Chem chép xào tỏi",
+            "price": "60,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Cháo Hải Sản",
+            "price": "160,000(đ)",
+            "total_orders": "6"
+        },
+        {
+            "name": "Ốc hương nướng",
+            "price": "150,000(đ)",
+            "total_orders": "5"
+        },
+        {
+            "name": "Ốc tỏi nướng phô mai",
+            "price": "140,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Chem chép xào mỡ hành",
+            "price": "60,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Chem chép hấp xả",
+            "price": "60,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Do Phan Phuc",
+            "link": "https://www.foody.vn/thanh-vien/dophanphuc",
+            "score": 0,
+            "comment": "Ghé ăn 1 lần chắc bye luônkêu 3 con hào nướng phô mai,tính 140k,mà hào không mấy gì tươi,ăn không ngọt,mà còn dai nữadĩa sò lông khoảng 8-9 con=100k,nếu đúng 'lông \"cũng không nói,đằng này là \"sò lá\",chút xíu,dai nháchnói túm lại tui kêu như vầy:-1 tô cháo hào nhỏ(1 người)-1 ốc len xào dừa(món này ăn được)-1 sò lông(lá thì có) nướng-3 con hào nướng phô mai-1 nước suối+ 1 khăn lạnhtổng công 473.000,bye luôn ha !!!mà quán lề đường thôi"
+        },
+        {
+            "user": "Phulong",
+            "link": "https://www.foody.vn/thanh-vien/phulong",
+            "score": 0,
+            "comment": "Quán này chặt chém giữa sài gòn. Nghêu hấp 100k. Hàu 40k. Mỳ xào ốc giác 100k. Sò lông 160k. 2 thằng ctrai vào gọi 4 món với 10 chai bia hết 650k. Đồ ăn ở đây hải sản thì to nhưng k ngon lắm. Giá tính đắt gấp đôi bình thường. Vào 1 lần cho biết rồi thôi chứ k dám quay lại. Đến lúc lấy xe nó còn k trả chìa khoá cho khách và định đòi 50k mỗi xe nữa. Không hiểu sao chất lượng dịch vụ vậy mà quán vẫn đông"
+        },
+        {
+            "user": "Kẹp Nơ",
+            "link": "https://www.foody.vn/thanh-vien/congchuatrenthaonguyen123",
+            "score": "6.2",
+            "comment": "Ấn tượng đầu tiên là vào quán mà không ai quan tâm! Gọi món nhân viên ở đây cũng hơi đỉnh, ko cần ghi nhưng vẫn nhớ được hết tất cả các món mà ko bị nhầm lẫn (cho 1 điểm cộng)Ấn tượng thứ 2 là size ốc, bạch tuộc, càng ghẹ...rất khủng. Quán nấu 1 số món ngay vỉa hè nên có thể chiêm ngưỡng được hết size của các em í, nhìn đã mắt lắm.Ấn tượng thứ 3 là lúc tính tiền giá cũng khủng luôn! Rẻ nhất là 50k, cao nhất là 120k theo các món mình gọi. Mình ko ăn càng ghẹ với bạch tuộc nên ko biết giá ra sao. Tính tiền xog choáng thật ấy =]]Ốc tương đối ngon và tươi nhưng chắc ko quay lại lần nữa."
+        },
+        {
+            "user": "Nguyen Vo",
+            "link": "https://www.foody.vn/thanh-vien/yuenvox",
+            "score": 0,
+            "comment": "Nếu ngon và phục vụ tốt thì giá cả không thành vấn đề, nhân viên chợ búa, khu vực ngồi ăn tầm thường, đồ ăn dở"
+        },
+        {
+            "user": "Dlee081297",
+            "link": "https://www.foody.vn/thanh-vien/Dlee081297",
+            "score": 0,
+            "comment": "Có hôm trời mưa đi ngang chỗ này thèm ăn càng ghẹ nên vào kêu 1 càng ghẹ, một ốc len xào dừa một nước coca. Tính tiền mình nghĩ cũng lắm hơn 100k mà lên tới 220k!!! Nhân viên thì nhí nhố chợ búa. Gọi mà cứ lơ lơ ko thèm trả lờiKhông bao giờ quay lay lại."
+        }
+    ]
+}

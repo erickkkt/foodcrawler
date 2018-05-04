@@ -1,0 +1,80 @@
+{
+    "name": "The Sushi Bar - Nguyễn Đình Chiểu",
+    "link": "https://www.foody.vn/ho-chi-minh/sushibar-nguyen-dinh-chieu",
+    "address": "54 Nguyễn Đình Chiểu,  Quận 1, TP. HCM",
+    "open_time": "Buổi Tối  17:00 - 22:30",
+    "price_range": "100.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-bar?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.7"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "129"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Nguyễn Thuý Bắc",
+            "link": "https://www.foody.vn/thanh-vien/bacnguyen2806",
+            "score": "6.6",
+            "comment": "Đồ ăn khá ngon, hức uống cũng ngon giá của sushi bar thì cao hơn mặt bằng chung của đồ nhật rồi. quán hơi tối, phục vụ thì nhìn mặt tiếp khách hay sao đó nên mình thấy không thân thiện, mà người nước ngoài thì phục vụ niềm nở lắm"
+        },
+        {
+            "user": "Trà Mộc",
+            "link": "https://www.foody.vn/thanh-vien/loantran11193",
+            "score": "8.4",
+            "comment": "Đẹp, sang trọng, rộng rãi, Phục vụ tốt, thân thiện, nhanh nhèn.Minh gọi sashimi và sushi, nhìn hấp dẫn, bắt mắt, sạch sẽ, có các món ăn kèm, khăn lạnh freeSushi khá ngon, chuẩn Nhật. Sashimi tươi ngon, hơi ít, không được tươi lắm vì ko đặt lên nước đá như chỗ khac.Gía khá cao so mặt bằng chung."
+        },
+        {
+            "user": "Yen Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/canary076",
+            "score": "7.6",
+            "comment": "Lâu lắm mới ghé lại đây ăn. Trước kia mình rất hay ăn thường xuyên từ quán đầu tiên số 1 Lê Thánh Tôn, đồ ăn bên đó ngon hơn nhưng chỗ ngồi không rộng thoáng như ở đây.Nhìn chung dù hơn 10 năm qua có rất nhiều nhà hàng Nhật mở ra nhưng phải nói là Sushi bar vẫn rất ok vì nguyên liệu được tuyển chọn, tươi và chế biến kỹ lưỡng. Các món ăn cũng phong phú, đa dạng hơn và phục vụ rất chuyên nghiệp. Có nhiều món lạ như mắm trộn mì udon nhưng vị khá mặn, không có vị hôi kéo dài như các món mắm ở Việtnam.Gạch ghẹ sushi ăn ngon và không tanh lắm.Gừng và rong biển ngâm chua ngon hơn rất nhiều nơi khác."
+        },
+        {
+            "user": "Heli Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nakoruru91",
+            "score": "8.4",
+            "comment": "Chất lượng trên cả tuyệt vời, ko có j để chê cả, sushi ngon, tươi ăn cực kỳ thích, tất nhiên đi cùng zí đó là giá ko hề mềm chút nào :(( nhưng cũng đángNước mắm nhà hàng cho phí cực kỳ, nhiều khi chấm 2-3 miếng tempura cũng phục vụ kèm 1 tô nước mắm to :))Tuy nhiên nhân viên phục vụ rất ko ưa đc, mình đến chưa có khăn ướt fải yêu cầu mang ra thì phải nhắc 3-4 lần mới có, chọn món khách hỏi ko tư vấn, đã vậy còn đứng chơi ko rồi tụ lại cười nói với nhau ko lo order cho kháchThấy ok nhất 1 chị khá chu đáo, hơi đứng tuổi, tròn tròn, phục vụ bên trong nhưng mình gọi đều nhớ, lúc tính tiền chị đem ra còn hỏi cảm nhận món ăn thế nào, like!Không gian cũng rộng rãi, tang trí kiểu giống như các nhà hàng nhật khác"
+        },
+        {
+            "user": "My Trần",
+            "link": "https://www.foody.vn/thanh-vien/mytrannu",
+            "score": "7.2",
+            "comment": "Quán nằm trên đường Nguyễn Đình Chiểu gần Nguyễn Bỉnh Khiêm thì phải, rất dễ thấy. Đi vào nhân viên chào hỏi rất nhiệt tình. Không gian được trang trí ấm cúng theo phong cách kiểu Nhật. Mình lên trên lầu ngồi thì dạng ngồi bệt nhưng vẫn có khoảng trống bên dưới để bạn để chân, không phải ngồi xếp trong dễ bị tê chân. Món ăn ngon kinh khủng, hải sản, và cá sống đều rất tươi. Thích súp miso, maki chiên, trứng cá và đặc biệt là rất thích ăn đồ sống. Nhân viên lịch sự, thân thiện, dặn gì là ghi nhớ nấy. Có cả cái chuông khi cần thì bấm vào, lập tức sẽ có nhân viên lên phục vụ, khá tiện lợi không phải kêu gọi."
+        }
+    ]
+}

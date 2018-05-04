@@ -1,0 +1,76 @@
+{
+    "name": "Chilli - Lẩu Nướng Tự Chọn",
+    "link": "https://www.foody.vn/ho-chi-minh/lau-nuong-chilli",
+    "address": "232 Vĩnh Khánh,  Quận 4, TP. HCM",
+    "open_time": "",
+    "price_range": "50.000đ - 100.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.9"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.0",
+        "total_review": "440"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Bảy Anh",
+            "link": "https://www.foody.vn/thanh-vien/anh7codon",
+            "score": "7.2",
+            "comment": "Thấy món này ra cũng được 1 năm. Hôm qua mới được đi qua quận 4 ăn. Nói chung 7.5/10 so với mong đợi.Lửa bên ngoài chủ yếu show hàng chứ ko có tác dụng gì. Bò hơi dai."
+        },
+        {
+            "user": "Anh Thy",
+            "link": "https://www.foody.vn/thanh-vien/i_hear_you1998",
+            "score": 0,
+            "comment": "Hôm T7 trời mưa như bão, mình và boyfrank quyết định đến Chilli để ăn lẩu hàu trứ danh. Thật sự thì rất đáng đồng tiền và ngon, lẩu hàu 199k có 8 con hàu tươi, 1 gói mỳ hàn, 1 đĩa rau nấm và 2 quả trứng. Bọn mình có kêu thêm 1 đĩa bò mỹ nhỏ để nhúng thêm 59k. Ngoài ra bọn mình còn gọi _ Bò mỹ hàu né: 99k ( ngon ngất ngây nêm nếm đậm đà, có cả tobokki phô mai, thật sự rất recommend)_Răng mực xào bơ cay: món này ok, hơi ít răng mực, nêm nếm đậm đà. Hình như 69k hay sao mình k nhớ rõĐiểm trừ: _chắc do mưa to nên quán ẩm ướt, đang ăn có con gián bò dưới chân mình hết hồn huhu. Nếu quán nâng cấp lên giống mấy quán nướng như Khè hay mấy quán ở trường sa thì sẽ đông khách hơn nữa"
+        },
+        {
+            "user": "Nị Phương",
+            "link": "https://www.foody.vn/thanh-vien/nphng3906",
+            "score": "9.0",
+            "comment": "Đồ ăn siêu ngon , món nào mình kêu đều thấy hài lòng . Có món bò cuộn kim châm sốt siêu siêu ngon nên mình kêu thêm 1 phần này nũa . Giá vừa phải . Chỗ ngồi k quá chen chúc . Thoải mái . Nhân viên thái độ ổn . Nhanh nhẹn . Chỗ gữi xe rộng . Nchung quá thích mình sẽ ghé tiếp"
+        },
+        {
+            "user": "Miu Dorae",
+            "link": "https://www.foody.vn/thanh-vien/marry_mai9",
+            "score": "6.6",
+            "comment": "- Food(1) Cổ bò Mỹ sốt BBQ: được đúng vỏn vẹn 3 miếng 😂 sốt kiểu chan lên thịt chứ không phải ướp sẵn, lúc mang ra thì thịt còn lạnh bốc khói. Hơi thất vọng vì thịt ít nhưng ngược lại thịt ngon, có vị ngọt thịt, mặc dù không ướp sẵn nhưng vẫn thấm sốt. 1 miếng thịt cũng dài(2) Thịt bò sốt sate: cái này là thịt bò thường, bò VN thôi. Cắt miếng vừa ăn nhưng có nhiều vụn nhỏ nhỏ khó nướng lắm. Sốt sate khá cay nhen, thịt ăn được không bị dai. Thay vì ăn bò Mỹ thì bò này ăn vẫn ổn với giá mềm hơn xíu(3) Bạch tuộc sốt sate: bạch tuộc mặc dù không tươi lắm nhưng ăn ổn, vẫn là sốt sate cay cay rất hợp 😛(4) Răng mực sốt bơ: bất ngờ là răng mực siêu bự nha, bự hơn ở Phan Thiết luôn chớ. Sốt chua chua ngọt ngọtVỉ nướng có khe hơi bự nên lúc mình nướng dễ bị lọt đồ ăn xuống than 😭Không gian: mấy chỗ lận, bàn ghế thấp, chỗ mình ngồi hơi nóng xíuPhục vụ: ổn, xin gì có đó cũng không phải đợi quá lâu"
+        },
+        {
+            "user": "Linh Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/linh.nguyen-thi-dieu",
+            "score": "8.0",
+            "comment": "Ăn lâu rồi mới viết review cho quán, quán khá đông, đồ ăn khá ngon và lạNhân viên phục vụ nhiệt tình, hơi lâu xíu.Nói chung tạm ổn ^^"
+        }
+    ]
+}

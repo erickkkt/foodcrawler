@@ -1,0 +1,64 @@
+{
+    "name": "Quán Thi - Hải Sản & Các Món Nhậu Bình Dân",
+    "link": "https://www.foody.vn/ho-chi-minh/quan-thi-hai-san-cac-mon-nhau-binh-dan",
+    "address": "165 Duyên Hải,  Cần Giờ, TP. HCM",
+    "open_time": "09:00 - 21:00",
+    "price_range": "25.000đ - 300.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "10.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "10.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.7"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "8.4",
+        "total_review": "3"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Harmony",
+            "link": "https://www.foody.vn/thanh-vien/Harmony",
+            "score": "7.8",
+            "comment": "Ghé mua mấy món hải sản đem ra biển hết 250k. Chế biến đơn giản, chủ yếu luộc, chem chép xào rau muống cũng tạm, đồ cũng tươi. Chụp menu cho mấy bạn tham khảo giá cơm, thấy cũng đa dạng, lần sau sẽ thử."
+        },
+        {
+            "user": "Nell Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nelly.nguyen",
+            "score": "8.8",
+            "comment": "Hình vài món ở quán, cua rang me ngon nhưng hơi ngọt . Lần nào xuống giờ trưa cũng ghé đây ăn cơm. Giá 1 người tầm 100k nếu gọi nhiều món và có hải sản. Còn không rẻ hơn nếu ăn cơm dĩa hay mì xào có 25k."
+        },
+        {
+            "user": "Nell Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/nelly.nguyen",
+            "score": "8.6",
+            "comment": "Quán nằm trong trung tâm Cần thạnh, gần chợ nên chủ yếu dân địa phương với khách quen ăn thôi, bán đủ món cơm trưa với hải sản, tuy nhiên hải sản có sẵn chỉ cua tôm ít loại, yêu cầu thì quán sẽ mua đồ tươi ngay chợ, hải sản tươi hơn bên chợ Hàng dương vì mua ngay đầu mối tàu bè ở chợ trung tâm, giá cả khá rẻ, chế biến đơn giản như luộc, rang, nướng, lẩu thôi. Có món cánh gà chiên nước mắm ngon. Ăn trong đây thì tiện hơn ngoài Hàng Dương. Ai đi đò qua đảo Thạnh An hay vô chợ trung tâm chơi thì ghé thử. Trong chợ có bà bán bánh khọt đông và ngon, đợi hơi lâu nha."
+        }
+    ]
+}

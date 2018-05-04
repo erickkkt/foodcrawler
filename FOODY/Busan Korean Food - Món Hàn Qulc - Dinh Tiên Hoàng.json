@@ -1,0 +1,80 @@
+{
+    "name": "Busan Korean Food - Món Hàn Quốc - Đinh Tiên Hoàng",
+    "link": "https://www.foody.vn/ho-chi-minh/busan-korean-food-mon-an-han",
+    "address": "5 Đinh Tiên Hoàng,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "10:00 - 22:30",
+    "price_range": "40.000đ - 150.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Hàn Quốc",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-han-quoc"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/busan-korean-food?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.0"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.0"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "316"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Bu Gồng",
+            "link": "https://www.foody.vn/thanh-vien/bugong2010",
+            "score": "9.0",
+            "comment": "Đc bạn giới thiệu dẫn đi ăn ở đây. Quán trông gọn gàng sạch sẽ thoải mái. Khi đến thì cứ để xe ở trước có mấy a giữ xe dắt xuống tầng hầm giúp rất nhanh nhẹn. Tầng dưới có bàn ghế, tầng trên thì ngồi bệt. Mình chọn tầng trên. Kệ để dép gọn, k hôi :)). Toilet sạch sẽ. Trong lúc ngồi đợi order thì pvu có mang kim chi và cá khô ra ăn trong lúc chờ, kim chi ăn rât hợp khẩu vị mình, ăn k chua quá như mấy kim chi trong siêu thị hay bán, cá khô ăn với cơm trộn ngon cực. 2 thứ đó ăn hết có thể xin thêm thoải mái. Mình gọi cơm trộn, canh kim chi với tok phô mai. Cơm trộn với canh kim chi ngon khõi bàn, mang ra còn nóng hổi nhưng tok phô mai thì nói thật là k ngon, phô mai thì cứng lại hết :((. Giá cả ở đây rất phù hợp với sinh viên. Sẽ quay lại để thử nhiều món khác hơn."
+        },
+        {
+            "user": "Thảo Ngọc Linh",
+            "link": "https://www.foody.vn/thanh-vien/falling_star_314",
+            "score": "7.0",
+            "comment": "Mấy bữa trước mình với bạn có order delivery của quán này tại quán cũng gần nhà sẵn gọi ăn trưa luôn.- 2 xiên chả cá hàn quốc (60k): cái này mắc nha, 2 xiên ít lắm, không có bao nhiêu hết. quán xếp đồ ăn mà không biết sao nước dùng bị xì ra gần hết luôn, mấy cái xiên để chọt tùm lum ngay cái hộp đó, chứ không để nằm dưới cuối bịch gì hết. - mì tương đen (42k): ăn ngon nha, vị vừa ăn, không quá mặn, vẫn còn nóng- bánh gạo phô mai (42k): bánh gạo còn nóng, nấu vị vừa ăn, bánh gạo nhiều, dẻo, trong bánh gạo có chả cá nữa nha,  ăn ngon- gimbab thịt bò (38k): cuốn chặt tay, chấm sốt ăn ngon nhacó cho kimchi và cá cơm ăn kèm nha.giao hàng nhanh nha, sớm hơn 30 phútgiá thì theo mình chỉ có xiên chả cá là mắc thôi, còn lại bình thường"
+        },
+        {
+            "user": "Minh Tien Ngo",
+            "link": "https://www.foody.vn/thanh-vien/ngominhtien95",
+            "score": "7.0",
+            "comment": "Các món ăn rất đa dạng và hấp dẫn, nhìn thui cũng đã thấy thèm.Mình thích nhất là ăn cơm trộn ở đây, các món còn lại ở đây cũng ngon, nhưng mùi vị thì chưa bằng quán Hanuri.Khi ăn gà gọi nguyên con chắc sẽ lời hơn. Mình đi 6 người kiu nguyên con gà ăn ko hết!Không gian quán sạch sẽ rộng rãi thoáng mát, buổi tối quán hơi đông"
+        },
+        {
+            "user": "Thỏ Thư",
+            "link": "https://www.foody.vn/thanh-vien/k0ypun_ji1l0jhu4",
+            "score": "7.2",
+            "comment": "Thích ở đây là kimchi cực kì ngon và đúng vị luôn. Đồ ăn thì siêu rẻ siêu ngon. Bởi ở xa đâu cũng ráng lếch qua để ăn ^_^"
+        },
+        {
+            "user": "Nu Tran",
+            "link": "https://www.foody.vn/thanh-vien/nu.tran",
+            "score": "7.4",
+            "comment": "Quán nằm ngay chân cầu Bông, vị trí dễ tìm. Không gian nhỏ, có lầu. Nhân viên phục vụ nhanh. Kim chi ăn kèm không ngon lắm, cá cơm ngon. Giá cả phải chăng"
+        }
+    ]
+}

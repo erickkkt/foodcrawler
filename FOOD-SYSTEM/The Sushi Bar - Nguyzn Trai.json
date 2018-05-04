@@ -1,0 +1,49 @@
+{
+    "name": "The Sushi Bar - Nguyễn Trãi",
+    "link": "https://www.foody.vn/ho-chi-minh/the-sushi-bar-nguyen-trai",
+    "address": "54 - 56 Nguyễn Trãi, P. Bến Thành,  Quận 1, TP. HCM",
+    "open_time": "Buổi Tối  17:00 - 22:30",
+    "price_range": "38.000đ - 500.000đ",
+    "category": [
+        {
+            "category": "Nhà hàng",
+            "link": "https://www.foody.vn/ho-chi-minh/food/nha-hang"
+        },
+        {
+            "category": "Nhật Bản",
+            "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cach-nhat-ban"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/sushi-bar?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "10.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "9.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": 0
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        },
+        {
+            "label": "Không gian",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "2"
+    },
+    "foods": [],
+    "user_comments": []
+}

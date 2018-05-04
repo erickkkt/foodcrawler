@@ -1,0 +1,76 @@
+{
+    "name": "LEE VU Coffee",
+    "link": "https://www.foody.vn/ho-chi-minh/lee-vu-coffee",
+    "address": "47/7 Phan Văn Hớn, Bà Điểm,  Hóc Môn, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "12.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "8.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "8.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "26"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tròn tròn Mũm mĩm",
+            "link": "https://www.foody.vn/thanh-vien/trontronmummim",
+            "score": "9.6",
+            "comment": "Trong những ngày dù trời mưa se se lạnh hay nắng đến đổ lửa, dù đi một mình hay tụ tập cùng bạn bè, dù ngồi lại hay take away mình đều ưu tiên lựa chọn Lee Vu vì chất lượng đồ uống, đồ ăn vặt, vì phong cách phục vụ dễ thương hay không gian siêu chất của quánĐặc biệt món trà sữa tinh than tre đậu đỏ ngon tuyệt cú mèo"
+        },
+        {
+            "user": "Phngbabie5277",
+            "link": "https://www.foody.vn/thanh-vien/phuongbabie._.",
+            "score": "8.4",
+            "comment": "Ghé quán được 2 lần, lần nào cũng thích vì đồ uống ở đây rất ngon, giá cả hợp lí. Không gian hơi nhỏ nhưng tạm ổn, có vài góc decor khá xinh =))) sẽ ghé lại nếu có cơ hội =)))"
+        },
+        {
+            "user": "Ty Boo Huệ Chi",
+            "link": "https://www.foody.vn/thanh-vien/congchua_mauhong80",
+            "score": "7.0",
+            "comment": "Mình và bạn thấy quán này lâu r, hôm nay cn nên ghé qua thử. quán trang trí cũg đẹp, nhưng mà hơi nhỏ. Đa số là mua về.Đồ uống ngon, rẻ. Nhưng mình khuyên mấy bạn k nên dùng soda ở đây. Trà sữa và đồ uống có kem rất ngon, smoothie cũg tuyệt. Ở đây pha chế là ng lớn tuổi 1 tí nhưng mà khẩu vị rất hợp vs giới trẻ. Dưới đây là hình mình kêu 1 blue ocean, 1 green mint, 19k 1 trà sữa thái xanh 22k, 1 cacao kem 20k. Mình rất thích vị của cacao kem, ly to. So ngon ❤❤"
+        },
+        {
+            "user": "Lam Dang",
+            "link": "https://www.foody.vn/thanh-vien/liam",
+            "score": "6.2",
+            "comment": "Nói thật chứ quán này khá lcj hậu. Trà sữa này hợp khẩu vị của 5 năm về trước. Toàn màu, trân châu và thạch. Nói chung bảo bỏ thêm rau câu flan thì thấy toàn rau câu flan hay formai có xíu. Zở tệ."
+        },
+        {
+            "user": "Thành Dê",
+            "link": "https://www.foody.vn/thanh-vien/my_pokemonred",
+            "score": "8.6",
+            "comment": "Bữa nay nhà cúp điện nên chạy ra quán ké đèn học bài cho ngày mai 😃😃Ra mình được giới thiệu về món mới : hồng trà machiato và cacao machiato . Mỗi ly giá 26k , mình kêu thêm thạch jelly phô mai nữa . Trong hồng trà machiato đã có sẵn hạt trân châu trắng ăn cũng dai dai , cũng rất ok . Riêng vè dòng machiato thì mình biết quán Koi đang làm mưa làm gió thời gian qua . Mình chưa uống thử ở Koi không biết như thế nào . Nhưng uống ở đây rất la ngon , trà thơm , pha cũng không đậm lắm , theo mình là uống vưa . Lớp váng sữa thì béo béo , ngon ngon , không có mằn mặn như 1 số chỗ . Mình nghĩ với giá rẻ như này thì ly này rất la ok luôn mà đảm bảo chất lượng nữa . Quán hơi nhỏ nhưng ngồi được ."
+        }
+    ]
+}

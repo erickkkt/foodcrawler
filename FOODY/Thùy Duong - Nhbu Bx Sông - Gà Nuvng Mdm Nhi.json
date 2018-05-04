@@ -1,0 +1,80 @@
+{
+    "name": "Thùy Dương - Nhậu Bờ Sông - Gà Nướng Mắm Nhĩ",
+    "link": "https://www.foody.vn/ho-chi-minh/thuy-duong-nhau-bo-song",
+    "address": "1 Đường Số 1, KDC Trung Sơn,  Bình Chánh, TP. HCM",
+    "open_time": "10:00 AM - 11:00 PM",
+    "price_range": "20.000đ - 275.000đ",
+    "category": [
+        {
+            "category": "Quán ăn,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Quán nhậu",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-nhau"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.0"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.9"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "10"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Lực Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/demonntl",
+            "score": "7.0",
+            "comment": "quán vắng và mát. tối thì không nên ngồi quá gần sông để tránh mùi khó chịu. đồ ăn khá. giá bình dân. nhân viên đông và nhanh nhẹn."
+        },
+        {
+            "user": "Viet Anh Tran",
+            "link": "https://www.foody.vn/thanh-vien/vietanhtran",
+            "score": "7.2",
+            "comment": "Trưa có công việc ghé qua đây ăn trưa luôn. Lúc tới quán vẫn chưa có ai luôn, có lẽ mình đi quá sớm hehe.Quán rất thoáng mát và sạch sẽ ngoài cái mùi nồng nồng của sông ra thì thấy rất ổn.Có đọc sơ qua review và được quán tư, đi cũng ít nên ăn tới đâu kêu tới đó sợ ăn hok hết hok mang về đươc uổng phí.kêu 2 con gà làm 2 món, sường nướng và cơm rang tổi cho 2 người. Món ăn ở đây khá ngon, nhất là món gà hấp mắm nhĩ và sườn nướng, kết nhất 2 món này.Quán phục vụ đủng đỉnh thôi chứ ko có nhanh, ăn hết món nào mới lên món tiếp theo. Phục vụ ổn.Nên ngồi buổi chiều tối khi thủy chiều lên sẽ đỡ hôi hơn là ngồi buổi trưa. ngồi đây ăn rồi coi thuyền bè chày vèo vèo cũng thú vị"
+        },
+        {
+            "user": "Hùng Phạm",
+            "link": "https://www.foody.vn/thanh-vien/hungpham",
+            "score": "6.8",
+            "comment": "Nằm ngay bờ sông nhưng sông này bị ô nhiễm nên hôi rình, ngồi buổi chiều thuỷ chiều chưa lên chịu không nổi.Món gà nướng mắm ăn cũng ngon. Nghêu hấp ok. Giá không mắc. Nhậu thì được chứ ăn gia đình thì hôi lắm."
+        },
+        {
+            "user": "Minh Hòa Lâm",
+            "link": "https://www.foody.vn/thanh-vien/Hoalam412",
+            "score": "6.8",
+            "comment": "Được giới thiệu bởi 1 người bạn là món gà hấp mắm nhĩ ở đây rất ngon nên tò mò đến đây ăn thử.Từ nhà qua đây phải nói là xa kinh khủng khiếp nhưng vì chữ \"ăn\" nên đành chấp nhận thoy. Đường vào qán hơi vòng vo nhưng cũbg dễ đi, đường hơi tối và vắng nên cũng hơi lo sợ.Vị trí quán khá đẹp. Thoáng mát và rộng rãi. Đa số bàn ghế đc đặt ở phía ngoài, ven bờ sông. Hôm mình đi là ngày vía Phật Bà nên mọi ng thả hoa đăng rất đẹp.Không biết là do ít nhân viên hay sao mà qán phục vụ rất chậm. Gọi 2-3 lần mới có người ra order và cũng rất lâu mới có ng đem đồ ăn ra.Đồ ăn dọn ra nóng hổi, nghi ngút khói. Món gà sẽ được đem ra và xé tại bàn. Gà ta nóng và chắc thịt, nhưng gia vị chưa thấm vào gà. Món lòng xào mướp thì lòng hơi bị đắng, chak do làm ko sạch. Bao tử xào cải chua và ra nhút xào thì ok.Quán cũng ko j đặc sắc lắm, thức ăn có thể nói là tạm chấp nhận chứ ko thuộc dạng ngon. Ly chén đũa nói chung là vấn đề vệ sinh ko tốt. Chak ko quay lại nữa đâu :("
+        },
+        {
+            "user": "vinh quang",
+            "link": "https://www.foody.vn/thanh-vien/vinhphilips",
+            "score": "7.2",
+            "comment": "Mình nhậu quán này đã lâu rồi , khoàng năm 2010, 11,12 . Quán nói chung được cái sát sông nên gió rất mát, món ăn giá vừa túi tiền, Hình như ngon nhất món gà ( gỏi, cháo, nướng, xào) , sườn nướng và cơm chiên, cũng có hải sản nhưng không hấp dẫn lắm. Ngày trước mình đi không có nhạc sống, yên tĩnh, nhân viên phục vụ cũng dễ thương lắm."
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Bà Bắc - Bánh Tráng Cuốn Trộn",
+    "link": "https://www.foody.vn/ho-chi-minh/ba-bac-banh-trang-cuon-tron",
+    "address": "40 Đường Số 11,  Quận 4, TP. HCM",
+    "open_time": "10:00 AM - 10:00 PM",
+    "price_range": "10.000đ - 33.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.4"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.4"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "283"
+    },
+    "foods": [
+        {
+            "name": "Bánh tráng cuốn (10 cuốn)",
+            "price": "15,000(đ)",
+            "total_orders": "9766"
+        },
+        {
+            "name": "Bánh tráng nướng",
+            "price": "15,000(đ)",
+            "total_orders": "2064"
+        },
+        {
+            "name": "Bánh tráng trộn",
+            "price": "15,000(đ)",
+            "total_orders": "1629"
+        },
+        {
+            "name": "Bánh tráng chiên (hộp)",
+            "price": "20,000(đ)",
+            "total_orders": "1410"
+        },
+        {
+            "name": "Phá lấu (phần)",
+            "price": "20,000(đ)",
+            "total_orders": "844"
+        },
+        {
+            "name": "Nước sâm (chai)",
+            "price": "5,000(đ)",
+            "total_orders": "761"
+        },
+        {
+            "name": "Trà sữa thập cẩm",
+            "price": "15,000(đ)",
+            "total_orders": "199"
+        },
+        {
+            "name": "Trà sữa trân châu",
+            "price": "10,000(đ)",
+            "total_orders": "129"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Sara Nhon",
+            "link": "https://www.foody.vn/thanh-vien/anhtrangvhhk4",
+            "score": "7.4",
+            "comment": "Quán ruột của team mình luôn nè bà con, ăn hoài ko ngán luôn á, mình trung thành với món bánh tráng cuốn, nhỏ xíu, 1 hộp 10 cuốn mà nhai ko thấm vào đâu, nước chấm pha lạ lạ cực ngon luôn mình khoái món này phần nhiều là nhờ cái nước chấm, giá hạt dẻ hết sức chỉ 15k, bữa giờ ko thấy thay đổi gì cả, ở đây còn bán nhiều món ăn vặt khác nữa nên cứ tha hồ mà lựa chọn, cho nó vô danh sách ăn vặt mỗi ngày là chuẩn luôn khỏi phải lựa chọn nhiều."
+        },
+        {
+            "user": "Trúc Linh Phan",
+            "link": "https://www.foody.vn/thanh-vien/linhphan.110888",
+            "score": 0,
+            "comment": "Mình gọi điện đặt hàng 2 phần bánh tráng cuốn (2 hộp 30000), bánh tráng chiên, bánh tráng trộn. Xong giọng điệu của nhân viên nghe đt:\" hết rồi hả Chị, Ôi trời ơi... Chờ chút bút hết mực rồi...\" Chưa biết có ngon hay không mà khinh người quá, khỏi mua luôn 😤"
+        },
+        {
+            "user": "Thảo Hân",
+            "link": "https://www.foody.vn/thanh-vien/gavyxx",
+            "score": "10",
+            "comment": "Có dịp vào sg ăn bánh tráng ở đây siêu ngon luôn. Thích nhất là bánh tráng chiên, ăn là nghiện. Chưa đến quán ăn, mình ship deli về nên không biết ăn ở quán như thế nào để đánh giá, nhưng mình vẫn cho 10 hết nhá vì quá ngon. Nhất định có dịp vào sg sẽ quay lại ăn, thèm quá😭"
+        },
+        {
+            "user": "Nước Tràn Bờ",
+            "link": "https://www.foody.vn/thanh-vien/vinhha_vhhk4",
+            "score": "7.2",
+            "comment": "Hôm bữa chiều mọi người đói bụng nên order bên này ăn chơi. Hình như trên 10 hộp là được miễn phí ship. Muốn nhanh thì oerder deliverynow xíu là có. Bánh tráng cuốn ăn ngon, nước chấm vừa, ăn xế là khỏi chê."
+        },
+        {
+            "user": "kimthi",
+            "link": "https://www.foody.vn/thanh-vien/nguyenthikimthi",
+            "score": "7.2",
+            "comment": "15k 1 phần mình thấy rẻ, bánh tráng ăn ổn, ko có j đặc biệt. Thấy cũng có nhiều người ăn tại quán, lần sau sẽ thử mấy món còn lại."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Nhà Hàng Phong Cua 2 - Bình Quới",
+    "link": "https://www.foody.vn/ho-chi-minh/nha-hang-phong-cua-2-binh-quoi",
+    "address": "1067 Bình Quới,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "11:00 AM - 10:00 PM",
+    "price_range": "200.000đ - 330.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/phong-cua?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "6.6"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "6.5"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": 0
+        }
+    ],
+    "summary": {
+        "average_score": "6.2",
+        "total_review": "63"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Tín Nguyễn Thanh",
+            "link": "https://www.foody.vn/thanh-vien/thanhtin238",
+            "score": 0,
+            "comment": "Xem khách như kiểu lại xin, mặc dù là mới chỉ lựa cua mà có thái độ kiểu vậy rồi. Sau khi lựa xong cân kg thì hỏi số bàn các kiểu, rồi mình cũng nói số bàn. Xong rồi thì lại kêu xuống nói nhân viên chổ đó xác nhận bằng tờ giấy ghi số bàn thì đem lại. Xuống nói nhân viên e ghi giấy số bàn cho a và đem lên chổ đặt cua, thì nhân viên lại tỏ thái độ muốn bắt khách phải đem lên đó. Mặc dù mình đã nói rõ số bàn với tên ghi kg cua trên đó. Thật sự thì thái độ nhân viên quá tệ đối với khách. Chắc mình sẽ gặp riêng quản lý và nói lại. Quán thì làm ăn cũng lâu đời mà kiểu làm vậy thì về dài lâu chắc e rằng ko còn khách"
+        },
+        {
+            "user": "Khalinh.98",
+            "link": "https://www.foody.vn/thanh-vien/Khalinh.98",
+            "score": "10",
+            "comment": "Món ăn làm rất vừa miệng, ngon, đậm đà hương vị, mùi hương khi vừa được đem ra là muốn hưởng thức liền 👍🏻 quán thoáng mát cạnh dòng sông, vừa ăn vừa ngắm cảnh thì còn gì bằng 👍🏻 nhà vệ sinh sạch sẽ, chịu 👍🏻 giá cả không gì là quá đắt đỏ, giá hợp lí 👍🏻‼️ Đặc biệt là món CUA, nước sốt rất ngon, Thịt cua chắc nịt ‼️ nên thử khi dô quán này nha ❤️"
+        },
+        {
+            "user": "Hùng Đỗ Quang",
+            "link": "https://www.foody.vn/thanh-vien/hung.do",
+            "score": "7.6",
+            "comment": "Quán gần nhà mình lâu lâu thèm cua nên hay ghé xuống ăn, nên ghé ăn từ 3h đến 5h chiều vì quán chưa đông phục vụ sẽ lẹ hơn, tối ra hay hết bàn và hết cua lắm. Không gian bờ sông mát mẻ ngồi ăn rất thoải mái, menu đồ ăn đa dạng, mình ra quán lựa cua cân kí trước rồi sau đó yêu cầu quán làm món, cua ở đây ăn không phải xuất sắc lắm nhưng chế biến ổn, thích hợp đãi tiệc hay ăn đông người."
+        },
+        {
+            "user": "Ti Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/ti.izme",
+            "score": "9.0",
+            "comment": "E đi ăn cua ngay ngày lễ 2/9 tính ăn phong cua 1 mà đông trời thần đi lúc sớm là 4-5g rồi đó ạ. Ghé qa phong cua 2 thấy còn chỗ nhìu nên chạy vào gởi xe . E vừa vào ngồi bàn là quay lại người vào ồ ạt . K có cua phải đợi.. khi order cua về bàn là k còn chỗ nữa đông kinh khũng thật. Lên món cũng ổn k qá lâu. Vì do đông qá nên nhân viên phục vụ làm k kịp. Nhưng bé nhân viên trực bàn mình cực dễ thương kêu j là có ngay còn k có quên như mấy nhân viên khác."
+        },
+        {
+            "user": "Hương Thảo",
+            "link": "https://www.foody.vn/thanh-vien/huongthao146",
+            "score": "7.0",
+            "comment": "Nhà hàng xa trung tâm quá nên ngại đi. Đến nơi sẽ lấy số bàn trước, rồi ra chọn cua, cân ký và chọn món, 1 số món có phụ thu chế biến như cà ri. Cua sốt Singapore rất ngon, cà ri cũng ngon. Có cua thịt và cua gạch. Khách đông, ngồi ngoài trời nên gọi nhân viên quá khó"
+        }
+    ]
+}

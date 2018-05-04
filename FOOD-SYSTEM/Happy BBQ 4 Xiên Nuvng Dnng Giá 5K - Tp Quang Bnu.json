@@ -1,0 +1,80 @@
+{
+    "name": "Happy BBQ 4 Xiên Nướng Đồng Giá 5K - Tạ Quang Bửu",
+    "link": "https://www.foody.vn/ho-chi-minh/happy-bbq-3-xien-nuong-dong-gia-5k-ta-quang-buu",
+    "address": "Tạ Quang Bửu (Đối Diện Sân Bóng Cao Lỗ), P. 4,  Quận 8, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 10.000đ",
+    "category": [
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/quan-an-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/xien-nuong-dong-gia-happy?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "8.0"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.4"
+        },
+        {
+            "label": "Không gian",
+            "score": "7.4"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.3"
+        }
+    ],
+    "summary": {
+        "average_score": "7.5",
+        "total_review": "36"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Minh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nh0xhe0_vip",
+            "score": "8.0",
+            "comment": "Ăn lâu lắm r mới review lại. Mindh k biết bây h thế nào chứ lúc trc mình đi ăn thì quán thoáng mát, sạch sẽ, nhân viên rất nhiệt tình. Mình gọi 2 lạng bạch tụt nướg (nêm gia vị rất ngon), bò cuộn phomai, ba rọi cuộn nấm, sườn non thì tất cả mọi thức đều ngon hết. Gia vị nêm nếm vừa miệg, hợp khẩu vị. Sườn non ăn chất lượng. Có cơ hội chắc chắn quay lại"
+        },
+        {
+            "user": "Hằng Minh",
+            "link": "https://www.foody.vn/thanh-vien/hngminh5252",
+            "score": "8.6",
+            "comment": "Ăn ở đây nhiều lần r h mới up hình. Hồi hay ăn bên panda ở q7 r lùng sục hầu hết các quán đồ nướng, lặn lội tìm tòi qa tận đây ăn. Đồ ăn ở đây ướp ngon, vừa ăn, đậm đà. Nhân viên phục vụ dễ thương, nhiệt tình, mình hỏi này hỏi nọ mà trả lời nhiệt tình k hề khó chịu. Bạch tuộc vs mực ăn giòn gìon, bự nữa, ăn thích cực. ^^"
+        },
+        {
+            "user": "Bảo Trân",
+            "link": "https://www.foody.vn/thanh-vien/baotrankid",
+            "score": "6.0",
+            "comment": "Mình biết quán này lâu rùi, đồ nướng ăn rất ngon, nước lẩu ăn rất vừa miệng,phục vụ rất tốt, thân thiện vui vẻ với khách👍👍nói chung là rất tốt rất thích sẽ quay lại hoài 😊😊😊😊"
+        },
+        {
+            "user": "Trang Đinh",
+            "link": "https://www.foody.vn/thanh-vien/trangdinh1002",
+            "score": "8.2",
+            "comment": "Mình đã ăn ở đây được vài lần . Món ăn ngon , phục vụ vui vẻ đúng như tên Happy của quán . Ăn lần đầu mà bị ghiền phải tới ăn hoài mới chịu nổi . Nếu có cơ hội các bạn hãy đến để có được những cảm xúc như mình nha"
+        },
+        {
+            "user": "Trọng Khang",
+            "link": "https://www.foody.vn/thanh-vien/trongkhang777",
+            "score": "8.2",
+            "comment": "Hqa mới đi ăn ở Happy cn3 quán nằm đối diện sân banh Cao Lỗ 2 (Tạ Quang Bửu )\r- Nước ướp ở đây ăn rất tuyệt ngon nhất là sườn non mà còn đang đc khuyến mãi kêu 1 dĩa sườn tặng ngay ly trà chanh nữa qá đả.\r- Nhân viên thì ra tới cổng chào khách dẫn khách lại tới bán phục vụ nhiệt tình chu đáo dạ dạ 👍👍👍\r- Giá cả ăn rất hợp lý cho sinh viên, học sinh, tổ chức những buổi hợp mặt bạn bé, sinh nhật nghe nói nếu đặt bàn trước còn tặng bánh kem qà nữa hết sẩy 😁😁"
+        }
+    ]
+}

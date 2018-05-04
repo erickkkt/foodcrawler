@@ -1,0 +1,171 @@
+{
+    "name": "Bánh Tráng Kẹp Dì Hoa",
+    "link": "https://www.foody.vn/ho-chi-minh/banh-trang-kep-di-hoa",
+    "address": "209/105 Tôn Thất Thuyết, P. 3,  Quận 4, TP. HCM",
+    "open_time": "",
+    "price_range": "5.000đ - 25.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Quán ăn",
+            "link": "https://www.foody.vn/ho-chi-minh/food/quan-an"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.2"
+        }
+    ],
+    "summary": {
+        "average_score": "6.9",
+        "total_review": "158"
+    },
+    "foods": [
+        {
+            "name": "Bánh tráng kẹp trứng giòn",
+            "price": "5,000(đ)",
+            "total_orders": "386"
+        },
+        {
+            "name": "Bánh tráng kẹp patê giòn",
+            "price": "5,000(đ)",
+            "total_orders": "306"
+        },
+        {
+            "name": "Bánh tráng kẹp khô bò giòn",
+            "price": "5,000(đ)",
+            "total_orders": "286"
+        },
+        {
+            "name": "Bánh tráng kẹp trứng mềm",
+            "price": "10,000(đ)",
+            "total_orders": "264"
+        },
+        {
+            "name": "Bánh tráng kẹp khô bò mềm",
+            "price": "10,000(đ)",
+            "total_orders": "259"
+        },
+        {
+            "name": "Bánh tráng kẹp patê mềm",
+            "price": "10,000(đ)",
+            "total_orders": "239"
+        },
+        {
+            "name": "Bánh tráng giòn thập cẩm",
+            "price": "10,000(đ)",
+            "total_orders": "8"
+        },
+        {
+            "name": "Bánh tráng giòn ruốc",
+            "price": "5,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Xoài mắm",
+            "price": "20,000(đ)",
+            "total_orders": "93"
+        },
+        {
+            "name": "Gan rim",
+            "price": "20,000(đ)",
+            "total_orders": "60"
+        },
+        {
+            "name": "Khô cá bò",
+            "price": "10,000(đ)",
+            "total_orders": "39"
+        },
+        {
+            "name": "Ổi xí muội",
+            "price": "10,000(đ)",
+            "total_orders": "32"
+        },
+        {
+            "name": "Cóc mắm",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bún bò huế",
+            "price": "27,000(đ)",
+            "total_orders": "19"
+        },
+        {
+            "name": "Bánh canh cua",
+            "price": "27,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Bún mọc",
+            "price": "27,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Sữa dừa cacao",
+            "price": "10,000(đ)",
+            "total_orders": "48"
+        },
+        {
+            "name": "Sữa dừa dâu",
+            "price": "10,000(đ)",
+            "total_orders": "23"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Phillip Le",
+            "link": "https://www.foody.vn/thanh-vien/philliple",
+            "score": "7.8",
+            "comment": "Mới đc bạn chỉ chỗ ăn bánh tráng ngon ở quận 4 đó là bánh tráng kẹp. Vị trí hơi khó tìm nha vì nó nằm khuất trong góc đường, đối diện công viên.Nói kẹp vậy thôi thật chất nó giống như bánh tráng nướng ấy nhưng topping nhìu hơn, nhất là món opla, 2 trứng cút phái trên kèm mỡ hành, hành phi, bánh giòn ăn vô ngon phải biết. Ngoài ra còn bánh tráng kẹp pate hay khô bò cũng ngon ko kém, có mềm có giòn luôn nha. Giá rẻ lắm luôn.Ko gian nhỏ thôi ko có rộng nhưng tối mấy bạn trẻ kéo tới ăn đông lắm.Nhất định sẽ ghé lại ăn nữa, thử món mắm xoài nghe nói cũng ngon."
+        },
+        {
+            "user": "Trân Mint",
+            "link": "https://www.foody.vn/thanh-vien/trnmint",
+            "score": "7.6",
+            "comment": "Mình ghé đc vài lần, chỗ này hơi khó tìm vì trong hẻmBánh tráng ở đây khách gọi món mới làm nên bánh tráng lúc kêu ra ăn nóng, ngon, giá cả rất ok chỉ 5-10k/c tuỳ loại. Mình thíc nhất bánh kẹp pate mềm ở đây vì có nhiều nhân pate mà chỉ 10k/phần. Ở đây còn có bánh canh cua đầy ụ đồ ăn chỉ có 25k thôi, giá vậy hơi okmấy bạn nên thử khô cá bò ở đây nhésẽ ghé lại"
+        },
+        {
+            "user": "Giang Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/giangnpk",
+            "score": 0,
+            "comment": "Chưa biết bánh tráng có ngon hay không nhưng thái độ phục vụ phải nói rất rất tệ , mình đến vào lúc 3:25PM chiều còn 5p thì quán mở cửa , chạy đến thấy 1 bé đang dọn dẹp quán thì mình hỏi thăm có bán chưa em thì bé ấy nói chưa mở cửa và bảo mình sang công viên đối diện ngồi đợi đến 3:30 mới được vào , ok mình cũng sang đợi , đến 3:35p mình chạy sang thì được 1 chị lớn tuổi hơn đang quét sân trước cửa mình hỏi mở cửa rồi phải không chị , chị ấy vẫn im lặng tiếp tục quét như muốn quét vào mặt mình , 5p sau chị ấy ngẩn lên và bảo \" Qua để xe kế chiếc xe đạp \" trong khi bên đối diện có chiếc xe đạp của chỗ bán hủ tiếu gõ mình không biết chạy sang để chị ấy hét vào mặt mình bảo \" chiếc xe đạp bên này nè bên đó là của người ta \" , máu điên muốn dồn lên não rồi , nhìn mặt bán mà như mình đi xin ăn của chị ấy vậy , thôi lỡ chạy 1 quãng đường xa rồi cũng ráng vào ăn coi ngon lành gì không mà chảnh như vậy , mình là ng đầu tiên vào quán kéo ghế ra ngồi thì chị ấy bảo gì với cô bé nhỏ mình không nghe rõ và bé ấy chạy lại bảo mình ngồi lên thêm và giật 2 cái ghế đem cất qua bàn khác , thật là ấn tượng cộng thêm bánh tráng quá dở còn thua bánh tráng xe hàng rong đối diện bên kia công viên , không bao giờ mình quay lại 1 cái quán như thế này nữa !"
+        },
+        {
+            "user": "Tuấn Bảo",
+            "link": "https://www.foody.vn/thanh-vien/chocola_bi",
+            "score": "7.6",
+            "comment": "Bánh tráng đồng giá 5k/1 cái,  nhiều loại bánh tráng mà ngon nhất là kẹp trứng ốp la sau đó tới kẹp khô bò giòn, kẹp trứng mềm, pate giòn. Bánh kêu cái có liền thấy cô làm lẹ tay lắm, chiều chiều kiếm chỗ này ăn vặt vừa vui miệng vừa ít tiền. Sẽ quay lại nhiều lần ủng hộ hehe."
+        },
+        {
+            "user": "Xudi Xí Xọn",
+            "link": "https://www.foody.vn/thanh-vien/volequynh_nhu",
+            "score": "8.0",
+            "comment": "Mình là chuyên ăn ở quán này luôn, ăn no căng bụng mà lại chưa tới 80k, nhiều món lạ mà ngon lắm"
+        }
+    ]
+}

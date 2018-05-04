@@ -1,0 +1,206 @@
+{
+    "name": "Tư Thủy - Mì Hến - Tôn Thất Thuyết",
+    "link": "https://www.foody.vn/ho-chi-minh/tu-thuy-mi-hen",
+    "address": "91 Tôn Thất Thuyết,  Quận 4, TP. HCM",
+    "open_time": "08:30 AM - 09:00 PM",
+    "price_range": "10.000đ - 25.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/an-vat-via-he-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/tu-thuy-mi-hen?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Giá cả",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.5"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.0"
+        }
+    ],
+    "summary": {
+        "average_score": "6.8",
+        "total_review": "113"
+    },
+    "foods": [
+        {
+            "name": "Mì ốc hến",
+            "price": "25,000(đ)",
+            "total_orders": "1602"
+        },
+        {
+            "name": "Mì hến",
+            "price": "20,000(đ)",
+            "total_orders": "639"
+        },
+        {
+            "name": "Thập cẩm",
+            "price": "35,000(đ)",
+            "total_orders": "302"
+        },
+        {
+            "name": "Hến ốc",
+            "price": "20,000(đ)",
+            "total_orders": "255"
+        },
+        {
+            "name": "Hến",
+            "price": "15,000(đ)",
+            "total_orders": "176"
+        },
+        {
+            "name": "Mì thêm 1 vắt",
+            "price": "5,000(đ)",
+            "total_orders": "118"
+        },
+        {
+            "name": "Ốc",
+            "price": "20,000(đ)",
+            "total_orders": "101"
+        },
+        {
+            "name": "Bánh trứng",
+            "price": "20,000(đ)",
+            "total_orders": "74"
+        },
+        {
+            "name": "Bún ốc hến",
+            "price": "25,000(đ)",
+            "total_orders": "66"
+        },
+        {
+            "name": "Bánh tráng nướng",
+            "price": "7,000(đ)",
+            "total_orders": "63"
+        },
+        {
+            "name": "Hủ tiếu ốc hến",
+            "price": "25,000(đ)",
+            "total_orders": "50"
+        },
+        {
+            "name": "Mì ốc",
+            "price": "25,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Bắp xào",
+            "price": "15,000(đ)",
+            "total_orders": "41"
+        },
+        {
+            "name": "Hủ tiếu hến",
+            "price": "20,000(đ)",
+            "total_orders": "28"
+        },
+        {
+            "name": "Bún hến",
+            "price": "20,000(đ)",
+            "total_orders": "18"
+        },
+        {
+            "name": "Trà tắc",
+            "price": "5,000(đ)",
+            "total_orders": "342"
+        },
+        {
+            "name": "Dừa tắc",
+            "price": "10,000(đ)",
+            "total_orders": "311"
+        },
+        {
+            "name": "Trà đá",
+            "price": "2,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Sting",
+            "price": "12,000(đ)",
+            "total_orders": "4"
+        },
+        {
+            "name": "Nước suối",
+            "price": "7,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Coca cola",
+            "price": "10,000(đ)",
+            "total_orders": "2"
+        },
+        {
+            "name": "Pepsi",
+            "price": "10,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "0 độ",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Ô long",
+            "price": "12,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "7Up",
+            "price": "10,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Saimon Tobi",
+            "link": "https://www.foody.vn/thanh-vien/quocthai575159",
+            "score": "7.6",
+            "comment": "Quán hơi chật nhưng được cái giá mì rẻ mà ngon nữa, so với bên Dì Lan thì còn ngon hơn và nhiều đồ ăn hơn. Một tô thập cẩm giá 35k có ốc, bạch tuột, hến, chả, tôm. Phần nước dùng khá ngọt chứ ko chua và cay nhiều như bên Dì Lan, nhưng vẫn có để gia vị cho mình nêm nếm lại. Vị trí quán ngay mặt tiền nên cũng dễ tìm nữa. Đặc biệt là chỉ một tô là no lấp lự luôn."
+        },
+        {
+            "user": "@trakity 1518",
+            "link": "https://www.foody.vn/thanh-vien/p3_can15",
+            "score": "6.0",
+            "comment": "Tư thuỷ và dì lan là 2 tiệm mì ốc hến khá nổi tiếng ở Sài gòn. Mình ăn thử cả 2 quán và cảm nhận của bản thân là không hợp với món mì này.Mì ốc hến tư thuỷ giá cũng ngàn ngửa dì lan, từ 25-35k/ tô là no nức vách, mì dạng mì kí í. Mình chọn hủ tiếu ốc hến, ăn cũng lâu rồi, cùng 1 nồi nước với mì nên ăn sợi hủ tiếu hơi lạc quẻ. Mình thấy hủ tiếu trụng còn quá cứng luôn, được cái ốc hến nhiều. Mà nước dùng có vẻ khá ngọt vị bột ngọt nên mình không thích. Nhân viên nhanh. Không gian nhỏ thôi nên đến ăn lẹ rồi đứng dậy ah~"
+        },
+        {
+            "user": "Thảo My",
+            "link": "https://www.foody.vn/thanh-vien/01674858849",
+            "score": 0,
+            "comment": "Thấy cũng hot nên lân la đến thử. Cá nhân mình thấy cũng bình thường. Không gian nhỏ hẹp ko thoải máiPhục vụ cũng nhanh tạm được"
+        },
+        {
+            "user": "Huỳnh Xinh",
+            "link": "https://www.foody.vn/thanh-vien/xinh.huynh",
+            "score": "8.0",
+            "comment": "Quán này nổi tiếng khá lâu, lâu lâu mình vào ăn..quán khá đông khách, nhưng lên món khá nhanh..mình thích nhất thằng bé tính tiền, mới khoảng 12,13 tuổi mà tính tiền đúng nhanh, đúng chuẩn lun..hôm nay mh đổi vị ko ăn mì mà chuyển sang ăn bún ốc hến..nước lèo vị ngọt thanh, thêm nước me và ít ớt nữa là ok.."
+        },
+        {
+            "user": "Đạt Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/nguynt5492",
+            "score": "7.4",
+            "comment": "Cách đây 2 năm mì hến này nổi lắm, mình có ân thử thấy cay cay cũng ngon. Bữa trước ăn lại không còn ngon cho lắm."
+        }
+    ]
+}

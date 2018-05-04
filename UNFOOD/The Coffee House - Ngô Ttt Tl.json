@@ -1,0 +1,80 @@
+{
+    "name": "The Coffee House - Ngô Tất Tố",
+    "link": "https://www.foody.vn/ho-chi-minh/the-coffee-house-ngo-tat-to",
+    "address": "14B1 Ngô Tất Tố, P. 19,  Quận Bình Thạnh, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "29.000đ - 80.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/the-coffee-house?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.8"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.5"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.5"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        }
+    ],
+    "summary": {
+        "average_score": "7.7",
+        "total_review": "17"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Cà Phê Espresso",
+            "link": "https://www.foody.vn/thanh-vien/nha_nguyen1511",
+            "score": "8.0",
+            "comment": "Ahihi ghé chi nhánh bên này lần đầu mà thấy nhân viên dễ thương quá chừng hà.Cafe ở đây cũng ngon rồi khỏi bàn hé."
+        },
+        {
+            "user": "茶 武",
+            "link": "https://www.foody.vn/thanh-vien/xi.yangyang207",
+            "score": "10",
+            "comment": "Nhân viên cư xử rất tốt, mình có em bé đi cùng làm đổ vỡ ly nước, các bạn xử trí nhanh nhẹn, dọn dẹp xong lại mang một ly mới ra cho mình. Bánh và đồ uống của quán rất ngon, giá cả vừa phải, không mắc. Về sau sẽ ủng hộ The Coffee House dài dài!"
+        },
+        {
+            "user": "Han N",
+            "link": "https://www.foody.vn/thanh-vien/xuanhan411",
+            "score": "8.8",
+            "comment": "Mình nghĩ ngay tới cfh khi muốn tìm 1 góc riêng để ngồi và....khócBạn order đưa khăn giấy cho mình, bonus riêng cho mình bánh matcha và nói rằng: Tặng bạn bánh nè, ăn đi và đừng buồn nữa nhé. Chưa bao giờ mình thấy ấm áp như vậy. Cảm ơn riêng anh bạn và cảm ơn quán. Sth is Warming me up...."
+        },
+        {
+            "user": "Elise Nguyen",
+            "link": "https://www.foody.vn/thanh-vien/elisenguyen",
+            "score": "6.0",
+            "comment": "• Croissant : 25k• Caramel Macchiato ( hot ): 65knước ở đây pha ngon & bánh cũng ngon ko kém!! 😋😋"
+        },
+        {
+            "user": "Libra Vũ",
+            "link": "https://www.foody.vn/thanh-vien/nh0x_babygirl_20",
+            "score": "6.8",
+            "comment": "Hôm nay chị mình đi thi nên ghé vào đây uống.Không gian quán khá rộng rãi và yên tính rất thích hợp cho các bạn đến học bào và làm việc. Mình có ăn thử bánh ở đây cũng khá ổn và trang trí bánh khá đẹp, coffe ở đây hơi có vị hơi chua rất khác biệt với những nơi khác, đậm mùi riêng các bạn nên thử nhé. Giá ở đây khá ổn giao động từ 29-60k nhé. Ở đây bật nhạc vừa phải và rất hay nhé , lượng khách cũng rất đông nhưng không hề ồn ào đâu 🤗🤗🤗"
+        }
+    ]
+}

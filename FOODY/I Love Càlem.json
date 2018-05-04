@@ -1,0 +1,84 @@
+{
+    "name": "I Love Càlem",
+    "link": "https://www.foody.vn/ho-chi-minh/i-love-calem",
+    "address": "63 Thống Nhất ,  Quận Thủ Đức, TP. HCM",
+    "open_time": "07:00 AM - 10:00 PM",
+    "price_range": "12.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Ăn vặt/vỉa hè,",
+            "link": "https://www.foody.vn/ho-chi-minh/food/an-vat-via-he"
+        },
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/i-love-calem?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.3"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.2"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.1"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "6.7"
+        }
+    ],
+    "summary": {
+        "average_score": "7.2",
+        "total_review": "67"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Huong Chu",
+            "link": "https://www.foody.vn/thanh-vien/huong.info.hcm",
+            "score": 0,
+            "comment": "Thích ko gian ở quán, mat và nhìn ra ngoài, còn đồ ăn chưa thực sự ngôn và giá cả còn cao.hy vọng quan sẽ cải thiện."
+        },
+        {
+            "user": "Linh Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/snow.fox.nttl",
+            "score": "8.0",
+            "comment": "Tới đây cũng nhiều lần rồi, rất thích không gian của quán. Đồ uống cũng không phải rẻ nhưng được cái có đủ thể loại trò chơi, có bình nước kèm theo tha hồ ngồi lâu dài. Tối tối ngồi sát cửa kính trên lầu nhâm nhi nước chơi rút gỗ xả stress rất ok 😋😋😋"
+        },
+        {
+            "user": "Như Quỳnh",
+            "link": "https://www.foody.vn/thanh-vien/rubby2309",
+            "score": "8.0",
+            "comment": "Tối cn hai đứa đi ăn kem nè.kem ở đây vừa rẻ vừa ngon.ko gian thoải mái,có bảo vệ gửi xe luôn."
+        },
+        {
+            "user": "Mad Team",
+            "link": "https://www.foody.vn/thanh-vien/hunghunter23",
+            "score": "8.2",
+            "comment": "Đã đến đây 2lần, mỗi lần đến là có sự đổi mới từ không gian đến menu. - vị trí: nằm trên đường Thống Nhất, chú ý một xíu thì sẽ tìm thấy - không gian: hai lầu, cũng khá rộng rãi, bàn ghế cũng nhiều. Trang trí tạm ổn, chụp hình sống ảo cũng không đến nổi. =))- menu có kem và nước uống, kem ăn ngon, vừa miệng, nhưng giá hơi cao. Nước uống cũng nhiều loại, giá cũng cao, uống không có gì đặc biệt. - Nhân viên phục vụ vui vẻ, nhiệt tình."
+        },
+        {
+            "user": "Đoan Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/doanduc07081993",
+            "score": "7.4",
+            "comment": "Hôm nay quán khá là đông. Vô hơi trễ nên k có chỗ ngồi luôn. Kem ở đây hơi ngọt. Nhưng ngon. Rất thích. View ở đây đẹp , tha hồ mà tự sướng. Không gian rộng rãi thoải mái nói chuyện. Ko ai làm phiền. Nhân viên thì nhiệt tình. Đặc biệt phía trên lầu có cây đàn tha hồ so deep. Có các trò chơi rút gỗ , domino. Nói chung tới đây giải toả stress ok. :p"
+        }
+    ]
+}

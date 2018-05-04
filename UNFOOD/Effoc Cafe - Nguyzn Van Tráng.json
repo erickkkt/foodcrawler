@@ -1,0 +1,84 @@
+{
+    "name": "Effoc Cafe - Nguyễn Văn Tráng",
+    "link": "https://www.foody.vn/ho-chi-minh/effoc-cafe-nguyen-van-trang",
+    "address": "29 Nguyễn Văn Tráng, P. Bến Thành,  Quận 1, TP. HCM",
+    "open_time": "07:30 AM - 10:30 PM",
+    "price_range": "25.000đ - 43.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam,",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Ý",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-y"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/effoc-cafe-takeaway?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Chất lượng",
+            "score": "7.4"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.3"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.2"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.1"
+        },
+        {
+            "label": "Không gian",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.1",
+        "total_review": "130"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "An Tư",
+            "link": "https://www.foody.vn/thanh-vien/tranthixuananh.vaa",
+            "score": "9.2",
+            "comment": "Biết đến Effoc với thương hiệu Coffee take away tiên phong, là 1 young trendy maker. Cũng vui. Nhưng hơn hết là đồ uống ngon, kem ngon nhất trong các thương hiệu mình từng uống. Không gian quán thì thôi rồi. Có lần mình qua bên Nguyễn Văn Trỗi. Không gian và vị trí cực đẹp, ấm cúng nữa. Cực thích nhé <3"
+        },
+        {
+            "user": "Thiện Phạm",
+            "link": "https://www.foody.vn/thanh-vien/thien.pham1971",
+            "score": "8.0",
+            "comment": "Quán này mình bắt đầu uống từ thời còn là sinh viên luôn, tới giờ lâu rồi vẫn còn tụ tập bạn bè chỗ nà, nước uống chất lượng, nhân viên quá dễ thương đặc biệt là mình thích cái không gian quán yên tĩnh chỗ này. Có thể gặp bạn bè, có thể làm việc cũng được."
+        },
+        {
+            "user": "Alison Ly",
+            "link": "https://www.foody.vn/thanh-vien/alisonly1999",
+            "score": "7.2",
+            "comment": "Mình vs nhỏ bạn thường mua effoc mang đi ko à, hay đi mấy chi nhánh ở q10 , đây là lần đầu tới đây lun^^  +Không gian :hơi nhỏ ,trang trí cute lắm  +Phục vụ : nviên vui vẻ, tgian ngồi chờ nc cũg nhanh nữa  +Nc uốg :mình kêu choco caramel , uốg cũg đc lắm , kem thơm mùi caramel. Còn bạn mình kêu greentea đá xay , uốg ngon lắm lun, mùi greentea thơm quá trời lun ,uốg thử của nhỏ bạn xog mà mình ghiền lun^^Nói chung là sẽ tiếp tục ủg hộ nên có dịp ghé lại^^"
+        },
+        {
+            "user": "Trang Khánh",
+            "link": "https://www.foody.vn/thanh-vien/lucky_moon_19",
+            "score": 0,
+            "comment": "Vừa điện thoại đặt giao hàng bên chi nhánh Nguyễn Văn Tráng,lúc đầu nhân viên ok giao hàng trong phạm vi 3km với bill trên 100k,bên cty T cách đó khoảng 2,7km,bạn nhân viên nói là sợ tan đá (vì T gọi đá xay), T cũng ok luôn. Sau đó chọn món,khoảng 5 phút sau gọi lại để order thì bạn nhân viên nói là bên đó đang mưa.T hỏi vậy mưa là có giao hàng không, bạn đó trả lời tỉnh bơ \"mưa em đi bị ướt sao\" thiệt cạn lời luôn. nếu vậy trời mưa quán đóng cửa nghỉ bán luôn nha."
+        },
+        {
+            "user": "tường vy",
+            "link": "https://www.foody.vn/thanh-vien/tuongvy.tran",
+            "score": "7.0",
+            "comment": "Effoc thì mình hay uống đá xay rất ngon nhé 😘 giá cả hợp lí và không gian đẹp. Sáng thì phù hợp cho những bạn nào thích yên tĩnh để học tập hoặc làm việc nhé còn ban đêm các bạn trẻ tụ tập lại hơi đông nên có phần ồn ào đông đúc"
+        }
+    ]
+}

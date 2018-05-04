@@ -1,0 +1,80 @@
+{
+    "name": "Hot & Cold - Trà Sữa & Xiên Que - Lê Văn Việt",
+    "link": "https://www.foody.vn/ho-chi-minh/hot-cold-tra-sua-xien-que",
+    "address": "412/1 Lê Văn Việt, P. Tăng Nhơn Phú A,  Quận 9, TP. HCM",
+    "open_time": "08:30 AM - 10:00 PM",
+    "price_range": "17.000đ - 30.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        },
+        {
+            "category": "Chi nhánh",
+            "link": "https://www.foody.vn/thuong-hieu/hot-cold?c=ho-chi-minh"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.3"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "8.2"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.9"
+        },
+        {
+            "label": "Giá cả",
+            "score": "7.8"
+        },
+        {
+            "label": "Vị trí",
+            "score": "7.6"
+        }
+    ],
+    "summary": {
+        "average_score": "8.0",
+        "total_review": "57"
+    },
+    "foods": [],
+    "user_comments": [
+        {
+            "user": "Công Sơn",
+            "link": "https://www.foody.vn/thanh-vien/forever23244",
+            "score": "9.4",
+            "comment": "Nay đi chơi ghé vô Hot & Cold Lê Văn Việt uống trà sữaKhông gian quán rất đẹp màu sắc bắt mắt, nhân viên phục vụ chu đáo thân thiện nhất là cái bạn nữ mũm mĩm dễ thươngCòn ly trà sữa này thì tuyệt cú mèo"
+        },
+        {
+            "user": "Triển Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/trinnguyn2798",
+            "score": "9.6",
+            "comment": "Hôm nay mình ghé hc lvv uốn nước các bạn nhân viên phucn vụ nhiệt tình vv với khách cn làm rất mêtn và đôg khách nhưng thái độ of các bạn niềm nở với khách mình rất thích"
+        },
+        {
+            "user": "Mập zt",
+            "link": "https://www.foody.vn/thanh-vien/0925728908",
+            "score": "9.8",
+            "comment": "Hôm qua đi chơi ghé vô hot&cold lê văn việt mua nước ún nhân viên thì phục vụ nhiệt tình vui vẻ nước ún thỳ ngon khỏi phải bàn Sẽ ghé hot&cold le văn việt nhiều"
+        },
+        {
+            "user": "Anh Tuấn Nguyễn",
+            "link": "https://www.foody.vn/thanh-vien/anhtunnguyn6389",
+            "score": "9.4",
+            "comment": "Hôm qua ghé H&C LVV vui quá chời.. 😂😂Không gian quán thoáng mát này, nhân viên cũng toẹt vời 😁😁Nếu có cơ hội sẽ ghé lại nữa.. ❤"
+        },
+        {
+            "user": "long  iut",
+            "link": "https://www.foody.vn/thanh-vien/tranbaoanhno18",
+            "score": "7.8",
+            "comment": "Tôi hay dùng sản phẩm trà sữa đậm không béo kết hợp với mùi bạc hà the the rất tuyệt. Hôm qua gió, có mua thêm chai hoco nhỏ nhỏ xinh xinh, cho em lên sóng nà"
+        }
+    ]
+}

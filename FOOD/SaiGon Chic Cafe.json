@@ -1,0 +1,442 @@
+{
+    "name": "SaiGon Chic Cafe",
+    "link": "https://www.foody.vn/ho-chi-minh/saigon-chic-cafe",
+    "address": "82 Đường Số 27, P. 6,  Quận Gò Vấp, TP. HCM",
+    "open_time": "08:00 AM - 11:00 PM",
+    "price_range": "25.000đ - 55.000đ",
+    "category": [
+        {
+            "category": "Café/Dessert",
+            "link": "https://www.foody.vn/ho-chi-minh/food/cafe"
+        },
+        {
+            "category": "Việt Nam",
+            "link": "https://www.foody.vn/ho-chi-minh/cafe-phong-cach-viet-nam"
+        }
+    ],
+    "values": [
+        {
+            "label": "Không gian",
+            "score": "8.5"
+        },
+        {
+            "label": "Phục vụ",
+            "score": "7.6"
+        },
+        {
+            "label": "Chất lượng",
+            "score": "7.1"
+        },
+        {
+            "label": "Vị trí",
+            "score": "6.7"
+        },
+        {
+            "label": "Giá cả",
+            "score": "6.5"
+        }
+    ],
+    "summary": {
+        "average_score": "7.3",
+        "total_review": "100"
+    },
+    "foods": [
+        {
+            "name": "Nước chanh",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép quýt",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước dâu tằm",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép dưa hấu",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cóc",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép táo",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép bưởi",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép ổi",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cà chua",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép thơm",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cà rốt",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Nước ép cam",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ - hạt dẻ, điều, hạnh nhân",
+            "price": "52,000(đ)",
+            "total_orders": "3"
+        },
+        {
+            "name": "Sinh tố sapoche - cà phê",
+            "price": "42,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sinh tố dâu + chuối",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Sinh tố dâu",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố bơ - trà xanh",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố xoài - dừa",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố xoài - chanh dây",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sinh tố ổi xá lị - đào",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đá xay với đào",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đá xay với phúc bồn tử",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đá xay với việt quất",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đá xay với dâu",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa chua đá xay với xoài",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trái cây dầm sữa chua",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đen đặc trưng của Ý (cold)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Sữa tươi",
+            "price": "35,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cacao (cold)",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê Espresso kiểu Mĩ (cold)",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso với sữa tươi & caramel (cold)",
+            "price": "56,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso với sữa tươi & socola (cold)",
+            "price": "56,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso với sữa tươi & ván sữa (cold)",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Espresso với sữa tươi & bọt sữa (cold)",
+            "price": "52,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa đá + baley",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê sữa đá",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đen đá",
+            "price": "28,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà xanh đá xay",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đá xay + bánh cookies",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đá xay",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đá xay với caramel",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đá xay với socola",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Cà phê đá xay với baley",
+            "price": "55,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị chanh, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị xoài, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị dâu, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị việt quất, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị phúc bồn tử, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Mojito không cồn vị đào, bạc hà",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hương cherry",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hương quế",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hướng táo xanh",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hương nho đen",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hướng bạc hà",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Soda Ý hương Blue curacao",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Đào và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Caramel và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Vani và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Quế và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Bạc hà và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Socola và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Dâu và sữa tươi lắc đều với đá",
+            "price": "45,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà đào",
+            "price": "42,000(đ)",
+            "total_orders": "1"
+        },
+        {
+            "name": "Trà hoa cúc",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà buổi sáng Anh Quốc",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà bá tước Anh Quốc",
+            "price": "32,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Thái xay với sữa và đá",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà Thái với sữa",
+            "price": "42,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà lipton nhãn vàng",
+            "price": "38,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Trà xanh matcha",
+            "price": "48,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Aquafina",
+            "price": "20,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Coca",
+            "price": "25,000(đ)",
+            "total_orders": "0"
+        },
+        {
+            "name": "Diet coca",
+            "price": "30,000(đ)",
+            "total_orders": "0"
+        }
+    ],
+    "user_comments": [
+        {
+            "user": "Muối Tiêu Chanh",
+            "link": "https://www.foody.vn/thanh-vien/lethuykt2708",
+            "score": 0,
+            "comment": "Quán có khu ngoài ban công view đẹp,giá nước cũng ổn có điều hơi nóng."
+        },
+        {
+            "user": "Linh Ngo",
+            "link": "https://www.foody.vn/thanh-vien/bocong_anh33",
+            "score": 0,
+            "comment": "Quan này view bên ngoài nhin đẹp zz nhưng mà quán nóng quá ..Thấy khách nóng mà nhân viên ko mở thêm quạt.Nước uống ..đồ ăn ngon .."
+        },
+        {
+            "user": "Ngọc Châu Trương",
+            "link": "https://www.foody.vn/thanh-vien/alone_forever_nda",
+            "score": 0,
+            "comment": "📍 Vị trí: cũng khá dễ tìm, đối diện xéo cái chợ An Nhơn có cái hẻm là đường số 27, chạy thẳng sâu vào quán phía bên tay phải.📷  Không gian: hơi nóng, view chụp sống ảo có lẽ ban ngày thấy cái hồ bơi sẽ đẹp hơn; ban đêm chỉ toàn đèn vs đèn thôi.👫 Nhân viên: phục vụ thì nhiệt tình, mình bảo nóng là quay quạt qua cho mình, có mấy chú bảo vệ giữ xe hơi thờ ơ với khách, mình ra lấy xe tự dắt luôn chớ 😒💰 Giá cả: giá hơi cao so với khu vực qui mô quán. Chất lưỡng cũng không tương xứng với giá tiền.📘 Menu: các loại sinh tố kết hợp thấy khá hấp dẫn nè, mà chưa thử hehe. Có vài món mặn nữa.☞ Mình đi hồi tết mà giờ mới nhớ sót chỗ này chưa rìviu- Raspberry Mojito: 👎 món này dở, không có vị gì cả, pha nhạt nhẽo lợ lợ sao á, bạn mình bỏ nguyên ly- Jasmine Milktea: vớt vát được chút, thơm mùi jasmine, nhưng mà vẫn không gọi là ngon.(Nhìn chung không mấy ấn tượng với thức uống nơi đây)💌 Không được đem đồ ăn bên ngoài vào, chụp hình máy cơ là có phụ thu."
+        },
+        {
+            "user": "Bảo Thúy",
+            "link": "https://www.foody.vn/thanh-vien/begadidong299",
+            "score": 0,
+            "comment": "Vị trí: Khá khó tìm , nằm trong hẻmKhông gian : Quán đẹp , yên tĩnh , có đàn piano và hồ bơiGiá cả : khá mềm 1 li nước tầm 35k trở lênThái độ của các bạn nhân viên rất là ok nhé ! Có thể chụp hình thoải mái bằng điện thoại nhưng hình như cầm máy ảnh vào sẽ bị tính phí chụp gì đó. Mình không nhớ rõ. 😅 Chất lượng đồ uống : Tạm ổn không có gì đặc sắcBảo vệ và giữ xe rất nhiệt tình thấy nắng quá là dẫn xe giúp ngay 👍🏻"
+        },
+        {
+            "user": "Minh Ôn",
+            "link": "https://www.foody.vn/thanh-vien/nowirch",
+            "score": "7.0",
+            "comment": "Quán này cổng vào hơi hẹp nên dễ bị đi lố, quán nằm kế bên 1 tiệm thuộc tây và đối diện là chỗ rửa xe.Quán lên hình rất lung linh nhưng khi tới quán thì mình thấy quán hơi nhỏ, không như tưởng tượng của mình nhưng cũng không đến nỗi thất vọng quá. Nước thì bình thường, giá cả cũng phải chăng, mình đi vào buổi trưa nên quán vắng rất dễ chịu. Cây nhiều và nhìn rất mướt mắt.Nhân viên hình như toàn nam, các bạn không quá thân thiện nhưng cũng bình thường.Có điều lúc mình tới hình như là sau 1 ngày có tiệc nên đồ còn để tùm lum nhìn không được gọn gàng lắm"
+        }
+    ]
+}
